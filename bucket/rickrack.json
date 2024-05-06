@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/eigenmiao/Rickrack/releases/download/v2.9.10/Rickrack_v2.9.10_en_windows_AMD64.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/eigenmiao/Rickrack/releases/download/v2.9.10/Rickrack_v2.9.10_en_windows_AMD64.exe#/dl.7z",
       "hash": "1c333e14e0c061d084d7b9f4838f26b7ee511dae49ecd09544cc4f8546ce1494"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/eigenmiao/Rickrack/releases/download/v$version/Rickrack_v$version_en_windows_AMD64.exe#/dl.7z"
+        "url": "https://ghproxy.085404.xyz/https://github.com/eigenmiao/Rickrack/releases/download/v$version/Rickrack_v$version_en_windows_AMD64.exe#/dl.7z"
       }
     }
   }

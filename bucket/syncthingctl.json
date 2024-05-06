@@ -8,11 +8,11 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/Martchus/syncthingtray/releases/download/v1.5.2/syncthingctl-1.5.2-x86_64-w64-mingw32.exe.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/Martchus/syncthingtray/releases/download/v1.5.2/syncthingctl-1.5.2-x86_64-w64-mingw32.exe.zip",
       "hash": "d1146ee16fdbead8288414a125ca373e9cb68cb3604f89a42e8f2a3c1d93ddbc"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/Martchus/syncthingtray/releases/download/v1.5.2/syncthingctl-1.5.2-i686-w64-mingw32.exe.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/Martchus/syncthingtray/releases/download/v1.5.2/syncthingctl-1.5.2-i686-w64-mingw32.exe.zip",
       "hash": "e6fd07be575202b8c2022e7504c3746608b741e2e548a5be0866e57f4b89079d"
     }
   },
@@ -22,10 +22,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/Martchus/syncthingtray/releases/download/v$version/syncthingctl-$version-x86_64-w64-mingw32.exe.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/Martchus/syncthingtray/releases/download/v$version/syncthingctl-$version-x86_64-w64-mingw32.exe.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/Martchus/syncthingtray/releases/download/v$version/syncthingctl-$version-i686-w64-mingw32.exe.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/Martchus/syncthingtray/releases/download/v$version/syncthingctl-$version-i686-w64-mingw32.exe.zip"
       }
     }
   }

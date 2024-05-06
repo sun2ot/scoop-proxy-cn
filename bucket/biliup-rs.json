@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ForgQi/biliup-rs/releases/download/v0.1.21/biliupR-v0.1.21-x86_64-windows.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ForgQi/biliup-rs/releases/download/v0.1.21/biliupR-v0.1.21-x86_64-windows.zip",
       "hash": "e80379527166910b694a558ffebed4e398302c8b7e59880bc963bcdbb0944167",
       "extract_dir": "biliupR-v0.1.21-x86_64-windows"
     }
@@ -15,7 +15,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ForgQi/biliup-rs/releases/download/v$version/biliupR-v$version-x86_64-windows.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/ForgQi/biliup-rs/releases/download/v$version/biliupR-v$version-x86_64-windows.zip",
         "extract_dir": "biliupR-v$version-x86_64-windows"
       }
     }

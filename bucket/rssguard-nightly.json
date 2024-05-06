@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/martinrotter/rssguard/releases/download/devbuild/rssguard-devbuild-48731fb0e-win10.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/martinrotter/rssguard/releases/download/devbuild/rssguard-devbuild-48731fb0e-win10.7z",
       "hash": "bb8ee2c7e841c2826229283b49ea58d66e7773bcdb525755b030c09b2816206e"
     }
   },
@@ -25,7 +25,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/martinrotter/rssguard/releases/download/devbuild/rssguard-$matchMajor-$matchCommit-win10.7z"
+        "url": "https://ghproxy.085404.xyz/https://github.com/martinrotter/rssguard/releases/download/devbuild/rssguard-$matchMajor-$matchCommit-win10.7z"
       }
     }
   }

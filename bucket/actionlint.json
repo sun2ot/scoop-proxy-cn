@@ -5,15 +5,15 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/rhysd/actionlint/releases/download/v1.6.27/actionlint_1.6.27_windows_amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/rhysd/actionlint/releases/download/v1.6.27/actionlint_1.6.27_windows_amd64.zip",
       "hash": "2040aeb2530a80abbb923493f6947443203b7e60e829cb7bad1c8cde1483c376"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/rhysd/actionlint/releases/download/v1.6.27/actionlint_1.6.27_windows_386.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/rhysd/actionlint/releases/download/v1.6.27/actionlint_1.6.27_windows_386.zip",
       "hash": "7facf88b0d47a736b9f17790ee1b1d7c6a626a5130d168d74d5f7759573f0d19"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/rhysd/actionlint/releases/download/v1.6.27/actionlint_1.6.27_windows_arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/rhysd/actionlint/releases/download/v1.6.27/actionlint_1.6.27_windows_arm64.zip",
       "hash": "bc082f32a036a86dad364bc46e2d707c4da5615598e2d50da2cb840cff97731d"
     }
   },
@@ -22,13 +22,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/rhysd/actionlint/releases/download/v$version/actionlint_$version_windows_amd64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/rhysd/actionlint/releases/download/v$version/actionlint_$version_windows_amd64.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/rhysd/actionlint/releases/download/v$version/actionlint_$version_windows_386.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/rhysd/actionlint/releases/download/v$version/actionlint_$version_windows_386.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/rhysd/actionlint/releases/download/v$version/actionlint_$version_windows_arm64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/rhysd/actionlint/releases/download/v$version/actionlint_$version_windows_arm64.zip"
       }
     },
     "hash": {

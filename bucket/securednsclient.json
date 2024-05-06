@@ -6,7 +6,7 @@
   "notes": "",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/msasanmh/SecureDNSClient/releases/download/v3.0.0/SecureDNSClientPortable_v3.0.0_x64.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/msasanmh/SecureDNSClient/releases/download/v3.0.0/SecureDNSClientPortable_v3.0.0_x64.7z",
       "hash": "b005bf545225a38313183b290fc3f704ce19218cbd99d201742d2c6f59435fe3"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/msasanmh/SecureDNSClient/releases/download/v$version/SecureDNSClientPortable_v$version_x64.7z"
+        "url": "https://ghproxy.085404.xyz/https://github.com/msasanmh/SecureDNSClient/releases/download/v$version/SecureDNSClientPortable_v$version_x64.7z"
       }
     }
   },

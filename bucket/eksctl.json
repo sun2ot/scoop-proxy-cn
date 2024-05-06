@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/weaveworks/eksctl/releases/download/v0.176.0/eksctl_Windows_amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/weaveworks/eksctl/releases/download/v0.176.0/eksctl_Windows_amd64.zip",
       "hash": "22fe17f33d147fe7c0f00f70fc6a9baefbcc9b8e0914a015c86cba47a771619d"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/weaveworks/eksctl/releases/download/v0.176.0/eksctl_Windows_arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/weaveworks/eksctl/releases/download/v0.176.0/eksctl_Windows_arm64.zip",
       "hash": "f3d61032bdbb628bd884f7ef8c27361ce8357a0709f2c3b5ae83e609b2ba46ed"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/weaveworks/eksctl/releases/download/v$version/eksctl_Windows_amd64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/weaveworks/eksctl/releases/download/v$version/eksctl_Windows_amd64.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/weaveworks/eksctl/releases/download/v$version/eksctl_Windows_arm64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/weaveworks/eksctl/releases/download/v$version/eksctl_Windows_arm64.zip"
       }
     },
     "hash": {

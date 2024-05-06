@@ -5,17 +5,17 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/golangci/golangci-lint/releases/download/v1.58.0/golangci-lint-1.58.0-windows-amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/golangci/golangci-lint/releases/download/v1.58.0/golangci-lint-1.58.0-windows-amd64.zip",
       "hash": "245e9bc6f4878414ed0e4cc53cb94bd441cf0be7e18cbf84d409cc9ac61ab901",
       "extract_dir": "golangci-lint-1.58.0-windows-amd64"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/golangci/golangci-lint/releases/download/v1.58.0/golangci-lint-1.58.0-windows-386.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/golangci/golangci-lint/releases/download/v1.58.0/golangci-lint-1.58.0-windows-386.zip",
       "hash": "9435d7f9bb9ba58df008bc16002f5b91cf0322c0b1f3cf3bc9bf8a682a56d3a5",
       "extract_dir": "golangci-lint-1.58.0-windows-386"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/golangci/golangci-lint/releases/download/v1.58.0/golangci-lint-1.58.0-windows-arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/golangci/golangci-lint/releases/download/v1.58.0/golangci-lint-1.58.0-windows-arm64.zip",
       "hash": "5f629a5d0fb6f9a1abcfde89ce1eaa8cd69f79f51b0a14a6a8b6aa1d9236f755",
       "extract_dir": "golangci-lint-1.58.0-windows-arm64"
     }
@@ -27,15 +27,15 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/golangci/golangci-lint/releases/download/v$version/golangci-lint-$version-windows-amd64.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/golangci/golangci-lint/releases/download/v$version/golangci-lint-$version-windows-amd64.zip",
         "extract_dir": "golangci-lint-$version-windows-amd64"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/golangci/golangci-lint/releases/download/v$version/golangci-lint-$version-windows-386.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/golangci/golangci-lint/releases/download/v$version/golangci-lint-$version-windows-386.zip",
         "extract_dir": "golangci-lint-$version-windows-386"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/golangci/golangci-lint/releases/download/v$version/golangci-lint-$version-windows-arm64.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/golangci/golangci-lint/releases/download/v$version/golangci-lint-$version-windows-arm64.zip",
         "extract_dir": "golangci-lint-$version-windows-arm64"
       }
     },

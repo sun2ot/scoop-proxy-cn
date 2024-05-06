@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/phrase/phrase-cli/releases/download/2.27.0/phrase_windows_amd64.exe#/phrase.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/phrase/phrase-cli/releases/download/2.27.0/phrase_windows_amd64.exe#/phrase.exe",
       "hash": "d7c48425cea1c33f9bf22750e8bd9f69680fe209f492afc38e12b74a9ba07c84"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/phrase/phrase-cli/releases/download/2.27.0/phrase_windows_386.exe#/phrase.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/phrase/phrase-cli/releases/download/2.27.0/phrase_windows_386.exe#/phrase.exe",
       "hash": "8b528e8a5b88282d455e9b100e87de3d3434dad704cccb6082d3e3c633f39c3b"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/phrase/phrase-cli/releases/download/$version/phrase_windows_amd64.exe#/phrase.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/phrase/phrase-cli/releases/download/$version/phrase_windows_amd64.exe#/phrase.exe"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/phrase/phrase-cli/releases/download/$version/phrase_windows_386.exe#/phrase.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/phrase/phrase-cli/releases/download/$version/phrase_windows_386.exe#/phrase.exe"
       }
     }
   }

@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/alexellis/run-job/releases/download/0.1.2/run-job.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/alexellis/run-job/releases/download/0.1.2/run-job.exe",
       "hash": "c90628d2036c64703056d202ad3b77766b865607209daba0e74f2170039a673b"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/alexellis/run-job/releases/download/$version/run-job.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/alexellis/run-job/releases/download/$version/run-job.exe"
       }
     },
     "hash": {

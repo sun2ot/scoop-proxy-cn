@@ -32,7 +32,7 @@
     },
     "extract_dir": "PFiles64\\Metatogger $majorVersion.$minorVersion",
     "hash": {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/microsoft/winget-pkgs/master/manifests/s/SylvainRougeaux/Metatogger/$version/SylvainRougeaux.Metatogger.installer.yaml",
+      "url": "https://ghproxy.085404.xyz/https://raw.githubusercontent.com/microsoft/winget-pkgs/master/manifests/s/SylvainRougeaux/Metatogger/$version/SylvainRougeaux.Metatogger.installer.yaml",
       "regex": "InstallerSha256: $sha256"
     }
   }

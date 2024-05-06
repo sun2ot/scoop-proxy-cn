@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/redpanda-data/redpanda/releases/download/v23.3.14/rpk-windows-amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/redpanda-data/redpanda/releases/download/v23.3.14/rpk-windows-amd64.zip",
       "hash": "061e1ae1aa3604e9e31e9299831ff3c15280bf56d1365fad7dd181c5403a3230"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/redpanda-data/redpanda/releases/download/v23.3.14/rpk-windows-arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/redpanda-data/redpanda/releases/download/v23.3.14/rpk-windows-arm64.zip",
       "hash": "d09f8b55896b263f195a0fcb9e0915140f2a57bd23c43a2f16d8929367c3d767"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/redpanda-data/redpanda/releases/download/v$version/rpk-windows-amd64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/redpanda-data/redpanda/releases/download/v$version/rpk-windows-amd64.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/redpanda-data/redpanda/releases/download/v$version/rpk-windows-arm64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/redpanda-data/redpanda/releases/download/v$version/rpk-windows-arm64.zip"
       }
     },
     "hash": {

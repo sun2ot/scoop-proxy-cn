@@ -10,7 +10,7 @@
       "java/openjdk"
     ]
   },
-  "url": "https://mirror.ghproxy.com/https://github.com/qi4L/JYso/releases/download/v1.2.9/JYso-1.2.9.jar",
+  "url": "https://ghproxy.085404.xyz/https://github.com/qi4L/JYso/releases/download/v1.2.9/JYso-1.2.9.jar",
   "hash": "a019111fd0b62058f3bfe5fd7671cb5d25c488867670faac9a808f76b43476db",
   "pre_install": [
     "Set-Content \"$dir\\jyso.bat\" '@pushd %~dp0",
@@ -20,6 +20,6 @@
   "bin": "jyso.bat",
   "checkver": "github",
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/qi4L/JYso/releases/download/v$version/JYso-$version.jar"
+    "url": "https://ghproxy.085404.xyz/https://github.com/qi4L/JYso/releases/download/v$version/JYso-$version.jar"
   }
 }

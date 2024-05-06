@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/jotaen/klog/releases/download/v6.3/klog-windows.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/jotaen/klog/releases/download/v6.3/klog-windows.zip",
       "hash": "b70a52e212fcf6cab89dc0c103338e080aa7830a6671b2df321f8f01840e94b4"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/jotaen/klog/releases/download/v$version/klog-windows.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/jotaen/klog/releases/download/v$version/klog-windows.zip"
       }
     }
   }

@@ -5,17 +5,17 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/GopeedLab/gopeed/releases/download/v1.5.6/gopeed-web-v1.5.6-windows-amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/GopeedLab/gopeed/releases/download/v1.5.6/gopeed-web-v1.5.6-windows-amd64.zip",
       "hash": "348349f5cc086e34c9707fbc501e3951c3b127ab24e72b69f05c3bde315e930e",
       "extract_dir": "gopeed-web-v1.5.6-windows-amd64"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/GopeedLab/gopeed/releases/download/v1.5.6/gopeed-web-v1.5.6-windows-386.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/GopeedLab/gopeed/releases/download/v1.5.6/gopeed-web-v1.5.6-windows-386.zip",
       "hash": "d741e274ff31c1853b5e385f4582117c25974f29cdd33ce547f5ff7cd873a376",
       "extract_dir": "gopeed-web-v1.5.6-windows-386"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/GopeedLab/gopeed/releases/download/v1.5.6/gopeed-web-v1.5.6-windows-arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/GopeedLab/gopeed/releases/download/v1.5.6/gopeed-web-v1.5.6-windows-arm64.zip",
       "hash": "05ed981bde88bdd560f074d55b3f4bdb336e70665928f7c6c69795c366f47c88",
       "extract_dir": "gopeed-web-v1.5.6-windows-arm64"
     }
@@ -35,15 +35,15 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/GopeedLab/gopeed/releases/download/v$version/gopeed-web-v$version-windows-amd64.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/GopeedLab/gopeed/releases/download/v$version/gopeed-web-v$version-windows-amd64.zip",
         "extract_dir": "gopeed-web-v$version-windows-amd64"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/GopeedLab/gopeed/releases/download/v$version/gopeed-web-v$version-windows-386.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/GopeedLab/gopeed/releases/download/v$version/gopeed-web-v$version-windows-386.zip",
         "extract_dir": "gopeed-web-v$version-windows-386"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/GopeedLab/gopeed/releases/download/v$version/gopeed-web-v$version-windows-arm64.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/GopeedLab/gopeed/releases/download/v$version/gopeed-web-v$version-windows-arm64.zip",
         "extract_dir": "gopeed-web-v$version-windows-arm64"
       }
     }

@@ -7,8 +7,8 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://mirror.ghproxy.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.26.1/themes.zip",
-        "https://mirror.ghproxy.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.26.1/posh-windows-amd64.exe#/oh-my-posh.exe"
+        "https://ghproxy.085404.xyz/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.26.1/themes.zip",
+        "https://ghproxy.085404.xyz/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.26.1/posh-windows-amd64.exe#/oh-my-posh.exe"
       ],
       "hash": [
         "34fd38a76f7de30c12c9ae52db15d97fc7e6d25d55988fb78bf73286bd5ce15c",
@@ -17,8 +17,8 @@
     },
     "32bit": {
       "url": [
-        "https://mirror.ghproxy.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.26.1/themes.zip",
-        "https://mirror.ghproxy.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.26.1/posh-windows-386.exe#/oh-my-posh.exe"
+        "https://ghproxy.085404.xyz/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.26.1/themes.zip",
+        "https://ghproxy.085404.xyz/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.26.1/posh-windows-386.exe#/oh-my-posh.exe"
       ],
       "hash": [
         "34fd38a76f7de30c12c9ae52db15d97fc7e6d25d55988fb78bf73286bd5ce15c",
@@ -27,8 +27,8 @@
     },
     "arm64": {
       "url": [
-        "https://mirror.ghproxy.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.26.1/themes.zip",
-        "https://mirror.ghproxy.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.26.1/posh-windows-arm64.exe#/oh-my-posh.exe"
+        "https://ghproxy.085404.xyz/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.26.1/themes.zip",
+        "https://ghproxy.085404.xyz/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v19.26.1/posh-windows-arm64.exe#/oh-my-posh.exe"
       ],
       "hash": [
         "34fd38a76f7de30c12c9ae52db15d97fc7e6d25d55988fb78bf73286bd5ce15c",
@@ -48,20 +48,20 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://mirror.ghproxy.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
-          "https://mirror.ghproxy.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-amd64.exe#/oh-my-posh.exe"
+          "https://ghproxy.085404.xyz/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
+          "https://ghproxy.085404.xyz/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-amd64.exe#/oh-my-posh.exe"
         ]
       },
       "32bit": {
         "url": [
-          "https://mirror.ghproxy.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
-          "https://mirror.ghproxy.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-386.exe#/oh-my-posh.exe"
+          "https://ghproxy.085404.xyz/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
+          "https://ghproxy.085404.xyz/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-386.exe#/oh-my-posh.exe"
         ]
       },
       "arm64": {
         "url": [
-          "https://mirror.ghproxy.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
-          "https://mirror.ghproxy.com/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-arm64.exe#/oh-my-posh.exe"
+          "https://ghproxy.085404.xyz/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
+          "https://ghproxy.085404.xyz/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-arm64.exe#/oh-my-posh.exe"
         ]
       }
     },

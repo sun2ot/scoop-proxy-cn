@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/Kong/insomnia/releases/download/lib@9.1.0/inso-windows-9.1.0.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/Kong/insomnia/releases/download/lib@9.1.0/inso-windows-9.1.0.zip",
       "hash": "78f6b543a7688eb968c49496c390d69025c6b3dcf73cca83f7a173c6e25478d7"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/Kong/insomnia/releases/download/lib@$version/inso-windows-$version.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/Kong/insomnia/releases/download/lib@$version/inso-windows-$version.zip"
       }
     }
   }

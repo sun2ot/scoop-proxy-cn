@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/konveyor/move2kube/releases/download/v0.3.13/move2kube-v0.3.13-windows-amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/konveyor/move2kube/releases/download/v0.3.13/move2kube-v0.3.13-windows-amd64.zip",
       "hash": "9a7dc6c3bbe720a99564fc09061995d5882ff49382e6a7fa0672dc9afeee6b8f"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/konveyor/move2kube/releases/download/v$version/move2kube-v$version-windows-amd64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/konveyor/move2kube/releases/download/v$version/move2kube-v$version-windows-amd64.zip"
       }
     },
     "hash": {

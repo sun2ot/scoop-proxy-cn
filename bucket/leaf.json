@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/eycorsican/leaf/releases/download/v0.10.10/leaf-x86_64-pc-windows-gnu.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/eycorsican/leaf/releases/download/v0.10.10/leaf-x86_64-pc-windows-gnu.zip",
       "hash": "8a2c20080cf89ba051ab27bfdb7b4881feebe17a4943e17e9a310d561d96bca0"
     }
   },
@@ -15,7 +15,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/eycorsican/leaf/releases/download/v$version/leaf-x86_64-pc-windows-gnu.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/eycorsican/leaf/releases/download/v$version/leaf-x86_64-pc-windows-gnu.zip"
       }
     }
   }

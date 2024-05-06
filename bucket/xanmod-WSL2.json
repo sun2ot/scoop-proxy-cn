@@ -30,7 +30,7 @@
     "$null = $ini::WritePrivateProfileString(\"wsl2\", \"kernel\", $null, \"$env:USERPROFILE\\.wslconfig\")"
   ],
   "version": "6.8.8-1.1",
-  "url": "https://mirror.ghproxy.com/https://github.com/Locietta/xanmod-kernel-WSL2/releases/download/6.8.8-locietta-WSL2-xanmod1.1/bzImage",
+  "url": "https://ghproxy.085404.xyz/https://github.com/Locietta/xanmod-kernel-WSL2/releases/download/6.8.8-locietta-WSL2-xanmod1.1/bzImage",
   "hash": "9ae1395dd9b0a69c6802b57a370ff9070fe1cb60126cf674a4c7452f7dfda822",
   "checkver": {
     "script": [
@@ -41,9 +41,9 @@
     "replace": "${1}-${2}"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/Locietta/xanmod-kernel-WSL2/releases/download/$matchMain-locietta-WSL2-xanmod$matchXanmod/bzImage",
+    "url": "https://ghproxy.085404.xyz/https://github.com/Locietta/xanmod-kernel-WSL2/releases/download/$matchMain-locietta-WSL2-xanmod$matchXanmod/bzImage",
     "hash": {
-      "url": "https://mirror.ghproxy.com/https://github.com/Locietta/xanmod-kernel-WSL2/releases/download/$matchMain-locietta-WSL2-xanmod$matchXanmod/bzImage.sha256"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Locietta/xanmod-kernel-WSL2/releases/download/$matchMain-locietta-WSL2-xanmod$matchXanmod/bzImage.sha256"
     }
   }
 }

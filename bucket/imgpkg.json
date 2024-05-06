@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/vmware-tanzu/carvel-imgpkg/releases/download/v0.42.1/imgpkg-windows-amd64.exe#/imgpkg.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/vmware-tanzu/carvel-imgpkg/releases/download/v0.42.1/imgpkg-windows-amd64.exe#/imgpkg.exe",
       "hash": "de1816b01fcc1d602013b4b851975a46b6544ae45c001f0c2d15e1c2d4ebc420"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/vmware-tanzu/carvel-imgpkg/releases/download/v$version/imgpkg-windows-amd64.exe#/imgpkg.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/vmware-tanzu/carvel-imgpkg/releases/download/v$version/imgpkg-windows-amd64.exe#/imgpkg.exe"
       }
     },
     "hash": {

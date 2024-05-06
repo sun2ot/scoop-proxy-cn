@@ -6,7 +6,7 @@
     "identifier": "Apache-2.0 license",
     "url": "https://github.com/pcdd-group/so-novel#Apache-2.0-1-ov-file"
   },
-  "url": "https://mirror.ghproxy.com/https://github.com/pcdd-group/so-novel/releases/download/v1.5.4.1/sonovel-win-with-jre.tar.gz",
+  "url": "https://ghproxy.085404.xyz/https://github.com/pcdd-group/so-novel/releases/download/v1.5.4.1/sonovel-win-with-jre.tar.gz",
   "hash": "d063dd8f587208aa3ae9be430a7c1058338e94fbb12f480a499679ededfde529",
   "extract_dir": "SoNovel",
   "shortcuts": [
@@ -22,6 +22,6 @@
     "regex": "/releases/download/v([\\d.]+)/(?<file>sonovel-win.*?-with-jre\\.tar.gz)"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/pcdd-group/so-novel/releases/download/v$version/$matchFile"
+    "url": "https://ghproxy.085404.xyz/https://github.com/pcdd-group/so-novel/releases/download/v$version/$matchFile"
   }
 }

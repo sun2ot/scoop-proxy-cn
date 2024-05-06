@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/yamafaktory/jql/releases/download/jql-v7.1.8/jql-v7.1.8-x86_64-pc-windows-msvc.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/yamafaktory/jql/releases/download/jql-v7.1.8/jql-v7.1.8-x86_64-pc-windows-msvc.zip",
       "hash": "83c4b113767fa387e442849a03fc971c3c9cd2727e779e9a82c6bd3e4064778d"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/yamafaktory/jql/releases/download/jql-v$version/jql-v$version-x86_64-pc-windows-msvc.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/yamafaktory/jql/releases/download/jql-v$version/jql-v$version-x86_64-pc-windows-msvc.zip"
       }
     },
     "hash": {

@@ -5,11 +5,11 @@
   "license": "GPL-2.0-only WITH Classpath-exception-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/bell-sw/Liberica/releases/download/11.0.23%2B10/bellsoft-jre11.0.23%2B10-windows-amd64-full.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/bell-sw/Liberica/releases/download/11.0.23%2B10/bellsoft-jre11.0.23%2B10-windows-amd64-full.zip",
       "hash": "sha1:456c04c885fb4f36e9232cf0370836b398825270"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/bell-sw/Liberica/releases/download/11.0.23%2B10/bellsoft-jre11.0.23%2B10-windows-i586-full.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/bell-sw/Liberica/releases/download/11.0.23%2B10/bellsoft-jre11.0.23%2B10-windows-i586-full.zip",
       "hash": "sha1:ad72b08347c5aa8775df17dd4d1b1544ec00667d"
     }
   },
@@ -27,10 +27,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jre$matchMajor%2B$matchBuild-windows-amd64-full.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jre$matchMajor%2B$matchBuild-windows-amd64-full.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jre$matchMajor%2B$matchBuild-windows-i586-full.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/bell-sw/Liberica/releases/download/$matchMajor%2B$matchBuild/bellsoft-jre$matchMajor%2B$matchBuild-windows-i586-full.zip"
       }
     },
     "hash": {

@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/xmake-io/xmake/releases/download/v2.9.1/xmake-v2.9.1.win64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/xmake-io/xmake/releases/download/v2.9.1/xmake-v2.9.1.win64.zip",
       "hash": "af28634644b06390351bfde9da602c4e4eb70c1d509d5956b0ab906f5ba25642"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/xmake-io/xmake/releases/download/v2.9.1/xmake-v2.9.1.win32.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/xmake-io/xmake/releases/download/v2.9.1/xmake-v2.9.1.win32.zip",
       "hash": "56ab2c03d3aa9554e7586300fd8bc56247aa0f601859cfc8fd7fd6ff5bc81392"
     }
   },
@@ -24,14 +24,14 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/xmake-io/xmake/releases/download/v$version/xmake-v$version.win64.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/xmake-io/xmake/releases/download/v$version/xmake-v$version.win64.zip",
         "hash": {
           "url": "$baseurl/xmake-v$version.win64.sha256",
           "regex": "$sha256.*?zip"
         }
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/xmake-io/xmake/releases/download/v$version/xmake-v$version.win32.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/xmake-io/xmake/releases/download/v$version/xmake-v$version.win32.zip",
         "hash": {
           "url": "$baseurl/xmake-v$version.win32.sha256",
           "regex": "$sha256.*?zip"

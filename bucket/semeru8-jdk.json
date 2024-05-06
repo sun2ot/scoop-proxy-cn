@@ -5,11 +5,11 @@
   "license": "GPL-2.0-only WITH Classpath-exception-2.0,EPL-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u402-b06_openj9-0.43.0/ibm-semeru-open-jdk_x64_windows_8u402b06_openj9-0.43.0.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u402-b06_openj9-0.43.0/ibm-semeru-open-jdk_x64_windows_8u402b06_openj9-0.43.0.zip",
       "hash": "238baa86fb4b80609f88cd1f3d4334caf1e85643541da6ecbbbba79537277494"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u402-b06_openj9-0.43.0/ibm-semeru-open-jdk_x86-32_windows_8u402b06_openj9-0.43.0.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ibmruntimes/semeru8-binaries/releases/download/jdk8u402-b06_openj9-0.43.0/ibm-semeru-open-jdk_x86-32_windows_8u402b06_openj9-0.43.0.zip",
       "hash": "73928a2afe02e920790ddd93e43cbce6b9f95c7fe41b1649670af75c87b4da18"
     }
   },
@@ -26,10 +26,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ibmruntimes/semeru8-binaries/releases/download/$matchTag/ibm-semeru-open-jdk_x64_windows_$matchMajor$matchUpdate$matchBuild_openj9$matchJvmver.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/ibmruntimes/semeru8-binaries/releases/download/$matchTag/ibm-semeru-open-jdk_x64_windows_$matchMajor$matchUpdate$matchBuild_openj9$matchJvmver.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ibmruntimes/semeru8-binaries/releases/download/$matchTag/ibm-semeru-open-jdk_x86-32_windows_$matchMajor$matchUpdate$matchBuild_openj9$matchJvmver.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/ibmruntimes/semeru8-binaries/releases/download/$matchTag/ibm-semeru-open-jdk_x86-32_windows_$matchMajor$matchUpdate$matchBuild_openj9$matchJvmver.zip"
       }
     },
     "hash": {

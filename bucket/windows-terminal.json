@@ -9,15 +9,15 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/microsoft/terminal/releases/download/v1.19.11213.0/Microsoft.WindowsTerminal_1.19.11213.0_x64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/microsoft/terminal/releases/download/v1.19.11213.0/Microsoft.WindowsTerminal_1.19.11213.0_x64.zip",
       "hash": "e32d7e72f8490ad94174708bb0b420e1ef4467b92f442d40dfafdf42202a16a7"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/microsoft/terminal/releases/download/v1.19.11213.0/Microsoft.WindowsTerminal_1.19.11213.0_x86.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/microsoft/terminal/releases/download/v1.19.11213.0/Microsoft.WindowsTerminal_1.19.11213.0_x86.zip",
       "hash": "95993363fc53e0f0fbf8cda11807f66b899ee8e16803384630cf7841ecc933a0"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/microsoft/terminal/releases/download/v1.19.11213.0/Microsoft.WindowsTerminal_1.19.11213.0_arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/microsoft/terminal/releases/download/v1.19.11213.0/Microsoft.WindowsTerminal_1.19.11213.0_arm64.zip",
       "hash": "a6ad2515f5bf4ebf0b7256b0f88eb16722acdd627298d1862ba66b76c5929179"
     }
   },
@@ -68,13 +68,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_x64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_x64.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_x86.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_x86.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_arm64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_arm64.zip"
       }
     },
     "hash": {

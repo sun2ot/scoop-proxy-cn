@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/accurics/terrascan/releases/download/v1.19.1/terrascan_1.19.1_Windows_x86_64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/accurics/terrascan/releases/download/v1.19.1/terrascan_1.19.1_Windows_x86_64.zip",
       "hash": "05de015a9cf4bcf471f69d6fadd016110764f83fd50929cf56dffc674fe0dd4f"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/accurics/terrascan/releases/download/v1.19.1/terrascan_1.19.1_Windows_i386.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/accurics/terrascan/releases/download/v1.19.1/terrascan_1.19.1_Windows_i386.zip",
       "hash": "c1d1e87255dbafe48d05e77f539f150d71e64d12e47e7740eeea588b8b6837a1"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/accurics/terrascan/releases/download/v$version/terrascan_$version_Windows_x86_64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/accurics/terrascan/releases/download/v$version/terrascan_$version_Windows_x86_64.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/accurics/terrascan/releases/download/v$version/terrascan_$version_Windows_i386.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/accurics/terrascan/releases/download/v$version/terrascan_$version_Windows_i386.zip"
       }
     },
     "hash": {

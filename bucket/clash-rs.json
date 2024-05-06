@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/Watfaq/clash-rs/releases/download/v0.1.16/clash-x86_64-pc-windows-msvc.exe#/clash.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/Watfaq/clash-rs/releases/download/v0.1.16/clash-x86_64-pc-windows-msvc.exe#/clash.exe",
       "hash": "588858e71bbb8e3216dcdfeac4af9f4a8e02550236b86a10d225325e0df0faa6"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/Watfaq/clash-rs/releases/download/v0.1.16/clash-i686-pc-windows-msvc.exe#/clash.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/Watfaq/clash-rs/releases/download/v0.1.16/clash-i686-pc-windows-msvc.exe#/clash.exe",
       "hash": "9f75d3bc5ee600c9dbca65b330347cd7bb6343a94713b20d7f33a2163828f22f"
     }
   },
@@ -22,10 +22,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/Watfaq/clash-rs/releases/download/v$version/clash-x86_64-pc-windows-msvc.exe#/clash.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/Watfaq/clash-rs/releases/download/v$version/clash-x86_64-pc-windows-msvc.exe#/clash.exe"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/Watfaq/clash-rs/releases/download/v$version/clash-i686-pc-windows-msvc.exe#/clash.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/Watfaq/clash-rs/releases/download/v$version/clash-i686-pc-windows-msvc.exe#/clash.exe"
       }
     }
   }

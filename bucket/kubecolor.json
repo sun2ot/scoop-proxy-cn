@@ -8,11 +8,11 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/kubecolor/kubecolor/releases/download/v0.3.2/kubecolor_0.3.2_windows_amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/kubecolor/kubecolor/releases/download/v0.3.2/kubecolor_0.3.2_windows_amd64.zip",
       "hash": "a30daeaa8e2084763ea55c43799885362aa1158f5a26e7e954c3cd69fe35f057"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/kubecolor/kubecolor/releases/download/v0.3.2/kubecolor_0.3.2_windows_arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/kubecolor/kubecolor/releases/download/v0.3.2/kubecolor_0.3.2_windows_arm64.zip",
       "hash": "771542b3425cd56b6a376017a3d8168052cbaf21b3b7b0eb1760a3160bb3e943"
     }
   },
@@ -23,10 +23,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/kubecolor/kubecolor/releases/download/v$version/kubecolor_$version_windows_amd64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/kubecolor/kubecolor/releases/download/v$version/kubecolor_$version_windows_amd64.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/kubecolor/kubecolor/releases/download/v$version/kubecolor_$version_windows_arm64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/kubecolor/kubecolor/releases/download/v$version/kubecolor_$version_windows_arm64.zip"
       }
     },
     "hash": {

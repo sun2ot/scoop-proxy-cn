@@ -9,11 +9,11 @@
   "changelog": "https://brave.com/latest/",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/brave/brave-browser/releases/download/v1.65.126/BraveBrowserStandaloneSilentSetup.exe#/setup.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/brave/brave-browser/releases/download/v1.65.126/BraveBrowserStandaloneSilentSetup.exe#/setup.exe",
       "hash": "d469485eb01b5f12046cc82f9c023dbc683df4aee26ad1692efb71c6339465a3"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/brave/brave-browser/releases/download/v1.65.126/BraveBrowserStandaloneSilentSetup32.exe#/setup.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/brave/brave-browser/releases/download/v1.65.126/BraveBrowserStandaloneSilentSetup32.exe#/setup.exe",
       "hash": "6851c4909e189130af2aa60aed3e15b153f3b72133f96973d5dc18be81f1b46c"
     }
   },
@@ -56,10 +56,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/brave/brave-browser/releases/download/v$version/BraveBrowserStandaloneSilentSetup.exe#/setup.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/brave/brave-browser/releases/download/v$version/BraveBrowserStandaloneSilentSetup.exe#/setup.exe"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/brave/brave-browser/releases/download/v$version/BraveBrowserStandaloneSilentSetup32.exe#/setup.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/brave/brave-browser/releases/download/v$version/BraveBrowserStandaloneSilentSetup32.exe#/setup.exe"
       }
     }
   }

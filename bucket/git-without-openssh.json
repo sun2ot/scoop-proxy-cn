@@ -6,11 +6,11 @@
   "notes": "Set Git Credential Manager Core by running: \"git config --global credential.helper manager-core\"",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/git-for-windows/git/releases/download/v2.45.0.windows.1/PortableGit-2.45.0-64-bit.7z.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/git-for-windows/git/releases/download/v2.45.0.windows.1/PortableGit-2.45.0-64-bit.7z.exe#/dl.7z",
       "hash": "e9caf1cab7d2c1dc531a07c48445d84a8b27fae129ca7244e0d4f7b1e4949f60"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/git-for-windows/git/releases/download/v2.45.0.windows.1/PortableGit-2.45.0-32-bit.7z.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/git-for-windows/git/releases/download/v2.45.0.windows.1/PortableGit-2.45.0-32-bit.7z.exe#/dl.7z",
       "hash": "652b5d6cb381ee9df6d6d411d8e6c02284d3b84ac6c5b5ced50a1d167d9f825a"
     }
   },
@@ -43,10 +43,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/git-for-windows/git/releases/download/v$version/PortableGit-$matchFull-64-bit.7z.exe#/dl.7z"
+        "url": "https://ghproxy.085404.xyz/https://github.com/git-for-windows/git/releases/download/v$version/PortableGit-$matchFull-64-bit.7z.exe#/dl.7z"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/git-for-windows/git/releases/download/v$version/PortableGit-$matchFull-32-bit.7z.exe#/dl.7z"
+        "url": "https://ghproxy.085404.xyz/https://github.com/git-for-windows/git/releases/download/v$version/PortableGit-$matchFull-32-bit.7z.exe#/dl.7z"
       }
     },
     "hash": {

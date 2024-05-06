@@ -6,17 +6,17 @@
   "license": "Freeware",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ywmoyue/biliuwp-lite/releases/download/v4.6.30/BiliLite.Packages_4.6.30.0_x64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ywmoyue/biliuwp-lite/releases/download/v4.6.30/BiliLite.Packages_4.6.30.0_x64.zip",
       "hash": "ea39ee9b67f54f4c9e2d1ebc530a404505e520cf31f0a022e3978a54bc3af233",
       "extract_dir": "BiliLite.Packages_4.6.30.0_x64_Test"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ywmoyue/biliuwp-lite/releases/download/v4.6.30/BiliLite.Packages_4.6.30.0_x86.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ywmoyue/biliuwp-lite/releases/download/v4.6.30/BiliLite.Packages_4.6.30.0_x86.zip",
       "hash": "49ea8c8d935d6adb6069075be244224cc6228e08ac04a3e001f9c87568621c75",
       "extract_dir": "BiliLite.Packages_4.6.30.0_x86_Test"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ywmoyue/biliuwp-lite/releases/download/v4.6.30/BiliLite.Packages_4.6.30.0_ARM64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ywmoyue/biliuwp-lite/releases/download/v4.6.30/BiliLite.Packages_4.6.30.0_ARM64.zip",
       "hash": "a3bbe5e2f5da293d73c19faa59e7321f91f4a603573bd2524a0665edf91281a3",
       "extract_dir": "BiliLite.Packages_4.6.30.0_ARM64_Test"
     }
@@ -41,15 +41,15 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ywmoyue/biliuwp-lite/releases/download/v$version/BiliLite.Packages_$version.0_x64.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/ywmoyue/biliuwp-lite/releases/download/v$version/BiliLite.Packages_$version.0_x64.zip",
         "extract_dir": "BiliLite.Packages_$version.0_x64_Test"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ywmoyue/biliuwp-lite/releases/download/v$version/BiliLite.Packages_$version.0_x86.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/ywmoyue/biliuwp-lite/releases/download/v$version/BiliLite.Packages_$version.0_x86.zip",
         "extract_dir": "BiliLite.Packages_$version.0_x86_Test"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ywmoyue/biliuwp-lite/releases/download/v$version/BiliLite.Packages_$version.0_ARM64.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/ywmoyue/biliuwp-lite/releases/download/v$version/BiliLite.Packages_$version.0_ARM64.zip",
         "extract_dir": "BiliLite.Packages_$version.0_ARM64_Test"
       }
     }

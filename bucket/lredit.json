@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/crftwr/lredit/releases/download/v1.83/lredit_183.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/crftwr/lredit/releases/download/v1.83/lredit_183.zip",
       "hash": "afd5b5a242e8f8963183e3bccc488d39f035926f730e591677d0f7c625a23ce2"
     }
   },
@@ -33,7 +33,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/crftwr/lredit/releases/download/v$version/lredit_$cleanVersion.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/crftwr/lredit/releases/download/v$version/lredit_$cleanVersion.zip"
       }
     }
   }

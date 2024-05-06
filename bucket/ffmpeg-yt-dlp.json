@@ -8,12 +8,12 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2024-05-05-14-07/ffmpeg-n7.0-25-ga51c06b42c-win64-gpl-7.0.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2024-05-05-14-07/ffmpeg-n7.0-25-ga51c06b42c-win64-gpl-7.0.zip",
       "hash": "eaae5b1f6e41a84d1e1cdaeeb8132dac14e528d52ef5afcf1378185c067bbbab",
       "extract_dir": "ffmpeg-n7.0-25-ga51c06b42c-win64-gpl-7.0"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2024-05-05-14-07/ffmpeg-n7.0-25-ga51c06b42c-win32-gpl-7.0.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2024-05-05-14-07/ffmpeg-n7.0-25-ga51c06b42c-win32-gpl-7.0.zip",
       "hash": "4711dfea56d6c2303da9b9a7e88fa2988f0ac0dcab1ab67729b8607e4c0c77b8",
       "extract_dir": "ffmpeg-n7.0-25-ga51c06b42c-win32-gpl-7.0"
     }
@@ -47,11 +47,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename64bit.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename64bit.zip",
         "extract_dir": "$matchFilename64bit"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename32bit.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename32bit.zip",
         "extract_dir": "$matchFilename32bit"
       }
     }

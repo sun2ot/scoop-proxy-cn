@@ -9,11 +9,11 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ggerganov/whisper.cpp/releases/download/v1.5.4/whisper-blas-clblast-bin-x64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ggerganov/whisper.cpp/releases/download/v1.5.4/whisper-blas-clblast-bin-x64.zip",
       "hash": "8438e3d3ee49a2680d4bec275cfa87dfbf85a5c03e0f35ac75d347bdd5c49a13"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ggerganov/whisper.cpp/releases/download/v1.5.4/whisper-blas-bin-Win32.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ggerganov/whisper.cpp/releases/download/v1.5.4/whisper-blas-bin-Win32.zip",
       "hash": "1334a72394d31d5148ccde267b25d3cb559f83cd519d4bb904a66330e4010ae1"
     }
   },
@@ -34,10 +34,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ggerganov/whisper.cpp/releases/download/v$version/whisper-blas-clblast-bin-x64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/ggerganov/whisper.cpp/releases/download/v$version/whisper-blas-clblast-bin-x64.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ggerganov/whisper.cpp/releases/download/v$version/whisper-blas-bin-Win32.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/ggerganov/whisper.cpp/releases/download/v$version/whisper-blas-bin-Win32.zip"
       }
     }
   }

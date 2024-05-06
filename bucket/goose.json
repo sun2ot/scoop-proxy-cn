@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/pressly/goose/releases/download/v3.20.0/goose_windows_x86_64.exe#/goose.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/pressly/goose/releases/download/v3.20.0/goose_windows_x86_64.exe#/goose.exe",
       "hash": "539c6cb27abbe29b7532eba1f90346f9dc13a934b266ca8ffb5b8a1673aef98d"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/pressly/goose/releases/download/v3.20.0/goose_windows_arm64.exe#/goose.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/pressly/goose/releases/download/v3.20.0/goose_windows_arm64.exe#/goose.exe",
       "hash": "b10a323ce20c36891dfbfffca154288e1f867bc33897c2cf70b014ed2deb6de7"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/pressly/goose/releases/download/v$version/goose_windows_x86_64.exe#/goose.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/pressly/goose/releases/download/v$version/goose_windows_x86_64.exe#/goose.exe"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/pressly/goose/releases/download/v$version/goose_windows_arm64.exe#/goose.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/pressly/goose/releases/download/v$version/goose_windows_arm64.exe#/goose.exe"
       }
     },
     "hash": {

@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/gohugoio/hugo/releases/download/v0.125.6/hugo_0.125.6_windows-amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/gohugoio/hugo/releases/download/v0.125.6/hugo_0.125.6_windows-amd64.zip",
       "hash": "3e6744f76b643b3fd6a8073320915828e4c04e6db56e4a58b26fa6dd047b6905"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/gohugoio/hugo/releases/download/v0.125.6/hugo_0.125.6_windows-arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/gohugoio/hugo/releases/download/v0.125.6/hugo_0.125.6_windows-arm64.zip",
       "hash": "e42c71249d7eee900b998c981e929ece2a38d26b89d4d0e4ebc340ed971dc927"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/gohugoio/hugo/releases/download/v$version/hugo_$version_windows-amd64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/gohugoio/hugo/releases/download/v$version/hugo_$version_windows-amd64.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/gohugoio/hugo/releases/download/v$version/hugo_$version_windows-arm64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/gohugoio/hugo/releases/download/v$version/hugo_$version_windows-arm64.zip"
       }
     },
     "hash": {

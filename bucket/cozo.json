@@ -5,7 +5,7 @@
   "license": "MPL-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/cozodb/cozo/releases/download/v0.7.6/cozo-0.7.6-x86_64-pc-windows-msvc.exe.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/cozodb/cozo/releases/download/v0.7.6/cozo-0.7.6-x86_64-pc-windows-msvc.exe.zip",
       "hash": "1880d33179cffa6209747bfc52d05d14fa4e5f5b249cdc75eb5870fd09c4747b"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/cozodb/cozo/releases/download/v$version/cozo-$version-x86_64-pc-windows-msvc.exe.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/cozodb/cozo/releases/download/v$version/cozo-$version-x86_64-pc-windows-msvc.exe.zip"
       }
     }
   }

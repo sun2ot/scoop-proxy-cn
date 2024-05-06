@@ -8,11 +8,11 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/UnblockNeteaseMusic/server/releases/download/v0.27.6-patch.1/unblockneteasemusic-win-x64.exe#/unblockneteasemusic.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/UnblockNeteaseMusic/server/releases/download/v0.27.6-patch.1/unblockneteasemusic-win-x64.exe#/unblockneteasemusic.exe",
       "hash": "57c8f3fca27578cc31cb0cc2fc84db0fbe5f1cbb3ab63b63340e664d73ca7430"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/UnblockNeteaseMusic/server/releases/download/v0.27.6-patch.1/unblockneteasemusic-win-arm64.exe#/unblockneteasemusic.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/UnblockNeteaseMusic/server/releases/download/v0.27.6-patch.1/unblockneteasemusic-win-arm64.exe#/unblockneteasemusic.exe",
       "hash": "20227a9a023b0162b972e87c063484042699ee1c0070abcdca433f0f825431e8"
     }
   },
@@ -31,10 +31,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/UnblockNeteaseMusic/server/releases/download/v$version/unblockneteasemusic-win-x64.exe#/unblockneteasemusic.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/UnblockNeteaseMusic/server/releases/download/v$version/unblockneteasemusic-win-x64.exe#/unblockneteasemusic.exe"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/UnblockNeteaseMusic/server/releases/download/v$version/unblockneteasemusic-win-arm64.exe#/unblockneteasemusic.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/UnblockNeteaseMusic/server/releases/download/v$version/unblockneteasemusic-win-arm64.exe#/unblockneteasemusic.exe"
       }
     }
   }

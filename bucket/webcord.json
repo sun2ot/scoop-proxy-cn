@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/SpacingBat3/WebCord/releases/download/v4.9.1/WebCord-win32-x64-4.9.1.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/SpacingBat3/WebCord/releases/download/v4.9.1/WebCord-win32-x64-4.9.1.zip",
       "hash": "5be22c2ec897fd27aa33be75cc09b8ec1da31cfe5f398e1811f9a0451ab906ef"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/SpacingBat3/WebCord/releases/download/v4.9.1/WebCord-win32-ia32-4.9.1.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/SpacingBat3/WebCord/releases/download/v4.9.1/WebCord-win32-ia32-4.9.1.zip",
       "hash": "17259160838de5a715b6230e242104ea97515fcd2b429137ed955f27deb84f19"
     }
   },
@@ -23,10 +23,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/SpacingBat3/WebCord/releases/download/v$version/WebCord-win32-x64-$version.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/SpacingBat3/WebCord/releases/download/v$version/WebCord-win32-x64-$version.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/SpacingBat3/WebCord/releases/download/v$version/WebCord-win32-ia32-$version.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/SpacingBat3/WebCord/releases/download/v$version/WebCord-win32-ia32-$version.zip"
       }
     }
   }

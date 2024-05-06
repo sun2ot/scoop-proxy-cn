@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/VladimirMarkelov/ttdl/releases/download/v4.2.1/ttdl_4.2.1_win_x64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/VladimirMarkelov/ttdl/releases/download/v4.2.1/ttdl_4.2.1_win_x64.zip",
       "hash": "494f2c5d9b48e1004fa9b0eaa83a3740e86bc31aaf3e5d19f2ca0c06c9ff07bc"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/VladimirMarkelov/ttdl/releases/download/v$version/ttdl_$version_win_x64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/VladimirMarkelov/ttdl/releases/download/v$version/ttdl_$version_win_x64.zip"
       }
     }
   }

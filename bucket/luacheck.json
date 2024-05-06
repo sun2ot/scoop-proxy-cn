@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/lunarmodules/luacheck/releases/download/v1.1.2/luacheck.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/lunarmodules/luacheck/releases/download/v1.1.2/luacheck.exe",
       "hash": "3943f53f97985691c700e98f1232c27342014d754e0d8a318c88c9ad34760429"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/lunarmodules/luacheck/releases/download/v$version/luacheck.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/lunarmodules/luacheck/releases/download/v$version/luacheck.exe"
       }
     }
   }

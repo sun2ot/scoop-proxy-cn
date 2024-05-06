@@ -6,7 +6,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/HyPlayer/HyPlayer/releases/download/2.1.37.5810/HyPlayer_2.1.37.5810_x64_ARM64.msixbundle#/HyPlayer.msixbundle",
+      "url": "https://ghproxy.085404.xyz/https://github.com/HyPlayer/HyPlayer/releases/download/2.1.37.5810/HyPlayer_2.1.37.5810_x64_ARM64.msixbundle#/HyPlayer.msixbundle",
       "hash": "5055364c17bd7f3be3d8807f6ad791438f71e3821bc521b325ac924f0a70a9e8"
     }
   },
@@ -31,7 +31,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/HyPlayer/HyPlayer/releases/download/$version/HyPlayer_$version_x64_ARM64.msixbundle#/HyPlayer.msixbundle"
+        "url": "https://ghproxy.085404.xyz/https://github.com/HyPlayer/HyPlayer/releases/download/$version/HyPlayer_$version_x64_ARM64.msixbundle#/HyPlayer.msixbundle"
       }
     }
   }

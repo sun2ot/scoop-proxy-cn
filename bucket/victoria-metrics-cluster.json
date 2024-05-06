@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.101.0/victoria-metrics-windows-amd64-v1.101.0-cluster.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v1.101.0/victoria-metrics-windows-amd64-v1.101.0-cluster.zip",
       "hash": "99995ded11889c6f6bdc123d065c536ed60b29731bac1c0785b5bc4e517150ff"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v$version/victoria-metrics-windows-amd64-v$version-cluster.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/VictoriaMetrics/VictoriaMetrics/releases/download/v$version/victoria-metrics-windows-amd64-v$version-cluster.zip",
         "hash": {
           "url": "$baseurl/victoria-metrics-windows-amd64-v$version-cluster_checksums.txt"
         }

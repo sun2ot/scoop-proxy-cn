@@ -9,7 +9,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/JetBrains/kotlin/releases/download/v1.9.23/kotlin-native-windows-x86_64-1.9.23.zip#/dl.zip_",
+      "url": "https://ghproxy.085404.xyz/https://github.com/JetBrains/kotlin/releases/download/v1.9.23/kotlin-native-windows-x86_64-1.9.23.zip#/dl.zip_",
       "hash": "df8410e59a1d8c806321634e6a2620f96e96d16690e52f38571aa1a558d2386d"
     }
   },
@@ -38,7 +38,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/JetBrains/kotlin/releases/download/v$matchHead/kotlin-native-windows-x86_64-$version.zip#/dl.zip_"
+        "url": "https://ghproxy.085404.xyz/https://github.com/JetBrains/kotlin/releases/download/v$matchHead/kotlin-native-windows-x86_64-$version.zip#/dl.zip_"
       }
     },
     "hash": {

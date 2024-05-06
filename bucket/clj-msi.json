@@ -11,7 +11,7 @@
       "java/oraclejdk"
     ]
   },
-  "url": "https://mirror.ghproxy.com/https://github.com/casselc/clj-msi/releases/download/v1.11.1.1435/clojure-1.11.1.1435.msi",
+  "url": "https://ghproxy.085404.xyz/https://github.com/casselc/clj-msi/releases/download/v1.11.1.1435/clojure-1.11.1.1435.msi",
   "hash": "8e6b007a9179b77b4d242aac3556448f910c79a934ba870d9188c62b079ef3db",
   "pre_install": [
     "Move-Item \"$dir\\PFiles\\clojure\\*\" \"$dir\\\"",
@@ -28,6 +28,6 @@
     "github": "https://github.com/casselc/clj-msi"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/casselc/clj-msi/releases/download/v$version/clojure-$version.msi"
+    "url": "https://ghproxy.085404.xyz/https://github.com/casselc/clj-msi/releases/download/v$version/clojure-$version.msi"
   }
 }

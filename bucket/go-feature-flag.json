@@ -6,9 +6,9 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag_1.27.0_Windows_x86_64.tar.gz",
-        "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag-migration-cli_1.27.0_Windows_x86_64.tar.gz",
-        "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag-lint_1.27.0_Windows_x86_64.tar.gz"
+        "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag_1.27.0_Windows_x86_64.tar.gz",
+        "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag-migration-cli_1.27.0_Windows_x86_64.tar.gz",
+        "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag-lint_1.27.0_Windows_x86_64.tar.gz"
       ],
       "hash": [
         "705900e2808af62a66e5219eb3d3396d85e1e745f0011e0e05aec59c9287a84d",
@@ -18,9 +18,9 @@
     },
     "32bit": {
       "url": [
-        "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag_1.27.0_Windows_i386.tar.gz",
-        "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag-migration-cli_1.27.0_Windows_i386.tar.gz",
-        "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag-lint_1.27.0_Windows_i386.tar.gz"
+        "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag_1.27.0_Windows_i386.tar.gz",
+        "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag-migration-cli_1.27.0_Windows_i386.tar.gz",
+        "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag-lint_1.27.0_Windows_i386.tar.gz"
       ],
       "hash": [
         "030b11638ba26d1e2f8d6db246b6b69c1355347e1b06da29e53d0414fce2d438",
@@ -30,9 +30,9 @@
     },
     "arm64": {
       "url": [
-        "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag_1.27.0_Windows_arm64.tar.gz",
-        "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag-migration-cli_1.27.0_Linux_arm64.tar.gz",
-        "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag-lint_1.27.0_Windows_arm64.tar.gz"
+        "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag_1.27.0_Windows_arm64.tar.gz",
+        "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag-migration-cli_1.27.0_Linux_arm64.tar.gz",
+        "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.27.0/go-feature-flag-lint_1.27.0_Windows_arm64.tar.gz"
       ],
       "hash": [
         "9304a0122355fd34cb950c29aba605f34da75e8332986b7ebc8d7a343dc7f57e",
@@ -53,23 +53,23 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag_$version_Windows_x86_64.tar.gz",
-          "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag-migration-cli_$version_Windows_x86_64.tar.gz",
-          "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag-lint_$version_Windows_x86_64.tar.gz"
+          "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag_$version_Windows_x86_64.tar.gz",
+          "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag-migration-cli_$version_Windows_x86_64.tar.gz",
+          "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag-lint_$version_Windows_x86_64.tar.gz"
         ]
       },
       "32bit": {
         "url": [
-          "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag_$version_Windows_i386.tar.gz",
-          "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag-migration-cli_$version_Windows_i386.tar.gz",
-          "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag-lint_$version_Windows_i386.tar.gz"
+          "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag_$version_Windows_i386.tar.gz",
+          "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag-migration-cli_$version_Windows_i386.tar.gz",
+          "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag-lint_$version_Windows_i386.tar.gz"
         ]
       },
       "arm64": {
         "url": [
-          "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag_$version_Windows_arm64.tar.gz",
-          "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag-migration-cli_$version_Linux_arm64.tar.gz",
-          "https://mirror.ghproxy.com/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag-lint_$version_Windows_arm64.tar.gz"
+          "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag_$version_Windows_arm64.tar.gz",
+          "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag-migration-cli_$version_Linux_arm64.tar.gz",
+          "https://ghproxy.085404.xyz/https://github.com/thomaspoignant/go-feature-flag/releases/download/v$version/go-feature-flag-lint_$version_Windows_arm64.tar.gz"
         ]
       }
     },

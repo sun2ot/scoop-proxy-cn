@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.44.3/xmcl-0.44.3-win32-x64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.44.3/xmcl-0.44.3-win32-x64.zip",
       "hash": "2ccee2f8e770e8c0bfe1b583e3f9c6f587d1b3424981d925b297fa9b5f92aa18"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.44.3/xmcl-0.44.3-win32-ia32.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.44.3/xmcl-0.44.3-win32-ia32.zip",
       "hash": "365b139fc1dd6414fffcc43a5ecb4c16efc0074bbb9a92d1719313a2631f1456"
     }
   },
@@ -26,10 +26,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/Voxelum/x-minecraft-launcher/releases/download/v$version/xmcl-$version-win32-x64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/Voxelum/x-minecraft-launcher/releases/download/v$version/xmcl-$version-win32-x64.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/Voxelum/x-minecraft-launcher/releases/download/v$version/xmcl-$version-win32-ia32.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/Voxelum/x-minecraft-launcher/releases/download/v$version/xmcl-$version-win32-ia32.zip"
       }
     }
   }

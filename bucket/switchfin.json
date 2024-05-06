@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/dragonflylee/switchfin/releases/download/0.4.5/Switchfin-windows-x64-7367211.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/dragonflylee/switchfin/releases/download/0.4.5/Switchfin-windows-x64-7367211.7z",
       "hash": "3cf5f0ca69772907d65310b2fa29636a4f9644d20898952d63146b9bd951b453"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/dragonflylee/switchfin/releases/download/0.4.5/Switchfin-windows-x86-7367211.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/dragonflylee/switchfin/releases/download/0.4.5/Switchfin-windows-x86-7367211.7z",
       "hash": "f420c52670b0ea80ef88abded530dd64cdae0df0553885cb8e5f7823cb05a31a"
     }
   },
@@ -26,10 +26,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/dragonflylee/switchfin/releases/download/$version/Switchfin-windows-x64-$matchCommit.7z"
+        "url": "https://ghproxy.085404.xyz/https://github.com/dragonflylee/switchfin/releases/download/$version/Switchfin-windows-x64-$matchCommit.7z"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/dragonflylee/switchfin/releases/download/$version/Switchfin-windows-x86-$matchCommit.7z"
+        "url": "https://ghproxy.085404.xyz/https://github.com/dragonflylee/switchfin/releases/download/$version/Switchfin-windows-x86-$matchCommit.7z"
       }
     }
   }

@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/l1xnan/duckling/releases/download/v0.0.32/Duckling_0.0.32_x64-setup.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/l1xnan/duckling/releases/download/v0.0.32/Duckling_0.0.32_x64-setup.exe#/dl.7z",
       "hash": "365fb0ece8a733b1e8b04bb7caf917d8e5ed5dea414c85626c9566ac4d8b48e4"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/l1xnan/duckling/releases/download/v$version/Duckling_$version_x64-setup.exe#/dl.7z"
+        "url": "https://ghproxy.085404.xyz/https://github.com/l1xnan/duckling/releases/download/v$version/Duckling_$version_x64-setup.exe#/dl.7z"
       }
     }
   }

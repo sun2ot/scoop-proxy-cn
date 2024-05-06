@@ -6,7 +6,7 @@
   "depends": "lemon/archisteamfarm",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/chr233/ASFEnhance/releases/download/2.1.4.0/ASFEnhance-zh-Hans.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/chr233/ASFEnhance/releases/download/2.1.4.0/ASFEnhance-zh-Hans.zip",
       "hash": "4e40df06e53ea401a85ac81689bfa4f9e2b55825e3939f83111db054dd6a4e59"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/chr233/ASFEnhance/releases/download/$version/ASFEnhance-zh-Hans.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/chr233/ASFEnhance/releases/download/$version/ASFEnhance-zh-Hans.zip"
       }
     }
   }

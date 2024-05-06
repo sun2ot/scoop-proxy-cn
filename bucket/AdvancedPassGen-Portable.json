@@ -6,7 +6,7 @@
   "changelog": "https://github.com/CodeDead/Advanced-PassGen/releases",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/CodeDead/Advanced-PassGen/releases/download/v2.5.0/advanced-passgen_2.5.0_x64_en-US.msi",
+      "url": "https://ghproxy.085404.xyz/https://github.com/CodeDead/Advanced-PassGen/releases/download/v2.5.0/advanced-passgen_2.5.0_x64_en-US.msi",
       "hash": "63b7a2b61d481bd9c90b02390875a2620c8b6e2e5428db990711b56c4f0b24f2"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/CodeDead/Advanced-PassGen/releases/download/v$version/advanced-passgen_$version_x64_en-US.msi"
+        "url": "https://ghproxy.085404.xyz/https://github.com/CodeDead/Advanced-PassGen/releases/download/v$version/advanced-passgen_$version_x64_en-US.msi"
       }
     }
   }

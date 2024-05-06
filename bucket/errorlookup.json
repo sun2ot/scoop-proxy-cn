@@ -3,7 +3,7 @@
   "description": "A simple tool for retrieving information about Windows errors codes.",
   "homepage": "https://www.henrypp.org/product/errorlookup",
   "license": "GPL-3.0-only",
-  "url": "https://mirror.ghproxy.com/https://github.com/henrypp/errorlookup/releases/download/v.2.6/errorlookup-2.6-bin.zip",
+  "url": "https://ghproxy.085404.xyz/https://github.com/henrypp/errorlookup/releases/download/v.2.6/errorlookup-2.6-bin.zip",
   "hash": "0c7938b2df081b4d4da183970516cfd88fc4aaeeede4d1c06fa7a148220fffc8",
   "architecture": {
     "64bit": {
@@ -27,6 +27,6 @@
     "regex": "/releases/tag/v.([\\d.]+)\""
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/henrypp/errorlookup/releases/download/v.$version/errorlookup-$version-bin.zip"
+    "url": "https://ghproxy.085404.xyz/https://github.com/henrypp/errorlookup/releases/download/v.$version/errorlookup-$version-bin.zip"
   }
 }

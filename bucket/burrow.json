@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/linkedin/Burrow/releases/download/v1.8.0/Burrow_1.8.0_windows_amd64.tar.gz",
+      "url": "https://ghproxy.085404.xyz/https://github.com/linkedin/Burrow/releases/download/v1.8.0/Burrow_1.8.0_windows_amd64.tar.gz",
       "hash": "b6d010564b0652256a4f8f0aab3627c46ef3c63a326a5a0f76b0933fbafde951"
     }
   },
@@ -15,7 +15,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/linkedin/Burrow/releases/download/v$version/Burrow_$version_windows_amd64.tar.gz"
+        "url": "https://ghproxy.085404.xyz/https://github.com/linkedin/Burrow/releases/download/v$version/Burrow_$version_windows_amd64.tar.gz"
       }
     },
     "hash": {

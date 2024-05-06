@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/lalbornoz/PuTTie/releases/download/PuTTie-file-Release-427d4829/PuTTie-file-Release-427d4829.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/lalbornoz/PuTTie/releases/download/PuTTie-file-Release-427d4829/PuTTie-file-Release-427d4829.zip",
       "hash": "b1c6fcdb00de6c87afd991e593a91d4a022ff239f715c832a7807036080387f2"
     }
   },
@@ -42,7 +42,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/lalbornoz/PuTTie/releases/download/PuTTie-file-Release-$matchSha/PuTTie-file-Release-$matchSha.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/lalbornoz/PuTTie/releases/download/PuTTie-file-Release-$matchSha/PuTTie-file-Release-$matchSha.zip"
       }
     },
     "extract_dir": "PuTTie-file-Release-$matchSha"

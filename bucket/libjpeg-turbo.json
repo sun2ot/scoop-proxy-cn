@@ -5,11 +5,11 @@
   "license": "IJG,BSD-3-Clause,Zlib",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/libjpeg-turbo/libjpeg-turbo/releases/download/3.0.2/libjpeg-turbo-3.0.2-vc64.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/libjpeg-turbo/libjpeg-turbo/releases/download/3.0.2/libjpeg-turbo-3.0.2-vc64.exe#/dl.7z",
       "hash": "e3fbbb3b0055478cc33f4895c887d36d38a9818b58cdfa9b84e59ddeec3ab4b3"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/libjpeg-turbo/libjpeg-turbo/releases/download/3.0.2/libjpeg-turbo-3.0.2-vc.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/libjpeg-turbo/libjpeg-turbo/releases/download/3.0.2/libjpeg-turbo-3.0.2-vc.exe#/dl.7z",
       "hash": "a96e27531fed2807ff679e4c854c15d12542c354af6d2a4d1f5ca1c821e6f0d4"
     }
   },
@@ -31,10 +31,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/libjpeg-turbo/libjpeg-turbo/releases/download/$version/libjpeg-turbo-$version-vc64.exe#/dl.7z"
+        "url": "https://ghproxy.085404.xyz/https://github.com/libjpeg-turbo/libjpeg-turbo/releases/download/$version/libjpeg-turbo-$version-vc64.exe#/dl.7z"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/libjpeg-turbo/libjpeg-turbo/releases/download/$version/libjpeg-turbo-$version-vc.exe#/dl.7z"
+        "url": "https://ghproxy.085404.xyz/https://github.com/libjpeg-turbo/libjpeg-turbo/releases/download/$version/libjpeg-turbo-$version-vc.exe#/dl.7z"
       }
     }
   }

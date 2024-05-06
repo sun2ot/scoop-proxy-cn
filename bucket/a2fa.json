@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/csyezheng/a2fa/releases/download/v0.16.5/a2fa_Windows_x86_64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/csyezheng/a2fa/releases/download/v0.16.5/a2fa_Windows_x86_64.zip",
       "hash": "ec2028ba556f1b86077531c56104260eb1065347f77e7725fbdcdc2660978563"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/csyezheng/a2fa/releases/download/v$version/a2fa_Windows_x86_64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/csyezheng/a2fa/releases/download/v$version/a2fa_Windows_x86_64.zip"
       }
     },
     "hash": {

@@ -8,7 +8,7 @@
     "64bit": {
       "url": [
         "https://download.calibre-ebook.com/7.10.0/calibre-portable-installer-7.10.0.exe",
-        "https://mirror.ghproxy.com/https://github.com/Cirn09/calibre-do-not-translate-my-path/releases/download/v7.10.0/win-patch-backend-v7.10.0.zip"
+        "https://ghproxy.085404.xyz/https://github.com/Cirn09/calibre-do-not-translate-my-path/releases/download/v7.10.0/win-patch-backend-v7.10.0.zip"
       ],
       "hash": [
         "sha512:87218d0cbf00cd05dfa8e9295082d56b5588374af076e93e9a8ce4ac6595a4f12a252f62774048f414afa940024051eaad4b44ed43c7c6678119c2a07b4be62c",
@@ -82,7 +82,7 @@
       "64bit": {
         "url": [
           "https://download.calibre-ebook.com/$version/calibre-portable-installer-$version.exe",
-          "https://mirror.ghproxy.com/https://github.com/Cirn09/calibre-do-not-translate-my-path/releases/download/v$version/win-patch-backend-v$version.zip"
+          "https://ghproxy.085404.xyz/https://github.com/Cirn09/calibre-do-not-translate-my-path/releases/download/v$version/win-patch-backend-v$version.zip"
         ],
         "hash": [
           {

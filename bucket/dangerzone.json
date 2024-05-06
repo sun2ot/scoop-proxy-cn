@@ -7,7 +7,7 @@
     "DangerZone requires Docker Desktop to run.",
     "You can download it from: https://www.docker.com/products/docker-desktop/"
   ],
-  "url": "https://mirror.ghproxy.com/https://github.com/firstlookmedia/dangerzone/releases/download/v0.6.0/Dangerzone-0.6.0-1.msi",
+  "url": "https://ghproxy.085404.xyz/https://github.com/firstlookmedia/dangerzone/releases/download/v0.6.0/Dangerzone-0.6.0-1.msi",
   "hash": "55e3aa4c3da08b5810b78e7553a17a4f7cb4c914bb518b22c38cc6fc3a3e83d9",
   "extract_dir": "Dangerzone",
   "bin": "dangerzone-cli.exe",
@@ -21,6 +21,6 @@
     "github": "https://github.com/firstlookmedia/dangerzone"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/firstlookmedia/dangerzone/releases/download/v$version/Dangerzone-$version.msi"
+    "url": "https://ghproxy.085404.xyz/https://github.com/firstlookmedia/dangerzone/releases/download/v$version/Dangerzone-$version.msi"
   }
 }

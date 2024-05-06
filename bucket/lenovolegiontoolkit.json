@@ -4,7 +4,7 @@
   "homepage": "https://github.com/BartoszCichecki/LenovoLegionToolkit",
   "license": "MIT",
   "depends": "main/dotnet-sdk",
-  "url": "https://mirror.ghproxy.com/https://github.com/BartoszCichecki/LenovoLegionToolkit/releases/download/2.21.2/LenovoLegionToolkitSetup.exe",
+  "url": "https://ghproxy.085404.xyz/https://github.com/BartoszCichecki/LenovoLegionToolkit/releases/download/2.21.2/LenovoLegionToolkitSetup.exe",
   "hash": "38d168a8f51752d0622b6e749fd9480b98fb05c3ff2b471f3aac5a00297f33b3",
   "innosetup": true,
   "shortcuts": [
@@ -15,6 +15,6 @@
   ],
   "checkver": "github",
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/BartoszCichecki/LenovoLegionToolkit/releases/download/$version/LenovoLegionToolkitSetup.exe"
+    "url": "https://ghproxy.085404.xyz/https://github.com/BartoszCichecki/LenovoLegionToolkit/releases/download/$version/LenovoLegionToolkitSetup.exe"
   }
 }

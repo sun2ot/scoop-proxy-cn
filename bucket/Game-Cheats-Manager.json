@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/dyang886/Game-Cheats-Manager/releases/download/v1.2.8/Game.Cheats.Manager.Setup.1.2.8.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/dyang886/Game-Cheats-Manager/releases/download/v1.2.8/Game.Cheats.Manager.Setup.1.2.8.exe",
       "hash": "f961703d3c95d94926ca8a54b20d28fd0d0cb7038e4f597be6b44751be6d77c2"
     }
   },
@@ -21,7 +21,7 @@
     "github": "https://github.com/dyang886/Game-Cheats-Manager"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/dyang886/Game-Cheats-Manager/releases/download/v$version/Game.Cheats.Manager.Setup.$version.exe",
+    "url": "https://ghproxy.085404.xyz/https://github.com/dyang886/Game-Cheats-Manager/releases/download/v$version/Game.Cheats.Manager.Setup.$version.exe",
     "hash": {
       "mode": "download"
     }

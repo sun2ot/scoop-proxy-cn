@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/SeleniumHQ/selenium_manager_artifacts/releases/download/selenium-manager-b565162/selenium-manager-windows.exe#/selenium-manager.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/SeleniumHQ/selenium_manager_artifacts/releases/download/selenium-manager-b565162/selenium-manager-windows.exe#/selenium-manager.exe",
       "hash": "2d2978aab283b1606363941471a5f825d98f6a26edc9130f47d3eb3441dad8b8"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/SeleniumHQ/selenium_manager_artifacts/releases/download/$matchManagerversion/selenium-manager-windows.exe#/selenium-manager.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/SeleniumHQ/selenium_manager_artifacts/releases/download/$matchManagerversion/selenium-manager-windows.exe#/selenium-manager.exe"
       }
     }
   }

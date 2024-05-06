@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/NEKOparapa/AiNiee/releases/download/AiNiee4.66.6/AiNiee4.66.6.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/NEKOparapa/AiNiee/releases/download/AiNiee4.66.6/AiNiee4.66.6.zip",
       "hash": "be6b93f4942300cace3989091fdaff71ec17c4efbd561a000ccd957b7dc90997"
     }
   },
@@ -25,7 +25,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/NEKOparapa/AiNiee/releases/download/AiNiee$version/AiNiee$version.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/NEKOparapa/AiNiee/releases/download/AiNiee$version/AiNiee$version.zip"
       }
     }
   }

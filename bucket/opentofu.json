@@ -5,11 +5,11 @@
   "license": "MPL-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/opentofu/opentofu/releases/download/v1.7.0/tofu_1.7.0_windows_amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/opentofu/opentofu/releases/download/v1.7.0/tofu_1.7.0_windows_amd64.zip",
       "hash": "063a5bfecc60e1f9363f269a590556dd58549f8b6619e3cafd55439cbcbe1864"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/opentofu/opentofu/releases/download/v1.7.0/tofu_1.7.0_windows_386.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/opentofu/opentofu/releases/download/v1.7.0/tofu_1.7.0_windows_386.zip",
       "hash": "99e0c538bb92d6a9368724ba311e9dd412771abef8c9ba54fbb7f1df2715cea4"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/opentofu/opentofu/releases/download/v$version/tofu_$version_windows_amd64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/opentofu/opentofu/releases/download/v$version/tofu_$version_windows_amd64.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/opentofu/opentofu/releases/download/v$version/tofu_$version_windows_386.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/opentofu/opentofu/releases/download/v$version/tofu_$version_windows_386.zip"
       }
     },
     "hash": {

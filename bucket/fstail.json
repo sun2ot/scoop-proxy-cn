@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/alexellis/fstail/releases/download/0.1.0/fstail.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/alexellis/fstail/releases/download/0.1.0/fstail.exe",
       "hash": "6540c83cd551d77fa77670473918018ffcec55b20c605c3cfe32590d95e44c10"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/alexellis/fstail/releases/download/$version/fstail.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/alexellis/fstail/releases/download/$version/fstail.exe"
       }
     }
   }

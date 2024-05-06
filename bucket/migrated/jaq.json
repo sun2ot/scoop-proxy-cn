@@ -5,11 +5,11 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/01mf02/jaq/releases/download/v1.3.0/jaq-v1.3.0-x86_64-pc-windows-msvc.exe#/jaq.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/01mf02/jaq/releases/download/v1.3.0/jaq-v1.3.0-x86_64-pc-windows-msvc.exe#/jaq.exe",
       "hash": "4d2dc0afb6ed3d663f1fedd89df459723e7da0bd45a7cc972376f2bb7854c463"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/01mf02/jaq/releases/download/v1.3.0/jaq-v1.3.0-i686-pc-windows-msvc.exe#/jaq.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/01mf02/jaq/releases/download/v1.3.0/jaq-v1.3.0-i686-pc-windows-msvc.exe#/jaq.exe",
       "hash": "b046b1fb133dbaa579942df1583506c88c1acf21df1f6d00e8a33cb0b0dc52a1"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/01mf02/jaq/releases/download/v$version/jaq-v$version-x86_64-pc-windows-msvc.exe#/jaq.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/01mf02/jaq/releases/download/v$version/jaq-v$version-x86_64-pc-windows-msvc.exe#/jaq.exe"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/01mf02/jaq/releases/download/v$version/jaq-v$version-i686-pc-windows-msvc.exe#/jaq.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/01mf02/jaq/releases/download/v$version/jaq-v$version-i686-pc-windows-msvc.exe#/jaq.exe"
       }
     }
   }

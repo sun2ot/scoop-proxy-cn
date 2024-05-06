@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/nwtgck/piping-server-rust/releases/download/v0.18.0/piping-server-x86_64-pc-windows-gnu.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/nwtgck/piping-server-rust/releases/download/v0.18.0/piping-server-x86_64-pc-windows-gnu.zip",
       "hash": "f7ef8efb3f27cd35248d4222d53c8f61bd9775079b31dc84ce79835c5b73c755",
       "extract_dir": "piping-server-x86_64-pc-windows-gnu"
     }
@@ -15,7 +15,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/nwtgck/piping-server-rust/releases/download/v$version/piping-server-x86_64-pc-windows-gnu.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/nwtgck/piping-server-rust/releases/download/v$version/piping-server-x86_64-pc-windows-gnu.zip"
       }
     }
   }

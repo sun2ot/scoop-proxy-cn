@@ -5,15 +5,15 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/openfga/cli/releases/download/v0.3.1/fga_0.3.1_windows_amd64.tar.gz",
+      "url": "https://ghproxy.085404.xyz/https://github.com/openfga/cli/releases/download/v0.3.1/fga_0.3.1_windows_amd64.tar.gz",
       "hash": "af7527072ca7eae4ea72fdf54bf0e3ac2cc742504fc3b7b9c0bf8455fc75fdb5"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/openfga/cli/releases/download/v0.3.1/fga_0.3.1_windows_386.tar.gz",
+      "url": "https://ghproxy.085404.xyz/https://github.com/openfga/cli/releases/download/v0.3.1/fga_0.3.1_windows_386.tar.gz",
       "hash": "2ee2cf38c4c5a0927b726bd06cc0b3f4a433ba030fb2ba6c13d9e8bdfa05b893"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/openfga/cli/releases/download/v0.3.1/fga_0.3.1_windows_arm64.tar.gz",
+      "url": "https://ghproxy.085404.xyz/https://github.com/openfga/cli/releases/download/v0.3.1/fga_0.3.1_windows_arm64.tar.gz",
       "hash": "afac75f74a281e240ca7cf41edcde5b2db99712edd30a1e97edef3436250880a"
     }
   },
@@ -24,13 +24,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/openfga/cli/releases/download/v$version/fga_$version_windows_amd64.tar.gz"
+        "url": "https://ghproxy.085404.xyz/https://github.com/openfga/cli/releases/download/v$version/fga_$version_windows_amd64.tar.gz"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/openfga/cli/releases/download/v$version/fga_$version_windows_386.tar.gz"
+        "url": "https://ghproxy.085404.xyz/https://github.com/openfga/cli/releases/download/v$version/fga_$version_windows_386.tar.gz"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/openfga/cli/releases/download/v$version/fga_$version_windows_arm64.tar.gz"
+        "url": "https://ghproxy.085404.xyz/https://github.com/openfga/cli/releases/download/v$version/fga_$version_windows_arm64.tar.gz"
       }
     },
     "hash": {

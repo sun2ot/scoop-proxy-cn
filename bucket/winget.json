@@ -10,7 +10,7 @@
   "suggest": {
     "vcredist": "extras/vcredist2022"
   },
-  "url": "https://mirror.ghproxy.com/https://github.com/microsoft/winget-cli/releases/download/v1.7.11132/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle#/dl.7z",
+  "url": "https://ghproxy.085404.xyz/https://github.com/microsoft/winget-cli/releases/download/v1.7.11132/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle#/dl.7z",
   "hash": "e8a772d9b3b8474a870bf790b99152f4d211d1c463d5696482b445aa2c507fc9",
   "architecture": {
     "64bit": {
@@ -29,9 +29,9 @@
   "bin": "winget.exe",
   "checkver": "github",
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/microsoft/winget-cli/releases/download/v$version/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle#/dl.7z",
+    "url": "https://ghproxy.085404.xyz/https://github.com/microsoft/winget-cli/releases/download/v$version/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle#/dl.7z",
     "hash": {
-      "url": "https://mirror.ghproxy.com/https://github.com/microsoft/winget-cli/releases/download/v$version/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.txt"
+      "url": "https://ghproxy.085404.xyz/https://github.com/microsoft/winget-cli/releases/download/v$version/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.txt"
     }
   }
 }

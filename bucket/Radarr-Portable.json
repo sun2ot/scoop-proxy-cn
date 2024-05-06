@@ -4,7 +4,7 @@
   "homepage": "https://github.com/Radarr/Radarr",
   "license": "MIT",
   "changelog": "https://github.com/Radarr/Radarr/releases",
-  "url": "https://mirror.ghproxy.com/https://github.com/Radarr/Radarr/releases/download/v5.4.6.8723/Radarr.master.5.4.6.8723.windows-core-x64.zip",
+  "url": "https://ghproxy.085404.xyz/https://github.com/Radarr/Radarr/releases/download/v5.4.6.8723/Radarr.master.5.4.6.8723.windows-core-x64.zip",
   "hash": "ed65c2d7b4b0b8a347ba0d790ca35dd0f03602808c6f79a1bbcb7f89879d15c9",
   "extract_dir": "Radarr",
   "shortcuts": [
@@ -15,6 +15,6 @@
   ],
   "checkver": "github",
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/Radarr/Radarr/releases/download/v$version/Radarr.master.$version.windows-core-x64.zip"
+    "url": "https://ghproxy.085404.xyz/https://github.com/Radarr/Radarr/releases/download/v$version/Radarr.master.$version.windows-core-x64.zip"
   }
 }

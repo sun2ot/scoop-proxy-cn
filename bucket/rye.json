@@ -8,11 +8,11 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/mitsuhiko/rye/releases/download/0.33.0/rye-x86_64-windows.exe#/rye.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/mitsuhiko/rye/releases/download/0.33.0/rye-x86_64-windows.exe#/rye.exe",
       "hash": "a372bcb2347db220d8c5f748a89b3012b9daf6159d73835493d3507a070999b3"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/mitsuhiko/rye/releases/download/0.33.0/rye-x86-windows.exe#/rye.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/mitsuhiko/rye/releases/download/0.33.0/rye-x86-windows.exe#/rye.exe",
       "hash": "832b8c3a3f898e45ff0e59d610ed0e751557b74c1ae2680b2471182c865f2834"
     }
   },
@@ -42,10 +42,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/mitsuhiko/rye/releases/download/$version/rye-x86_64-windows.exe#/rye.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/mitsuhiko/rye/releases/download/$version/rye-x86_64-windows.exe#/rye.exe"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/mitsuhiko/rye/releases/download/$version/rye-x86-windows.exe#/rye.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/mitsuhiko/rye/releases/download/$version/rye-x86-windows.exe#/rye.exe"
       }
     },
     "hash": {

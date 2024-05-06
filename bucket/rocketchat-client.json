@@ -3,7 +3,7 @@
   "description": "Desktop application for Rocket.Chat using Electron",
   "homepage": "https://rocket.chat",
   "license": "MIT",
-  "url": "https://mirror.ghproxy.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.9.14/rocketchat-3.9.14-win.exe#/dl.7z",
+  "url": "https://ghproxy.085404.xyz/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.9.14/rocketchat-3.9.14-win.exe#/dl.7z",
   "hash": "sha512:a8c56e8ea5779043d3d7fd9a6682b287f6117d70ecc85522c66e3782fc339424b2095e75091ddab0a51b23a0244f72d63a0a6806933ca07184adbbef7df68f2f",
   "architecture": {
     "64bit": {
@@ -30,7 +30,7 @@
     "github": "https://github.com/RocketChat/Rocket.Chat.Electron"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/$version/rocketchat-$version-win.exe#/dl.7z",
+    "url": "https://ghproxy.085404.xyz/https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/$version/rocketchat-$version-win.exe#/dl.7z",
     "hash": {
       "url": "$baseurl/latest.yml",
       "regex": "sha512:\\s+$base64"

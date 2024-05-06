@@ -7,9 +7,9 @@
     "url": "https://github.com/Aleph-One-Marathon/alephone/blob/master/COPYING"
   },
   "url": [
-    "https://mirror.ghproxy.com/https://github.com/Aleph-One-Marathon/alephone/releases/download/release-20240119/Marathon-20240119-Win.zip",
-    "https://mirror.ghproxy.com/https://github.com/Aleph-One-Marathon/alephone/releases/download/release-20240119/Marathon2-20240119-Win.zip",
-    "https://mirror.ghproxy.com/https://github.com/Aleph-One-Marathon/alephone/releases/download/release-20240119/MarathonInfinity-20240119-Win.zip"
+    "https://ghproxy.085404.xyz/https://github.com/Aleph-One-Marathon/alephone/releases/download/release-20240119/Marathon-20240119-Win.zip",
+    "https://ghproxy.085404.xyz/https://github.com/Aleph-One-Marathon/alephone/releases/download/release-20240119/Marathon2-20240119-Win.zip",
+    "https://ghproxy.085404.xyz/https://github.com/Aleph-One-Marathon/alephone/releases/download/release-20240119/MarathonInfinity-20240119-Win.zip"
   ],
   "hash": [
     "5032aaf0b85bb95fd8e3f63951d0ed808fb88401c743854193cee0c0d58b4815",
@@ -47,9 +47,9 @@
   },
   "autoupdate": {
     "url": [
-      "https://mirror.ghproxy.com/https://github.com/Aleph-One-Marathon/alephone/releases/download/release-$version/Marathon-$version-Win.zip",
-      "https://mirror.ghproxy.com/https://github.com/Aleph-One-Marathon/alephone/releases/download/release-$version/Marathon2-$version-Win.zip",
-      "https://mirror.ghproxy.com/https://github.com/Aleph-One-Marathon/alephone/releases/download/release-$version/MarathonInfinity-$version-Win.zip"
+      "https://ghproxy.085404.xyz/https://github.com/Aleph-One-Marathon/alephone/releases/download/release-$version/Marathon-$version-Win.zip",
+      "https://ghproxy.085404.xyz/https://github.com/Aleph-One-Marathon/alephone/releases/download/release-$version/Marathon2-$version-Win.zip",
+      "https://ghproxy.085404.xyz/https://github.com/Aleph-One-Marathon/alephone/releases/download/release-$version/MarathonInfinity-$version-Win.zip"
     ],
     "extract_dir": [
       "Marathon-$version",

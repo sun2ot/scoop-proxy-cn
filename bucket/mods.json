@@ -5,12 +5,12 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/charmbracelet/mods/releases/download/v1.3.0/mods_1.3.0_Windows_x86_64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/charmbracelet/mods/releases/download/v1.3.0/mods_1.3.0_Windows_x86_64.zip",
       "hash": "fbfff7a00b6d2d2ca73185e5cfe8ae5c9aa60b283bdca1b06eafbd8e75ee1f59",
       "extract_dir": "mods_1.3.0_Windows_x86_64"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/charmbracelet/mods/releases/download/v1.3.0/mods_1.3.0_Windows_arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/charmbracelet/mods/releases/download/v1.3.0/mods_1.3.0_Windows_arm64.zip",
       "hash": "5275e831d66f6dd4309e524abb0331b5023f294f1d0cdd92aa5b70257bc63739",
       "extract_dir": "mods_1.3.0_Windows_arm64"
     }
@@ -20,11 +20,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/charmbracelet/mods/releases/download/v$version/mods_$version_Windows_x86_64.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/charmbracelet/mods/releases/download/v$version/mods_$version_Windows_x86_64.zip",
         "extract_dir": "mods_$version_Windows_x86_64"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/charmbracelet/mods/releases/download/v$version/mods_$version_Windows_arm64.zip",
+        "url": "https://ghproxy.085404.xyz/https://github.com/charmbracelet/mods/releases/download/v$version/mods_$version_Windows_arm64.zip",
         "extract_dir": "mods_$version_Windows_arm64"
       }
     },

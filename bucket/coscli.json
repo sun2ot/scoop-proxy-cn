@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/tencentyun/coscli/releases/download/v0.20.0-beta/coscli-windows.exe#/coscli.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/tencentyun/coscli/releases/download/v0.20.0-beta/coscli-windows.exe#/coscli.exe",
       "hash": "b93e340086bd119ebca7751bc6fca8d8abd2541535452261ece752d3a01117bf"
     }
   },
@@ -17,7 +17,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/tencentyun/coscli/releases/download/v$version/coscli-windows.exe#/coscli.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/tencentyun/coscli/releases/download/v$version/coscli-windows.exe#/coscli.exe"
       }
     }
   }

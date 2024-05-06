@@ -5,7 +5,7 @@
   "license": "GPL-2.0-only WITH Classpath-exception-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.18.19_jdk8u402-ga/Alibaba_Dragonwell_Standard_8.18.19_x64_windows.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.18.19_jdk8u402-ga/Alibaba_Dragonwell_Standard_8.18.19_x64_windows.zip",
       "hash": "c52fff27609f7165a03b4f34c26e41b591b7fbfc3b061b5073a0e6c0df592661"
     }
   },
@@ -28,7 +28,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/dragonwell-project/dragonwell8/releases/download/$matchTag/Alibaba_Dragonwell_Standard_$matchDragon_x64_windows.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/dragonwell-project/dragonwell8/releases/download/$matchTag/Alibaba_Dragonwell_Standard_$matchDragon_x64_windows.zip"
       }
     },
     "hash": {

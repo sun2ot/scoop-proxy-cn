@@ -8,11 +8,11 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/yt-dlp/yt-dlp/releases/download/2024.04.09/yt-dlp.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/yt-dlp/yt-dlp/releases/download/2024.04.09/yt-dlp.exe",
       "hash": "sha512:f1a6f2cbb4da864feff6c2dc5de2e9c8c59efa20e091b4d6557eaccc06b2b32f71b1bfcd51eb86de563fed62ff466b6c8bf699f880fd19980da2c18c1ed92a10"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/yt-dlp/yt-dlp/releases/download/2024.04.09/yt-dlp_x86.exe#/yt-dlp.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/yt-dlp/yt-dlp/releases/download/2024.04.09/yt-dlp_x86.exe#/yt-dlp.exe",
       "hash": "sha512:205b40554b2b5cdcb2ab360f36d9a28f1adb230ef1dfd3e1fb2e7c1f3e40aedceca4d3d2fc84445952b9012b11a041f068b04a231b6270144d93d3eb1af0223f"
     }
   },
@@ -26,10 +26,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/yt-dlp/yt-dlp/releases/download/$version/yt-dlp.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/yt-dlp/yt-dlp/releases/download/$version/yt-dlp.exe"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/yt-dlp/yt-dlp/releases/download/$version/yt-dlp_x86.exe#/yt-dlp.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/yt-dlp/yt-dlp/releases/download/$version/yt-dlp_x86.exe#/yt-dlp.exe"
       }
     },
     "hash": {

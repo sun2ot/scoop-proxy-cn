@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/cilium/cilium-cli/releases/download/v0.16.6/cilium-windows-amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/cilium/cilium-cli/releases/download/v0.16.6/cilium-windows-amd64.zip",
       "hash": "c99c057f92b78ec241988417c2782484b536607393754d599b9ca300a6a48227"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/cilium/cilium-cli/releases/download/v0.16.6/cilium-windows-arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/cilium/cilium-cli/releases/download/v0.16.6/cilium-windows-arm64.zip",
       "hash": "152aa9492786f9998e370e2fe8d3fb77b1be3cb196e92a315e8a1167ebb65af2"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/cilium/cilium-cli/releases/download/v$version/cilium-windows-amd64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/cilium/cilium-cli/releases/download/v$version/cilium-windows-amd64.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/cilium/cilium-cli/releases/download/v$version/cilium-windows-arm64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/cilium/cilium-cli/releases/download/v$version/cilium-windows-arm64.zip"
       }
     },
     "hash": {

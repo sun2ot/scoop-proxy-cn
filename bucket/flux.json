@@ -5,15 +5,15 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/fluxcd/flux2/releases/download/v2.2.3/flux_2.2.3_windows_amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/fluxcd/flux2/releases/download/v2.2.3/flux_2.2.3_windows_amd64.zip",
       "hash": "1980703360d662388e0dba7d320f27fbcf387c0b5f976c1503d11b60bc06e132"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/fluxcd/flux2/releases/download/v2.2.3/flux_2.2.3_windows_arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/fluxcd/flux2/releases/download/v2.2.3/flux_2.2.3_windows_arm64.zip",
       "hash": "ca64e09a65d654667b0f0f97de47c756b1629ff93bdf41f8020482d9e6aab75c"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/fluxcd/flux2/releases/download/v2.2.3/flux_2.2.3_windows_386.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/fluxcd/flux2/releases/download/v2.2.3/flux_2.2.3_windows_386.zip",
       "hash": "fdbd47420d5bb473f8e73b84de0c5033f7ffc75ed455300d36aad05e2179e869"
     }
   },
@@ -26,13 +26,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/fluxcd/flux2/releases/download/v$version/flux_$version_windows_amd64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/fluxcd/flux2/releases/download/v$version/flux_$version_windows_amd64.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/fluxcd/flux2/releases/download/v$version/flux_$version_windows_arm64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/fluxcd/flux2/releases/download/v$version/flux_$version_windows_arm64.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/fluxcd/flux2/releases/download/v$version/flux_$version_windows_386.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/fluxcd/flux2/releases/download/v$version/flux_$version_windows_386.zip"
       }
     },
     "hash": {

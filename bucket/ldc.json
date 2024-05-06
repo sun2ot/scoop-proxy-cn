@@ -8,12 +8,12 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ldc-developers/ldc/releases/download/v1.37.0/ldc2-1.37.0-windows-x64.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ldc-developers/ldc/releases/download/v1.37.0/ldc2-1.37.0-windows-x64.7z",
       "hash": "7bbf9f6aabdd224e54056a72fe7cbb6a1e569081baaf914ab8061d73d9e63487",
       "extract_dir": "ldc2-1.37.0-windows-x64"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ldc-developers/ldc/releases/download/v1.37.0/ldc2-1.37.0-windows-x86.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ldc-developers/ldc/releases/download/v1.37.0/ldc2-1.37.0-windows-x86.7z",
       "hash": "ee904ee4b41358bb7579bc77b6d5f775c26d41c79fe1d2c6b3495116fd23e8c5",
       "extract_dir": "ldc2-1.37.0-windows-x86"
     }
@@ -25,11 +25,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ldc-developers/ldc/releases/download/v$version/ldc2-$version-windows-x64.7z",
+        "url": "https://ghproxy.085404.xyz/https://github.com/ldc-developers/ldc/releases/download/v$version/ldc2-$version-windows-x64.7z",
         "extract_dir": "ldc2-$version-windows-x64"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ldc-developers/ldc/releases/download/v$version/ldc2-$version-windows-x86.7z",
+        "url": "https://ghproxy.085404.xyz/https://github.com/ldc-developers/ldc/releases/download/v$version/ldc2-$version-windows-x86.7z",
         "extract_dir": "ldc2-$version-windows-x86"
       }
     }

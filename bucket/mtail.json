@@ -5,15 +5,15 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/google/mtail/releases/download/v3.0.0/mtail_3.0.0_windows_amd64.tar.gz",
+      "url": "https://ghproxy.085404.xyz/https://github.com/google/mtail/releases/download/v3.0.0/mtail_3.0.0_windows_amd64.tar.gz",
       "hash": "cad3edb938b09bea6646e5eeab4d595ffd1926884dae81a86874d44b1d6d94fb"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/google/mtail/releases/download/v3.0.0/mtail_3.0.0_windows_386.tar.gz",
+      "url": "https://ghproxy.085404.xyz/https://github.com/google/mtail/releases/download/v3.0.0/mtail_3.0.0_windows_386.tar.gz",
       "hash": "2d2a9ea23f0a4a78d6fd48e84f8e5a1b7d96095ab896cfb1009b2e1b77e70dbf"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/google/mtail/releases/download/v3.0.0/mtail_3.0.0_windows_arm64.tar.gz",
+      "url": "https://ghproxy.085404.xyz/https://github.com/google/mtail/releases/download/v3.0.0/mtail_3.0.0_windows_arm64.tar.gz",
       "hash": "41e4e1850877bb3b2504cc1f80f615f55ea4cdf9818c35a4bc47f262e4132f0b"
     }
   },
@@ -25,13 +25,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/google/mtail/releases/download/v$version/mtail_$version_windows_amd64.tar.gz"
+        "url": "https://ghproxy.085404.xyz/https://github.com/google/mtail/releases/download/v$version/mtail_$version_windows_amd64.tar.gz"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/google/mtail/releases/download/v$version/mtail_$version_windows_386.tar.gz"
+        "url": "https://ghproxy.085404.xyz/https://github.com/google/mtail/releases/download/v$version/mtail_$version_windows_386.tar.gz"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/google/mtail/releases/download/v$version/mtail_$version_windows_arm64.tar.gz"
+        "url": "https://ghproxy.085404.xyz/https://github.com/google/mtail/releases/download/v$version/mtail_$version_windows_arm64.tar.gz"
       }
     },
     "hash": {

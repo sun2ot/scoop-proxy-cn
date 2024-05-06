@@ -2114,7 +2114,7 @@ bucket/buttercup.json, ScoopInstaller/Extras, 1
 bucket/butterflow-ui.json, ScoopInstaller/Extras, 1
 bucket/butterflow.json, ScoopInstaller/Main, 1
 bucket/butterfly.json, ScoopInstaller/Extras, 1
-bucket/buzz.json, ivaquero/scoopet, 0
+bucket/buzz.json, ivaquero/scoopet, 1
 bucket/bw_add_sshkeys.json, Weidows-projects/scoop-3rd, 1
 bucket/byacc.json, ScoopInstaller/Main, 0
 bucket/byenow.json, ScoopInstaller/Main, 0
@@ -2241,7 +2241,7 @@ bucket/cdrtools.json, ScoopInstaller/Main, 0
 bucket/cdsctl.json, hoilc/scoop-lemon, 1
 bucket/cefflashbrowser.json, ScoopInstaller/Extras, 1
 bucket/celestia.json, ScoopInstaller/Extras, 1
-bucket/cemu-dev.json, Calinou/scoop-games, 1
+bucket/cemu-dev.json, borger/scoop-emulators, 1
 bucket/cemu-x.json, kiennq/scoop-misc, 1
 bucket/cemu.json, Deide/deide-bucket, 1
 bucket/cemuhook-webgyro.json, kiennq/scoop-misc, 1
@@ -7248,6 +7248,7 @@ bucket/pixiv-omina.json, batkiz/backit, 1
 bucket/pixivbiu.json, HCLonely/my-scoop-bucket, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
 bucket/pixpin.json, hoilc/scoop-lemon, 0
+bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
 bucket/pkg-config.json, ScoopInstaller/Main, 0
 bucket/pkg2zip.json, Deide/deide-bucket, 1
 bucket/pkhex.json, Calinou/scoop-games, 0

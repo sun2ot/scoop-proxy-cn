@@ -5,11 +5,11 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/txthinking/tun2brook/releases/download/v20240606/tun2brook_windows_amd64.exe#/tun2brook.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/txthinking/tun2brook/releases/download/v20240606/tun2brook_windows_amd64.exe#/tun2brook.exe",
       "hash": "c6723da85c307ac5d016ba99891eb1fdfd0ad7c6c61c513a396154dac95120c4"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/txthinking/tun2brook/releases/download/v20240606/tun2brook_windows_arm64.exe#/tun2brook.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/txthinking/tun2brook/releases/download/v20240606/tun2brook_windows_arm64.exe#/tun2brook.exe",
       "hash": "54b15111adba027335b53151fb0aa0f2849f8d9f57525a67e2505f20bcd75a1d"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/txthinking/tun2brook/releases/download/v$version/tun2brook_windows_amd64.exe#/tun2brook.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/txthinking/tun2brook/releases/download/v$version/tun2brook_windows_amd64.exe#/tun2brook.exe"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/txthinking/tun2brook/releases/download/v$version/tun2brook_windows_arm64.exe#/tun2brook.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/txthinking/tun2brook/releases/download/v$version/tun2brook_windows_arm64.exe#/tun2brook.exe"
       }
     }
   }

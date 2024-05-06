@@ -5,7 +5,7 @@
   "license": "GPL-2.0-only WITH Classpath-exception-2.0,EPL-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.10%2B7_openj9-0.43.0/ibm-semeru-open-jdk_x64_windows_17.0.10_7_openj9-0.43.0.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ibmruntimes/semeru17-binaries/releases/download/jdk-17.0.10%2B7_openj9-0.43.0/ibm-semeru-open-jdk_x64_windows_17.0.10_7_openj9-0.43.0.zip",
       "hash": "ae1f412b59bb90c8c9877f7a2e48dd21d775d729ab6c9a1a3ca4dfac825b8e75"
     }
   },
@@ -22,7 +22,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ibmruntimes/semeru17-binaries/releases/download/$matchTag/ibm-semeru-open-jdk_x64_windows_$matchMajor_$matchBuild$matchPatch_openj9$matchJvmver.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/ibmruntimes/semeru17-binaries/releases/download/$matchTag/ibm-semeru-open-jdk_x64_windows_$matchMajor_$matchBuild$matchPatch_openj9$matchJvmver.zip"
       }
     },
     "hash": {

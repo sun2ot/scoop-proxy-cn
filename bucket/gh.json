@@ -5,15 +5,15 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/cli/cli/releases/download/v2.49.0/gh_2.49.0_windows_amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/cli/cli/releases/download/v2.49.0/gh_2.49.0_windows_amd64.zip",
       "hash": "61bfb0d36ca3489d3ec87008ee31c7c40087e6d4943917e8013f85ffe96b9fe7"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/cli/cli/releases/download/v2.49.0/gh_2.49.0_windows_386.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/cli/cli/releases/download/v2.49.0/gh_2.49.0_windows_386.zip",
       "hash": "35a5df88ff64b3f17c83c3fce103e51edf87f31a9944bea920cfadff4dc46021"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/cli/cli/releases/download/v2.49.0/gh_2.49.0_windows_arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/cli/cli/releases/download/v2.49.0/gh_2.49.0_windows_arm64.zip",
       "hash": "b0049f3b20818935628dc79b74a6c7135a446d201776d47e96f1966a0f64cd4f"
     }
   },
@@ -24,13 +24,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_amd64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_amd64.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_386.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_386.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_arm64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_arm64.zip"
       }
     },
     "hash": {

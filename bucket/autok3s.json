@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/cnrancher/autok3s/releases/download/v0.9.2/autok3s_windows_amd64.exe#/autok3s.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/cnrancher/autok3s/releases/download/v0.9.2/autok3s_windows_amd64.exe#/autok3s.exe",
       "hash": "d0f7d294e14e8360f91616918396bd764adfa01e7f72fa4c0f7d401e87385671"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/cnrancher/autok3s/releases/download/v0.9.2/autok3s_windows_386.exe#/autok3s.exe",
+      "url": "https://ghproxy.085404.xyz/https://github.com/cnrancher/autok3s/releases/download/v0.9.2/autok3s_windows_386.exe#/autok3s.exe",
       "hash": "605622972adb9964018ad122d077bc116756d4e6b54d016e96af5a4cb384034d"
     }
   },
@@ -18,10 +18,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/cnrancher/autok3s/releases/download/v$version/autok3s_windows_amd64.exe#/autok3s.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/cnrancher/autok3s/releases/download/v$version/autok3s_windows_amd64.exe#/autok3s.exe"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/cnrancher/autok3s/releases/download/v$version/autok3s_windows_386.exe#/autok3s.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/cnrancher/autok3s/releases/download/v$version/autok3s_windows_386.exe#/autok3s.exe"
       }
     },
     "hash": {

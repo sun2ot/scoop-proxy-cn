@@ -5,7 +5,7 @@
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/storj/storj/releases/download/v1.102.3/uplink_windows_amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/storj/storj/releases/download/v1.102.3/uplink_windows_amd64.zip",
       "hash": "1ef98ef06b8edfe36059bab5a7644afc65651a1e507b80aafbcd26a06b6c4157"
     }
   },
@@ -16,7 +16,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/storj/storj/releases/download/v$version/uplink_windows_amd64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/storj/storj/releases/download/v$version/uplink_windows_amd64.zip"
       }
     }
   }

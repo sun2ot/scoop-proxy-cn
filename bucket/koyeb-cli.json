@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/koyeb/koyeb-cli/releases/download/v3.11.0/koyeb-cli_3.11.0_windows_amd64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/koyeb/koyeb-cli/releases/download/v3.11.0/koyeb-cli_3.11.0_windows_amd64.zip",
       "hash": "b638809ca28820647925f65bab0a199073c3b03e6e1282c66c5d78c3af0d8ab1"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/koyeb/koyeb-cli/releases/download/v3.11.0/koyeb-cli_3.11.0_windows_arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/koyeb/koyeb-cli/releases/download/v3.11.0/koyeb-cli_3.11.0_windows_arm64.zip",
       "hash": "02665ccdf1288cdd69b2db4ccdffca339819a71702198c0b1bcdadee6a675f70"
     }
   },
@@ -20,10 +20,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/koyeb/koyeb-cli/releases/download/v$version/koyeb-cli_$version_windows_amd64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/koyeb/koyeb-cli/releases/download/v$version/koyeb-cli_$version_windows_amd64.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/koyeb/koyeb-cli/releases/download/v$version/koyeb-cli_$version_windows_arm64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/koyeb/koyeb-cli/releases/download/v$version/koyeb-cli_$version_windows_arm64.zip"
       }
     },
     "hash": {

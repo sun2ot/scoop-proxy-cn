@@ -8,17 +8,17 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/RayWangQvQ/BiliBiliToolPro/releases/download/2.0.5/bilibili-tool-pro-v2.0.5-win-x64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/RayWangQvQ/BiliBiliToolPro/releases/download/2.0.5/bilibili-tool-pro-v2.0.5-win-x64.zip",
       "hash": "2a47570ae3234281e90146eb67ff5902c9884c1d60ea032b93bbc921108f6312",
       "extract_dir": "win-x64"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/RayWangQvQ/BiliBiliToolPro/releases/download/2.0.5/bilibili-tool-pro-v2.0.5-win-x86.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/RayWangQvQ/BiliBiliToolPro/releases/download/2.0.5/bilibili-tool-pro-v2.0.5-win-x86.zip",
       "hash": "4ebdefa5dfe5172b9375ad5ffbd1b8751d6c1bdf4ea18a2b7d530465c6e59058",
       "extract_dir": "win-x86"
     },
     "arm64": {
-      "url": "https://mirror.ghproxy.com/https://github.com/RayWangQvQ/BiliBiliToolPro/releases/download/2.0.5/bilibili-tool-pro-v2.0.5-win-arm64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/RayWangQvQ/BiliBiliToolPro/releases/download/2.0.5/bilibili-tool-pro-v2.0.5-win-arm64.zip",
       "hash": "e84471303c2c5813c71a722a5dad4f423751ac4bacc2218bfcc76b9e23602d39",
       "extract_dir": "win-arm64"
     }
@@ -57,13 +57,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/RayWangQvQ/BiliBiliToolPro/releases/download/$version/bilibili-tool-pro-v$version-win-x64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/RayWangQvQ/BiliBiliToolPro/releases/download/$version/bilibili-tool-pro-v$version-win-x64.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/RayWangQvQ/BiliBiliToolPro/releases/download/$version/bilibili-tool-pro-v$version-win-x86.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/RayWangQvQ/BiliBiliToolPro/releases/download/$version/bilibili-tool-pro-v$version-win-x86.zip"
       },
       "arm64": {
-        "url": "https://mirror.ghproxy.com/https://github.com/RayWangQvQ/BiliBiliToolPro/releases/download/$version/bilibili-tool-pro-v$version-win-arm64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/RayWangQvQ/BiliBiliToolPro/releases/download/$version/bilibili-tool-pro-v$version-win-arm64.zip"
       }
     }
   }

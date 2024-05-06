@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/vmware/govmomi/releases/download/v0.37.1/govc_Windows_x86_64.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/vmware/govmomi/releases/download/v0.37.1/govc_Windows_x86_64.zip",
       "hash": "0364debc7f3e373c04a8e13237b54b784eff5f524dc72a788cf4e5af958401bb"
     }
   },
@@ -14,7 +14,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/vmware/govmomi/releases/download/v$version/govc_Windows_x86_64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/vmware/govmomi/releases/download/v$version/govc_Windows_x86_64.zip"
       }
     },
     "hash": {

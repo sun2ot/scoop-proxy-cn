@@ -3,7 +3,7 @@
   "description": "SIP softphone software",
   "license": "BSD-3-Clause",
   "homepage": "http://tomeko.net/software/SIPclient/",
-  "url": "https://mirror.ghproxy.com/https://github.com/tomek-o/tSIP/releases/download/v0.3.03/tSIP_0_3_03_bin.zip",
+  "url": "https://ghproxy.085404.xyz/https://github.com/tomek-o/tSIP/releases/download/v0.3.03/tSIP_0_3_03_bin.zip",
   "hash": "57bf44a0037a7797efecf24f53ce71d3b408956b9ca9e4a4d435d5ddefe79da6",
   "extract_dir": "tSIP_0_3_03_bin",
   "pre_install": [
@@ -31,7 +31,7 @@
     "github": "https://github.com/tomek-o/tSIP"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/tomek-o/tSIP/releases/download/v$version/tSIP_$underscoreVersion_bin.zip",
+    "url": "https://ghproxy.085404.xyz/https://github.com/tomek-o/tSIP/releases/download/v$version/tSIP_$underscoreVersion_bin.zip",
     "extract_dir": "tSIP_$underscoreVersion_bin"
   }
 }

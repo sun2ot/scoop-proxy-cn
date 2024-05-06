@@ -5,11 +5,11 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/qiniu/kodo-browser/releases/download/v2.1.2/kodo-browser-win32-x64-v2.1.2.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/qiniu/kodo-browser/releases/download/v2.1.2/kodo-browser-win32-x64-v2.1.2.zip",
       "hash": "0feda6f0cb73d63914c0f2f21c26f3f38c8cb88efa9b5332331e509c105275aa"
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/qiniu/kodo-browser/releases/download/v2.1.2/kodo-browser-win32-x86-v2.1.2.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/qiniu/kodo-browser/releases/download/v2.1.2/kodo-browser-win32-x86-v2.1.2.zip",
       "hash": "880564ebf0a585697e1fbbebcadc56c68e6b38b9315bc515cab58170e4373db8"
     }
   },
@@ -25,10 +25,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/qiniu/kodo-browser/releases/download/v$version/kodo-browser-win32-x64-v$version.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/qiniu/kodo-browser/releases/download/v$version/kodo-browser-win32-x64-v$version.zip"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/qiniu/kodo-browser/releases/download/v$version/kodo-browser-win32-x86-v$version.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/qiniu/kodo-browser/releases/download/v$version/kodo-browser-win32-x86-v$version.zip"
       }
     }
   }

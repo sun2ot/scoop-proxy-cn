@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/download/v2.12.2/NextChat_2.12.2_x64_en-US.msi",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/download/v2.12.2/NextChat_2.12.2_x64_en-US.msi",
       "hash": "f9cdf987994ba99c4b7d3ebc73d8cbde2b6191edc2fdd9889e34d1628880a107"
     }
   },
@@ -21,6 +21,6 @@
   ],
   "checkver": "github",
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/download/v$version/NextChat_$version_x64_en-US.msi"
+    "url": "https://ghproxy.085404.xyz/https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/download/v$version/NextChat_$version_x64_en-US.msi"
   }
 }

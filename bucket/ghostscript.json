@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10030/gs10030w64.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10030/gs10030w64.exe#/dl.7z",
       "hash": "sha512:a78e4bde43a391d0f380d10cbe2eeb16459f7ccdd8edd325a77099832f7d8342b6c07bae532b14cbeb3395cc836c035f91d46e6da052e7d8900fc2c00a98c641",
       "bin": [
         "bin\\gswin64.exe",
@@ -20,7 +20,7 @@
       ]
     },
     "32bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10030/gs10030w32.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs10030/gs10030w32.exe#/dl.7z",
       "hash": "sha512:fc154c629e62aa7ed608aa9c1c2a0973e24b7acc362ec1b8d9b413de2b88e71993b79b5c4ffad6b9137aa50cfbb08f2e28a244a9163202a462ad3a70492597e1",
       "bin": [
         "bin\\gswin32.exe",
@@ -58,10 +58,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs$cleanVersion/gs$cleanVersionw64.exe#/dl.7z"
+        "url": "https://ghproxy.085404.xyz/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs$cleanVersion/gs$cleanVersionw64.exe#/dl.7z"
       },
       "32bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs$cleanVersion/gs$cleanVersionw32.exe#/dl.7z"
+        "url": "https://ghproxy.085404.xyz/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs$cleanVersion/gs$cleanVersionw32.exe#/dl.7z"
       }
     },
     "hash": {

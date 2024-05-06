@@ -6,7 +6,7 @@
   "changelog": "https://github.com/Levminer/authme/releases",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/Levminer/authme/releases/download/5.1.0/authme-5.1.0-windows-x64.msi",
+      "url": "https://ghproxy.085404.xyz/https://github.com/Levminer/authme/releases/download/5.1.0/authme-5.1.0-windows-x64.msi",
       "hash": "30d95c67c85558ad520d1f28c6a4145930e43b098c3368ff6f8734ba7cc1a930"
     }
   },
@@ -24,7 +24,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/Levminer/authme/releases/download/$version/authme-$version-windows-x64.msi"
+        "url": "https://ghproxy.085404.xyz/https://github.com/Levminer/authme/releases/download/$version/authme-$version-windows-x64.msi"
       }
     }
   }

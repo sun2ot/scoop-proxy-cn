@@ -10,10 +10,10 @@
     "If you want to customize the rendering, use 'cnc-ddraw config.exe'",
     ""
   ],
-  "url": "https://mirror.ghproxy.com/https://github.com/CnCNet/cnc-ddraw/releases/download/v6.3.0.0/cnc-ddraw.zip",
+  "url": "https://ghproxy.085404.xyz/https://github.com/CnCNet/cnc-ddraw/releases/download/v6.3.0.0/cnc-ddraw.zip",
   "hash": "c024d0ea42ec2d9708dc0a19342d037de7307c291dc43c01948a7d8f06b4deca",
   "checkver": "github",
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/CnCNet/cnc-ddraw/releases/download/v$version/cnc-ddraw.zip"
+    "url": "https://ghproxy.085404.xyz/https://github.com/CnCNet/cnc-ddraw/releases/download/v$version/cnc-ddraw.zip"
   }
 }

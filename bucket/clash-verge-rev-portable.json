@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.6.1/Clash.Verge_1.6.1_x64_portable.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v1.6.1/Clash.Verge_1.6.1_x64_portable.zip",
       "hash": "14333a3b9a742027294022d7b29b85b724b9b496586dff1957924ba17391bcba"
     }
   },
@@ -34,7 +34,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v$version/$matchFile"
+        "url": "https://ghproxy.085404.xyz/https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v$version/$matchFile"
       }
     }
   }

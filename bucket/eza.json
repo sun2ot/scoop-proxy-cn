@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/eza-community/eza/releases/download/v0.18.14/eza.exe_x86_64-pc-windows-gnu.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/eza-community/eza/releases/download/v0.18.14/eza.exe_x86_64-pc-windows-gnu.zip",
       "hash": "d107fc5f44fc27a56c9b708387a856f0a9a6d09fa8fa52e4b0a50559d0756046"
     }
   },
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/eza-community/eza/releases/download/v$version/eza.exe_x86_64-pc-windows-gnu.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/eza-community/eza/releases/download/v$version/eza.exe_x86_64-pc-windows-gnu.zip"
       }
     },
     "hash": {

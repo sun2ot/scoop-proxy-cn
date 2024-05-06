@@ -5,7 +5,7 @@
   "homepage": "https://cider.sh",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/ciderapp/Cider/releases/download/v1.6.2/Cider-Setup-1.6.2.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/ciderapp/Cider/releases/download/v1.6.2/Cider-Setup-1.6.2.exe#/dl.7z",
       "hash": "99ac83682dff58dd3fddd300ddd8334287f9f204b1711984298557dc785d0192"
     }
   },
@@ -27,7 +27,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://mirror.ghproxy.com/https://github.com/ciderapp/Cider/releases/download/v$version/Cider-Setup-$version.exe#/dl.7z",
+        "url": "https://ghproxy.085404.xyz/https://github.com/ciderapp/Cider/releases/download/v$version/Cider-Setup-$version.exe#/dl.7z",
         "hash": {
           "url": "$baseurl/latest.yml",
           "regex": "sha512:\\s+$base64"

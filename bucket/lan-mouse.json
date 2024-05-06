@@ -5,7 +5,7 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://mirror.ghproxy.com/https://github.com/feschber/lan-mouse/releases/download/v0.7.3/lan-mouse-windows.zip",
+      "url": "https://ghproxy.085404.xyz/https://github.com/feschber/lan-mouse/releases/download/v0.7.3/lan-mouse-windows.zip",
       "hash": "3bc32dd37639fed99238a5d0d6fa49cb3505ff01a8a4a126a8af4a9ae903efe7"
     }
   },
@@ -20,7 +20,7 @@
     "github": "https://github.com/feschber/lan-mouse"
   },
   "autoupdate": {
-    "url": "https://mirror.ghproxy.com/https://github.com/feschber/lan-mouse/releases/download/v$version/lan-mouse-windows.zip",
+    "url": "https://ghproxy.085404.xyz/https://github.com/feschber/lan-mouse/releases/download/v$version/lan-mouse-windows.zip",
     "hash": {
       "mode": "download"
     }
