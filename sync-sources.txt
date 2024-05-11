@@ -1434,7 +1434,7 @@ bucket/adobephotoshopcclite.json, SayCV/scoop-cvp, 1
 bucket/adom.json, Calinou/scoop-games, 0
 bucket/adpcm-xq.json, hoilc/scoop-lemon, 1
 bucket/adrestore.json, niheaven/scoop-sysinternals, 1
-bucket/adrive.json, echoiron/echo-scoop, 0
+bucket/adrive.json, ygguorun/scoop-bucket, 0
 bucket/advanced-combat-tracker.json, Calinou/scoop-games, 1
 bucket/advanced-ip-scanner.json, ScoopInstaller/Extras, 0
 bucket/advancedrenamer.json, ScoopInstaller/Extras, 0
@@ -2944,6 +2944,7 @@ bucket/diskgeniuslite-zh.json, DoveBoy/Apps, 0
 bucket/diskmon.json, niheaven/scoop-sysinternals, 1
 bucket/disksmartview.json, ScoopInstaller/Nirsoft, 0
 bucket/diskspd.json, ScoopInstaller/Extras, 1
+bucket/diskus.json, aliesbelik/poldi, 1
 bucket/diskview.json, niheaven/scoop-sysinternals, 1
 bucket/dismplusplus.json, ScoopInstaller/Extras, 1
 bucket/dismpp.json, echoiron/echo-scoop, 1
@@ -4888,6 +4889,7 @@ bucket/juliamono.json, KnotUntied/scoop-fonts, 1
 bucket/jumplistsview.json, ScoopInstaller/Nirsoft, 0
 bucket/jumppad.json, hoilc/scoop-lemon, 1
 bucket/junction.json, niheaven/scoop-sysinternals, 1
+bucket/just-color-picker.json, hoilc/scoop-lemon, 0
 bucket/just.json, ScoopInstaller/Main, 1
 bucket/justasplanned.json, beerpiss/scoop-bucket, 1
 bucket/justcolorpicker.json, chawyehsu/dorado, 0
