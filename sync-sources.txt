@@ -748,7 +748,6 @@ bucket/NVUpdater-Portable.json, ACooper81/scoop-apps, 0
 bucket/Nacos.json, zhoujin7/tomato, 1
 bucket/NanaZip-Portable.json, ACooper81/scoop-apps, 1
 bucket/NavicatPremium.json, kkzzhizhou/scoop-zapps, 1
-bucket/NeeView.json, hu3rror/scoop-muggle, 0
 bucket/NegativeEncoder.json, ygguorun/scoop-bucket, 1
 bucket/NerdFontsSymbolsOnly.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/NetSetMan-Portable.json, ACooper81/scoop-apps, 0
@@ -1456,6 +1455,7 @@ bucket/agent-ransack.json, hoilc/scoop-lemon, 0
 bucket/aget-rs.json, amorphobia/siku, 1
 bucket/agg.json, ScoopInstaller/Main, 1
 bucket/agm-supra.json, SayCV/scoop-cvp, 1
+bucket/ahko.json, hoilc/scoop-lemon, 1
 bucket/ahkpm.json, ScoopInstaller/Extras, 1
 bucket/ahoy.json, ScoopInstaller/Main, 1
 bucket/aichat.json, ScoopInstaller/Main, 1
@@ -1943,6 +1943,7 @@ bucket/bililive-recorder-cli.json, hoilc/scoop-lemon, 1
 bucket/bililive-recorder.json, hoilc/scoop-lemon, 1
 bucket/bililiverecorder.json, chawyehsu/dorado, 1
 bucket/bilimini.json, amorphobia/siku, 1
+bucket/bilineo.json, DoveBoy/Apps, 1
 bucket/biliup-app.json, Weidows-projects/scoop-3rd, 1
 bucket/biliup-rs.json, hoilc/scoop-lemon, 1
 bucket/biliuwp-lite.json, hoilc/scoop-lemon, 1
@@ -3071,6 +3072,7 @@ bucket/dotnet5-sdk.json, ScoopInstaller/Versions, 0
 bucket/dotnet6-sdk.json, ScoopInstaller/Versions, 0
 bucket/dotnet7-sdk.json, ScoopInstaller/Versions, 0
 bucket/dotnetresourcesextract.json, ScoopInstaller/Nirsoft, 0
+bucket/dotnetversionlister.json, brian6932/dank-scoop, 0
 bucket/dotter.json, ScoopInstaller/Main, 1
 bucket/dottorrent-gui.json, ScoopInstaller/Extras, 1
 bucket/dottrace-api.json, ScoopInstaller/Main, 0
@@ -3174,6 +3176,7 @@ bucket/dwarf-fortress-lnp.json, Calinou/scoop-games, 0
 bucket/dwarf-fortress.json, Calinou/scoop-games, 0
 bucket/dwarfs-ricepp.json, DoveBoy/Apps, 1
 bucket/dwarfs.json, hoilc/scoop-lemon, 1
+bucket/dwmblurglass.json, hoilc/scoop-lemon, 1
 bucket/dxc.json, ScoopInstaller/Main, 1
 bucket/dxcapsviewer.json, aoisummer/scoop-bucket, 1
 bucket/dxirc.json, ScoopInstaller/Extras, 0
@@ -6091,6 +6094,7 @@ bucket/neatreader.json, echoiron/echo-scoop, 0
 bucket/nebula-console.json, hoilc/scoop-lemon, 1
 bucket/nebula-importer.json, hoilc/scoop-lemon, 1
 bucket/nebula.json, HUMORCE/nuke, 1
+bucket/neeview.json, hoilc/scoop-lemon, 0
 bucket/nefcon.json, ScoopInstaller/Extras, 1
 bucket/nehm.json, MCOfficer/scoop-bucket, 1
 bucket/neil.json, littleli/scoop-clojure, 1
@@ -6623,6 +6627,7 @@ bucket/ossutil.json, ScoopInstaller/Main, 0
 bucket/osu-lazer.json, Weidows-projects/scoop-3rd, 1
 bucket/osulazer.json, Calinou/scoop-games, 1
 bucket/osv-scanner.json, ScoopInstaller/Main, 1
+bucket/otadump.json, brian6932/dank-scoop, 1
 bucket/otbedit.json, jfut/scoop-jfut, 0
 bucket/otfcc.json, ygguorun/scoop-bucket, 1
 bucket/otter-browser.json, littleli/Scoop-littleli, 0
@@ -7822,6 +7827,7 @@ bucket/readysunvalley.json, hoilc/scoop-lemon, 1
 bucket/real-esrgan.json, chawyehsu/dorado, 1
 bucket/real.json, ScoopInstaller/Extras, 1
 bucket/realcugan-ncnn-vulkan.json, ScoopInstaller/Main, 1
+bucket/realesrgan-gui.json, DoveBoy/Apps, 1
 bucket/realesrgan-ncnn-vulkan.json, ScoopInstaller/Main, 1
 bucket/realm-studio.json, hoilc/scoop-lemon, 0
 bucket/realm.json, ScoopInstaller/Main, 1
