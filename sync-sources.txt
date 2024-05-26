@@ -5366,6 +5366,7 @@ bucket/lively.json, ScoopInstaller/Extras, 1
 bucket/livesplit.json, Calinou/scoop-games, 1
 bucket/livetcpudpwatch.json, ScoopInstaller/Nirsoft, 0
 bucket/lky-officetools.json, ivaquero/scoopet, 1
+bucket/llamafile.json, chawyehsu/dorado, 1
 bucket/lltskb.json, seumsc/scoop-seu, 0
 bucket/llvm-cvp.json, SayCV/scoop-cvp, 1
 bucket/llvm-mingw.json, littleli/Scoop-littleli, 1
@@ -7248,7 +7249,7 @@ bucket/pikpak.json, akirco/aki-apps, 0
 bucket/pilotedit-lite.json, hoilc/scoop-lemon, 0
 bucket/pine64-updater.json, ScoopInstaller/Extras, 1
 bucket/pineapple-pictures.json, hoilc/scoop-lemon, 1
-bucket/pineflash.json, brian6932/dank-scoop, 1
+bucket/pineflash.json, ScoopInstaller/Extras, 1
 bucket/pinentry-w32-ncg.json, iquiw/scoop-bucket, 1
 bucket/pinginfoview.json, ScoopInstaller/Nirsoft, 0
 bucket/pingo.json, beerpiss/scoop-bucket, 1
