@@ -1,18 +1,18 @@
 {
-  "version": "360",
+  "version": "367",
   "description": "A low level CD dumper utility.",
   "homepage": "https://github.com/superg/redumper",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/build_360/redumper-2024.05.25_build360-win64.zip",
-      "extract_dir": "redumper-2024.05.25_build360-win64\\bin",
-      "hash": "af898517af39accff756eeff17e915d3b26ec8159ef49ae3d2f351261ac74fd3"
+      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/build_367/redumper-2024.05.26_build367-win64.zip",
+      "extract_dir": "redumper-2024.05.26_build367-win64\\bin",
+      "hash": "904d50bf4101b63cbcae2296d8ea500537c1423579a98210a8cfdbce84dc0ecb"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/build_360/redumper-2024.05.25_build360-win32.zip",
-      "extract_dir": "redumper-2024.05.25_build360-win32\\bin",
-      "hash": "4f24638ae2e49cd2d85e5019f44a1227a5b499992bedd5741db963d9cdc18f75"
+      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/build_367/redumper-2024.05.26_build367-win32.zip",
+      "extract_dir": "redumper-2024.05.26_build367-win32\\bin",
+      "hash": "161a065fffdecc5b95d4307ef1e6c1ff8cc5def50c13ea35512725c77adcaa51"
     }
   },
   "bin": "redumper.exe",

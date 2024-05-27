@@ -303,7 +303,6 @@ bucket/Delugia-Nerd-Font-Complete.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Delugia-Nerd-Font.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Dependency-Walker.json, Weidows-projects/scoop-3rd, 0
 bucket/DeskDock.json, kkzzhizhou/scoop-zapps, 0
-bucket/DevEco-Studio.json, Weidows-projects/scoop-3rd, 0
 bucket/DevToys-Install.json, ACooper81/scoop-apps, 1
 bucket/Dexios.json, brian6932/dank-scoop, 1
 bucket/DexiosGUI.json, brian6932/dank-scoop, 1
@@ -2478,6 +2477,7 @@ bucket/cnkiexpress.json, ivaquero/scoopet, 0
 bucket/cnping.json, ScoopInstaller/Extras, 1
 bucket/cntv.json, DoveBoy/Apps, 0
 bucket/cobalt.json, ScoopInstaller/Main, 1
+bucket/coca.json, seumsc/scoop-seu, 0
 bucket/cockroachdb.json, ScoopInstaller/Main, 0
 bucket/coco.json, DoveBoy/Apps, 1
 bucket/code-minimap.json, ScoopInstaller/Extras, 1
@@ -2879,6 +2879,7 @@ bucket/dev-sidecar.json, Weidows-projects/scoop-3rd, 1
 bucket/dev-toys-cli.json, batkiz/backit, 1
 bucket/devd.json, ScoopInstaller/Main, 1
 bucket/devdocs.json, ScoopInstaller/Extras, 1
+bucket/deveco-studio.json, chawyehsu/dorado, 0
 bucket/devhub.json, ScoopInstaller/Extras, 1
 bucket/deviceioview.json, ScoopInstaller/Nirsoft, 0
 bucket/devmanview.json, ScoopInstaller/Nirsoft, 0
@@ -5022,6 +5023,7 @@ bucket/kim.json, ScoopInstaller/Main, 1
 bucket/kind.json, ScoopInstaller/Main, 1
 bucket/kindandfair.json, Calinou/scoop-games, 1
 bucket/kindle-comic-creator.json, hoilc/scoop-lemon, 0
+bucket/kindlegen.json, seumsc/scoop-seu, 0
 bucket/kingdraw.json, ivaquero/scoopet, 0
 bucket/kiota.json, ScoopInstaller/Main, 1
 bucket/kitch.json, chawyehsu/dorado, 0
@@ -5549,6 +5551,7 @@ bucket/markdown-edit.json, naderi/scoop-bucket, 1
 bucket/markdown-monster.json, ScoopInstaller/Extras, 1
 bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
+bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext-dev.json, cc713/ownscoop, 1
@@ -9228,6 +9231,7 @@ bucket/tlsx.json, hoilc/scoop-lemon, 1
 bucket/tmaze.json, Calinou/scoop-games, 1
 bucket/tockler.json, chawyehsu/dorado, 1
 bucket/todesk.json, amorphobia/siku, 0
+bucket/todoist-cli.json, aliesbelik/poldi, 1
 bucket/todolist.json, ScoopInstaller/Extras, 1
 bucket/todotxt-net.json, ScoopInstaller/Extras, 1
 bucket/toggl.json, ScoopInstaller/Extras, 1
@@ -9506,7 +9510,6 @@ bucket/usbdlm.json, rasa/scoops, 0
 bucket/usbdrivelog.json, ScoopInstaller/Nirsoft, 0
 bucket/usbeam-consoles-dns.json, hoilc/scoop-lemon, 0
 bucket/usbeam-hosts-editor.json, hoilc/scoop-lemon, 0
-bucket/usbeamhostseditor.json, seumsc/scoop-seu, 0
 bucket/usbimager.json, ScoopInstaller/Extras, 0
 bucket/usblogview.json, ScoopInstaller/Nirsoft, 0
 bucket/usblyzer.json, SayCV/scoop-cvp, 0
