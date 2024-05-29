@@ -3672,6 +3672,7 @@ bucket/fluent-reader.json, ScoopInstaller/Extras, 1
 bucket/fluent-search.json, ScoopInstaller/Extras, 0
 bucket/fluent-terminal-np.json, ScoopInstaller/Nonportable, 1
 bucket/fluidsynth.json, ScoopInstaller/Extras, 1
+bucket/flut-renamer.json, DoveBoy/Apps, 1
 bucket/flutter-cn.json, SayCV/scoop-cvp, 1
 bucket/flutter-engine.json, SayCV/scoop-cvp, 1
 bucket/flutter.json, ScoopInstaller/Extras, 0
@@ -8069,7 +8070,7 @@ bucket/rtools42.json, ScoopInstaller/Versions, 0
 bucket/rtools43.json, ScoopInstaller/Versions, 0
 bucket/rtss.json, ScoopInstaller/Extras, 0
 bucket/ru.json, niheaven/scoop-sysinternals, 1
-bucket/rubick.json, ViCrack/scoop-bucket, 1
+bucket/rubick.json, DoveBoy/Apps, 1
 bucket/ruby.json, ScoopInstaller/Main, 1
 bucket/ruby19.json, ScoopInstaller/Versions, 1
 bucket/ruby24.json, ScoopInstaller/Versions, 1
@@ -9862,7 +9863,7 @@ bucket/weebp.json, ScoopInstaller/Extras, 1
 bucket/wegame.json, akirco/aki-apps, 0
 bucket/wegameMiniLoader.json, akirco/aki-apps, 0
 bucket/wemod.json, Calinou/scoop-games, 0
-bucket/werf.json, hoilc/scoop-lemon, 0
+bucket/werf.json, aliesbelik/poldi, 0
 bucket/weron.json, hoilc/scoop-lemon, 1
 bucket/wesing.json, echoiron/echo-scoop, 0
 bucket/wesnoth.json, Calinou/scoop-games, 0
