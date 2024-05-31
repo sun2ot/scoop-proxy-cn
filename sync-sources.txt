@@ -3900,6 +3900,7 @@ bucket/gaojitools.json, ygguorun/scoop-bucket, 0
 bucket/gaphor.json, hoilc/scoop-lemon, 1
 bucket/garbro.json, ScoopInstaller/Extras, 1
 bucket/garden.json, hoilc/scoop-lemon, 1
+bucket/garnet.json, ScoopInstaller/Main, 1
 bucket/gat.json, aliesbelik/poldi, 1
 bucket/gatling.json, ScoopInstaller/Extras, 0
 bucket/gauche.json, ScoopInstaller/Main, 1
@@ -4103,6 +4104,7 @@ bucket/go-jsonnet.json, ScoopInstaller/Main, 1
 bucket/go-musicfox.json, DoveBoy/Apps, 1
 bucket/go-p2ptunnel.json, hoilc/scoop-lemon, 1
 bucket/go-proxy-bingai.json, DoveBoy/Apps, 1
+bucket/go-size-analyzer.json, ScoopInstaller/Main, 1
 bucket/go-sqlcmd.json, ScoopInstaller/Main, 1
 bucket/go-swagger.json, ScoopInstaller/Main, 1
 bucket/go-unstable.json, batkiz/backit, 0
@@ -5579,6 +5581,7 @@ bucket/matterircd.json, ScoopInstaller/Extras, 1
 bucket/mattermost.json, ScoopInstaller/Extras, 0
 bucket/maven.json, ScoopInstaller/Main, 0
 bucket/maven36.json, zhoujin7/tomato, 0
+bucket/maven4.json, ScoopInstaller/Versions, 0
 bucket/maxim-eesim.json, SayCV/scoop-cvp, 1
 bucket/maxima.json, ScoopInstaller/Extras, 0
 bucket/maxlauncher.json, hoilc/scoop-lemon, 0
