@@ -1885,6 +1885,7 @@ bucket/beautysearch.json, naderi/scoop-bucket, 1
 bucket/becky.ja.json, jfut/scoop-jfut, 0
 bucket/becky.json, hoilc/scoop-lemon, 0
 bucket/bedford.json, hoilc/scoop-lemon, 0
+bucket/bedrockupdater.json, Calinou/scoop-games, 1
 bucket/bee.json, chawyehsu/dorado, 1
 bucket/beebeep.json, ScoopInstaller/Extras, 0
 bucket/beebem.json, Calinou/scoop-games, 0
@@ -1968,7 +1969,7 @@ bucket/bison.json, ScoopInstaller/Main, 0
 bucket/bit.json, ScoopInstaller/Main, 1
 bucket/bitcoincore.json, chawyehsu/dorado, 1
 bucket/bitcoinknots.json, chawyehsu/dorado, 1
-bucket/bitcomet.json, naderi/scoop-bucket, 0
+bucket/bitcomet.json, echoiron/echo-scoop, 0
 bucket/bitmana.json, naderi/scoop-bucket, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitrock-unpacker.json, hoilc/scoop-lemon, 1
@@ -4401,7 +4402,7 @@ bucket/hexo-blog-client.json, ScoopInstaller/Extras, 1
 bucket/hexo-client.json, ScoopInstaller/Extras, 1
 bucket/hexyl.json, ScoopInstaller/Main, 1
 bucket/hey.json, batkiz/backit, 0
-bucket/heynote.json, hu3rror/scoop-muggle, 1
+bucket/heynote.json, ScoopInstaller/Extras, 1
 bucket/hfd.json, Weidows-projects/scoop-3rd, 0
 bucket/hfs.json, chawyehsu/dorado, 0
 bucket/hfsexplorer.json, amorphobia/siku, 1
@@ -6643,7 +6644,7 @@ bucket/ossutil.json, ScoopInstaller/Main, 0
 bucket/osu-lazer.json, Weidows-projects/scoop-3rd, 1
 bucket/osulazer.json, Calinou/scoop-games, 1
 bucket/osv-scanner.json, ScoopInstaller/Main, 1
-bucket/otadump.json, brian6932/dank-scoop, 1
+bucket/otadump.json, ScoopInstaller/Extras, 1
 bucket/otbedit.json, jfut/scoop-jfut, 0
 bucket/otfcc.json, ygguorun/scoop-bucket, 1
 bucket/otter-browser.json, littleli/Scoop-littleli, 0
@@ -9899,7 +9900,10 @@ bucket/whepfrom.json, ScoopInstaller/Extras, 1
 bucket/which.json, ScoopInstaller/Main, 0
 bucket/whipinto.json, ScoopInstaller/Extras, 1
 bucket/whisper-cli.json, hoilc/scoop-lemon, 1
+bucket/whisper-cpp-blas-nightly.json, hoilc/scoop-lemon, 0
 bucket/whisper-cpp-blas.json, DoveBoy/Apps, 1
+bucket/whisper-cpp-cuda-nightly.json, hoilc/scoop-lemon, 0
+bucket/whisper-cpp-nightly.json, hoilc/scoop-lemon, 0
 bucket/whisper-cpp.json, ScoopInstaller/Main, 1
 bucket/whisper-desktop.json, hoilc/scoop-lemon, 1
 bucket/whisper-model-ggml-base-en.json, hoilc/scoop-lemon, 0
