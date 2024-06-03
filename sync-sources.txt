@@ -5676,7 +5676,7 @@ bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/metatogger.json, hoilc/scoop-lemon, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mglahk.json, hoilc/scoop-lemon, 0
 bucket/mgtv.json, DoveBoy/Apps, 0
@@ -6310,7 +6310,7 @@ bucket/ntfs2btrfs.json, ScoopInstaller/Main, 1
 bucket/ntfsinfo.json, niheaven/scoop-sysinternals, 1
 bucket/ntfslinksview.json, ScoopInstaller/Nirsoft, 0
 bucket/ntfy.json, ScoopInstaller/Main, 1
-bucket/ntlite.json, HUMORCE/nuke, 0
+bucket/ntlite.json, beerpiss/scoop-bucket, 0
 bucket/ntop.json, ScoopInstaller/Main, 1
 bucket/ntrace-core.json, DoveBoy/Apps, 1
 bucket/ntrace-v1.json, DoveBoy/Apps, 1
@@ -7612,6 +7612,7 @@ bucket/python-bucket-utils.json, TheRandomLabs/Scoop-Python, 1
 bucket/python-doc-zh-cn.json, wzv5/ScoopBucket, 0
 bucket/python-doc.json, wzv5/ScoopBucket, 0
 bucket/python-docs-zh-cn.json, cc713/ownscoop, 0
+bucket/python-embed.json, Deide/deide-bucket, 0
 bucket/python-pre.json, ScoopInstaller/Versions, 1
 bucket/python-rc.json, ScoopInstaller/Versions, 1
 bucket/python-tab-completion.json, DoveBoy/Apps, 0
@@ -8869,6 +8870,7 @@ bucket/supabase.json, ScoopInstaller/Main, 1
 bucket/super-productivity.json, ScoopInstaller/Extras, 1
 bucket/super-xray.json, ViCrack/scoop-bucket, 1
 bucket/superf4.json, ScoopInstaller/Extras, 1
+bucket/superfile.json, aliesbelik/poldi, 1
 bucket/supergrate.json, hu3rror/scoop-muggle, 1
 bucket/supermium.json, ScoopInstaller/Extras, 0
 bucket/superpowers-app.json, ScoopInstaller/Extras, 1
@@ -8918,9 +8920,11 @@ bucket/sync.json, niheaven/scoop-sysinternals, 1
 bucket/syncany-cli.json, ScoopInstaller/Main, 0
 bucket/syncback.json, ScoopInstaller/Extras, 0
 bucket/syncbackpro.json, ScoopInstaller/Extras, 0
+bucket/syncclipboard-beta.json, DoveBoy/Apps, 1
 bucket/syncclipboard.json, DoveBoy/Apps, 1
 bucket/syncplay-beta.json, ScoopInstaller/Versions, 1
 bucket/syncplay.json, ScoopInstaller/Extras, 1
+bucket/syncthing-beta.json, DoveBoy/Apps, 1
 bucket/syncthing.json, ScoopInstaller/Main, 1
 bucket/syncthingctl.json, ScoopInstaller/Extras, 1
 bucket/syncthingtray.json, ScoopInstaller/Extras, 1
@@ -10483,6 +10487,7 @@ bucket/zecwallet-lite.json, littleli/Scoop-littleli, 1
 bucket/zeebe-modeler.json, ScoopInstaller/Extras, 1
 bucket/zeebe.json, ScoopInstaller/Main, 1
 bucket/zeebe1.3.json, ScoopInstaller/Versions, 1
+bucket/zelda-oot-soh.json, Deide/deide-bucket, 1
 bucket/zenhan.json, ScoopInstaller/Main, 1
 bucket/zeno.json, hoilc/scoop-lemon, 0
 bucket/zeplin.json, ScoopInstaller/Extras, 0
