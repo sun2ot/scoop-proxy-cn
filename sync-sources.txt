@@ -6096,6 +6096,7 @@ bucket/natural-docs.json, ScoopInstaller/Extras, 0
 bucket/navi.json, ScoopInstaller/Main, 1
 bucket/navidrome.json, ScoopInstaller/Main, 1
 bucket/nbtexplorer.json, Calinou/scoop-games, 1
+bucket/nbtscan.json, hoilc/scoop-lemon, 1
 bucket/nc.json, akirco/aki-apps, 1
 bucket/ncftpclient.json, ScoopInstaller/Extras, 0
 bucket/ncmdump.json, hoilc/scoop-lemon, 1
@@ -6624,7 +6625,7 @@ bucket/oraclejdk8-8u191.json, ZvonimirSun/scoop-iszy, 1
 bucket/oraclejdk8-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/oraclejre8.json, ScoopInstaller/Java, 0
 bucket/oranda.json, ScoopInstaller/Extras, 1
-bucket/orange.json, hoilc/scoop-lemon, 1
+bucket/orange.json, ScoopInstaller/Extras, 0
 bucket/oras.json, ScoopInstaller/Extras, 1
 bucket/orca.json, ScoopInstaller/Extras, 0
 bucket/orca3.json, ScoopInstaller/Versions, 1
@@ -8930,6 +8931,7 @@ bucket/syncthingctl.json, ScoopInstaller/Extras, 1
 bucket/syncthingtray.json, ScoopInstaller/Extras, 1
 bucket/synctoy.json, ScoopInstaller/Extras, 1
 bucket/synctrayzor.json, ScoopInstaller/Extras, 1
+bucket/syndicationd.json, hoilc/scoop-lemon, 1
 bucket/synfig-studio.json, ScoopInstaller/Extras, 0
 bucket/synology-surveillance-station.json, ScoopInstaller/Extras, 0
 bucket/synopsys-installer35-wsl.json, SayCV/scoop-cvp, 1
@@ -10133,7 +10135,7 @@ bucket/wireshark3.json, ScoopInstaller/Versions, 0
 bucket/wise-disk-cleaner.json, naderi/scoop-bucket, 0
 bucket/wise-program-uninstaller.json, naderi/scoop-bucket, 0
 bucket/wise-registry-cleaner.json, naderi/scoop-bucket, 0
-bucket/wisecare365.json, echoiron/echo-scoop, 0
+bucket/wisecare365.json, ivaquero/scoopet, 0
 bucket/witchblast.json, Calinou/scoop-games, 1
 bucket/wix.json, chawyehsu/dorado, 0
 bucket/wixtoolset.json, ScoopInstaller/Main, 0
@@ -10614,6 +10616,8 @@ scripts/Scoop/postinstall.ps1, ACooper81/scoop-apps, 0
 scripts/_deprecated/flutter-dev-setup.ps1, ScoopInstaller/Extras, 0
 scripts/adobereader/install-context.reg.templ, SayCV/scoop-cvp, 0
 scripts/adobereader/uninstall-context.reg, SayCV/scoop-cvp, 0
+scripts/alacritty/install-context.reg, ScoopInstaller/Extras, 0
+scripts/alacritty/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/anlogic-td/install-context.reg.tpl, SayCV/scoop-cvp, 0
 scripts/anlogic-td/uninstall-context.reg.tpl, SayCV/scoop-cvp, 0
 scripts/bee/beesvc.cmd, chawyehsu/dorado, 0
