@@ -3660,6 +3660,8 @@ bucket/flashplayer-sa.json, ScoopInstaller/Extras, 0
 bucket/flat-assembler.json, ScoopInstaller/Extras, 0
 bucket/flatc.json, ScoopInstaller/Main, 1
 bucket/flawless-widescreen.json, starise/Scoop-Gaming, 0
+bucket/flclash-portable.json, DoveBoy/Apps, 1
+bucket/flclash.json, DoveBoy/Apps, 1
 bucket/fleet.json, akirco/aki-apps, 0
 bucket/flexible-renamer.json, mo-san/scoop-bucket, 0
 bucket/flexihub.json, SayCV/scoop-cvp, 0
@@ -3853,7 +3855,7 @@ bucket/fx.json, ScoopInstaller/Main, 1
 bucket/fysty.json, ScoopInstaller/Extras, 1
 bucket/fzf.json, ScoopInstaller/Main, 1
 bucket/g-assist.json, ScoopInstaller/Extras, 1
-bucket/g-helper.json, Weidows-projects/scoop-3rd, 1
+bucket/g-helper.json, ScoopInstaller/Extras, 1
 bucket/g-np.json, batkiz/backit, 1
 bucket/g.json, batkiz/backit, 1
 bucket/gactions.json, ScoopInstaller/Main, 0
@@ -5625,6 +5627,7 @@ bucket/mdsilo.json, hoilc/scoop-lemon, 1
 bucket/mdut.json, ViCrack/scoop-bucket, 1
 bucket/mdview.json, naderi/scoop-bucket, 1
 bucket/mdx-editor.json, hoilc/scoop-lemon, 1
+bucket/media-downloader.json, ScoopInstaller/Extras, 1
 bucket/mediacreationtool-bat.json, DoveBoy/Apps, 1
 bucket/mediacreationtool.json, ScoopInstaller/Extras, 1
 bucket/mediaelch.json, ScoopInstaller/Extras, 1
@@ -7223,6 +7226,7 @@ bucket/php72-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php72.json, ScoopInstaller/Versions, 0
 bucket/php73-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php73.json, ScoopInstaller/Versions, 0
+bucket/php74-nts.json, aoisummer/scoop-bucket, 0
 bucket/php74-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php74.json, ScoopInstaller/Versions, 0
 bucket/php8.0-nts.json, ScoopInstaller/PHP, 0
@@ -7703,6 +7707,7 @@ bucket/qrcp.json, ScoopInstaller/Main, 1
 bucket/qrencode.json, ScoopInstaller/Main, 0
 bucket/qrrs.json, brian6932/dank-scoop, 1
 bucket/qrscan.json, ScoopInstaller/Extras, 1
+bucket/qrtool.json, aliesbelik/poldi, 1
 bucket/qscamel.json, hoilc/scoop-lemon, 1
 bucket/qsctl.json, hoilc/scoop-lemon, 1
 bucket/qsftpd.json, hoilc/scoop-lemon, 1
@@ -8435,6 +8440,7 @@ bucket/sharpkeys.json, ScoopInstaller/Extras, 1
 bucket/sharpthief.json, DoveBoy/Apps, 1
 bucket/shasum.json, ScoopInstaller/Main, 1
 bucket/shawl.json, ScoopInstaller/Extras, 1
+bucket/sheas-cealer.json, hoilc/scoop-lemon, 1
 bucket/shell2http.json, MCOfficer/scoop-bucket, 1
 bucket/shellbagsview.json, ScoopInstaller/Nirsoft, 0
 bucket/shellcheck.json, ScoopInstaller/Main, 1
