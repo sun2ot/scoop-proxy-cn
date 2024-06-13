@@ -2586,7 +2586,7 @@ bucket/corretto8-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jre.json, ScoopInstaller/Java, 0
 bucket/corsair-icue.json, TheRandomLabs/Scoop-Bucket, 0
 bucket/cortex-tools.json, hoilc/scoop-lemon, 1
-bucket/cosbrowser.json, hoilc/scoop-lemon, 0
+bucket/cosbrowser.json, chawyehsu/dorado, 1
 bucket/coscli.json, hoilc/scoop-lemon, 1
 bucket/cosign.json, ScoopInstaller/Main, 1
 bucket/cosmo-emacs.json, hoilc/scoop-lemon, 0
@@ -3170,6 +3170,7 @@ bucket/dukto.json, ScoopInstaller/Extras, 0
 bucket/dum.json, ScoopInstaller/Main, 1
 bucket/dumbpipe.json, hoilc/scoop-lemon, 1
 bucket/dumpedid.json, ScoopInstaller/Nirsoft, 0
+bucket/dungeonsupdater.json, Calinou/scoop-games, 1
 bucket/dupeguru.json, ScoopInstaller/Extras, 1
 bucket/duplicacy.json, ScoopInstaller/Main, 1
 bucket/duplicate-searcher.json, ygguorun/scoop-bucket, 0
@@ -3467,6 +3468,8 @@ bucket/far.json, ScoopInstaller/Main, 0
 bucket/fast.json, aliesbelik/poldi, 1
 bucket/fastbootEnhance.json, akirco/aki-apps, 1
 bucket/fastcopy.json, ScoopInstaller/Extras, 0
+bucket/faster-whisper-standalone.json, hoilc/scoop-lemon, 1
+bucket/faster-whisper-xxl.json, hoilc/scoop-lemon, 1
 bucket/fastfetch.json, ScoopInstaller/Main, 1
 bucket/fastflix.json, ScoopInstaller/Extras, 1
 bucket/fastgithub.json, zhoujin7/tomato, 1
@@ -5127,7 +5130,6 @@ bucket/kubecolor.json, ScoopInstaller/Main, 1
 bucket/kubeconform.json, ScoopInstaller/Main, 1
 bucket/kubectl-argo-rollouts.json, hoilc/scoop-lemon, 1
 bucket/kubectl-buildkit.json, hoilc/scoop-lemon, 1
-bucket/kubectl-cert-manager.json, hoilc/scoop-lemon, 1
 bucket/kubectl-debug.json, hoilc/scoop-lemon, 1
 bucket/kubectl.json, ScoopInstaller/Main, 0
 bucket/kubectx.json, ScoopInstaller/Main, 1
@@ -10280,7 +10282,7 @@ bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xdown.json, hoilc/scoop-lemon, 0
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xelitan-pdf-reader.json, hoilc/scoop-lemon, 0
-bucket/xemu.json, Calinou/scoop-games, 1
+bucket/xemu.json, hermanjustnu/scoop-emulators, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
@@ -10510,6 +10512,7 @@ bucket/zeronet.json, ScoopInstaller/Extras, 1
 bucket/zerotier-np.json, ScoopInstaller/Nonportable, 0
 bucket/zeta-resource-editor.json, hoilc/scoop-lemon, 1
 bucket/zettlr.json, ScoopInstaller/Extras, 1
+bucket/zfind.json, hoilc/scoop-lemon, 1
 bucket/zhconv-rs.json, hoilc/scoop-lemon, 1
 bucket/zhudou-sans.json, hoilc/scoop-lemon, 1
 bucket/zhumu.json, echoiron/echo-scoop, 0
