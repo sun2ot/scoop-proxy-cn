@@ -2585,7 +2585,7 @@ bucket/corretto21-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jre.json, ScoopInstaller/Java, 0
 bucket/corsair-icue.json, TheRandomLabs/Scoop-Bucket, 0
-bucket/cortex-tools.json, hoilc/scoop-lemon, 1
+bucket/cortextool.json, hoilc/scoop-lemon, 1
 bucket/cosbrowser.json, chawyehsu/dorado, 1
 bucket/coscli.json, hoilc/scoop-lemon, 1
 bucket/cosign.json, ScoopInstaller/Main, 1
@@ -5477,6 +5477,7 @@ bucket/ludusavi.json, ScoopInstaller/Extras, 1
 bucket/ludwig.json, ScoopInstaller/Extras, 0
 bucket/lukestackwalker.json, hoilc/scoop-lemon, 0
 bucket/luminous-ttv.json, brian6932/dank-scoop, 1
+bucket/luna-translator.json, seumsc/scoop-seu, 1
 bucket/lunacy.json, ScoopInstaller/Extras, 0
 bucket/lunarips.json, Deide/deide-bucket, 0
 bucket/lunarvim.json, ScoopInstaller/Extras, 1
@@ -5769,6 +5770,7 @@ bucket/mill.json, ScoopInstaller/Main, 1
 bucket/miller.json, ScoopInstaller/Main, 1
 bucket/milton.json, ScoopInstaller/Extras, 1
 bucket/milvus_cli.json, hoilc/scoop-lemon, 1
+bucket/mimirtool.json, hoilc/scoop-lemon, 1
 bucket/min-portable.json, DoveBoy/Apps, 1
 bucket/min.json, ScoopInstaller/Extras, 0
 bucket/minbrowser.json, hoilc/scoop-lemon, 1
