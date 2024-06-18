@@ -1969,7 +1969,7 @@ bucket/bison.json, ScoopInstaller/Main, 0
 bucket/bit.json, ScoopInstaller/Main, 1
 bucket/bitcoincore.json, chawyehsu/dorado, 1
 bucket/bitcoinknots.json, chawyehsu/dorado, 1
-bucket/bitcomet.json, batkiz/backit, 0
+bucket/bitcomet.json, naderi/scoop-bucket, 0
 bucket/bitmana.json, naderi/scoop-bucket, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitrock-unpacker.json, hoilc/scoop-lemon, 1
@@ -3510,6 +3510,7 @@ bucket/fehviewer.json, batkiz/backit, 1
 bucket/feiq.json, hoilc/scoop-lemon, 0
 bucket/feishin.json, ScoopInstaller/Extras, 1
 bucket/feishu.json, scoopcn/scoopcn, 0
+bucket/feishurevokemsgpatcher.json, ViCrack/scoop-bucket, 1
 bucket/fend.json, ScoopInstaller/Main, 1
 bucket/fenrirfs.json, hoilc/scoop-lemon, 0
 bucket/ferdi-portapps.json, Velgus/Scoop-Portapps, 1
@@ -5759,6 +5760,7 @@ bucket/migrated/tcping.json, aliesbelik/poldi, 0
 bucket/migrated/termscp.json, aliesbelik/poldi, 1
 bucket/migrated/tf-summarize.json, aliesbelik/poldi, 1
 bucket/migrated/ttdl.json, aliesbelik/poldi, 1
+bucket/migrated/wait4x.json, aliesbelik/poldi, 1
 bucket/migrated/walk.json, aliesbelik/poldi, 1
 bucket/mihome-token.json, amorphobia/siku, 1
 bucket/mihomo-compatible-go120.json, DoveBoy/Apps, 1
@@ -7996,7 +7998,7 @@ bucket/revezone.json, ivaquero/scoopet, 1
 bucket/reviewdog.json, ScoopInstaller/Main, 1
 bucket/revive.json, batkiz/backit, 1
 bucket/revokemsgpatcher-nightly.json, DoveBoy/Apps, 0
-bucket/revokemsgpatcher.json, DoveBoy/Apps, 1
+bucket/revokemsgpatcher.json, ViCrack/scoop-bucket, 1
 bucket/revouninstaller.json, ScoopInstaller/Extras, 0
 bucket/rewrk.json, aliesbelik/poldi, 1
 bucket/rfxgen.json, TheRandomLabs/Scoop-Bucket, 1
@@ -8934,7 +8936,7 @@ bucket/swig.json, ScoopInstaller/Main, 0
 bucket/swipl.json, ScoopInstaller/Extras, 0
 bucket/switch.json, ChungZH/peach, 1
 bucket/switcheroo.json, ScoopInstaller/Extras, 1
-bucket/switchfin.json, hoilc/scoop-lemon, 1
+bucket/switchfin.json, batkiz/backit, 1
 bucket/switchhosts.json, ScoopInstaller/Extras, 1
 bucket/swoff.json, echoiron/echo-scoop, 0
 bucket/swyh-rs.json, ScoopInstaller/Extras, 1
@@ -9822,7 +9824,7 @@ bucket/waifu2x-ncnn-vulkan.json, ScoopInstaller/Main, 1
 bucket/waifu2x-snowshell-lean.json, brian6932/dank-scoop, 1
 bucket/waifu2x-snowshell.json, ScoopInstaller/Extras, 1
 bucket/wait-for-it.json, littleli/Scoop-littleli, 1
-bucket/wait4x.json, aliesbelik/poldi, 1
+bucket/wait4x.json, ScoopInstaller/Extras, 1
 bucket/wakatime-cli.json, ScoopInstaller/Main, 1
 bucket/wakemeonlan.json, ScoopInstaller/Nirsoft, 0
 bucket/walk.json, ScoopInstaller/Main, 1
@@ -9997,7 +9999,7 @@ bucket/win32-openssh.json, akirco/aki-apps, 1
 bucket/win32yank.json, ScoopInstaller/Main, 1
 bucket/winaero-tweaker.json, ScoopInstaller/Extras, 0
 bucket/winamp.json, naderi/scoop-bucket, 0
-bucket/winasar.json, hoilc/scoop-lemon, 0
+bucket/winasar.json, ViCrack/scoop-bucket, 1
 bucket/winauth-portable.json, naderi/scoop-bucket, 1
 bucket/winauth.json, ScoopInstaller/Extras, 1
 bucket/winbox.json, ScoopInstaller/Extras, 0
