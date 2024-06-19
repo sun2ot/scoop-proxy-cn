@@ -1943,6 +1943,9 @@ bucket/bilibilitoolpro.json, DoveBoy/Apps, 1
 bucket/bililive-go.json, hoilc/scoop-lemon, 1
 bucket/bililive-recorder-cli.json, hoilc/scoop-lemon, 1
 bucket/bililive-recorder.json, hoilc/scoop-lemon, 1
+bucket/bililive-tools-cli.json, DoveBoy/Apps, 1
+bucket/bililive-tools-portable.json, DoveBoy/Apps, 1
+bucket/bililive-tools.json, DoveBoy/Apps, 1
 bucket/bililiverecorder.json, chawyehsu/dorado, 1
 bucket/bilimini.json, amorphobia/siku, 1
 bucket/bilineo.json, DoveBoy/Apps, 1
@@ -2089,6 +2092,7 @@ bucket/bsnes-nightly.json, hermanjustnu/scoop-emulators, 1
 bucket/bsnes.json, Calinou/scoop-games, 1
 bucket/bt.json, ScoopInstaller/Extras, 1
 bucket/bt2qbt.json, ScoopInstaller/Main, 1
+bucket/btest.json, ScoopInstaller/Extras, 0
 bucket/btop-lhm.json, ScoopInstaller/Main, 1
 bucket/btop.json, ScoopInstaller/Main, 1
 bucket/btrace.json, hoilc/scoop-lemon, 1
@@ -2349,7 +2353,7 @@ bucket/chromium-xp.json, SayCV/scoop-cvp, 0
 bucket/chromium.json, ScoopInstaller/Extras, 1
 bucket/chrono.json, aliesbelik/poldi, 1
 bucket/chronograf.json, ScoopInstaller/Main, 0
-bucket/chsrc.json, DoveBoy/Apps, 1
+bucket/chsrc.json, hoilc/scoop-lemon, 0
 bucket/cht.json, ScoopInstaller/Main, 1
 bucket/chuck.json, ScoopInstaller/Main, 0
 bucket/chunky.json, chawyehsu/dorado, 0
@@ -2368,6 +2372,7 @@ bucket/citra-canary.json, hermanjustnu/scoop-emulators, 1
 bucket/citra-nightly.json, hermanjustnu/scoop-emulators, 1
 bucket/citra.json, Deide/deide-bucket, 1
 bucket/civo.json, ScoopInstaller/Extras, 1
+bucket/cjk-romanizer.json, hoilc/scoop-lemon, 1
 bucket/ck-cli.json, aliesbelik/poldi, 1
 bucket/clamav.json, ScoopInstaller/Extras, 1
 bucket/clangd.json, ScoopInstaller/Main, 1
@@ -4513,6 +4518,7 @@ bucket/hunterpie.json, Deide/deide-bucket, 1
 bucket/hunterpie2.json, Deide/deide-bucket, 1
 bucket/huorong-popblock.json, amorphobia/siku, 0
 bucket/hurl.json, ScoopInstaller/Main, 1
+bucket/hwatch.json, aliesbelik/poldi, 1
 bucket/hwinfo.json, ScoopInstaller/Extras, 0
 bucket/hwmonitor.json, ScoopInstaller/Extras, 0
 bucket/hwp-converter.json, ScoopInstaller/Extras, 0
@@ -8355,6 +8361,7 @@ bucket/sdl2-ttf.json, ScoopInstaller/Extras, 1
 bucket/sdl2.json, ScoopInstaller/Extras, 1
 bucket/sdr-Cleaner.json, Paxxs/Cluttered-bucket, 0
 bucket/sdx.json, hoilc/scoop-lemon, 0
+bucket/seabird.json, hoilc/scoop-lemon, 1
 bucket/seafile-syncing-client.json, ScoopInstaller/Extras, 0
 bucket/seamonkey.json, ScoopInstaller/Extras, 0
 bucket/search-deflector.json, ScoopInstaller/Extras, 1
@@ -8779,6 +8786,7 @@ bucket/starter.json, hoilc/scoop-lemon, 1
 bucket/startuprun.json, kodybrown/scoop-nirsoft, 0
 bucket/stash-dev.json, ScoopInstaller/Versions, 1
 bucket/stash.json, ScoopInstaller/Extras, 1
+bucket/static-php-cli.json, hoilc/scoop-lemon, 1
 bucket/static-web-server.json, ScoopInstaller/Main, 1
 bucket/staticcheck.json, ScoopInstaller/Main, 1
 bucket/station.json, ScoopInstaller/Extras, 1
