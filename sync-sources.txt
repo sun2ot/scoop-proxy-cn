@@ -10568,6 +10568,7 @@ bucket/zrok.json, ScoopInstaller/Extras, 1
 bucket/zsharp.json, ScoopInstaller/Extras, 1
 bucket/zstd.json, ScoopInstaller/Main, 1
 bucket/ztasker.json, ViCrack/scoop-bucket, 0
+bucket/ztm.json, hoilc/scoop-lemon, 1
 bucket/ztree-beta.json, rasa/scoops, 0
 bucket/ztree-zeta.json, rasa/scoops, 0
 bucket/ztree.json, rasa/scoops, 0
