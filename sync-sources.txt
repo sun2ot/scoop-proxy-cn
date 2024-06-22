@@ -2594,7 +2594,7 @@ bucket/corretto8-jre.json, ScoopInstaller/Java, 0
 bucket/corsair-icue.json, TheRandomLabs/Scoop-Bucket, 0
 bucket/cortextool.json, hoilc/scoop-lemon, 1
 bucket/cosbrowser.json, chawyehsu/dorado, 1
-bucket/coscli.json, hoilc/scoop-lemon, 1
+bucket/coscli.json, hoilc/scoop-lemon, 0
 bucket/cosign.json, ScoopInstaller/Main, 1
 bucket/cosmo-emacs.json, hoilc/scoop-lemon, 0
 bucket/cosmo-pigz.json, hoilc/scoop-lemon, 0
@@ -3026,6 +3026,7 @@ bucket/docker.json, ScoopInstaller/Main, 0
 bucket/docker.machine.vmwareworkstation.json, Paxxs/Cluttered-bucket, 1
 bucket/dockercompletion.json, ScoopInstaller/Extras, 0
 bucket/dockerfile-generator.json, MCOfficer/scoop-bucket, 1
+bucket/dockit.json, hoilc/scoop-lemon, 1
 bucket/docnet.json, MCOfficer/scoop-bucket, 1
 bucket/doctl.json, ScoopInstaller/Main, 1
 bucket/docto.json, ScoopInstaller/Main, 1
@@ -4432,6 +4433,7 @@ bucket/hibituninstaller.json, DoveBoy/Apps, 0
 bucket/hiccup-cli.json, littleli/scoop-clojure, 1
 bucket/hiddify-next.json, Homeland-Community/scoop, 1
 bucket/hiddify.json, hoilc/scoop-lemon, 1
+bucket/hide-from-uninstall-list.json, ViCrack/scoop-bucket, 0
 bucket/hideul.json, ScoopInstaller/Extras, 0
 bucket/highlight-text.json, hoilc/scoop-lemon, 0
 bucket/highlight.json, ScoopInstaller/Main, 0
@@ -7443,7 +7445,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
@@ -8735,12 +8737,12 @@ bucket/spystudio.json, 42wim/scoop-bucket, 0
 bucket/spytify.json, ScoopInstaller/Extras, 1
 bucket/sq.json, batkiz/backit, 1
 bucket/sql-server-management-studio-np.json, ScoopInstaller/Nonportable, 0
+bucket/sql-studio.json, hoilc/scoop-lemon, 1
 bucket/sql-workbench-dev.json, ScoopInstaller/Versions, 0
 bucket/sql-workbench.json, ScoopInstaller/Extras, 0
 bucket/sqlcl.json, ScoopInstaller/Main, 0
 bucket/sqldef.json, ScoopInstaller/Main, 1
 bucket/sqlite-gui.json, naderi/scoop-bucket, 1
-bucket/sqlite-studio.json, hoilc/scoop-lemon, 1
 bucket/sqlite.json, ScoopInstaller/Main, 0
 bucket/sqlitebrowser-nightly.json, ScoopInstaller/Versions, 0
 bucket/sqlitebrowser.json, ScoopInstaller/Extras, 1
@@ -9617,7 +9619,7 @@ bucket/v2ray.json, ScoopInstaller/Main, 1
 bucket/v2raya-unstable.json, DoveBoy/Apps, 0
 bucket/v2raya.json, DoveBoy/Apps, 1
 bucket/v2rayn-core-with-runtime.json, DoveBoy/Apps, 1
-bucket/v2rayn-core.json, seumsc/scoop-seu, 1
+bucket/v2rayn-core.json, DoveBoy/Apps, 1
 bucket/v2rayn-pre.json, ScoopInstaller/Versions, 1
 bucket/v2rayn-rules-dat.json, everyx/scoop-bucket, 1
 bucket/v2rayn.json, ScoopInstaller/Extras, 1
