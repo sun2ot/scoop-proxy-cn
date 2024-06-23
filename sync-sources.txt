@@ -1940,6 +1940,8 @@ bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
 bucket/bilibili.json, chawyehsu/dorado, 0
+bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
+bucket/bilibilidown.json, DoveBoy/Apps, 1
 bucket/bilibilitoolpro.json, DoveBoy/Apps, 1
 bucket/bililive-go.json, hoilc/scoop-lemon, 1
 bucket/bililive-recorder-cli.json, hoilc/scoop-lemon, 1
@@ -2103,7 +2105,7 @@ bucket/buckets.json, ScoopInstaller/Extras, 1
 bucket/buf.json, ScoopInstaller/Main, 1
 bucket/buffalo.json, ScoopInstaller/Main, 1
 bucket/bugn.json, ScoopInstaller/Extras, 1
-bucket/buildcache.json, ScoopInstaller/Extras, 1
+bucket/buildcache.json, ScoopInstaller/Extras, 0
 bucket/buildkit.json, batkiz/backit, 1
 bucket/bulk-crap-uninstaller.json, ScoopInstaller/Extras, 1
 bucket/bulk-extractor.json, brian6932/dank-scoop, 1
@@ -2665,7 +2667,7 @@ bucket/cryptsync.json, hoilc/scoop-lemon, 1
 bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
@@ -7445,7 +7447,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
@@ -8044,6 +8046,7 @@ bucket/ripgrep.json, ScoopInstaller/Main, 1
 bucket/ripme.json, ScoopInstaller/Extras, 1
 bucket/risoh-editor.json, jingyu9575/scoop-jingyu9575, 1
 bucket/risoheditor.json, hoilc/scoop-lemon, 1
+bucket/rizin-nightly.json, NyaMisty/scoop_bucket_misty, 0
 bucket/rizin.json, ScoopInstaller/Main, 1
 bucket/rj-texted.json, hoilc/scoop-lemon, 0
 bucket/rk-tools.json, SayCV/scoop-cvp, 1
