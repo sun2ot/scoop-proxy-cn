@@ -1700,6 +1700,7 @@ bucket/astro-cli.json, hoilc/scoop-lemon, 1
 bucket/astrogrep.json, ScoopInstaller/Extras, 0
 bucket/astyle.json, ScoopInstaller/Main, 0
 bucket/asuite.json, ScoopInstaller/Extras, 0
+bucket/atac.json, aliesbelik/poldi, 1
 bucket/atariplusplus.json, hermanjustnu/scoop-emulators, 0
 bucket/athena-a.json, hoilc/scoop-lemon, 0
 bucket/athenas-ass-mh4U.json, Deide/deide-bucket, 1
@@ -7458,7 +7459,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
