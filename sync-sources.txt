@@ -2420,7 +2420,6 @@ bucket/clavier-plus.json, ScoopInstaller/Extras, 1
 bucket/claws-mail.json, ScoopInstaller/Extras, 0
 bucket/claws.json, aliesbelik/poldi, 1
 bucket/clcl.json, naderi/scoop-bucket, 0
-bucket/clean-my-pc.json, akirco/aki-apps, 0
 bucket/cleanafterme.json, ScoopInstaller/Nirsoft, 0
 bucket/cleanmgrplus-de.json, naderi/scoop-bucket, 1
 bucket/cleanmgrplus.json, naderi/scoop-bucket, 1
@@ -2772,6 +2771,7 @@ bucket/d2.json, ScoopInstaller/Main, 1
 bucket/dadroitjsonviewer.json, ScoopInstaller/Extras, 0
 bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
+bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
 bucket/dandanplay.json, chawyehsu/dorado, 0
 bucket/dandere2x.json, brian6932/dank-scoop, 1
@@ -3370,7 +3370,7 @@ bucket/erlang.json, ScoopInstaller/Main, 1
 bucket/errorlookup.json, hoilc/scoop-lemon, 1
 bucket/es.json, echoiron/echo-scoop, 0
 bucket/escrcpy-portable.json, DoveBoy/Apps, 1
-bucket/escrcpy.json, ivaquero/scoopet, 1
+bucket/escrcpy.json, DoveBoy/Apps, 1
 bucket/esearch-portable.json, DoveBoy/Apps, 1
 bucket/esearch.json, ScoopInstaller/Extras, 1
 bucket/esedatabaseview.json, ScoopInstaller/Nirsoft, 0
@@ -9731,6 +9731,7 @@ bucket/video2x.json, cc713/ownscoop, 1
 bucket/videoaudiotools.json, ScoopInstaller/Nirsoft, 0
 bucket/videocacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/videoduplicatefinder.json, hoilc/scoop-lemon, 1
+bucket/videofusion.json, DoveBoy/Apps, 1
 bucket/videosubfinder.json, seumsc/scoop-seu, 0
 bucket/vidi.json, ScoopInstaller/Extras, 1
 bucket/vidiot.json, ScoopInstaller/Extras, 0
