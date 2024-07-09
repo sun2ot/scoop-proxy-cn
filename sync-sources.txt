@@ -198,6 +198,7 @@ bucket/BraveNightly-Portable.json, ACooper81/scoop-apps, 1
 bucket/BrickLinkStudio-Install.json, ACooper81/scoop-apps, 0
 bucket/BrickLinkStudio-Portable.json, ACooper81/scoop-apps, 0
 bucket/BrowserTamer-Portable.json, ACooper81/scoop-apps, 1
+bucket/BrutalityExtractor.json, Weidows-projects/scoop-3rd, 1
 bucket/BulkCrapUninstaller-Portable.json, ACooper81/scoop-apps, 1
 bucket/BurntToast-PSModule.json, ACooper81/scoop-apps, 0
 bucket/ByPass.json, kkzzhizhou/scoop-zapps, 0
@@ -1869,7 +1870,7 @@ bucket/battlenet.json, Calinou/scoop-games, 0
 bucket/baulk.json, chawyehsu/dorado, 1
 bucket/bazel-buildtools.json, ScoopInstaller/Main, 1
 bucket/bazel.json, ScoopInstaller/Main, 1
-bucket/bazelisk.json, hoilc/scoop-lemon, 1
+bucket/bazelisk.json, ScoopInstaller/Main, 1
 bucket/bb-http-server.json, littleli/scoop-clojure, 1
 bucket/bb-web.json, littleli/scoop-clojure, 1
 bucket/bbdown-beta.json, DoveBoy/Apps, 0
@@ -1910,6 +1911,7 @@ bucket/beeref.json, ScoopInstaller/Extras, 1
 bucket/behinder.json, ViCrack/scoop-bucket, 1
 bucket/belautils.json, hoilc/scoop-lemon, 1
 bucket/bencode-editor.json, ScoopInstaller/Extras, 0
+bucket/bendsql.json, hoilc/scoop-lemon, 1
 bucket/bennett.json, hoilc/scoop-lemon, 0
 bucket/benthos.json, hoilc/scoop-lemon, 1
 bucket/bento4.json, ScoopInstaller/Main, 0
@@ -3210,6 +3212,7 @@ bucket/dxirc.json, ScoopInstaller/Extras, 0
 bucket/dxvk.json, Calinou/scoop-games, 1
 bucket/dxwnd.json, ScoopInstaller/Extras, 0
 bucket/dxwrapper.json, Calinou/scoop-games, 1
+bucket/dyff.json, aliesbelik/poldi, 1
 bucket/dynamorio.json, ScoopInstaller/Main, 1
 bucket/dzsalauncher.json, brian6932/dank-scoop, 0
 bucket/eac.json, ScoopInstaller/Extras, 0
@@ -5888,6 +5891,7 @@ bucket/mo2.json, Calinou/scoop-games, 1
 bucket/moar.json, ScoopInstaller/Extras, 1
 bucket/mob.json, ScoopInstaller/Main, 1
 bucket/mobalivecd.json, ScoopInstaller/Extras, 0
+bucket/mobaxterm-professional.json, naderi/scoop-bucket, 0
 bucket/mobaxterm.json, ScoopInstaller/Extras, 0
 bucket/mobilefilesearch.json, ScoopInstaller/Nirsoft, 0
 bucket/mockery.json, ScoopInstaller/Main, 1
@@ -7471,7 +7475,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
@@ -7623,8 +7627,8 @@ bucket/pulumi.json, ScoopInstaller/Main, 0
 bucket/pulumictl.json, hoilc/scoop-lemon, 1
 bucket/punzip.json, beerpiss/scoop-bucket, 1
 bucket/pup.json, ScoopInstaller/Main, 1
+bucket/puppet-agent.json, ScoopInstaller/Main, 0
 bucket/puppet-bolt.json, ScoopInstaller/Main, 0
-bucket/puppet.json, ScoopInstaller/Main, 0
 bucket/pupsqlite.json, mo-san/scoop-bucket, 0
 bucket/pure-data.json, ScoopInstaller/Extras, 0
 bucket/pure-live.json, akirco/aki-apps, 1
@@ -9186,6 +9190,7 @@ bucket/terraform.json, ScoopInstaller/Main, 0
 bucket/terraform011.json, ScoopInstaller/Versions, 0
 bucket/terraformer.json, ScoopInstaller/Main, 1
 bucket/terragrunt.json, ScoopInstaller/Main, 1
+bucket/terranetes-cli.json, hoilc/scoop-lemon, 1
 bucket/terrap.json, aliesbelik/poldi, 1
 bucket/terrascan.json, hoilc/scoop-lemon, 1
 bucket/tesseract-game.json, Calinou/scoop-games, 0
