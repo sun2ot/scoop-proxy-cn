@@ -1024,7 +1024,6 @@ bucket/SleepCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/SlimPDFReader-Portable.json, ACooper81/scoop-apps, 0
 bucket/SmartSystemMenu-Portable.json, ACooper81/scoop-apps, 1
 bucket/SmartTaskbar-Portable.json, ACooper81/scoop-apps, 1
-bucket/Snap.Hutao.json, Weidows-projects/scoop-3rd, 1
 bucket/SnappyDriverInstallerOrigin-Portable.json, ACooper81/scoop-apps, 0
 bucket/Snipaste-Portable.json, ACooper81/scoop-apps, 0
 bucket/SoftOrganizer-Install.json, ACooper81/scoop-apps, 0
@@ -2892,7 +2891,7 @@ bucket/desktopnoteok.json, hoilc/scoop-lemon, 0
 bucket/desktoppet.json, amorphobia/siku, 1
 bucket/desktops.json, niheaven/scoop-sysinternals, 1
 bucket/desmume-stable.json, hermanjustnu/scoop-emulators, 1
-bucket/desmume.json, hermanjustnu/scoop-emulators, 0
+bucket/desmume.json, borger/scoop-emulators, 0
 bucket/deta.json, ScoopInstaller/Main, 1
 bucket/detect-it-easy.json, ScoopInstaller/Extras, 1
 bucket/detekt.json, ScoopInstaller/Main, 1
@@ -4447,7 +4446,7 @@ bucket/hibit-system-information.json, ScoopInstaller/Extras, 0
 bucket/hibit-uninstaller.json, ScoopInstaller/Extras, 0
 bucket/hibituninstaller.json, DoveBoy/Apps, 0
 bucket/hiccup-cli.json, littleli/scoop-clojure, 1
-bucket/hiddify-next.json, DoveBoy/Apps, 1
+bucket/hiddify-next.json, Homeland-Community/scoop, 1
 bucket/hiddify.json, hoilc/scoop-lemon, 1
 bucket/hide-from-uninstall-list.json, ViCrack/scoop-bucket, 0
 bucket/hideul.json, ScoopInstaller/Extras, 0
@@ -4700,7 +4699,7 @@ bucket/innosetup-np.json, ScoopInstaller/Nonportable, 0
 bucket/innosetup-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/innounp-unicode.json, ScoopInstaller/Versions, 0
 bucket/innounp.json, ScoopInstaller/Main, 0
-bucket/innounpacker.json, akirco/aki-apps, 0
+bucket/innounpacker.json, hoilc/scoop-lemon, 0
 bucket/inotifywait.json, jingyu9575/scoop-jingyu9575, 1
 bucket/insideclipboard.json, ScoopInstaller/Nirsoft, 0
 bucket/inso.json, hoilc/scoop-lemon, 1
@@ -5210,6 +5209,7 @@ bucket/lantern-client.json, ScoopInstaller/Extras, 0
 bucket/lantern-np.json, ScoopInstaller/Nonportable, 0
 bucket/lantern-oldver.json, SayCV/scoop-cvp, 1
 bucket/lantern.json, SayCV/scoop-cvp, 1
+bucket/lanthora.candy.json, hoilc/scoop-lemon, 1
 bucket/lanzou-cmd.json, DoveBoy/Apps, 1
 bucket/lanzou-gui.json, DoveBoy/Apps, 1
 bucket/lanzouyun-disk.json, DoveBoy/Apps, 1
@@ -8638,6 +8638,7 @@ bucket/smt-mod-compendium.json, Deide/deide-bucket, 1
 bucket/smtprelay.json, iquiw/scoop-bucket, 1
 bucket/smuxi.json, ScoopInstaller/Extras, 0
 bucket/snaketail.json, ScoopInstaller/Extras, 1
+bucket/snap.hutao.json, hoilc/scoop-lemon, 1
 bucket/snappy-driver-installer-origin.json, ScoopInstaller/Extras, 0
 bucket/snapraid.json, ScoopInstaller/Main, 1
 bucket/snaptimer.json, ScoopInstaller/Extras, 0
@@ -9527,6 +9528,7 @@ bucket/ultraedit.json, SayCV/scoop-cvp, 1
 bucket/ultraiso.json, ScoopInstaller/Extras, 0
 bucket/ultrasearch.json, hoilc/scoop-lemon, 0
 bucket/ultravnc.json, ScoopInstaller/Extras, 0
+bucket/umaviewer.json, aoisummer/scoop-bucket, 1
 bucket/umbrello.json, ScoopInstaller/Extras, 0
 bucket/umi-ocr-paddle.json, ScoopInstaller/Extras, 1
 bucket/umi-ocr-rapid.json, hu3rror/scoop-muggle, 1
