@@ -1585,6 +1585,7 @@ bucket/anto.json, hoilc/scoop-lemon, 1
 bucket/antsword.json, batkiz/backit, 1
 bucket/anyburn.json, ScoopInstaller/Extras, 0
 bucket/anydesk.json, ScoopInstaller/Extras, 0
+bucket/anytype.json, ScoopInstaller/Extras, 1
 bucket/ao.json, ScoopInstaller/Extras, 1
 bucket/aomei-partition-assistant-standard.json, TheRandomLabs/Scoop-Bucket, 0
 bucket/apache-directory-studio.json, ScoopInstaller/Extras, 0
@@ -2114,7 +2115,7 @@ bucket/buf.json, ScoopInstaller/Main, 1
 bucket/buffalo.json, ScoopInstaller/Main, 1
 bucket/bugn.json, ScoopInstaller/Extras, 1
 bucket/buildcache.json, ScoopInstaller/Extras, 0
-bucket/buildkit.json, batkiz/backit, 1
+bucket/buildkit.json, iquiw/scoop-bucket, 1
 bucket/bulk-crap-uninstaller.json, ScoopInstaller/Extras, 1
 bucket/bulk-extractor.json, brian6932/dank-scoop, 1
 bucket/bulk-rename-command.json, ScoopInstaller/Main, 0
@@ -5388,6 +5389,7 @@ bucket/lingoes.json, naderi/scoop-bucket, 0
 bucket/link-plus.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/link-shell-extension-np.json, jingyu9575/scoop-jingyu9575, 0
 bucket/link-shell-extension.json, starise/Scoop-Confetti, 0
+bucket/linkbar.json, hoilc/scoop-lemon, 1
 bucket/linkerd.json, ScoopInstaller/Extras, 1
 bucket/links.json, ScoopInstaller/Main, 0
 bucket/linkscope.json, SayCV/scoop-cvp, 1
