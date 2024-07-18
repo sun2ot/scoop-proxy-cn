@@ -2240,6 +2240,7 @@ bucket/catalyst.json, ScoopInstaller/Extras, 1
 bucket/catbox.json, brian6932/dank-scoop, 1
 bucket/categraf.json, hoilc/scoop-lemon, 1
 bucket/catsxp.json, hoilc/scoop-lemon, 0
+bucket/cavif.json, hoilc/scoop-lemon, 1
 bucket/cbox-cvp.json, SayCV/scoop-cvp, 1
 bucket/cbxconverter.json, starise/Scoop-Confetti, 0
 bucket/cc-clean-launcher.json, brian6932/dank-scoop, 1
@@ -2365,7 +2366,6 @@ bucket/chromepass.json, ScoopInstaller/Nirsoft, 0
 bucket/chromium-dev.json, ScoopInstaller/Versions, 0
 bucket/chromium-nosync.json, ScoopInstaller/Versions, 1
 bucket/chromium-np.json, hu3rror/scoop-muggle, 1
-bucket/chromium-portable.json, naderi/scoop-bucket, 1
 bucket/chromium-xp.json, SayCV/scoop-cvp, 0
 bucket/chromium.json, ScoopInstaller/Extras, 1
 bucket/chrono.json, aliesbelik/poldi, 1
@@ -3704,6 +3704,7 @@ bucket/fleet.json, akirco/aki-apps, 0
 bucket/flexible-renamer.json, mo-san/scoop-bucket, 0
 bucket/flexihub.json, SayCV/scoop-cvp, 0
 bucket/flips.json, Deide/deide-bucket, 1
+bucket/flix.json, hoilc/scoop-lemon, 0
 bucket/flog.json, aliesbelik/poldi, 1
 bucket/floorp.json, ScoopInstaller/Extras, 1
 bucket/flow-launcher.json, ScoopInstaller/Extras, 1
@@ -4457,7 +4458,7 @@ bucket/hibit-system-information.json, ScoopInstaller/Extras, 0
 bucket/hibit-uninstaller.json, ScoopInstaller/Extras, 0
 bucket/hibituninstaller.json, DoveBoy/Apps, 0
 bucket/hiccup-cli.json, littleli/scoop-clojure, 1
-bucket/hiddify-next.json, Homeland-Community/scoop, 1
+bucket/hiddify-next.json, DoveBoy/Apps, 1
 bucket/hiddify.json, hoilc/scoop-lemon, 1
 bucket/hide-from-uninstall-list.json, ViCrack/scoop-bucket, 0
 bucket/hideul.json, ScoopInstaller/Extras, 0
