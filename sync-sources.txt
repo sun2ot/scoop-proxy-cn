@@ -4458,7 +4458,7 @@ bucket/hibit-system-information.json, ScoopInstaller/Extras, 0
 bucket/hibit-uninstaller.json, ScoopInstaller/Extras, 0
 bucket/hibituninstaller.json, DoveBoy/Apps, 0
 bucket/hiccup-cli.json, littleli/scoop-clojure, 1
-bucket/hiddify-next.json, DoveBoy/Apps, 1
+bucket/hiddify-next.json, Homeland-Community/scoop, 1
 bucket/hiddify.json, hoilc/scoop-lemon, 1
 bucket/hide-from-uninstall-list.json, ViCrack/scoop-bucket, 0
 bucket/hideul.json, ScoopInstaller/Extras, 0
@@ -4801,7 +4801,7 @@ bucket/ippathtableview.json, ScoopInstaller/Nirsoft, 0
 bucket/ips.json, hoilc/scoop-lemon, 1
 bucket/ipscan.json, ScoopInstaller/Extras, 1
 bucket/iptv-checker-cn.json, SayCV/scoop-cvp, 1
-bucket/iptvnator.json, Homeland-Community/scoop, 1
+bucket/iptvnator.json, ScoopInstaller/Extras, 1
 bucket/iqiyi-cvp.json, SayCV/scoop-cvp, 1
 bucket/iqiyi.json, echoiron/echo-scoop, 0
 bucket/irfanview-lean.json, ScoopInstaller/Extras, 0
@@ -5960,6 +5960,7 @@ bucket/montserrat.json, KnotUntied/scoop-fonts, 1
 bucket/moonbit.json, hoilc/scoop-lemon, 0
 bucket/moonlight.json, ScoopInstaller/Extras, 1
 bucket/moonscript.json, ScoopInstaller/Extras, 1
+bucket/moonup.json, chawyehsu/dorado, 1
 bucket/moosync.json, ScoopInstaller/Extras, 1
 bucket/mosdns-cn.json, chawyehsu/dorado, 1
 bucket/mosdns.json, chawyehsu/dorado, 1
@@ -6385,7 +6386,7 @@ bucket/ntfs2btrfs.json, ScoopInstaller/Main, 1
 bucket/ntfsinfo.json, niheaven/scoop-sysinternals, 1
 bucket/ntfslinksview.json, ScoopInstaller/Nirsoft, 0
 bucket/ntfy.json, ScoopInstaller/Main, 1
-bucket/ntlite.json, beerpiss/scoop-bucket, 0
+bucket/ntlite.json, ScoopInstaller/Extras, 0
 bucket/ntop.json, ScoopInstaller/Main, 1
 bucket/ntrace-core.json, DoveBoy/Apps, 1
 bucket/ntrace-v1.json, DoveBoy/Apps, 1
@@ -6817,7 +6818,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -7449,6 +7450,7 @@ bucket/posh-git-beta.json, ScoopInstaller/Versions, 1
 bucket/posh-git-nightly.json, ScoopInstaller/Versions, 1
 bucket/posh-git.json, ScoopInstaller/Extras, 0
 bucket/posh-maven.json, DoveBoy/Apps, 0
+bucket/positron.json, cderv/r-bucket, 1
 bucket/postcat.json, ViCrack/scoop-bucket, 1
 bucket/postgres_exporter.json, hoilc/scoop-lemon, 1
 bucket/postgresql.json, ScoopInstaller/Main, 0
@@ -7491,7 +7493,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
@@ -8940,7 +8942,7 @@ bucket/stunnel549.json, ScoopInstaller/Versions, 0
 bucket/stuntrally.json, Calinou/scoop-games, 1
 bucket/stylua.json, ScoopInstaller/Main, 1
 bucket/suanpan.json, ScoopInstaller/Main, 1
-bucket/subconverter.json, kkzzhizhou/scoop-zapps, 1
+bucket/subconverter.json, ScoopInstaller/Main, 1
 bucket/subfinder.json, hoilc/scoop-lemon, 1
 bucket/sublime-merge.json, ScoopInstaller/Extras, 1
 bucket/sublime-text-4.json, naderi/scoop-bucket, 1
