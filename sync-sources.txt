@@ -71,6 +71,7 @@ bucket/7ztm.json, ScoopInstaller/Extras, 0
 bucket/86box-manager.json, ScoopInstaller/Extras, 1
 bucket/86box-roms.json, ScoopInstaller/Extras, 1
 bucket/86box.json, ScoopInstaller/Extras, 1
+bucket/8bitdo-ultimate-software-v2.json, hu3rror/scoop-muggle, 0
 bucket/8gadgetpack-np.json, ScoopInstaller/Nonportable, 0
 bucket/ABBYYFineReader.json, kkzzhizhou/scoop-zapps, 1
 bucket/ACG-Power.json, Darkatse/Scoop-KanColle, 0
@@ -3424,6 +3425,7 @@ bucket/everything-beta.json, ScoopInstaller/Versions, 1
 bucket/everything-cli.json, ScoopInstaller/Main, 0
 bucket/everything-lite.json, ScoopInstaller/Extras, 1
 bucket/everything-np.json, ScoopInstaller/Nonportable, 0
+bucket/everything-powertoys.json, ScoopInstaller/Extras, 1
 bucket/everything-toolbar.json, naderi/scoop-bucket, 1
 bucket/everything.json, ScoopInstaller/Extras, 1
 bucket/evilpot.json, ViCrack/scoop-bucket, 1
@@ -6818,7 +6820,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -7493,7 +7495,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
@@ -8170,7 +8172,7 @@ bucket/rtools42.json, ScoopInstaller/Versions, 0
 bucket/rtools43.json, ScoopInstaller/Versions, 0
 bucket/rtss.json, ScoopInstaller/Extras, 0
 bucket/ru.json, niheaven/scoop-sysinternals, 1
-bucket/rubick.json, DoveBoy/Apps, 1
+bucket/rubick.json, ViCrack/scoop-bucket, 1
 bucket/ruby.json, ScoopInstaller/Main, 1
 bucket/ruby19.json, ScoopInstaller/Versions, 1
 bucket/ruby24.json, ScoopInstaller/Versions, 1
