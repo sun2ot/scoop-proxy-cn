@@ -1520,6 +1520,7 @@ bucket/altools.json, ScoopInstaller/Extras, 0
 bucket/altserver.json, chawyehsu/dorado, 0
 bucket/altsnap.json, ScoopInstaller/Extras, 1
 bucket/altstreamdump.json, ScoopInstaller/Nirsoft, 0
+bucket/altus.json, ScoopInstaller/Extras, 1
 bucket/alwaysmousewheel.json, naderi/scoop-bucket, 0
 bucket/am-deadlink.json, hoilc/scoop-lemon, 0
 bucket/am-notebook.json, hoilc/scoop-lemon, 0
@@ -6541,6 +6542,7 @@ bucket/olive-editor.json, ScoopInstaller/Extras, 0
 bucket/ollama.json, ScoopInstaller/Main, 1
 bucket/ollydbg.json, ScoopInstaller/Extras, 0
 bucket/omegat.json, ScoopInstaller/Extras, 0
+bucket/omenmon.json, ScoopInstaller/Extras, 1
 bucket/omnidb-np.json, ScoopInstaller/Nonportable, 1
 bucket/omnisharp-http-net6.json, ScoopInstaller/Versions, 1
 bucket/omnisharp-http.json, ScoopInstaller/Main, 1
@@ -8258,6 +8260,7 @@ bucket/sam.json, ScoopInstaller/Extras, 1
 bucket/sameboy.json, Calinou/scoop-games, 1
 bucket/saml2aws.json, ScoopInstaller/Main, 1
 bucket/sampler.json, ScoopInstaller/Main, 1
+bucket/samsung-magician-np.json, rasa/scoops, 0
 bucket/sandboxdiff.json, hoilc/scoop-lemon, 0
 bucket/sandboxie-classic-np.json, ScoopInstaller/Nonportable, 1
 bucket/sandboxie-classic-portable.json, DoveBoy/Apps, 1
