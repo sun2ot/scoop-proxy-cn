@@ -2375,7 +2375,7 @@ bucket/chromium-xp.json, SayCV/scoop-cvp, 0
 bucket/chromium.json, ScoopInstaller/Extras, 1
 bucket/chrono.json, aliesbelik/poldi, 1
 bucket/chronograf.json, ScoopInstaller/Main, 0
-bucket/chsrc.json, hoilc/scoop-lemon, 0
+bucket/chsrc.json, ScoopInstaller/Main, 1
 bucket/cht.json, ScoopInstaller/Main, 1
 bucket/chuck.json, ScoopInstaller/Main, 0
 bucket/chunky.json, chawyehsu/dorado, 0
@@ -7506,7 +7506,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
@@ -7779,7 +7779,7 @@ bucket/qqlite.json, SayCV/scoop-cvp, 0
 bucket/qqlive-cvp.json, SayCV/scoop-cvp, 1
 bucket/qqlive.json, wzv5/ScoopBucket, 0
 bucket/qqmusic-cvp.json, SayCV/scoop-cvp, 1
-bucket/qqmusic.json, chawyehsu/dorado, 0
+bucket/qqmusic.json, wzv5/ScoopBucket, 0
 bucket/qqnt.json, chawyehsu/dorado, 0
 bucket/qqplayer.json, amorphobia/siku, 0
 bucket/qr.json, ScoopInstaller/Main, 1
@@ -9995,7 +9995,6 @@ bucket/wechat-work.json, ZvonimirSun/scoop-iszy, 0
 bucket/wechat.json, ScoopInstaller/Extras, 0
 bucket/wechatbaktool.json, hoilc/scoop-lemon, 1
 bucket/wechatdevtools.json, chawyehsu/dorado, 0
-bucket/wechatdownload-qiye45.json, DoveBoy/Apps, 1
 bucket/wechatdownload.json, DoveBoy/Apps, 1
 bucket/wechatexporter.json, amorphobia/siku, 1
 bucket/wechatmoments.json, DoveBoy/Apps, 1
@@ -10381,6 +10380,7 @@ bucket/xb1cbi.json, ScoopInstaller/Extras, 1
 bucket/xboxdownload.json, hoilc/scoop-lemon, 1
 bucket/xc.json, ScoopInstaller/Extras, 1
 bucket/xca.json, ScoopInstaller/Extras, 1
+bucket/xd-antispy.json, naderi/scoop-bucket, 1
 bucket/xdelta.json, ScoopInstaller/Main, 1
 bucket/xdelta3-cross-gui.json, ScoopInstaller/Extras, 1
 bucket/xdm-dev.json, cc713/ownscoop, 1
@@ -10621,6 +10621,7 @@ bucket/zerobrane-studio.json, ScoopInstaller/Extras, 0
 bucket/zeronet.json, ScoopInstaller/Extras, 1
 bucket/zerotier-np.json, ScoopInstaller/Nonportable, 0
 bucket/zeta-resource-editor.json, hoilc/scoop-lemon, 1
+bucket/zettlr-nightly.json, ScoopInstaller/Versions, 0
 bucket/zettlr.json, ScoopInstaller/Extras, 1
 bucket/zfind.json, hoilc/scoop-lemon, 1
 bucket/zhconv-rs.json, hoilc/scoop-lemon, 1
