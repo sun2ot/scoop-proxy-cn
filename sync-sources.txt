@@ -6,6 +6,7 @@ bucket/0xProto-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/0xProto.json, renxia/scoop-bucket, 1
 bucket/10x-np.json, ScoopInstaller/Nonportable, 0
 bucket/115.json, echoiron/echo-scoop, 0
+bucket/115chrome.json, echoiron/echo-scoop, 0
 bucket/11game-platform.json, SayCV/scoop-cvp, 0
 bucket/123pan.json, akirco/aki-apps, 0
 bucket/163MusicLyrics.json, ygguorun/scoop-bucket, 1
@@ -7504,7 +7505,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
@@ -8066,7 +8067,6 @@ bucket/retroarch.json, ScoopInstaller/Extras, 0
 bucket/retrobar.json, ScoopInstaller/Extras, 1
 bucket/retroshare.json, ScoopInstaller/Extras, 1
 bucket/revanced-cli.json, hoilc/scoop-lemon, 1
-bucket/revezone.json, ivaquero/scoopet, 1
 bucket/reviewdog.json, ScoopInstaller/Main, 1
 bucket/revive.json, batkiz/backit, 1
 bucket/revokemsgpatcher-nightly.json, DoveBoy/Apps, 0
