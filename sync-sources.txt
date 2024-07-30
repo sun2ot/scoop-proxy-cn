@@ -1933,6 +1933,7 @@ bucket/betaflight-configurator.json, ScoopInstaller/Extras, 1
 bucket/bethesdaLauncher.json, Deide/deide-bucket, 0
 bucket/better-joy.json, ScoopInstaller/Extras, 1
 bucket/betterbird.json, hoilc/scoop-lemon, 0
+bucket/bettergi.json, hoilc/scoop-lemon, 1
 bucket/betterjoy-lts.json, hu3rror/scoop-muggle, 1
 bucket/betterjoy.json, Calinou/scoop-games, 1
 bucket/beyondcompare-zh-cn.json, chawyehsu/dorado, 0
@@ -7507,7 +7508,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
