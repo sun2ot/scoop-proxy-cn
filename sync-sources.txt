@@ -1802,6 +1802,7 @@ bucket/awsSts.json, ScoopInstaller/Main, 1
 bucket/awscurl-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/awsqueue.json, ScoopInstaller/Main, 1
 bucket/axhelper.json, ScoopInstaller/Nirsoft, 0
+bucket/axiom-cli.json, hoilc/scoop-lemon, 1
 bucket/axiom.json, ScoopInstaller/Extras, 1
 bucket/axis.json, ScoopInstaller/Extras, 0
 bucket/axmlprinter.json, TheCjw/scoop-retools, 1
@@ -4470,7 +4471,7 @@ bucket/hibit-system-information.json, ScoopInstaller/Extras, 0
 bucket/hibit-uninstaller.json, ScoopInstaller/Extras, 0
 bucket/hibituninstaller.json, DoveBoy/Apps, 0
 bucket/hiccup-cli.json, littleli/scoop-clojure, 1
-bucket/hiddify-next.json, Homeland-Community/scoop, 1
+bucket/hiddify-next.json, DoveBoy/Apps, 1
 bucket/hiddify.json, hoilc/scoop-lemon, 1
 bucket/hide-from-uninstall-list.json, ViCrack/scoop-bucket, 0
 bucket/hideul.json, ScoopInstaller/Extras, 0
@@ -7393,6 +7394,7 @@ bucket/pixiv-omina.json, batkiz/backit, 1
 bucket/pixivbiu.json, HCLonely/my-scoop-bucket, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
 bucket/pixpin.json, amorphobia/siku, 0
+bucket/pixzip-lite.json, hoilc/scoop-lemon, 1
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
 bucket/pkg-config.json, ScoopInstaller/Main, 0
 bucket/pkg2zip.json, Deide/deide-bucket, 1
