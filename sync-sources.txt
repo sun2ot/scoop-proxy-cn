@@ -2903,6 +2903,7 @@ bucket/deprecated.Filezilla-persist.json, Paxxs/Cluttered-bucket, 0
 bucket/deprecated.LDPlayer.clear.json, Paxxs/Cluttered-bucket, 0
 bucket/deps.clj.json, littleli/scoop-clojure, 1
 bucket/deskpins.json, ScoopInstaller/Extras, 0
+bucket/deskreen-portable.json, DoveBoy/Apps, 1
 bucket/deskreen.json, ScoopInstaller/Extras, 1
 bucket/desktop-ini-editor.json, ScoopInstaller/Extras, 0
 bucket/desktopnaotu.json, hu3rror/scoop-muggle, 1
@@ -6390,6 +6391,7 @@ bucket/npp-cvp.json, SayCV/scoop-cvp, 1
 bucket/npp-xp.json, SayCV/scoop-cvp, 1
 bucket/nps-client.json, kkzzhizhou/scoop-zapps, 1
 bucket/nps-server.json, hoilc/scoop-lemon, 1
+bucket/ns-emu-tools.json, hoilc/scoop-lemon, 1
 bucket/nsis-np.json, ScoopInstaller/Nonportable, 0
 bucket/nsis.json, ScoopInstaller/Extras, 0
 bucket/nssm.json, ScoopInstaller/Main, 0
@@ -6736,6 +6738,7 @@ bucket/oss-cad-suite-nightly.json, ScoopInstaller/Versions, 1
 bucket/ossgadget.json, ScoopInstaller/Main, 1
 bucket/osslsigncode.json, ScoopInstaller/Main, 1
 bucket/ossutil.json, ScoopInstaller/Main, 0
+bucket/ossutil@2.json, hoilc/scoop-lemon, 0
 bucket/osu-lazer.json, Weidows-projects/scoop-3rd, 1
 bucket/osulazer.json, Calinou/scoop-games, 1
 bucket/osv-scanner.json, ScoopInstaller/Main, 1
@@ -9050,7 +9053,7 @@ bucket/syncany-cli.json, ScoopInstaller/Main, 0
 bucket/syncback.json, ScoopInstaller/Extras, 0
 bucket/syncbackpro.json, ScoopInstaller/Extras, 0
 bucket/syncclipboard-beta.json, DoveBoy/Apps, 1
-bucket/syncclipboard.json, DoveBoy/Apps, 1
+bucket/syncclipboard.json, hoilc/scoop-lemon, 1
 bucket/syncplay-beta.json, ScoopInstaller/Versions, 1
 bucket/syncplay.json, ScoopInstaller/Extras, 1
 bucket/syncthing-beta.json, DoveBoy/Apps, 1
