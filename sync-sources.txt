@@ -8100,7 +8100,7 @@ bucket/rider.json, ScoopInstaller/Extras, 1
 bucket/ridnacs.json, ScoopInstaller/Extras, 0
 bucket/riemann.json, hoilc/scoop-lemon, 1
 bucket/rife-ncnn-vulkan.json, ScoopInstaller/Extras, 1
-bucket/riff.json, aliesbelik/poldi, 1
+bucket/riff.json, ScoopInstaller/Extras, 1
 bucket/riftshare.json, hoilc/scoop-lemon, 1
 bucket/rig.json, cderv/r-bucket, 1
 bucket/rimage-next.json, hu3rror/scoop-muggle, 1
@@ -9721,7 +9721,7 @@ bucket/v2ray.json, ScoopInstaller/Main, 1
 bucket/v2raya-unstable.json, DoveBoy/Apps, 0
 bucket/v2raya.json, DoveBoy/Apps, 1
 bucket/v2rayn-core-with-runtime.json, DoveBoy/Apps, 1
-bucket/v2rayn-core.json, DoveBoy/Apps, 1
+bucket/v2rayn-core.json, seumsc/scoop-seu, 1
 bucket/v2rayn-pre.json, ScoopInstaller/Versions, 1
 bucket/v2rayn-rules-dat.json, everyx/scoop-bucket, 1
 bucket/v2rayn.json, ScoopInstaller/Extras, 1
