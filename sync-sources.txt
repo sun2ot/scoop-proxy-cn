@@ -1753,6 +1753,7 @@ bucket/autoMate.json, Weidows-projects/scoop-3rd, 1
 bucket/autoactions.json, ScoopInstaller/Extras, 1
 bucket/autoclicker.json, ScoopInstaller/Extras, 0
 bucket/autocorrect.json, ScoopInstaller/Main, 1
+bucket/autocursorlock.json, hoilc/scoop-lemon, 1
 bucket/autodarkmode.json, chawyehsu/dorado, 1
 bucket/autogpuaffinity-spddl.json, couleur-tweak-tips/utils, 1
 bucket/autogpuaffinity.json, couleur-tweak-tips/utils, 1
@@ -2912,7 +2913,7 @@ bucket/desktopnoteok.json, hoilc/scoop-lemon, 0
 bucket/desktoppet.json, amorphobia/siku, 1
 bucket/desktops.json, niheaven/scoop-sysinternals, 1
 bucket/desmume-stable.json, hermanjustnu/scoop-emulators, 1
-bucket/desmume.json, hermanjustnu/scoop-emulators, 0
+bucket/desmume.json, borger/scoop-emulators, 0
 bucket/deta.json, ScoopInstaller/Main, 1
 bucket/detect-it-easy.json, ScoopInstaller/Extras, 1
 bucket/detekt.json, ScoopInstaller/Main, 1
@@ -6178,6 +6179,7 @@ bucket/nano.json, ScoopInstaller/Main, 1
 bucket/nanoboyadvance.json, Calinou/scoop-games, 1
 bucket/nap.json, aliesbelik/poldi, 1
 bucket/naps2.json, ScoopInstaller/Extras, 1
+bucket/nasm-snapshot.json, hoilc/scoop-lemon, 0
 bucket/nasm.json, ScoopInstaller/Main, 0
 bucket/nat-type-tester.json, hoilc/scoop-lemon, 1
 bucket/natron.json, ScoopInstaller/Extras, 1
