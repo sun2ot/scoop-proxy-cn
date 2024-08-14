@@ -2796,7 +2796,7 @@ bucket/dafny.json, ScoopInstaller/Main, 1
 bucket/dagger.json, ScoopInstaller/Main, 1
 bucket/daggerfallunity.json, Calinou/scoop-games, 1
 bucket/daisy.json, DoveBoy/Apps, 1
-bucket/dandanplay.json, chawyehsu/dorado, 0
+bucket/dandanplay.json, aoisummer/scoop-bucket, 0
 bucket/dandere2x.json, brian6932/dank-scoop, 1
 bucket/dangerzone.json, ScoopInstaller/Extras, 1
 bucket/dankerino-portable-qt5.json, brian6932/dank-scoop, 1
@@ -5063,10 +5063,13 @@ bucket/keepass-plugin-keeautoexec.json, ScoopInstaller/Extras, 0
 bucket/keepass-plugin-keepasshttp.json, ScoopInstaller/Extras, 1
 bucket/keepass-plugin-keepassnatmsg.json, ScoopInstaller/Extras, 1
 bucket/keepass-plugin-keepassotp.json, hoilc/scoop-lemon, 1
+bucket/keepass-plugin-keepassrdp.json, hoilc/scoop-lemon, 1
 bucket/keepass-plugin-keepassrpc.json, ScoopInstaller/Extras, 1
 bucket/keepass-plugin-keepasswinhello.json, hoilc/scoop-lemon, 1
+bucket/keepass-plugin-keeresize.json, hoilc/scoop-lemon, 0
 bucket/keepass-plugin-keetheme.json, ScoopInstaller/Extras, 1
 bucket/keepass-plugin-keetraytotp.json, ScoopInstaller/Extras, 1
+bucket/keepass-plugin-keeuiext.json, hoilc/scoop-lemon, 0
 bucket/keepass-plugin-kpenhentryview.json, ScoopInstaller/Extras, 0
 bucket/keepass-plugin-kpscript.json, hoilc/scoop-lemon, 0
 bucket/keepass-plugin-readable-passphrase.json, ScoopInstaller/Extras, 1
@@ -5823,6 +5826,7 @@ bucket/migrated/octosql.json, aliesbelik/poldi, 1
 bucket/migrated/oha.json, aliesbelik/poldi, 1
 bucket/migrated/ov.json, aliesbelik/poldi, 1
 bucket/migrated/restfox.json, aliesbelik/poldi, 1
+bucket/migrated/riff.json, aliesbelik/poldi, 1
 bucket/migrated/tailspin.json, aliesbelik/poldi, 1
 bucket/migrated/taplo.json, aliesbelik/poldi, 1
 bucket/migrated/tcping.json, aliesbelik/poldi, 0
@@ -7425,6 +7429,7 @@ bucket/plugdata.json, ScoopInstaller/Extras, 1
 bucket/plumber.json, batkiz/backit, 1
 bucket/plutil.json, beerpiss/scoop-bucket, 0
 bucket/pluto.json, ScoopInstaller/Main, 1
+bucket/pm-lite.json, hoilc/scoop-lemon, 0
 bucket/pmx-editor.json, mo-san/scoop-bucket, 0
 bucket/png2html.json, ScoopInstaller/Main, 0
 bucket/png2jpeg.json, ScoopInstaller/Main, 0
@@ -8421,6 +8426,8 @@ bucket/scoop-tab-completion.json, DoveBoy/Apps, 0
 bucket/scoop-validator.json, ScoopInstaller/Main, 1
 bucket/scooper.json, ScoopInstaller/Extras, 1
 bucket/scopy.json, ScoopInstaller/Extras, 1
+bucket/score-compose.json, hoilc/scoop-lemon, 1
+bucket/score-k8s.json, hoilc/scoop-lemon, 1
 bucket/scratch.json, ScoopInstaller/Extras, 0
 bucket/scrawler.json, ScoopInstaller/Extras, 1
 bucket/scrcpy-gui.json, chawyehsu/dorado, 1
@@ -8710,6 +8717,7 @@ bucket/snipaste-beta.json, ScoopInstaller/Versions, 0
 bucket/snipaste-x86.json, amorphobia/siku, 0
 bucket/snipaste.json, ScoopInstaller/Extras, 0
 bucket/sniproxy.json, DoveBoy/Apps, 1
+bucket/snipsvg.json, hoilc/scoop-lemon, 0
 bucket/snmp_exporter.json, hoilc/scoop-lemon, 1
 bucket/snoop.json, ScoopInstaller/Extras, 1
 bucket/snova-asio.json, hoilc/scoop-lemon, 1
