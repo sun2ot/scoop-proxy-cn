@@ -7,7 +7,7 @@
     "64bit": {
       "url": "https://obs-community.obs.cn-north-1.myhuaweicloud.com/obsutil/current/obsutil_windows_amd64.zip",
       "hash": "46440850e63600b31888f2c7c8e79db99f01d4ddd4e2b8a1e01af282ee4be93a",
-      "extract_dir": "obsutil_windows_amd64_4644085"
+      "extract_dir": "obsutil_windows_amd64_5.5.12"
     }
   },
   "bin": "obsutil.exe",
@@ -18,8 +18,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://obs-community.obs.cn-north-1.myhuaweicloud.com/obsutil/current/obsutil_windows_amd64.zip",
-        "extract_dir": "obsutil_windows_amd64_$version"
+        "url": "https://obs-community.obs.cn-north-1.myhuaweicloud.com/obsutil/current/obsutil_windows_amd64.zip"
       }
     },
     "hash": {
