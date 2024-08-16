@@ -8,7 +8,7 @@ bucket/10x-np.json, ScoopInstaller/Nonportable, 0
 bucket/115.json, echoiron/echo-scoop, 0
 bucket/115chrome.json, echoiron/echo-scoop, 0
 bucket/11game-platform.json, SayCV/scoop-cvp, 0
-bucket/123pan.json, akirco/aki-apps, 0
+bucket/123pan.json, akirco/aki-apps, 1
 bucket/163MusicLyrics.json, ygguorun/scoop-bucket, 1
 bucket/1Remote-Portable.json, ACooper81/scoop-apps, 1
 bucket/1by1-Portable.json, ACooper81/scoop-apps, 0
@@ -3150,6 +3150,7 @@ bucket/dragon.json, ygguorun/scoop-bucket, 1
 bucket/dragonwell11-jdk-extended.json, ScoopInstaller/Java, 1
 bucket/dragonwell11-jdk.json, ScoopInstaller/Java, 1
 bucket/dragonwell17-jdk.json, ScoopInstaller/Java, 1
+bucket/dragonwell21-jdk.json, ScoopInstaller/Java, 1
 bucket/dragonwell8-jdk-extended.json, ScoopInstaller/Java, 1
 bucket/dragonwell8-jdk.json, ScoopInstaller/Java, 1
 bucket/draw.io.json, ScoopInstaller/Extras, 1
@@ -3509,6 +3510,7 @@ bucket/fan-control.json, naderi/scoop-bucket, 0
 bucket/fancontrol.json, ScoopInstaller/Extras, 1
 bucket/fanctrl.json, hoilc/scoop-lemon, 1
 bucket/fanhuaji.json, hoilc/scoop-lemon, 1
+bucket/fanqienovel-downloader.json, DoveBoy/Apps, 1
 bucket/fantasquesansmono-llh-nlk.json, KnotUntied/scoop-fonts, 1
 bucket/fantasquesansmono-llh.json, KnotUntied/scoop-fonts, 1
 bucket/fantasquesansmono-nlk.json, KnotUntied/scoop-fonts, 1
@@ -4754,6 +4756,10 @@ bucket/intellij-jbr17-jcef.json, ScoopInstaller/Java, 0
 bucket/intellij-jbr17-sdk-jcef.json, ScoopInstaller/Java, 0
 bucket/intellij-jbr17-sdk.json, ScoopInstaller/Java, 0
 bucket/intellij-jbr17.json, ScoopInstaller/Java, 0
+bucket/intellij-jbr21-jcef.json, ScoopInstaller/Java, 0
+bucket/intellij-jbr21-sdk-jcef.json, ScoopInstaller/Java, 0
+bucket/intellij-jbr21-sdk.json, ScoopInstaller/Java, 0
+bucket/intellij-jbr21.json, ScoopInstaller/Java, 0
 bucket/intelonemono.json, KnotUntied/scoop-fonts, 1
 bucket/interactsh.json, hoilc/scoop-lemon, 1
 bucket/interlink.json, ScoopInstaller/Extras, 0
@@ -5839,6 +5845,8 @@ bucket/mihome-token.json, amorphobia/siku, 1
 bucket/mihomo-compatible-go120.json, DoveBoy/Apps, 1
 bucket/mihomo-compatible.json, DoveBoy/Apps, 1
 bucket/mihomo-go120.json, DoveBoy/Apps, 1
+bucket/mihomo-party-portable.json, DoveBoy/Apps, 1
+bucket/mihomo-party.json, DoveBoy/Apps, 1
 bucket/mihomo.json, ScoopInstaller/Main, 1
 bucket/miktex.json, ScoopInstaller/Main, 0
 bucket/mikumikudance.json, mo-san/scoop-bucket, 0
@@ -7528,7 +7536,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
@@ -9628,6 +9636,7 @@ bucket/uni.json, batkiz/backit, 1
 bucket/unicsved.json, naderi/scoop-bucket, 0
 bucket/uniextract.json, naderi/scoop-bucket, 1
 bucket/uniextract2.json, ScoopInstaller/Extras, 1
+bucket/unigetui-beta.json, DoveBoy/Apps, 1
 bucket/unigetui.json, naderi/scoop-bucket, 1
 bucket/unikey.json, beerpiss/scoop-bucket, 0
 bucket/uninstalltool.json, echoiron/echo-scoop, 0
