@@ -1,18 +1,18 @@
 {
-  "version": "396",
+  "version": "403",
   "description": "A low level CD dumper utility.",
   "homepage": "https://github.com/superg/redumper",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/build_396/redumper-2024.07.31_build396-win64.zip",
-      "extract_dir": "redumper-2024.07.31_build396-win64\\bin",
-      "hash": "e811a0745a7ce5604b84b5a6ea339120b031fefe1e4642731577afc0b18227a4"
+      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/build_403/redumper-2024.08.18_build403-win64.zip",
+      "extract_dir": "redumper-2024.08.18_build403-win64\\bin",
+      "hash": "8c9345ea5031929be847feb6934d6d3c4758914179c8237e7a982735ccd6573b"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/build_396/redumper-2024.07.31_build396-win32.zip",
-      "extract_dir": "redumper-2024.07.31_build396-win32\\bin",
-      "hash": "b0526e04da0241f00257eeca34b9243f78cb6dc5661b8e0af350f17b67fe276c"
+      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/build_403/redumper-2024.08.18_build403-win32.zip",
+      "extract_dir": "redumper-2024.08.18_build403-win32\\bin",
+      "hash": "c431c95cb64451efe96483fe73f0c05e36e7650964519e24928f58dd8be89b3b"
     }
   },
   "bin": "redumper.exe",
