@@ -2629,6 +2629,7 @@ bucket/cortextool.json, hoilc/scoop-lemon, 1
 bucket/cosbrowser.json, chawyehsu/dorado, 1
 bucket/coscli.json, hoilc/scoop-lemon, 0
 bucket/cosign.json, ScoopInstaller/Main, 1
+bucket/cosmo-berry.json, hoilc/scoop-lemon, 0
 bucket/cosmo-emacs.json, hoilc/scoop-lemon, 0
 bucket/cosmo-pigz.json, hoilc/scoop-lemon, 0
 bucket/cosmo-redbean.json, hoilc/scoop-lemon, 0
@@ -2995,10 +2996,8 @@ bucket/diskcountersview.json, ScoopInstaller/Nirsoft, 0
 bucket/diskext.json, niheaven/scoop-sysinternals, 1
 bucket/diskgenius-cn.json, ivaquero/scoopet, 0
 bucket/diskgenius-zh-cn.json, amorphobia/siku, 0
-bucket/diskgenius-zh.json, DoveBoy/Apps, 0
 bucket/diskgenius.json, ScoopInstaller/Extras, 0
 bucket/diskgeniusCN.json, cc713/ownscoop, 0
-bucket/diskgeniuslite-zh.json, DoveBoy/Apps, 0
 bucket/diskmon.json, niheaven/scoop-sysinternals, 1
 bucket/disksmartview.json, ScoopInstaller/Nirsoft, 0
 bucket/diskspd.json, ScoopInstaller/Extras, 1
@@ -3229,7 +3228,6 @@ bucket/dvc.json, ScoopInstaller/Main, 0
 bucket/dvm.json, amorphobia/siku, 1
 bucket/dwarf-fortress-lnp.json, Calinou/scoop-games, 0
 bucket/dwarf-fortress.json, Calinou/scoop-games, 0
-bucket/dwarfs-ricepp.json, DoveBoy/Apps, 1
 bucket/dwarfs.json, hoilc/scoop-lemon, 1
 bucket/dwmblurglass.json, hoilc/scoop-lemon, 1
 bucket/dxc.json, ScoopInstaller/Main, 1
@@ -3339,6 +3337,7 @@ bucket/elixir.json, ScoopInstaller/Main, 0
 bucket/elm.json, ScoopInstaller/Main, 1
 bucket/elvish.json, ScoopInstaller/Main, 0
 bucket/emacs-k.json, kiennq/scoop-misc, 1
+bucket/emacs-kl.json, kiennq/scoop-misc, 1
 bucket/emacs-lsp-booster.json, kiennq/scoop-misc, 1
 bucket/emacs-tree-sitter-module-ucrt64.json, iquiw/scoop-bucket, 1
 bucket/emacs-tree-sitter-module.json, iquiw/scoop-bucket, 1
@@ -8077,6 +8076,7 @@ bucket/repkg.json, ygguorun/scoop-bucket, 1
 bucket/replibyte.json, ScoopInstaller/Main, 1
 bucket/reqable.json, ScoopInstaller/Extras, 1
 bucket/reqstress.json, ViCrack/scoop-bucket, 1
+bucket/res-downloader.json, DoveBoy/Apps, 1
 bucket/res-set.json, rasa/scoops, 1
 bucket/rescandevices.json, rasa/scoops, 0
 bucket/rescuetime.json, ScoopInstaller/Extras, 0
@@ -9256,6 +9256,7 @@ bucket/tencent-meeting.json, ivaquero/scoopet, 0
 bucket/tencent-transmart.json, hoilc/scoop-lemon, 0
 bucket/tencentmeeting.json, echoiron/echo-scoop, 0
 bucket/tenderly-cli.json, chawyehsu/dorado, 1
+bucket/tenv.json, ScoopInstaller/Main, 1
 bucket/teracopy-np.json, ScoopInstaller/Nonportable, 0
 bucket/teracopy.json, naderi/scoop-bucket, 0
 bucket/teraterm.json, ScoopInstaller/Extras, 1
@@ -10554,6 +10555,7 @@ bucket/yacd.json, everyx/scoop-bucket, 1
 bucket/yacreader.json, ScoopInstaller/Extras, 1
 bucket/yaffplayer.json, ScoopInstaller/Extras, 0
 bucket/yahei-fira-icon-hybrid.json, amorphobia/siku, 1
+bucket/yai.json, aliesbelik/poldi, 1
 bucket/yakc.json, amorphobia/siku, 1
 bucket/yakit.json, ViCrack/scoop-bucket, 0
 bucket/yakyak.json, ScoopInstaller/Extras, 1
