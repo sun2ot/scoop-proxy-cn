@@ -2288,7 +2288,7 @@ bucket/cefflashbrowser.json, ScoopInstaller/Extras, 1
 bucket/celestia.json, ScoopInstaller/Extras, 1
 bucket/cemu-dev.json, Calinou/scoop-games, 1
 bucket/cemu-x.json, kiennq/scoop-misc, 1
-bucket/cemu.json, Deide/deide-bucket, 1
+bucket/cemu.json, Calinou/scoop-games, 1
 bucket/cemuhook-webgyro.json, kiennq/scoop-misc, 1
 bucket/cemuhook-x.json, kiennq/scoop-misc, 1
 bucket/cemuhook.json, hermanjustnu/scoop-emulators, 0
@@ -2703,11 +2703,11 @@ bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/cryptsync.json, hoilc/scoop-lemon, 1
 bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-aoi.json, AkariiinMKII/Scoop4kariiin, 0
+bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-shizuku.json, AkariiinMKII/Scoop4kariiin, 0
+bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskmark-shizuku-edition.json, chawyehsu/dorado, 0
@@ -3475,7 +3475,7 @@ bucket/exifcleaner.json, ScoopInstaller/Extras, 1
 bucket/exifdataview.json, ScoopInstaller/Nirsoft, 0
 bucket/exifglass.json, ScoopInstaller/Extras, 1
 bucket/exiftool.json, ScoopInstaller/Main, 0
-bucket/exiftoolgui.json, everyx/scoop-bucket, 0
+bucket/exiftoolgui.json, hoilc/scoop-lemon, 0
 bucket/experienceindexok.json, hoilc/scoop-lemon, 0
 bucket/experimental-clash.json, DoveBoy/Apps, 1
 bucket/explorer-suite.json, ScoopInstaller/Extras, 0
@@ -6039,6 +6039,7 @@ bucket/mp3tag-portable.json, naderi/scoop-bucket, 0
 bucket/mp3tag.json, ScoopInstaller/Extras, 0
 bucket/mp4muxer.json, naderi/scoop-bucket, 0
 bucket/mp4tools.json, mo-san/scoop-bucket, 0
+bucket/mparallel.json, hoilc/scoop-lemon, 1
 bucket/mpc-be.json, ScoopInstaller/Extras, 1
 bucket/mpc-hc-fork.json, ScoopInstaller/Extras, 1
 bucket/mpc-hc-portable.json, naderi/scoop-bucket, 1
@@ -6708,7 +6709,6 @@ bucket/openssh.json, ScoopInstaller/Main, 1
 bucket/openssl-light.json, ScoopInstaller/Versions, 1
 bucket/openssl-lts-light.json, ScoopInstaller/Versions, 1
 bucket/openssl-lts.json, ScoopInstaller/Versions, 1
-bucket/openssl-mingw.json, ScoopInstaller/Main, 0
 bucket/openssl.json, ScoopInstaller/Main, 1
 bucket/openssl1-light.json, ScoopInstaller/Versions, 1
 bucket/openssl1.json, ScoopInstaller/Versions, 1
@@ -8718,8 +8718,10 @@ bucket/sliksvn.json, ScoopInstaller/Main, 0
 bucket/slimpdfreader.json, hoilc/scoop-lemon, 0
 bucket/sliver.json, ViCrack/scoop-bucket, 1
 bucket/slk-img2pixel.json, hu3rror/scoop-muggle, 1
+bucket/slsa-verifier.json, hoilc/scoop-lemon, 1
 bucket/slskd.json, ScoopInstaller/Extras, 1
 bucket/slu.json, littleli/Scoop-littleli, 1
+bucket/slunkcrypt.json, hoilc/scoop-lemon, 0
 bucket/smali.json, TheCjw/scoop-retools, 0
 bucket/smart-svg-viewer.json, naderi/scoop-bucket, 0
 bucket/smart-system-menu.json, hoilc/scoop-lemon, 1
