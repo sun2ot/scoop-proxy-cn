@@ -273,7 +273,6 @@ bucket/Cousine-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Cousine-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CryengineLauncher-Install.json, ACooper81/scoop-apps, 0
 bucket/CryengineLauncher-UserInstall.json, ACooper81/scoop-apps, 0
-bucket/CrystalDiskMark-Aoi.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/CrystalMark-Retro-Aoi.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/CuteHttpFileServer-Portable.json, ACooper81/scoop-apps, 0
 bucket/CuteHttpFileServerGUI-Portable.json, ACooper81/scoop-apps, 0
@@ -2703,13 +2702,14 @@ bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/cryptsync.json, hoilc/scoop-lemon, 1
 bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-aoi.json, AkariiinMKII/Scoop4kariiin, 0
+bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-shizuku.json, AkariiinMKII/Scoop4kariiin, 0
+bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
+bucket/crystaldiskmark-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskmark-shizuku-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskmark-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskmark.json, ScoopInstaller/Extras, 0
@@ -6204,6 +6204,7 @@ bucket/naev.json, Calinou/scoop-games, 1
 bucket/nagstamon.json, hoilc/scoop-lemon, 1
 bucket/naiveproxy.json, ScoopInstaller/Main, 1
 bucket/naivesharp.json, kidonng/sushi, 1
+bucket/nak.json, littleli/Scoop-littleli, 1
 bucket/nali.json, ScoopInstaller/Main, 1
 bucket/nanaget.json, naderi/scoop-bucket, 1
 bucket/nanarun.json, hu3rror/scoop-muggle, 1
@@ -6395,6 +6396,7 @@ bucket/notable.json, ScoopInstaller/Extras, 1
 bucket/notation.json, hoilc/scoop-lemon, 1
 bucket/notcpucores.json, hoilc/scoop-lemon, 1
 bucket/notejoy.json, ScoopInstaller/Extras, 0
+bucket/noteme.json, hoilc/scoop-lemon, 0
 bucket/notepad--.json, renxia/scoop-bucket, 1
 bucket/notepad2-mod.json, ScoopInstaller/Extras, 1
 bucket/notepad2-zufuliu.json, ScoopInstaller/Extras, 1
@@ -7946,6 +7948,7 @@ bucket/rain.json, ScoopInstaller/Main, 1
 bucket/rainbow.json, ScoopInstaller/Main, 1
 bucket/raindrop.io.json, ScoopInstaller/Extras, 1
 bucket/raine.json, Calinou/scoop-games, 0
+bucket/rainfrog.json, aliesbelik/poldi, 1
 bucket/rainlendar-lite.json, hoilc/scoop-lemon, 0
 bucket/rainmeter.json, ScoopInstaller/Extras, 1
 bucket/rains.json, amorphobia/siku, 1
