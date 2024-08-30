@@ -4275,7 +4275,9 @@ bucket/goss.json, hoilc/scoop-lemon, 1
 bucket/gossip.json, ScoopInstaller/Extras, 1
 bucket/gossl.json, aliesbelik/poldi, 1
 bucket/gossm.json, ScoopInstaller/Main, 1
-bucket/gost.json, wzv5/ScoopBucket, 1
+bucket/gost.json, hoilc/scoop-lemon, 1
+bucket/gost@2.json, hoilc/scoop-lemon, 1
+bucket/gostctl.json, hoilc/scoop-lemon, 1
 bucket/gostv3.json, NyaMisty/scoop_bucket_misty, 1
 bucket/gotify-cli.json, ScoopInstaller/Main, 1
 bucket/gotify-server.json, ScoopInstaller/Main, 1
@@ -5042,8 +5044,10 @@ bucket/kalker.json, ScoopInstaller/Main, 1
 bucket/kaminari.json, hoilc/scoop-lemon, 1
 bucket/kanata-cmd.json, ScoopInstaller/Extras, 1
 bucket/kanata.json, ScoopInstaller/Extras, 1
+bucket/kando.json, ScoopInstaller/Extras, 1
 bucket/kanha.json, hoilc/scoop-lemon, 1
 bucket/kanmail.json, ChungZH/peach, 0
+bucket/kanri.json, ScoopInstaller/Extras, 1
 bucket/kapacitor.json, ScoopInstaller/Main, 0
 bucket/kapow-punch-clock.json, ScoopInstaller/Extras, 0
 bucket/kapow.json, hoilc/scoop-lemon, 0
@@ -8977,6 +8981,7 @@ bucket/steamplusplus-legacy.json, hu3rror/scoop-muggle, 1
 bucket/steamplusplus.json, seumsc/scoop-seu, 1
 bucket/steampp.json, chawyehsu/dorado, 1
 bucket/steascree.json, hoilc/scoop-lemon, 0
+bucket/steganographiergui.json, hoilc/scoop-lemon, 1
 bucket/stegify.json, hoilc/scoop-lemon, 1
 bucket/stella.json, Calinou/scoop-games, 1
 bucket/stellarium.json, ScoopInstaller/Extras, 1
@@ -10613,6 +10618,7 @@ bucket/yarn.json, ScoopInstaller/Main, 1
 bucket/yarr.json, ScoopInstaller/Extras, 1
 bucket/yas.json, Weidows-projects/scoop-3rd, 1
 bucket/yasm.json, ScoopInstaller/Main, 1
+bucket/yasocut.json, hoilc/scoop-lemon, 1
 bucket/yatqa.json, ScoopInstaller/Extras, 0
 bucket/yazi.json, ScoopInstaller/Main, 1
 bucket/yc.json, aliesbelik/poldi, 0
