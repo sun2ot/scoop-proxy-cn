@@ -1376,6 +1376,7 @@ bucket/ZeroTier.json, kkzzhizhou/scoop-zapps, 0
 bucket/ZigCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/ZigDevCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/ZintBarcodeGenerator-Portable.json, ACooper81/scoop-apps, 0
+bucket/ZipCracker.json, Weidows-projects/scoop-3rd, 1
 bucket/Zkey.json, kkzzhizhou/scoop-zapps, 1
 bucket/Zoom-Install.json, ACooper81/scoop-apps, 0
 bucket/Zoom-Portable.json, ACooper81/scoop-apps, 0
@@ -1447,6 +1448,7 @@ bucket/adrive.json, ygguorun/scoop-bucket, 1
 bucket/adspower.json, Weidows-projects/scoop-3rd, 0
 bucket/advanced-combat-tracker.json, Calinou/scoop-games, 1
 bucket/advanced-ip-scanner.json, ScoopInstaller/Extras, 0
+bucket/advanced-portchecker.json, hoilc/scoop-lemon, 1
 bucket/advancedrenamer.json, ScoopInstaller/Extras, 0
 bucket/advancedrun.json, ScoopInstaller/Nirsoft, 0
 bucket/adventuregamestudio.json, ScoopInstaller/Extras, 1
@@ -2704,11 +2706,11 @@ bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/cryptsync.json, hoilc/scoop-lemon, 1
 bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-aoi.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-shizuku.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskmark-aoi.json, aoisummer/scoop-bucket, 0
@@ -6150,6 +6152,7 @@ bucket/mudlet.json, Calinou/scoop-games, 0
 bucket/muffet.json, batkiz/backit, 1
 bucket/muffon.json, starise/Scoop-Confetti, 1
 bucket/muicacheview.json, ScoopInstaller/Nirsoft, 0
+bucket/mujing.json, hoilc/scoop-lemon, 1
 bucket/mujoco.json, ScoopInstaller/Extras, 1
 bucket/mullvad-browser.json, ScoopInstaller/Extras, 0
 bucket/mullvadvpn-np.json, ScoopInstaller/Nonportable, 0
@@ -6886,6 +6889,8 @@ bucket/passwordfox.json, ScoopInstaller/Nirsoft, 0
 bucket/passwordscan.json, ScoopInstaller/Nirsoft, 0
 bucket/passwordsecurityscanner.json, kodybrown/scoop-nirsoft, 0
 bucket/paste-ex.json, naderi/scoop-bucket, 1
+bucket/pastebarapp-portable.json, DoveBoy/Apps, 1
+bucket/pastebarapp.json, DoveBoy/Apps, 1
 bucket/pasteboard.json, ScoopInstaller/Extras, 1
 bucket/pasteex.json, chawyehsu/dorado, 1
 bucket/pastel.json, ScoopInstaller/Main, 1
@@ -7593,7 +7598,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
@@ -9817,6 +9822,7 @@ bucket/uup-download-wizard-converter.json, hu3rror/scoop-muggle, 1
 bucket/uupmediacreator.json, hoilc/scoop-lemon, 1
 bucket/uutils-coreutils-lean.json, ScoopInstaller/Main, 1
 bucket/uutils-coreutils.json, ScoopInstaller/Main, 1
+bucket/uv-portable-cn.json, Weidows-projects/scoop-3rd, 1
 bucket/uv.json, ScoopInstaller/Main, 1
 bucket/uvtt2fgu.json, Calinou/scoop-games, 1
 bucket/uwamp.json, ScoopInstaller/Extras, 0
@@ -9938,6 +9944,7 @@ bucket/vim-tux.json, ScoopInstaller/Versions, 1
 bucket/vim.json, ScoopInstaller/Main, 1
 bucket/vimage.json, Deide/deide-bucket, 1
 bucket/vimtutor.json, ScoopInstaller/Main, 1
+bucket/vineflower.json, hoilc/scoop-lemon, 1
 bucket/viper.json, hoilc/scoop-lemon, 1
 bucket/vipsdisp.json, ScoopInstaller/Extras, 1
 bucket/virgo.json, chawyehsu/dorado, 1
