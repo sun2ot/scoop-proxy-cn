@@ -3417,7 +3417,7 @@ bucket/erlang.json, ScoopInstaller/Main, 1
 bucket/errorlookup.json, hoilc/scoop-lemon, 1
 bucket/es.json, echoiron/echo-scoop, 0
 bucket/escrcpy-portable.json, DoveBoy/Apps, 1
-bucket/escrcpy.json, ivaquero/scoopet, 1
+bucket/escrcpy.json, DoveBoy/Apps, 1
 bucket/esearch-portable.json, DoveBoy/Apps, 1
 bucket/esearch.json, ScoopInstaller/Extras, 1
 bucket/esedatabaseview.json, ScoopInstaller/Nirsoft, 0
@@ -4884,6 +4884,7 @@ bucket/ivpn-client-np.json, ScoopInstaller/Nonportable, 0
 bucket/iwck.json, amorphobia/siku, 1
 bucket/ja-netfilter-modified.json, Weidows-projects/scoop-3rd, 1
 bucket/ja-netfilter.json, hoilc/scoop-lemon, 0
+bucket/ja.json, ViCrack/scoop-bucket, 1
 bucket/jabba.json, ScoopInstaller/Main, 1
 bucket/jabref.json, ScoopInstaller/Extras, 1
 bucket/jackett.json, ScoopInstaller/Extras, 1
@@ -5566,6 +5567,7 @@ bucket/lredit.json, hoilc/scoop-lemon, 1
 bucket/lrzsz.json, ScoopInstaller/Main, 1
 bucket/ls-interactive.json, amorphobia/siku, 1
 bucket/ls-lint.json, batkiz/backit, 1
+bucket/lsar.json, DoveBoy/Apps, 1
 bucket/lsasecretsdump.json, ScoopInstaller/Nirsoft, 0
 bucket/lsasecretsview.json, ScoopInstaller/Nirsoft, 0
 bucket/lsd.json, ScoopInstaller/Main, 1
@@ -6040,6 +6042,8 @@ bucket/moonlight.json, ScoopInstaller/Extras, 1
 bucket/moonscript.json, ScoopInstaller/Extras, 1
 bucket/moonup.json, chawyehsu/dorado, 1
 bucket/moosync.json, ScoopInstaller/Extras, 1
+bucket/mootool-portable.json, DoveBoy/Apps, 1
+bucket/mootool.json, DoveBoy/Apps, 1
 bucket/mosdns-cn.json, chawyehsu/dorado, 1
 bucket/mosdns.json, chawyehsu/dorado, 1
 bucket/mosh-client.json, ScoopInstaller/Main, 1
@@ -7600,7 +7604,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
