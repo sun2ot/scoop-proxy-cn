@@ -17,7 +17,7 @@ bucket/1history.json, hoilc/scoop-lemon, 1
 bucket/1key.run.json, hoilc/scoop-lemon, 1
 bucket/1password-cli.json, ScoopInstaller/Main, 0
 bucket/1password-cli1.json, ScoopInstaller/Versions, 0
-bucket/1remote.json, ViCrack/scoop-bucket, 1
+bucket/1remote.json, hoilc/scoop-lemon, 1
 bucket/2345pic.json, echoiron/echo-scoop, 0
 bucket/3270-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/3270-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
@@ -3789,6 +3789,7 @@ bucket/foldermonitor.json, hoilc/scoop-lemon, 0
 bucket/foldersreport.json, kodybrown/scoop-nirsoft, 0
 bucket/foldertimeupdate.json, ScoopInstaller/Nirsoft, 0
 bucket/folding-at-home.json, ScoopInstaller/Extras, 0
+bucket/follow.json, DoveBoy/Apps, 1
 bucket/folrep.json, ScoopInstaller/Nirsoft, 0
 bucket/font-behdad.json, naderi/scoop-bucket, 1
 bucket/font-estedad.json, naderi/scoop-bucket, 1
@@ -4972,7 +4973,7 @@ bucket/jmkvpropedit.json, ScoopInstaller/Extras, 1
 bucket/jmol.json, hoilc/scoop-lemon, 0
 bucket/jmx_exporter.json, hoilc/scoop-lemon, 0
 bucket/jndinjector.json, ViCrack/scoop-bucket, 1
-bucket/jnv.json, aliesbelik/poldi, 1
+bucket/jnv.json, hoilc/scoop-lemon, 1
 bucket/jo.json, ScoopInstaller/Main, 1
 bucket/joe.json, ScoopInstaller/Extras, 0
 bucket/john-the-ripper.json, jingyu9575/scoop-jingyu9575, 0
@@ -7615,7 +7616,7 @@ bucket/prboom-plus.json, Calinou/scoop-games, 1
 bucket/premake.json, ScoopInstaller/Main, 1
 bucket/premake4.json, ScoopInstaller/Versions, 0
 bucket/premake5.json, ScoopInstaller/Versions, 1
-bucket/premotem.json, hoilc/scoop-lemon, 1
+bucket/premotem.json, HCLonely/my-scoop-bucket, 1
 bucket/presenterm.json, ScoopInstaller/Main, 1
 bucket/presentmon.json, ScoopInstaller/Main, 1
 bucket/previousfilesrecovery.json, ScoopInstaller/Nirsoft, 0
@@ -9398,6 +9399,7 @@ bucket/testlimit.json, niheaven/scoop-sysinternals, 1
 bucket/testmace.json, ScoopInstaller/Extras, 0
 bucket/testmem5-advanced.json, brian6932/dank-scoop, 0
 bucket/testmem5.json, HUMORCE/nuke, 1
+bucket/tetrs.json, hoilc/scoop-lemon, 1
 bucket/tetzle.json, hoilc/scoop-lemon, 0
 bucket/tev.json, ScoopInstaller/Extras, 1
 bucket/texlab.json, ScoopInstaller/Main, 1
@@ -9939,6 +9941,7 @@ bucket/video-srt-windows.json, DoveBoy/Apps, 1
 bucket/video-subtitle-extractor-cpu.json, DoveBoy/Apps, 1
 bucket/video-subtitle-extractor-gpu.json, DoveBoy/Apps, 1
 bucket/video-subtitle-extractor.json, SayCV/scoop-cvp, 1
+bucket/video-subtitle-master.json, DoveBoy/Apps, 1
 bucket/video-thumbnails-maker.json, ScoopInstaller/Extras, 0
 bucket/video2x.json, cc713/ownscoop, 1
 bucket/videoaudiotools.json, ScoopInstaller/Nirsoft, 0
@@ -10068,6 +10071,7 @@ bucket/vuplayer.json, ScoopInstaller/Extras, 1
 bucket/vvv.json, rasa/scoops, 0
 bucket/vysor.json, ScoopInstaller/Extras, 1
 bucket/w10privacy.json, ScoopInstaller/Extras, 0
+bucket/w2vgrep.json, hoilc/scoop-lemon, 1
 bucket/w3cschool.json, ViCrack/scoop-bucket, 0
 bucket/w64devkit.json, ScoopInstaller/Extras, 1
 bucket/wa-lang.json, hoilc/scoop-lemon, 1
