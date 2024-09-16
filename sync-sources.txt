@@ -1838,6 +1838,7 @@ bucket/b3sum.json, ScoopInstaller/Main, 1
 bucket/babashka.json, littleli/scoop-clojure, 1
 bucket/babelmap.json, ScoopInstaller/Extras, 0
 bucket/babelpad.json, rasa/scoops, 0
+bucket/backrest.json, ScoopInstaller/Extras, 1
 bucket/backup-start-menu-layout.json, ScoopInstaller/Extras, 0
 bucket/baidu-net-disk.json, yuusakuri/scoop-bucket, 0
 bucket/baidudisk.json, scoopcn/scoopcn, 0
@@ -3915,6 +3916,7 @@ bucket/fsviewer.json, ScoopInstaller/Extras, 0
 bucket/ft2-clone.json, ScoopInstaller/Extras, 0
 bucket/fteqw.json, Calinou/scoop-games, 0
 bucket/ftnn.json, akirco/aki-apps, 0
+bucket/ftpserver.json, DoveBoy/Apps, 1
 bucket/fu.json, ScoopInstaller/Extras, 1
 bucket/fulleventlogview.json, ScoopInstaller/Nirsoft, 0
 bucket/fun.json, ScoopInstaller/Extras, 0
@@ -4902,6 +4904,7 @@ bucket/jaq.json, ScoopInstaller/Main, 1
 bucket/jar-analyzer.json, hoilc/scoop-lemon, 1
 bucket/jar-obfuscator.json, hoilc/scoop-lemon, 1
 bucket/jardiff.json, hoilc/scoop-lemon, 1
+bucket/jarkviewer.json, DoveBoy/Apps, 1
 bucket/jasmine.json, DoveBoy/Apps, 1
 bucket/jasob.json, SayCV/scoop-cvp, 0
 bucket/jasper.json, ScoopInstaller/Extras, 1
@@ -7506,7 +7509,7 @@ bucket/plexamp.json, naderi/scoop-bucket, 0
 bucket/plow.json, hoilc/scoop-lemon, 1
 bucket/pls.json, DoveBoy/Apps, 1
 bucket/plugdata.json, ScoopInstaller/Extras, 1
-bucket/plumber.json, batkiz/backit, 1
+bucket/plumber.json, aliesbelik/poldi, 1
 bucket/plutil.json, beerpiss/scoop-bucket, 0
 bucket/pluto.json, ScoopInstaller/Main, 1
 bucket/pm-lite.json, hoilc/scoop-lemon, 0
@@ -7608,7 +7611,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
@@ -10305,6 +10308,7 @@ bucket/windows-terminal-quake.json, hoilc/scoop-lemon, 1
 bucket/windows-terminal-quake@1.json, hoilc/scoop-lemon, 1
 bucket/windows-terminal.json, ScoopInstaller/Extras, 1
 bucket/windows-update-blocker.json, hoilc/scoop-lemon, 0
+bucket/windows-update-disabler.json, DoveBoy/Apps, 1
 bucket/windows-update-manager.json, naderi/scoop-bucket, 1
 bucket/windows-update-viewer.json, naderi/scoop-bucket, 1
 bucket/windows-virtualdesktop-helper.json, ScoopInstaller/Extras, 1
