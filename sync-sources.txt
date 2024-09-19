@@ -239,9 +239,9 @@ bucket/ChatALL-Portable.json, ACooper81/scoop-apps, 1
 bucket/ChatBox-Portable.json, ACooper81/scoop-apps, 1
 bucket/ChenYuLuoYen-Thin.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Chocolatey-Portable.json, ACooper81/scoop-apps, 0
-bucket/Cinebench-R15.json, AkariiinMKII/Scoop4kariiin, 0
-bucket/Cinebench-R20.json, AkariiinMKII/Scoop4kariiin, 0
-bucket/Cinebench-R23.json, AkariiinMKII/Scoop4kariiin, 0
+bucket/Cinebench-R15.json, AkariiinMKII/Scoop4kariiin, 1
+bucket/Cinebench-R20.json, AkariiinMKII/Scoop4kariiin, 1
+bucket/Cinebench-R23.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/Clash-for-Windows_Chinese.json, Weidows-projects/scoop-3rd, 1
 bucket/ClashXW.json, ygguorun/scoop-bucket, 1
 bucket/ClashforWindows.json, AkariiinMKII/Scoop4kariiin, 0
@@ -2570,6 +2570,7 @@ bucket/complete-internet-repair.json, hoilc/scoop-lemon, 0
 bucket/completion-predictor.json, akirco/aki-apps, 0
 bucket/composer.json, ScoopInstaller/Main, 0
 bucket/composer1.json, ScoopInstaller/Versions, 0
+bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, iquiw/scoop-bucket, 1
 bucket/conan.json, ScoopInstaller/Main, 1
 bucket/concfg.json, ScoopInstaller/Main, 1
@@ -10172,7 +10173,6 @@ bucket/wechatvideosniffer.json, DoveBoy/Apps, 1
 bucket/wecom.json, ScoopInstaller/Extras, 0
 bucket/weebp.json, ScoopInstaller/Extras, 1
 bucket/wegame.json, akirco/aki-apps, 0
-bucket/wegameMiniLoader.json, akirco/aki-apps, 0
 bucket/wemod.json, Calinou/scoop-games, 0
 bucket/werf-v2.json, aliesbelik/poldi, 0
 bucket/werf.json, hoilc/scoop-lemon, 0
