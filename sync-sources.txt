@@ -3296,7 +3296,7 @@ bucket/eclipse-sdk.json, ScoopInstaller/Extras, 0
 bucket/eclipse-sumo.json, ScoopInstaller/Extras, 0
 bucket/eclipse-testing.json, ScoopInstaller/Extras, 0
 bucket/ecloud.json, echoiron/echo-scoop, 0
-bucket/ecopaste.json, DoveBoy/Apps, 1
+bucket/ecopaste.json, hoilc/scoop-lemon, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
@@ -4285,6 +4285,7 @@ bucket/goread.json, batkiz/backit, 1
 bucket/goreleaser.json, ScoopInstaller/Main, 1
 bucket/goreplay.json, aliesbelik/poldi, 1
 bucket/gosec.json, ScoopInstaller/Main, 1
+bucket/goshs.json, ScoopInstaller/Extras, 1
 bucket/gosmee.json, hoilc/scoop-lemon, 1
 bucket/goss.json, hoilc/scoop-lemon, 1
 bucket/gossip.json, ScoopInstaller/Extras, 1
@@ -4595,6 +4596,7 @@ bucket/hubotsans.json, KnotUntied/scoop-fonts, 1
 bucket/hugin.json, mo-san/scoop-bucket, 0
 bucket/hugo-extended.json, ScoopInstaller/Main, 1
 bucket/hugo.json, ScoopInstaller/Main, 1
+bucket/humanlog.json, aliesbelik/poldi, 1
 bucket/hummingbird.json, DoveBoy/Apps, 1
 bucket/hunspell.json, iquiw/scoop-bucket, 1
 bucket/hunt-and-peck.json, ScoopInstaller/Extras, 1
@@ -6444,7 +6446,7 @@ bucket/notepad2-mod.json, ScoopInstaller/Extras, 1
 bucket/notepad2-zufuliu.json, ScoopInstaller/Extras, 1
 bucket/notepad2.json, ScoopInstaller/Extras, 0
 bucket/notepad3.json, ScoopInstaller/Extras, 1
-bucket/notepad4.json, echoiron/echo-scoop, 1
+bucket/notepad4.json, hoilc/scoop-lemon, 1
 bucket/notepadnext.json, ScoopInstaller/Extras, 1
 bucket/notepadplusplus-np.json, ScoopInstaller/Nonportable, 1
 bucket/notepadplusplus.json, ScoopInstaller/Extras, 1
@@ -6947,6 +6949,7 @@ bucket/pdf2svg.json, ScoopInstaller/Main, 1
 bucket/pdfarranger.json, ScoopInstaller/Extras, 1
 bucket/pdfbox-alpha.json, ScoopInstaller/Versions, 0
 bucket/pdfbox.json, ScoopInstaller/Main, 0
+bucket/pdfcommander.json, hoilc/scoop-lemon, 0
 bucket/pdfcpu.json, ScoopInstaller/Main, 1
 bucket/pdfelement.json, SayCV/scoop-cvp, 0
 bucket/pdfgear.json, hoilc/scoop-lemon, 0
