@@ -5268,6 +5268,7 @@ bucket/kubeshark.json, ScoopInstaller/Main, 1
 bucket/kubestr.json, hoilc/scoop-lemon, 1
 bucket/kubeval.json, ScoopInstaller/Main, 1
 bucket/kubevpn.json, ScoopInstaller/Extras, 1
+bucket/kubewall.json, aliesbelik/poldi, 1
 bucket/kubo.json, ScoopInstaller/Main, 0
 bucket/kugou.json, scoopcn/scoopcn, 0
 bucket/kui.json, ScoopInstaller/Extras, 1
@@ -5844,7 +5845,7 @@ bucket/microdicom-dicom-viewer.json, amorphobia/siku, 0
 bucket/microdicom.json, jingyu9575/scoop-jingyu9575, 0
 bucket/microk8s.json, ScoopInstaller/Main, 0
 bucket/micromamba-cn.json, ivaquero/scoopet, 0
-bucket/micromamba.json, chawyehsu/dorado, 1
+bucket/micromamba.json, ivaquero/scoopet, 0
 bucket/micronaut.json, ScoopInstaller/Main, 1
 bucket/microsip.json, ScoopInstaller/Extras, 0
 bucket/microsoft-activation-scripts.json, DoveBoy/Apps, 1
@@ -6938,7 +6939,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -7621,7 +7622,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
@@ -8267,7 +8268,7 @@ bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/royalts.json, hoilc/scoop-lemon, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rpk.json, hoilc/scoop-lemon, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rqlite.json, hoilc/scoop-lemon, 1
