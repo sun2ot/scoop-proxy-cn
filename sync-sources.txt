@@ -1498,6 +1498,7 @@ bucket/alias-additions.json, ACooper81/scoop-apps, 1
 bucket/alien.json, ScoopInstaller/Extras, 1
 bucket/alipan.json, akirco/aki-apps, 1
 bucket/alire.json, hoilc/scoop-lemon, 1
+bucket/alist-helper.json, ivaquero/scoopet, 1
 bucket/alist.json, ScoopInstaller/Main, 1
 bucket/alisthelper-portable.json, DoveBoy/Apps, 1
 bucket/alisthelper.json, hoilc/scoop-lemon, 1
@@ -1559,6 +1560,7 @@ bucket/android-studio.json, ScoopInstaller/Extras, 0
 bucket/anew.json, ViCrack/scoop-bucket, 1
 bucket/angband-dev.json, Calinou/scoop-games, 1
 bucket/angband.json, Calinou/scoop-games, 1
+bucket/angr-management.json, ScoopInstaller/Extras, 1
 bucket/ani-beta.json, DoveBoy/Apps, 1
 bucket/ani-cli.json, ScoopInstaller/Extras, 1
 bucket/ani.json, hu3rror/scoop-muggle, 1
@@ -3633,6 +3635,7 @@ bucket/figtree.json, KnotUntied/scoop-fonts, 0
 bucket/figurine.json, ScoopInstaller/Main, 1
 bucket/fiji.json, ScoopInstaller/Extras, 0
 bucket/file-converter-np.json, ScoopInstaller/Nonportable, 1
+bucket/file-converter.json, ivaquero/scoopet, 1
 bucket/file.json, ScoopInstaller/Main, 1
 bucket/fileaccesserrorview.json, ScoopInstaller/Nirsoft, 0
 bucket/fileactivitywatch.json, ScoopInstaller/Nirsoft, 0
@@ -3898,6 +3901,7 @@ bucket/freetube.json, ScoopInstaller/Extras, 1
 bucket/freevk.json, hoilc/scoop-lemon, 0
 bucket/freezer.json, starise/Scoop-Confetti, 0
 bucket/freezetostock.json, couleur-tweak-tips/utils, 1
+bucket/fricas.json, ScoopInstaller/Extras, 1
 bucket/fritzing.json, ScoopInstaller/Extras, 1
 bucket/frostwire.json, ScoopInstaller/Extras, 0
 bucket/frp.json, ScoopInstaller/Main, 1
@@ -4953,6 +4957,7 @@ bucket/jexiftoolgui.json, ScoopInstaller/Extras, 1
 bucket/jf-open-huninn.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
+bucket/jianying-pro.json, ivaquero/scoopet, 0
 bucket/jianyingpro.json, chawyehsu/dorado, 0
 bucket/jib-cli.json, hoilc/scoop-lemon, 1
 bucket/jid.json, ScoopInstaller/Main, 1
@@ -6897,6 +6902,7 @@ bucket/paperlib.json, hoilc/scoop-lemon, 1
 bucket/par2cmdline.json, ScoopInstaller/Main, 1
 bucket/parallels-client.json, amorphobia/siku, 0
 bucket/paraview.json, ScoopInstaller/Extras, 0
+bucket/pari-gp.json, ScoopInstaller/Extras, 0
 bucket/parkdale.json, hoilc/scoop-lemon, 0
 bucket/parsec-np.json, ScoopInstaller/Nonportable, 0
 bucket/parsify-desktop.json, amorphobia/siku, 1
@@ -7621,7 +7627,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
@@ -8195,6 +8201,7 @@ bucket/retroshare.json, ScoopInstaller/Extras, 1
 bucket/revanced-cli.json, hoilc/scoop-lemon, 1
 bucket/reviewdog.json, ScoopInstaller/Main, 1
 bucket/revive.json, batkiz/backit, 1
+bucket/revoke-msg-patcher.json, ivaquero/scoopet, 1
 bucket/revokemsgpatcher-nightly.json, DoveBoy/Apps, 0
 bucket/revokemsgpatcher.json, amorphobia/siku, 1
 bucket/revouninstaller.json, ScoopInstaller/Extras, 0
@@ -8268,7 +8275,7 @@ bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/royalts.json, hoilc/scoop-lemon, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rpk.json, hoilc/scoop-lemon, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rqlite.json, hoilc/scoop-lemon, 1
