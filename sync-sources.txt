@@ -2005,7 +2005,7 @@ bucket/bison.json, ScoopInstaller/Main, 0
 bucket/bit.json, ScoopInstaller/Main, 1
 bucket/bitcoincore.json, chawyehsu/dorado, 1
 bucket/bitcoinknots.json, chawyehsu/dorado, 1
-bucket/bitcomet.json, naderi/scoop-bucket, 0
+bucket/bitcomet.json, echoiron/echo-scoop, 0
 bucket/bitmana.json, naderi/scoop-bucket, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitrock-unpacker.json, hoilc/scoop-lemon, 1
@@ -5188,6 +5188,7 @@ bucket/kindlegen.json, seumsc/scoop-seu, 0
 bucket/kingdraw.json, ivaquero/scoopet, 0
 bucket/kiota.json, ScoopInstaller/Main, 1
 bucket/kitch.json, chawyehsu/dorado, 0
+bucket/kite-todo.json, hoilc/scoop-lemon, 0
 bucket/kitematic.json, ScoopInstaller/Extras, 1
 bucket/kitty-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/kitty.json, ScoopInstaller/Extras, 1
@@ -6689,6 +6690,8 @@ bucket/oneget.json, ScoopInstaller/Versions, 0
 bucket/oneko.json, beerpiss/scoop-bucket, 0
 bucket/oneloupe.json, hoilc/scoop-lemon, 0
 bucket/onenote-md-exporter.json, hoilc/scoop-lemon, 1
+bucket/onetagger-cli.json, hoilc/scoop-lemon, 1
+bucket/onetagger.json, hoilc/scoop-lemon, 1
 bucket/onetrueawk.json, beerpiss/scoop-bucket, 0
 bucket/oni.json, ScoopInstaller/Extras, 1
 bucket/onionshare.json, ScoopInstaller/Extras, 1
@@ -9159,7 +9162,7 @@ bucket/subconverter.json, ScoopInstaller/Main, 1
 bucket/subfinder.json, hoilc/scoop-lemon, 1
 bucket/sublime-merge.json, ScoopInstaller/Extras, 1
 bucket/sublime-text-4.json, naderi/scoop-bucket, 1
-bucket/sublime-text.json, ScoopInstaller/Extras, 1
+bucket/sublime-text.json, ScoopInstaller/Extras, 0
 bucket/subrenamer.json, ivaquero/scoopet, 1
 bucket/subsync.json, ScoopInstaller/Extras, 1
 bucket/subtitle-ass-shifter.json, DoveBoy/Apps, 1
@@ -9939,6 +9942,7 @@ bucket/vb6runtime.json, mo-san/scoop-bucket, 0
 bucket/vbindiff.json, ScoopInstaller/Main, 0
 bucket/vboxvmservice.json, ScoopInstaller/Extras, 1
 bucket/vc-ltl.json, wzv5/ScoopBucket, 1
+bucket/vcardeditor.json, hoilc/scoop-lemon, 1
 bucket/vcluster.json, ScoopInstaller/Main, 1
 bucket/vcpkg.json, ScoopInstaller/Main, 1
 bucket/vcredist-aio.json, ScoopInstaller/Extras, 1
@@ -10422,7 +10426,7 @@ bucket/winlibs-mingw-ucrt.json, chawyehsu/dorado, 1
 bucket/winlister.json, ScoopInstaller/Nirsoft, 0
 bucket/winlogonview.json, ScoopInstaller/Nirsoft, 0
 bucket/winmailpassrec.json, ScoopInstaller/Nirsoft, 0
-bucket/winmemorycleaner.json, ViCrack/scoop-bucket, 1
+bucket/winmemorycleaner.json, hoilc/scoop-lemon, 1
 bucket/winmerge.json, ScoopInstaller/Extras, 1
 bucket/winmerge2011.json, ScoopInstaller/Extras, 1
 bucket/winmouse.json, hoilc/scoop-lemon, 0
@@ -10612,7 +10616,7 @@ bucket/xb1cbi.json, ScoopInstaller/Extras, 1
 bucket/xboxdownload.json, hoilc/scoop-lemon, 1
 bucket/xc.json, ScoopInstaller/Extras, 1
 bucket/xca.json, ScoopInstaller/Extras, 1
-bucket/xd-antispy.json, naderi/scoop-bucket, 1
+bucket/xd-antispy.json, hoilc/scoop-lemon, 1
 bucket/xdelta.json, ScoopInstaller/Main, 1
 bucket/xdelta3-cross-gui.json, ScoopInstaller/Extras, 1
 bucket/xdm-dev.json, cc713/ownscoop, 1
@@ -11103,6 +11107,8 @@ scripts/picotorrent/uninstall-associations.reg, ScoopInstaller/Extras, 0
 scripts/portable.ps1, ZvonimirSun/scoop-iszy, 0
 scripts/poweriso/instdrv.cmd, SayCV/scoop-cvp, 0
 scripts/poweriso/uninstdrv.cmd, SayCV/scoop-cvp, 0
+scripts/powertoys/install-context.ps1, ScoopInstaller/Extras, 0
+scripts/powertoys/uninstall-context.ps1, ScoopInstaller/Extras, 0
 scripts/prismlauncher-git/install-associations.reg, ScoopInstaller/Versions, 0
 scripts/prismlauncher-git/uninstall-associations.reg, ScoopInstaller/Versions, 0
 scripts/prismlauncher-qt5-git/install-associations.reg, ScoopInstaller/Versions, 0
