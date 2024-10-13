@@ -1397,6 +1397,7 @@ bucket/access.json, hoilc/scoop-lemon, 1
 bucket/accesschk.json, niheaven/scoop-sysinternals, 1
 bucket/accessenum.json, niheaven/scoop-sysinternals, 1
 bucket/accesser.json, ScoopInstaller/Extras, 1
+bucket/ack-ram-tool.json, hoilc/scoop-lemon, 0
 bucket/ack.json, ScoopInstaller/Main, 0
 bucket/acm.json, ScoopInstaller/Nirsoft, 0
 bucket/acmekit.json, echoiron/echo-scoop, 0
@@ -3583,6 +3584,7 @@ bucket/fdkaac.json, hoilc/scoop-lemon, 0
 bucket/feather.json, MCOfficer/scoop-bucket, 1
 bucket/featherwallet.json, ScoopInstaller/Extras, 0
 bucket/feedster.json, rasa/scoops, 1
+bucket/feeluown.json, ivaquero/scoopet, 1
 bucket/feem.json, ScoopInstaller/Extras, 0
 bucket/fehviewer.json, batkiz/backit, 1
 bucket/feiq.json, hoilc/scoop-lemon, 0
@@ -4122,6 +4124,7 @@ bucket/git-quick-stats.json, ScoopInstaller/Main, 0
 bucket/git-repo-clean.json, ViCrack/scoop-bucket, 0
 bucket/git-sizer.json, ScoopInstaller/Main, 1
 bucket/git-stack.json, batkiz/backit, 1
+bucket/git-sync.json, aliesbelik/poldi, 1
 bucket/git-tfs.json, ScoopInstaller/Main, 1
 bucket/git-tower.json, ScoopInstaller/Extras, 0
 bucket/git-town.json, ScoopInstaller/Main, 1
@@ -6163,6 +6166,7 @@ bucket/msmpi.json, ScoopInstaller/Main, 1
 bucket/msoffice2016-4in1.json, SayCV/scoop-cvp, 1
 bucket/mspass.json, ScoopInstaller/Nirsoft, 0
 bucket/mspowerbi-desktop.json, SayCV/scoop-cvp, 0
+bucket/msrt.json, ScoopInstaller/Extras, 0
 bucket/mssi-autoruns.json, SayCV/scoop-cvp, 0
 bucket/mssi-coreinfo.json, SayCV/scoop-cvp, 0
 bucket/mssi-procmon.json, SayCV/scoop-cvp, 0
@@ -10085,6 +10089,7 @@ bucket/vncviewer.json, ScoopInstaller/Extras, 0
 bucket/vnote.json, ScoopInstaller/Extras, 1
 bucket/vocabulary.net.json, hoilc/scoop-lemon, 0
 bucket/vocal-separate.json, DoveBoy/Apps, 1
+bucket/voice-pro.json, DoveBoy/Apps, 1
 bucket/voice.json, hoilc/scoop-lemon, 0
 bucket/voicemeeter-banana-np.json, ScoopInstaller/Nonportable, 0
 bucket/voicemeeter-np.json, ScoopInstaller/Nonportable, 0
