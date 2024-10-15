@@ -3699,7 +3699,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
 bucket/firefox-esr-115-zh-cn.json, aoisummer/scoop-bucket, 0
@@ -3849,6 +3849,7 @@ bucket/fontbase.json, ScoopInstaller/Extras, 0
 bucket/fontcreator.json, ScoopInstaller/Extras, 0
 bucket/fontforge.json, ScoopInstaller/Extras, 1
 bucket/fontloadersub.json, ygguorun/scoop-bucket, 1
+bucket/fontmassive.json, hoilc/scoop-lemon, 0
 bucket/fontmod.json, hoilc/scoop-lemon, 1
 bucket/fontreg.json, ScoopInstaller/Main, 0
 bucket/fontviewok.json, naderi/scoop-bucket, 0
@@ -4403,6 +4404,7 @@ bucket/griddycode.json, Weidows-projects/scoop-3rd, 1
 bucket/gridea.json, ScoopInstaller/Extras, 1
 bucket/gridplayer.json, ScoopInstaller/Extras, 1
 bucket/grip-py.json, TheRandomLabs/Scoop-Python, 1
+bucket/grit.json, hoilc/scoop-lemon, 1
 bucket/gron.json, ScoopInstaller/Main, 1
 bucket/groovy.json, ScoopInstaller/Main, 0
 bucket/groovyserv.json, ScoopInstaller/Main, 0
@@ -7662,7 +7664,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
