@@ -166,7 +166,6 @@ bucket/AutumnBox.json, Weidows-projects/scoop-3rd, 1
 bucket/Avidemux-Portable.json, ACooper81/scoop-apps, 1
 bucket/AxGlyph.json, ygguorun/scoop-bucket, 0
 bucket/AxMath.json, ygguorun/scoop-bucket, 0
-bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
@@ -1848,6 +1847,7 @@ bucket/babelmap.json, ScoopInstaller/Extras, 0
 bucket/babelpad.json, rasa/scoops, 0
 bucket/backrest.json, ScoopInstaller/Extras, 1
 bucket/backup-start-menu-layout.json, ScoopInstaller/Extras, 0
+bucket/badownloaderui.json, hoilc/scoop-lemon, 1
 bucket/baidu-net-disk.json, yuusakuri/scoop-bucket, 0
 bucket/baidudisk.json, scoopcn/scoopcn, 0
 bucket/baidunetdisk-cvp.json, SayCV/scoop-cvp, 1
@@ -3699,7 +3699,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
+bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
 bucket/firefox-esr-115-zh-cn.json, aoisummer/scoop-bucket, 0
@@ -6940,6 +6940,7 @@ bucket/paraview.json, ScoopInstaller/Extras, 0
 bucket/pari-gp.json, ScoopInstaller/Extras, 0
 bucket/parkdale.json, hoilc/scoop-lemon, 0
 bucket/parsec-np.json, ScoopInstaller/Nonportable, 0
+bucket/parsec.json, ScoopInstaller/Extras, 0
 bucket/parsify-desktop.json, amorphobia/siku, 1
 bucket/parsify.json, ChungZH/peach, 1
 bucket/partition-assistant.json, ivaquero/scoopet, 0
@@ -7664,7 +7665,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
@@ -9384,6 +9385,7 @@ bucket/telegram-downloader.json, ScoopInstaller/Extras, 1
 bucket/telegram.json, ScoopInstaller/Extras, 1
 bucket/teleport.json, ScoopInstaller/Main, 0
 bucket/telepresence.json, hoilc/scoop-lemon, 0
+bucket/teller.json, hoilc/scoop-lemon, 1
 bucket/telnet.json, ScoopInstaller/Main, 0
 bucket/temporal-cli.json, ScoopInstaller/Main, 1
 bucket/temurin-jdk.json, ScoopInstaller/Java, 1
@@ -10369,7 +10371,7 @@ bucket/windirstat-portable.json, naderi/scoop-bucket, 0
 bucket/windirstat.json, ScoopInstaller/Extras, 0
 bucket/windjview.json, ScoopInstaller/Extras, 0
 bucket/window-sharing-hider.json, hoilc/scoop-lemon, 1
-bucket/window-switcher.json, hoilc/scoop-lemon, 1
+bucket/window-switcher.json, ScoopInstaller/Extras, 1
 bucket/windows-10-update-assistant.json, naderi/scoop-bucket, 0
 bucket/windows-application-driver.json, ScoopInstaller/Main, 1
 bucket/windows-defender-control.json, Weidows-projects/scoop-3rd, 1
