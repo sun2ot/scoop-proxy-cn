@@ -756,6 +756,7 @@ bucket/NTLite-Portable.json, ACooper81/scoop-apps, 0
 bucket/NVUpdater-Portable.json, ACooper81/scoop-apps, 0
 bucket/Nacos.json, zhoujin7/tomato, 1
 bucket/NanaZip-Portable.json, ACooper81/scoop-apps, 1
+bucket/NapeConsole.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/NavicatPremium.json, kkzzhizhou/scoop-zapps, 1
 bucket/NegativeEncoder.json, ygguorun/scoop-bucket, 1
 bucket/NerdFontsSymbolsOnly.json, matthewjberger/scoop-nerd-fonts, 1
@@ -2618,6 +2619,8 @@ bucket/coppeliasim.json, ScoopInstaller/Extras, 0
 bucket/copy-excel-paste-markdown.json, SayCV/scoop-cvp, 1
 bucket/copy-handler.json, naderi/scoop-bucket, 0
 bucket/copy-translator-rust.json, ygguorun/scoop-bucket, 1
+bucket/copyparty-u2c.json, hoilc/scoop-lemon, 1
+bucket/copyparty.json, hoilc/scoop-lemon, 1
 bucket/copyplusplus.json, hoilc/scoop-lemon, 1
 bucket/copyq.json, ScoopInstaller/Extras, 1
 bucket/copytranslator.json, ScoopInstaller/Extras, 1
@@ -7520,8 +7523,9 @@ bucket/pine64-updater.json, ScoopInstaller/Extras, 1
 bucket/pineapple-pictures.json, hoilc/scoop-lemon, 1
 bucket/pineflash.json, ScoopInstaller/Extras, 1
 bucket/pinentry-w32-ncg.json, iquiw/scoop-bucket, 1
+bucket/pinga.json, hoilc/scoop-lemon, 0
 bucket/pinginfoview.json, ScoopInstaller/Nirsoft, 0
-bucket/pingo.json, beerpiss/scoop-bucket, 1
+bucket/pingo.json, hoilc/scoop-lemon, 0
 bucket/pingu.json, aliesbelik/poldi, 1
 bucket/pinniped-cli.json, hoilc/scoop-lemon, 1
 bucket/pint.json, hoilc/scoop-lemon, 1
@@ -7668,7 +7672,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
