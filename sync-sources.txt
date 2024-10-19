@@ -1864,6 +1864,7 @@ bucket/balenaEtcher-Portable.json, ACooper81/scoop-apps, 1
 bucket/balenaEtcher-UserInstall.json, ACooper81/scoop-apps, 1
 bucket/ballerina.json, hoilc/scoop-lemon, 0
 bucket/bamboo.json, chawyehsu/dorado, 1
+bucket/bambu-studio.json, ScoopInstaller/Extras, 1
 bucket/banana-cake-pop.json, ScoopInstaller/Extras, 0
 bucket/bandicam.json, echoiron/echo-scoop, 0
 bucket/bandizip-classic.json, HUMORCE/nuke, 0
@@ -5004,6 +5005,7 @@ bucket/jkrypto.json, ScoopInstaller/Extras, 0
 bucket/jlink512.json, SayCV/scoop-cvp, 1
 bucket/jlink614.json, SayCV/scoop-cvp, 1
 bucket/jlink700.json, SayCV/scoop-cvp, 1
+bucket/jlv.json, aliesbelik/poldi, 1
 bucket/jmc.json, ScoopInstaller/Java, 0
 bucket/jmc2obj.json, chawyehsu/dorado, 1
 bucket/jmc7.json, ScoopInstaller/Java, 0
@@ -5882,7 +5884,7 @@ bucket/microdicom-dicom-viewer.json, amorphobia/siku, 0
 bucket/microdicom.json, jingyu9575/scoop-jingyu9575, 0
 bucket/microk8s.json, ScoopInstaller/Main, 0
 bucket/micromamba-cn.json, ivaquero/scoopet, 0
-bucket/micromamba.json, chawyehsu/dorado, 1
+bucket/micromamba.json, ivaquero/scoopet, 0
 bucket/micronaut.json, ScoopInstaller/Main, 1
 bucket/microsip.json, ScoopInstaller/Extras, 0
 bucket/microsoft-activation-scripts.json, DoveBoy/Apps, 1
@@ -5942,7 +5944,7 @@ bucket/mihomo-compatible-go120.json, DoveBoy/Apps, 1
 bucket/mihomo-compatible.json, DoveBoy/Apps, 1
 bucket/mihomo-go120.json, DoveBoy/Apps, 1
 bucket/mihomo-party-portable.json, DoveBoy/Apps, 1
-bucket/mihomo-party.json, DoveBoy/Apps, 1
+bucket/mihomo-party.json, ScoopInstaller/Extras, 1
 bucket/mihomo.json, ScoopInstaller/Main, 1
 bucket/miktex.json, ScoopInstaller/Main, 0
 bucket/mikumikudance.json, mo-san/scoop-bucket, 0
@@ -6986,7 +6988,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -10268,7 +10270,7 @@ bucket/weylus.json, ScoopInstaller/Extras, 1
 bucket/wezterm-nightly.json, ScoopInstaller/Versions, 1
 bucket/wezterm-portable.json, naderi/scoop-bucket, 1
 bucket/wezterm.json, ScoopInstaller/Extras, 1
-bucket/wfc.json, rasa/scoops, 0
+bucket/wfc.json, naderi/scoop-bucket, 0
 bucket/wfinfo.json, Calinou/scoop-games, 1
 bucket/wgcf-cli.json, hoilc/scoop-lemon, 1
 bucket/wgcf.json, ScoopInstaller/Main, 1
