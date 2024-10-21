@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://ghproxy.085404.xyz/https://github.com/sandreas/tone/releases/download/v0.1.7/tone-0.1.7-win-x64.zip",
-      "hash": "6e1b7b2242ebb583cbcd0d488fde55273407650141733a99baedd62916f17740"
+      "hash": "38a1c83fe5ea3b06d82262850b48375d1c3dc3626ef4fb89d0948a32871607c4"
     }
   },
   "bin": "tone.exe",
