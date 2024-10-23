@@ -2335,7 +2335,7 @@ bucket/chart-geany.json, ScoopInstaller/Extras, 0
 bucket/chart-testing.json, hoilc/scoop-lemon, 1
 bucket/chat2db.json, ViCrack/scoop-bucket, 1
 bucket/chatall.json, ScoopInstaller/Extras, 1
-bucket/chatbox.json, ivaquero/scoopet, 1
+bucket/chatbox.json, DoveBoy/Apps, 1
 bucket/chatgpt-cli.json, ivaquero/scoopet, 1
 bucket/chatgpt-next-web.json, hu3rror/scoop-muggle, 1
 bucket/chatgpt.json, ScoopInstaller/Extras, 1
@@ -6622,6 +6622,7 @@ bucket/oda-file-converter.json, hoilc/scoop-lemon, 0
 bucket/odamex.json, Calinou/scoop-games, 0
 bucket/odbc2parquet.json, ScoopInstaller/Main, 1
 bucket/odfe-cli.json, hoilc/scoop-lemon, 0
+bucket/odigos.json, hoilc/scoop-lemon, 1
 bucket/odin-dev.json, ScoopInstaller/Versions, 1
 bucket/odin-nightly.json, ScoopInstaller/Versions, 0
 bucket/odin.json, ScoopInstaller/Versions, 1
@@ -7678,7 +7679,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
