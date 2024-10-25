@@ -6739,6 +6739,7 @@ bucket/openapi-generator-cli.json, ScoopInstaller/Main, 0
 bucket/openarena.json, Calinou/scoop-games, 0
 bucket/openark.json, ScoopInstaller/Extras, 1
 bucket/openbao.json, hoilc/scoop-lemon, 1
+bucket/openbb-terminal.json, ivaquero/scoopet, 1
 bucket/openbbterminal-pre.json, DoveBoy/Apps, 1
 bucket/openbbterminal.json, DoveBoy/Apps, 1
 bucket/openboard.json, ScoopInstaller/Extras, 1
@@ -7682,7 +7683,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
@@ -7712,6 +7713,7 @@ bucket/privexec.json, hoilc/scoop-lemon, 1
 bucket/privoxy.json, ScoopInstaller/Extras, 0
 bucket/prm.json, ScoopInstaller/Main, 1
 bucket/procdump.json, niheaven/scoop-sysinternals, 1
+bucket/process-compose.json, hoilc/scoop-lemon, 1
 bucket/process-explorer.json, chawyehsu/dorado, 0
 bucket/process-governor.json, ScoopInstaller/Main, 1
 bucket/process-monitor.json, chawyehsu/dorado, 0
