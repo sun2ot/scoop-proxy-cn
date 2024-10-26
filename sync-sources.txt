@@ -3706,7 +3706,7 @@ bucket/firefox-developer-fa.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-it.json, starise/Scoop-Confetti, 1
 bucket/firefox-developer-portable.json, naderi/scoop-bucket, 0
 bucket/firefox-developer-zh-cn-portable.json, Weidows-projects/scoop-3rd, 0
-bucket/firefox-developer-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-developer-zh-cn.json, chawyehsu/dorado, 0
 bucket/firefox-developer.json, ScoopInstaller/Versions, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
 bucket/firefox-esr-115-zh-cn.json, aoisummer/scoop-bucket, 0
@@ -7683,7 +7683,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
@@ -9715,6 +9715,7 @@ bucket/trilium-cn.json, ViCrack/scoop-bucket, 1
 bucket/trilium.json, ScoopInstaller/Extras, 1
 bucket/triliumCN.json, cc713/ownscoop, 1
 bucket/trillian.json, ScoopInstaller/Extras, 0
+bucket/trino-cli.json, hoilc/scoop-lemon, 0
 bucket/triplea.json, Calinou/scoop-games, 1
 bucket/trippy.json, ScoopInstaller/Main, 1
 bucket/trivy.json, ScoopInstaller/Main, 1
