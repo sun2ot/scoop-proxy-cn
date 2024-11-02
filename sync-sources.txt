@@ -1953,7 +1953,7 @@ bucket/betaflight-blackbox-explorer.json, ScoopInstaller/Extras, 1
 bucket/betaflight-configurator.json, ScoopInstaller/Extras, 1
 bucket/bethesdaLauncher.json, Deide/deide-bucket, 0
 bucket/better-joy.json, ScoopInstaller/Extras, 1
-bucket/betterbird.json, hoilc/scoop-lemon, 0
+bucket/betterbird.json, ScoopInstaller/Extras, 0
 bucket/bettergi.json, hoilc/scoop-lemon, 1
 bucket/betterjoy-lts.json, hu3rror/scoop-muggle, 1
 bucket/betterjoy.json, Calinou/scoop-games, 1
@@ -3679,7 +3679,7 @@ bucket/filelight-nightly.json, ScoopInstaller/Versions, 0
 bucket/filelight.json, ScoopInstaller/Extras, 0
 bucket/filelist.json, starise/Scoop-Confetti, 0
 bucket/fileoptimizer.json, ScoopInstaller/Extras, 0
-bucket/files-np.json, ScoopInstaller/Nonportable, 1
+bucket/files-np.json, ScoopInstaller/Nonportable, 0
 bucket/filesremote.json, hoilc/scoop-lemon, 1
 bucket/filetypesman.json, ScoopInstaller/Nirsoft, 0
 bucket/filevoyager-portable.json, naderi/scoop-bucket, 0
@@ -8349,7 +8349,7 @@ bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/royalts.json, hoilc/scoop-lemon, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rpk.json, hoilc/scoop-lemon, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rqlite.json, hoilc/scoop-lemon, 1
