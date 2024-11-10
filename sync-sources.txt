@@ -9293,7 +9293,7 @@ bucket/swig.json, ScoopInstaller/Main, 0
 bucket/swipl.json, ScoopInstaller/Extras, 0
 bucket/switch.json, ChungZH/peach, 1
 bucket/switcheroo.json, ScoopInstaller/Extras, 1
-bucket/switchfin.json, batkiz/backit, 1
+bucket/switchfin.json, hoilc/scoop-lemon, 1
 bucket/switchhosts.json, ScoopInstaller/Extras, 1
 bucket/swoff.json, echoiron/echo-scoop, 0
 bucket/swyh-rs.json, ScoopInstaller/Extras, 1
@@ -9732,6 +9732,7 @@ bucket/tre-command.json, ScoopInstaller/Main, 1
 bucket/tre.json, MCOfficer/scoop-bucket, 1
 bucket/tree-sitter.json, ScoopInstaller/Main, 1
 bucket/treeline.json, amorphobia/siku, 1
+bucket/treesheets.json, ScoopInstaller/Extras, 1
 bucket/treesize-free.json, ScoopInstaller/Extras, 0
 bucket/trellis-cli.json, hoilc/scoop-lemon, 1
 bucket/tremulous.json, ScoopInstaller/Extras, 1
