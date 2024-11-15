@@ -1137,7 +1137,7 @@ bucket/SysinternalsProcessExplorer-Portable.json, ACooper81/scoop-apps, 0
 bucket/SysinternalsProcessMonitor-Portable.json, ACooper81/scoop-apps, 0
 bucket/SysinternalsSuite-Portable.json, ACooper81/scoop-apps, 0
 bucket/SystemTrayMenu-Portable.json, ACooper81/scoop-apps, 1
-bucket/TMSpeech.json, DoveBoy/Apps, 1
+bucket/TMSpeech.json, ygguorun/scoop-bucket, 1
 bucket/TagUI.json, Weidows-projects/scoop-3rd, 1
 bucket/Tailscale-Portable.json, ACooper81/scoop-apps, 1
 bucket/Tanuki-Permanent-Marker.json, matthewjberger/scoop-nerd-fonts, 0
@@ -1553,6 +1553,7 @@ bucket/amulet.json, ScoopInstaller/Main, 1
 bucket/anaconda2.json, ScoopInstaller/Versions, 0
 bucket/anaconda3-2022.05.json, ScoopInstaller/Versions, 0
 bucket/anaconda3.json, ScoopInstaller/Extras, 0
+bucket/anchor-cli.json, hoilc/scoop-lemon, 1
 bucket/andika-compact.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/andika-new-basic.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/andika.json, matthewjberger/scoop-nerd-fonts, 0
@@ -2971,6 +2972,8 @@ bucket/deveco-studio.json, chawyehsu/dorado, 0
 bucket/devhub.json, ScoopInstaller/Extras, 1
 bucket/deviceioview.json, ScoopInstaller/Nirsoft, 0
 bucket/devmanview.json, ScoopInstaller/Nirsoft, 0
+bucket/devolutions-launcher.json, hoilc/scoop-lemon, 0
+bucket/devolutions-remote-desktop-manager-free.json, hoilc/scoop-lemon, 0
 bucket/devpod.json, chawyehsu/dorado, 1
 bucket/devrantron.json, ScoopInstaller/Extras, 1
 bucket/devsidecar.json, HCLonely/my-scoop-bucket, 1
@@ -7670,7 +7673,7 @@ bucket/posh-git-beta.json, ScoopInstaller/Versions, 1
 bucket/posh-git-nightly.json, ScoopInstaller/Versions, 1
 bucket/posh-git.json, ScoopInstaller/Extras, 0
 bucket/posh-maven.json, DoveBoy/Apps, 0
-bucket/positron.json, cderv/r-bucket, 1
+bucket/positron.json, ScoopInstaller/Extras, 1
 bucket/postcat.json, ViCrack/scoop-bucket, 1
 bucket/postgres_exporter.json, hoilc/scoop-lemon, 1
 bucket/postgresql.json, ScoopInstaller/Main, 0
@@ -10003,7 +10006,7 @@ bucket/v2ray.json, ScoopInstaller/Main, 1
 bucket/v2raya-unstable.json, DoveBoy/Apps, 0
 bucket/v2raya.json, DoveBoy/Apps, 1
 bucket/v2rayn-core-with-runtime.json, DoveBoy/Apps, 1
-bucket/v2rayn-core.json, seumsc/scoop-seu, 1
+bucket/v2rayn-core.json, DoveBoy/Apps, 1
 bucket/v2rayn-pre.json, ScoopInstaller/Versions, 1
 bucket/v2rayn-rules-dat.json, everyx/scoop-bucket, 1
 bucket/v2rayn.json, ScoopInstaller/Extras, 1
@@ -10086,7 +10089,7 @@ bucket/video-subtitle-extractor-gpu.json, DoveBoy/Apps, 1
 bucket/video-subtitle-extractor.json, SayCV/scoop-cvp, 1
 bucket/video-subtitle-master.json, DoveBoy/Apps, 1
 bucket/video-thumbnails-maker.json, ScoopInstaller/Extras, 0
-bucket/video2x.json, brian6932/dank-scoop, 1
+bucket/video2x.json, seumsc/scoop-seu, 1
 bucket/videoaudiotools.json, ScoopInstaller/Nirsoft, 0
 bucket/videocacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/videoduplicatefinder.json, hoilc/scoop-lemon, 1
@@ -10273,6 +10276,7 @@ bucket/weakauras-companion.json, Calinou/scoop-games, 1
 bucket/wealthfolio.json, naderi/scoop-bucket, 1
 bucket/weasel-pageant.json, ScoopInstaller/Extras, 1
 bucket/weasel.json, ivaquero/scoopet, 1
+bucket/web-chains.json, ViCrack/scoop-bucket, 1
 bucket/webbrain.json, Weidows-projects/scoop-3rd, 0
 bucket/webbrowserbookmarksview.json, ScoopInstaller/Nirsoft, 0
 bucket/webbrowserpassview.json, ScoopInstaller/Nirsoft, 0
