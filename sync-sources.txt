@@ -2277,6 +2277,7 @@ bucket/catbox.json, brian6932/dank-scoop, 1
 bucket/categraf.json, hoilc/scoop-lemon, 1
 bucket/catsxp.json, hoilc/scoop-lemon, 0
 bucket/cavif.json, hoilc/scoop-lemon, 1
+bucket/cbmc.json, seumsc/scoop-seu, 1
 bucket/cbox-cvp.json, SayCV/scoop-cvp, 1
 bucket/cbxconverter.json, starise/Scoop-Confetti, 0
 bucket/cc-clean-launcher.json, brian6932/dank-scoop, 1
@@ -2681,6 +2682,7 @@ bucket/cowsay.json, ScoopInstaller/Main, 1
 bucket/cowyo.json, batkiz/backit, 1
 bucket/cozo.json, hoilc/scoop-lemon, 1
 bucket/cpa.json, aliesbelik/poldi, 1
+bucket/cpachecker.json, seumsc/scoop-seu, 0
 bucket/cpdf.json, rasa/scoops, 1
 bucket/cpeditor-beta.json, kidonng/sushi, 1
 bucket/cpeditor.json, kidonng/sushi, 1
@@ -2945,6 +2947,7 @@ bucket/dependencies.json, ScoopInstaller/Extras, 1
 bucket/dependency-check.json, ScoopInstaller/Main, 1
 bucket/depends.json, ScoopInstaller/Extras, 0
 bucket/depot_tools.json, SayCV/scoop-cvp, 0
+bucket/depotdownloader.json, hoilc/scoop-lemon, 1
 bucket/deprecated.Filezilla-persist.json, Paxxs/Cluttered-bucket, 0
 bucket/deprecated.LDPlayer.clear.json, Paxxs/Cluttered-bucket, 0
 bucket/deps.clj.json, littleli/scoop-clojure, 1
@@ -6593,6 +6596,7 @@ bucket/nunit-extension-vs-project-loader.json, ScoopInstaller/Main, 0
 bucket/nunustudio.json, ScoopInstaller/Extras, 1
 bucket/nushell-cvp.json, SayCV/scoop-cvp, 1
 bucket/nushell.json, MCOfficer/scoop-bucket, 1
+bucket/nusmv.json, seumsc/scoop-seu, 0
 bucket/nuttcp.json, SayCV/scoop-cvp, 0
 bucket/nuwen-mingw-gcc.json, chawyehsu/dorado, 0
 bucket/nuwen-mingw.json, chawyehsu/dorado, 0
@@ -7812,7 +7816,7 @@ bucket/psake.json, ScoopInstaller/Main, 0
 bucket/pscale.json, hoilc/scoop-lemon, 1
 bucket/pscalendar.json, DoveBoy/Apps, 0
 bucket/pscolor.json, ScoopInstaller/Extras, 1
-bucket/pscompletions.json, ivaquero/scoopet, 0
+bucket/pscompletions.json, DoveBoy/Apps, 0
 bucket/pseps.json, ScoopInstaller/Extras, 0
 bucket/pseverything.json, akirco/aki-apps, 0
 bucket/psexec.json, niheaven/scoop-sysinternals, 1
@@ -10582,7 +10586,7 @@ bucket/wireshark3.json, ScoopInstaller/Versions, 0
 bucket/wise-disk-cleaner.json, naderi/scoop-bucket, 0
 bucket/wise-program-uninstaller.json, naderi/scoop-bucket, 0
 bucket/wise-registry-cleaner.json, naderi/scoop-bucket, 0
-bucket/wisecare365.json, echoiron/echo-scoop, 0
+bucket/wisecare365.json, ivaquero/scoopet, 0
 bucket/witchblast.json, Calinou/scoop-games, 1
 bucket/wix.json, chawyehsu/dorado, 0
 bucket/wixtoolset.json, ScoopInstaller/Main, 0
