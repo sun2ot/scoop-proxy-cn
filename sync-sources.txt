@@ -2142,6 +2142,7 @@ bucket/browsinghistoryview.json, ScoopInstaller/Nirsoft, 0
 bucket/bruno.json, ScoopInstaller/Extras, 1
 bucket/brynhildr.json, jfut/scoop-jfut, 0
 bucket/bs-manager.json, Deide/deide-bucket, 1
+bucket/bsc.json, hoilc/scoop-lemon, 1
 bucket/bsnes-hd-beta.json, Calinou/scoop-games, 1
 bucket/bsnes-mt.json, Calinou/scoop-games, 1
 bucket/bsnes-nightly.json, borger/scoop-emulators, 1
@@ -2738,16 +2739,16 @@ bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/cryptsync.json, hoilc/scoop-lemon, 1
 bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-aoi.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-shizuku.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskmark-aoi.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskmark-aoi.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskmark-shizuku-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskmark-shizuku.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskmark-shizuku.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskmark.json, ScoopInstaller/Extras, 0
 bucket/cs-script.json, hoilc/scoop-lemon, 1
 bucket/csauto.json, Calinou/scoop-games, 1
@@ -3668,7 +3669,7 @@ bucket/fiddler-classic.json, HUMORCE/nuke, 0
 bucket/fiddler-everywhere.json, seumsc/scoop-seu, 0
 bucket/fiddler.json, ScoopInstaller/Extras, 0
 bucket/fideo-live-record.json, DoveBoy/Apps, 1
-bucket/fido.json, HUMORCE/nuke, 1
+bucket/fido.json, amorphobia/siku, 1
 bucket/figlet.json, ScoopInstaller/Main, 1
 bucket/figma.json, ScoopInstaller/Extras, 0
 bucket/figtree-variable.json, KnotUntied/scoop-fonts, 0
@@ -4582,6 +4583,7 @@ bucket/himalaya.json, ScoopInstaller/Main, 1
 bucket/hitomi-downloader.json, hoilc/scoop-lemon, 1
 bucket/hjson.json, ScoopInstaller/Main, 1
 bucket/hkbtest.json, HUMORCE/nuke, 1
+bucket/hl.json, aliesbelik/poldi, 1
 bucket/hledger.json, ScoopInstaller/Main, 1
 bucket/hlsw-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hmcl-dev.json, seumsc/scoop-seu, 0
@@ -5353,6 +5355,7 @@ bucket/kustomize.json, ScoopInstaller/Main, 1
 bucket/kvirc.json, hoilc/scoop-lemon, 1
 bucket/kwmusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/kwmusic.json, scoopcn/scoopcn, 0
+bucket/kwok.json, hoilc/scoop-lemon, 1
 bucket/kyverno-cli.json, ScoopInstaller/Main, 1
 bucket/l4d2modmanager.json, Calinou/scoop-games, 0
 bucket/lab.json, ScoopInstaller/Main, 1
@@ -10996,6 +10999,8 @@ bucket/zotero-beta.json, hoilc/scoop-lemon, 0
 bucket/zotero.json, ScoopInstaller/Extras, 1
 bucket/zoxide.json, ScoopInstaller/Main, 1
 bucket/zpaq.json, hoilc/scoop-lemon, 0
+bucket/zpaqfranz-pakka.json, hoilc/scoop-lemon, 0
+bucket/zpaqfranz.json, hoilc/scoop-lemon, 1
 bucket/zrok.json, ScoopInstaller/Extras, 1
 bucket/zsharp.json, ScoopInstaller/Extras, 1
 bucket/zstd.json, ScoopInstaller/Main, 1
