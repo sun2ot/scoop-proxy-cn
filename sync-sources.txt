@@ -1916,6 +1916,7 @@ bucket/bc.json, ScoopInstaller/Main, 0
 bucket/bcd.json, brian6932/dank-scoop, 0
 bucket/bcdown.json, amorphobia/siku, 1
 bucket/bcdstore.json, brian6932/dank-scoop, 0
+bucket/bcm.json, hoilc/scoop-lemon, 0
 bucket/bctextencoder.json, hoilc/scoop-lemon, 0
 bucket/bcut.json, akirco/aki-apps, 0
 bucket/bdInfo-cli.json, yuusakuri/scoop-bucket, 1
@@ -2790,6 +2791,7 @@ bucket/cuda11.5.json, ScoopInstaller/Versions, 0
 bucket/cuda11.6.json, ScoopInstaller/Versions, 0
 bucket/cuda11.7.json, ScoopInstaller/Versions, 0
 bucket/cuda11.8.json, ScoopInstaller/Versions, 0
+bucket/cuda12.4.json, Weidows-projects/scoop-3rd, 0
 bucket/cuda6.0.json, ScoopInstaller/Versions, 0
 bucket/cuda6.5.json, ScoopInstaller/Versions, 0
 bucket/cuda6.json, ScoopInstaller/Versions, 0
@@ -2889,6 +2891,7 @@ bucket/dataspell.json, ScoopInstaller/Extras, 1
 bucket/datastation.json, batkiz/backit, 1
 bucket/datovka.json, ScoopInstaller/Extras, 0
 bucket/datree.json, ScoopInstaller/Main, 1
+bucket/dbeaver-ea.json, ScoopInstaller/Versions, 0
 bucket/dbeaver-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/dbeaver.json, ScoopInstaller/Extras, 0
 bucket/dbgate-beta.json, hoilc/scoop-lemon, 1
@@ -6489,6 +6492,7 @@ bucket/nk2view.json, ScoopInstaller/Nirsoft, 0
 bucket/nmap-portable.json, akirco/aki-apps, 0
 bucket/nmap.json, ScoopInstaller/Main, 0
 bucket/nmkoder.json, ScoopInstaller/Extras, 1
+bucket/nncp.json, hoilc/scoop-lemon, 0
 bucket/node-compiler.json, ScoopInstaller/Extras, 1
 bucket/nodejs-bin.json, wzv5/ScoopBucket, 1
 bucket/nodejs-lts-np.json, ScoopInstaller/Nonportable, 1
@@ -6996,6 +7000,7 @@ bucket/paperang.json, AkinoKaede/maple, 0
 bucket/paperbak.json, hoilc/scoop-lemon, 0
 bucket/papercut.json, ScoopInstaller/Extras, 1
 bucket/paperlib.json, hoilc/scoop-lemon, 1
+bucket/par2.json, hoilc/scoop-lemon, 1
 bucket/par2cmdline.json, ScoopInstaller/Main, 1
 bucket/parallels-client.json, amorphobia/siku, 0
 bucket/paraview.json, ScoopInstaller/Extras, 0
