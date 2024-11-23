@@ -2095,7 +2095,7 @@ bucket/bombardier.json, ScoopInstaller/Main, 1
 bucket/bombermaaan.json, Calinou/scoop-games, 0
 bucket/bomi.json, ScoopInstaller/Extras, 0
 bucket/bongocat-osu.json, Weidows-projects/scoop-3rd, 1
-bucket/bookget.json, DoveBoy/Apps, 1
+bucket/bookget.json, hoilc/scoop-lemon, 1
 bucket/bookhunter.json, ygguorun/scoop-bucket, 1
 bucket/bookstack.json, SayCV/scoop-cvp, 1
 bucket/bookxnote.json, hoilc/scoop-lemon, 0
@@ -5929,7 +5929,7 @@ bucket/microdicom-dicom-viewer.json, amorphobia/siku, 0
 bucket/microdicom.json, jingyu9575/scoop-jingyu9575, 0
 bucket/microk8s.json, ScoopInstaller/Main, 0
 bucket/micromamba-cn.json, ivaquero/scoopet, 0
-bucket/micromamba.json, chawyehsu/dorado, 1
+bucket/micromamba.json, ivaquero/scoopet, 1
 bucket/micronaut.json, ScoopInstaller/Main, 1
 bucket/microsip.json, ScoopInstaller/Extras, 0
 bucket/microsoft-activation-scripts.json, DoveBoy/Apps, 1
@@ -6843,6 +6843,7 @@ bucket/openocd.json, ScoopInstaller/Main, 1
 bucket/openoffice.json, ScoopInstaller/Extras, 0
 bucket/openorcadparser.json, SayCV/scoop-cvp, 1
 bucket/openpomodoro.json, aliesbelik/poldi, 1
+bucket/openra-playtest.json, hoilc/scoop-lemon, 1
 bucket/openra.json, Calinou/scoop-games, 1
 bucket/openrct2.json, Calinou/scoop-games, 1
 bucket/openresty.json, ScoopInstaller/Main, 0
@@ -7047,7 +7048,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -7613,6 +7614,7 @@ bucket/pixitracker.json, ScoopInstaller/Extras, 0
 bucket/pixiv-omina.json, batkiz/backit, 1
 bucket/pixivbiu.json, HCLonely/my-scoop-bucket, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
+bucket/pixpin-beta.json, hoilc/scoop-lemon, 0
 bucket/pixpin.json, amorphobia/siku, 0
 bucket/pixzip-lite.json, hoilc/scoop-lemon, 1
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
