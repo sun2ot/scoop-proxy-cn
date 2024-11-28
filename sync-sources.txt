@@ -1454,7 +1454,7 @@ bucket/adobephotoshopcclite.json, SayCV/scoop-cvp, 1
 bucket/adom.json, Calinou/scoop-games, 0
 bucket/adpcm-xq.json, hoilc/scoop-lemon, 1
 bucket/adrestore.json, niheaven/scoop-sysinternals, 1
-bucket/adrive.json, echoiron/echo-scoop, 0
+bucket/adrive.json, ygguorun/scoop-bucket, 1
 bucket/adspower.json, Weidows-projects/scoop-3rd, 0
 bucket/advanced-combat-tracker.json, Calinou/scoop-games, 1
 bucket/advanced-ip-scanner.json, ScoopInstaller/Extras, 0
@@ -1955,7 +1955,6 @@ bucket/bendsql.json, hoilc/scoop-lemon, 1
 bucket/bennett.json, hoilc/scoop-lemon, 0
 bucket/benthos.json, hoilc/scoop-lemon, 1
 bucket/bento4.json, ScoopInstaller/Main, 0
-bucket/bepass.json, Homeland-Community/scoop, 1
 bucket/berglas.json, hoilc/scoop-lemon, 1
 bucket/bes.json, ScoopInstaller/Extras, 0
 bucket/besttrace.json, hoilc/scoop-lemon, 0
@@ -2265,7 +2264,7 @@ bucket/cascadiacode-italic.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiacode-pl-italic-static.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiacode-pl-italic.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiacode-pl-static.json, KnotUntied/scoop-fonts, 1
-bucket/cascadiacode-pl.json, kiennq/scoop-misc, 1
+bucket/cascadiacode-pl.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiacode-static.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiamono-italic-static.json, KnotUntied/scoop-fonts, 1
 bucket/cascadiamono-italic.json, KnotUntied/scoop-fonts, 1
@@ -4578,7 +4577,7 @@ bucket/hibit-uninstaller.json, ScoopInstaller/Extras, 0
 bucket/hibituninstaller.json, DoveBoy/Apps, 0
 bucket/hiccup-cli.json, littleli/scoop-clojure, 1
 bucket/hiddify-next.json, naderi/scoop-bucket, 1
-bucket/hiddify.json, hoilc/scoop-lemon, 1
+bucket/hiddify.json, ScoopInstaller/Extras, 1
 bucket/hide-from-uninstall-list.json, ViCrack/scoop-bucket, 0
 bucket/hideul.json, ScoopInstaller/Extras, 0
 bucket/highlight-text.json, hoilc/scoop-lemon, 0
@@ -7606,7 +7605,7 @@ bucket/pipp.json, ScoopInstaller/Extras, 1
 bucket/pipx-poetry.json, Weidows-projects/scoop-3rd, 1
 bucket/pipx.json, ScoopInstaller/Main, 1
 bucket/pixel-clipper.json, brian6932/dank-scoop, 0
-bucket/pixelflasher.json, hoilc/scoop-lemon, 1
+bucket/pixelflasher.json, ScoopInstaller/Extras, 1
 bucket/pixelorama.json, ScoopInstaller/Extras, 1
 bucket/pixfront.json, mo-san/scoop-bucket, 0
 bucket/pixi.json, chawyehsu/dorado, 1
@@ -8486,7 +8485,7 @@ bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
 bucket/rymdport.json, hoilc/scoop-lemon, 1
 bucket/ryujinx-ava.json, Calinou/scoop-games, 1
-bucket/ryujinx.json, Calinou/scoop-games, 1
+bucket/ryujinx.json, borger/scoop-emulators, 1
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
 bucket/ryzenadj.json, ScoopInstaller/Main, 1
@@ -8696,7 +8695,6 @@ bucket/search-deflector.json, ScoopInstaller/Extras, 1
 bucket/searchfilterview.json, ScoopInstaller/Nirsoft, 0
 bucket/searchmyfiles.json, ScoopInstaller/Nirsoft, 0
 bucket/sec.json, SayCV/scoop-cvp, 0
-bucket/securednsclient.json, Homeland-Community/scoop, 1
 bucket/securefs.json, hoilc/scoop-lemon, 1
 bucket/secureuxtheme.json, ScoopInstaller/Extras, 1
 bucket/securityquestionsview.json, ScoopInstaller/Nirsoft, 0
@@ -8873,7 +8871,6 @@ bucket/simple-vhd-manager.json, hoilc/scoop-lemon, 0
 bucket/simple-x264-launcher.json, hoilc/scoop-lemon, 1
 bucket/simple64.json, Calinou/scoop-games, 1
 bucket/simplecodegenerator.json, ScoopInstaller/Nirsoft, 0
-bucket/simplednscrypt.json, Homeland-Community/scoop, 1
 bucket/simplehttpserver.json, hoilc/scoop-lemon, 1
 bucket/simplejavamail-cli.json, hoilc/scoop-lemon, 0
 bucket/simplenote.json, ScoopInstaller/Extras, 1
@@ -8893,7 +8890,6 @@ bucket/simutrans.json, Calinou/scoop-games, 0
 bucket/sing-box-beta.json, DoveBoy/Apps, 1
 bucket/sing-box-pre.json, hu3rror/scoop-muggle, 1
 bucket/sing-box.json, ScoopInstaller/Main, 1
-bucket/singbox-ui.json, Homeland-Community/scoop, 1
 bucket/sioyek.json, ScoopInstaller/Extras, 1
 bucket/sirikali.json, ScoopInstaller/Extras, 1
 bucket/siteshoter.json, ScoopInstaller/Nirsoft, 0
@@ -9254,6 +9250,7 @@ bucket/suanpan.json, ScoopInstaller/Main, 1
 bucket/subconverter.json, ScoopInstaller/Main, 1
 bucket/subfinder.json, hoilc/scoop-lemon, 1
 bucket/sublime-merge.json, ScoopInstaller/Extras, 1
+bucket/sublime-text-3.json, amorphobia/siku, 0
 bucket/sublime-text-4.json, naderi/scoop-bucket, 1
 bucket/sublime-text.json, ScoopInstaller/Extras, 0
 bucket/subrenamer.json, ivaquero/scoopet, 1
@@ -9813,7 +9810,6 @@ bucket/tuifeed.json, aliesbelik/poldi, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
 bucket/tun2brook.json, hoilc/scoop-lemon, 1
 bucket/tun2proxy.json, NyaMisty/scoop_bucket_misty, 1
-bucket/tun2socks.json, Homeland-Community/scoop, 1
 bucket/tunnel.json, ScoopInstaller/Main, 1
 bucket/tunnelmole.json, hoilc/scoop-lemon, 0
 bucket/tunnelto.json, hoilc/scoop-lemon, 1
@@ -10016,7 +10012,6 @@ bucket/uyou-todo.json, hoilc/scoop-lemon, 1
 bucket/v-weekly.json, ScoopInstaller/Versions, 1
 bucket/v.json, ScoopInstaller/Main, 1
 bucket/v2ray-beta.json, AkinoKaede/maple, 1
-bucket/v2ray-core.json, Homeland-Community/scoop, 1
 bucket/v2ray-desktop.json, kidonng/sushi, 1
 bucket/v2ray-domain-list-community.json, kidonng/sushi, 1
 bucket/v2ray-extra-beta.json, AkinoKaede/maple, 1
@@ -10170,6 +10165,7 @@ bucket/vlc-nightly.json, ScoopInstaller/Versions, 0
 bucket/vlc-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/vlc.json, ScoopInstaller/Extras, 0
 bucket/vlmcsd.json, everyx/scoop-bucket, 1
+bucket/vlogscli.json, hoilc/scoop-lemon, 1
 bucket/vmaf.json, ScoopInstaller/Main, 1
 bucket/vmessconv.json, AkinoKaede/maple, 1
 bucket/vmessping.json, AkinoKaede/maple, 1
@@ -10262,7 +10258,6 @@ bucket/wakemeonlan.json, ScoopInstaller/Nirsoft, 0
 bucket/walk.json, ScoopInstaller/Main, 1
 bucket/wapm-cli.json, ScoopInstaller/Main, 1
 bucket/warp-cloudflare.json, Weidows-projects/scoop-3rd, 0
-bucket/warp-plus.json, Homeland-Community/scoop, 1
 bucket/warp.json, ScoopInstaller/Main, 1
 bucket/warsow.json, Calinou/scoop-games, 0
 bucket/warzone2100.json, Calinou/scoop-games, 1
@@ -10813,9 +10808,7 @@ bucket/xplorer.json, ScoopInstaller/Extras, 1
 bucket/xpoc.json, ViCrack/scoop-bucket, 1
 bucket/xprop.json, beerpiss/scoop-bucket, 0
 bucket/xq.json, batkiz/backit, 1
-bucket/xray-core.json, Homeland-Community/scoop, 1
 bucket/xray-knife.json, Homeland-Community/scoop, 1
-bucket/xray-plugin.json, Homeland-Community/scoop, 1
 bucket/xray.json, ScoopInstaller/Main, 1
 bucket/xrun.json, hoilc/scoop-lemon, 0
 bucket/xshell7p.json, kkzzhizhou/scoop-zapps, 1
@@ -11268,6 +11261,8 @@ scripts/stremio/install-context.reg, ScoopInstaller/Extras, 0
 scripts/stremio/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/sublime-merge/install-context.reg, ScoopInstaller/Extras, 0
 scripts/sublime-merge/uninstall-context.reg, ScoopInstaller/Extras, 0
+scripts/sublime-text-3/install-context.reg, amorphobia/siku, 0
+scripts/sublime-text-3/uninstall-context.reg, amorphobia/siku, 0
 scripts/sublime-text/install-context.reg, ScoopInstaller/Extras, 0
 scripts/sublime-text/sublime-text-install-context.reg, naderi/scoop-bucket, 0
 scripts/sublime-text/sublime-text-uninstall-context.reg, naderi/scoop-bucket, 0
