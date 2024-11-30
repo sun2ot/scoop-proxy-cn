@@ -3735,7 +3735,7 @@ bucket/firefox-eme-free-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-eme-free.json, ScoopInstaller/Extras, 0
 bucket/firefox-esr-115-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/firefox-esr-portable.json, naderi/scoop-bucket, 0
-bucket/firefox-esr-zh-cn.json, aoisummer/scoop-bucket, 0
+bucket/firefox-esr-zh-cn.json, amorphobia/siku, 0
 bucket/firefox-esr.json, ScoopInstaller/Extras, 0
 bucket/firefox-history-merger.json, hoilc/scoop-lemon, 1
 bucket/firefox-it.json, starise/Scoop-Confetti, 1
@@ -4524,7 +4524,7 @@ bucket/hasura-cli.json, ScoopInstaller/Main, 1
 bucket/haxe-dev.json, ScoopInstaller/Versions, 1
 bucket/haxe.json, ScoopInstaller/Main, 1
 bucket/haylxon.json, hoilc/scoop-lemon, 1
-bucket/hbuilderx.json, ivaquero/scoopet, 0
+bucket/hbuilderx.json, zhoujin7/tomato, 0
 bucket/hck.json, batkiz/backit, 1
 bucket/hcloud.json, ScoopInstaller/Main, 1
 bucket/hdcleaner.json, naderi/scoop-bucket, 0
@@ -5769,7 +5769,7 @@ bucket/makesfx.json, hoilc/scoop-lemon, 0
 bucket/malm.json, hoilc/scoop-lemon, 0
 bucket/malware-patch.json, hoilc/scoop-lemon, 1
 bucket/mambaforge.json, ScoopInstaller/Extras, 1
-bucket/mame.json, Calinou/scoop-games, 1
+bucket/mame.json, hermanjustnu/scoop-emulators, 1
 bucket/mameui.json, hermanjustnu/scoop-emulators, 0
 bucket/managewirelessnetworks.json, ScoopInstaller/Nirsoft, 0
 bucket/mancy.json, ScoopInstaller/Extras, 1
@@ -7678,6 +7678,7 @@ bucket/popcorn-time.json, ScoopInstaller/Extras, 1
 bucket/popeye.json, hoilc/scoop-lemon, 1
 bucket/poppler.json, ScoopInstaller/Main, 1
 bucket/poppler068.json, ScoopInstaller/Versions, 0
+bucket/portable-build-tools.json, amorphobia/siku, 1
 bucket/portable-registrator.json, naderi/scoop-bucket, 1
 bucket/portable-virtualbox.json, ScoopInstaller/Extras, 0
 bucket/portainer.json, ScoopInstaller/Main, 1
