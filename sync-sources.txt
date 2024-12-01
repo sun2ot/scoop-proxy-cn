@@ -5769,7 +5769,7 @@ bucket/makesfx.json, hoilc/scoop-lemon, 0
 bucket/malm.json, hoilc/scoop-lemon, 0
 bucket/malware-patch.json, hoilc/scoop-lemon, 1
 bucket/mambaforge.json, ScoopInstaller/Extras, 1
-bucket/mame.json, hermanjustnu/scoop-emulators, 1
+bucket/mame.json, Calinou/scoop-games, 1
 bucket/mameui.json, hermanjustnu/scoop-emulators, 0
 bucket/managewirelessnetworks.json, ScoopInstaller/Nirsoft, 0
 bucket/mancy.json, ScoopInstaller/Extras, 1
@@ -6365,7 +6365,8 @@ bucket/natscli.json, ScoopInstaller/Extras, 1
 bucket/nattypetester.json, chawyehsu/dorado, 1
 bucket/natural-docs.json, ScoopInstaller/Extras, 0
 bucket/navi.json, ScoopInstaller/Main, 1
-bucket/navicat-premium-lite.json, seumsc/scoop-seu, 0
+bucket/navicat-premium-lite-cn.json, ivaquero/scoopet, 0
+bucket/navicat-premium-lite.json, ivaquero/scoopet, 0
 bucket/navidrome.json, ScoopInstaller/Main, 1
 bucket/nbtexplorer.json, Calinou/scoop-games, 1
 bucket/nbtscan.json, hoilc/scoop-lemon, 1
@@ -8006,7 +8007,7 @@ bucket/qownnotes.json, ScoopInstaller/Extras, 1
 bucket/qpdf.json, ScoopInstaller/Main, 0
 bucket/qpress.json, hoilc/scoop-lemon, 0
 bucket/qq-dreamcast.json, ZvonimirSun/scoop-iszy, 1
-bucket/qq-nt.json, DoveBoy/Apps, 0
+bucket/qq-nt.json, ScoopInstaller/Extras, 0
 bucket/qq-patch.json, SayCV/scoop-cvp, 1
 bucket/qq.json, ScoopInstaller/Extras, 0
 bucket/qqgame.json, DoveBoy/Apps, 0
