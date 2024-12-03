@@ -1792,6 +1792,7 @@ bucket/autologon.json, niheaven/scoop-sysinternals, 1
 bucket/autopsy-python-plugins.json, jfut/scoop-jfut, 1
 bucket/autopsy.json, jfut/scoop-jfut, 1
 bucket/autorun-organizer.json, naderi/scoop-bucket, 0
+bucket/autosave.json, brian6932/dank-scoop, 1
 bucket/autossh.json, ScoopInstaller/Main, 1
 bucket/autowikibrowser.json, seumsc/scoop-seu, 0
 bucket/avidemux-nightly.json, ScoopInstaller/Versions, 0
@@ -4293,7 +4294,7 @@ bucket/goggalaxy.json, Calinou/scoop-games, 0
 bucket/gogs.json, ScoopInstaller/Main, 0
 bucket/gogs0.json, ScoopInstaller/Versions, 0
 bucket/goimports-reviser.json, batkiz/backit, 1
-bucket/gojq.json, batkiz/backit, 1
+bucket/gojq.json, aliesbelik/poldi, 1
 bucket/gokey.json, aliesbelik/poldi, 1
 bucket/goku-bench.json, aliesbelik/poldi, 1
 bucket/goku.json, aliesbelik/poldi, 1
@@ -5176,6 +5177,7 @@ bucket/kcl.json, hoilc/scoop-lemon, 1
 bucket/kcleaner.json, echoiron/echo-scoop, 0
 bucket/kcli.json, aliesbelik/poldi, 1
 bucket/kcptun.json, ScoopInstaller/Main, 1
+bucket/kctrl.json, hoilc/scoop-lemon, 1
 bucket/kde-mover-sizer.json, mo-san/scoop-bucket, 0
 bucket/kdeconnect-nightly.json, ScoopInstaller/Versions, 0
 bucket/kdeconnect.json, ScoopInstaller/Extras, 0
@@ -6337,7 +6339,8 @@ bucket/n-m3u8dl-cli.json, ScoopInstaller/Main, 1
 bucket/n-m3u8dl-re.json, ivaquero/scoopet, 1
 bucket/n3dr.json, hoilc/scoop-lemon, 1
 bucket/n_m3u8dl-cli.json, chawyehsu/dorado, 1
-bucket/n_m3u8dl-re.json, DoveBoy/Apps, 1
+bucket/n_m3u8dl-re-nightly.json, hoilc/scoop-lemon, 0
+bucket/n_m3u8dl-re.json, hoilc/scoop-lemon, 1
 bucket/naabu.json, hoilc/scoop-lemon, 1
 bucket/naev.json, Calinou/scoop-games, 1
 bucket/nagstamon.json, hoilc/scoop-lemon, 1
@@ -8489,7 +8492,7 @@ bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
 bucket/rymdport.json, hoilc/scoop-lemon, 1
 bucket/ryujinx-ava.json, Calinou/scoop-games, 1
-bucket/ryujinx.json, borger/scoop-emulators, 1
+bucket/ryujinx.json, Calinou/scoop-games, 1
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
 bucket/ryzenadj.json, ScoopInstaller/Main, 1
@@ -8783,7 +8786,7 @@ bucket/shadowsocksr-csharp.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
-bucket/shadps4.json, borger/scoop-emulators, 1
+bucket/shadps4.json, Calinou/scoop-games, 1
 bucket/shakemousetolocate.json, amorphobia/siku, 1
 bucket/shanggu-mono-jp.json, hoilc/scoop-lemon, 1
 bucket/shanggu-mono-sc.json, hoilc/scoop-lemon, 1
@@ -9275,7 +9278,7 @@ bucket/sunlogin.json, scoopcn/scoopcn, 0
 bucket/sunloginclient-desktop.json, SayCV/scoop-cvp, 0
 bucket/sunloginclient-lite.json, SayCV/scoop-cvp, 0
 bucket/sunloginclientsos.json, DoveBoy/Apps, 0
-bucket/sunny.json, hoilc/scoop-lemon, 1
+bucket/sunny.json, hoilc/scoop-lemon, 0
 bucket/sunsetscreen.json, ScoopInstaller/Extras, 0
 bucket/sunshine-nightly.json, brian6932/dank-scoop, 1
 bucket/sunshine.json, ScoopInstaller/Extras, 1
