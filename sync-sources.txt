@@ -4502,6 +4502,7 @@ bucket/handy.json, hermanjustnu/scoop-emulators, 0
 bucket/haofang-platform.json, SayCV/scoop-cvp, 0
 bucket/hap-viewer.json, hoilc/scoop-lemon, 0
 bucket/haproxy_exporter.json, hoilc/scoop-lemon, 1
+bucket/harbor-cli.json, hoilc/scoop-lemon, 1
 bucket/harbour.json, littleli/Scoop-littleli, 0
 bucket/harfbuzz.json, ScoopInstaller/Main, 1
 bucket/harmonoid.json, ScoopInstaller/Extras, 1
@@ -5322,6 +5323,7 @@ bucket/ksoftmgr.json, echoiron/echo-scoop, 0
 bucket/ksubdomain.json, ViCrack/scoop-bucket, 1
 bucket/kt-connect.json, chawyehsu/dorado, 1
 bucket/ktlint.json, ScoopInstaller/Main, 1
+bucket/ktor-cli.json, aliesbelik/poldi, 1
 bucket/ktunnel.json, ScoopInstaller/Main, 1
 bucket/ktx-software.json, ScoopInstaller/Main, 1
 bucket/kube-burner.json, hoilc/scoop-lemon, 1
@@ -9722,6 +9724,7 @@ bucket/tortoisegit.json, SayCV/scoop-cvp, 0
 bucket/tortoisehg.json, ScoopInstaller/Extras, 0
 bucket/tortoisemerge.json, ScoopInstaller/Extras, 0
 bucket/tortoisesvn.json, ScoopInstaller/Extras, 1
+bucket/tosutil.json, hoilc/scoop-lemon, 0
 bucket/total-registry.json, ScoopInstaller/Extras, 1
 bucket/totalcmd-mod.json, hu3rror/scoop-muggle, 0
 bucket/totalcommander-beta-portable.json, naderi/scoop-bucket, 0
@@ -10200,6 +10203,7 @@ bucket/voicemeeter-potato-np.json, ScoopInstaller/Nonportable, 0
 bucket/voiceroid-util.json, mo-san/scoop-bucket, 1
 bucket/voicevox-gpu.json, hu3rror/scoop-muggle, 1
 bucket/vokoscreenng-np.json, ScoopInstaller/Nonportable, 0
+bucket/volcengine-cli.json, hoilc/scoop-lemon, 1
 bucket/volta-tab-completion.json, DoveBoy/Apps, 0
 bucket/volta.json, ScoopInstaller/Main, 1
 bucket/volume2.json, ScoopInstaller/Extras, 1
