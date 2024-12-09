@@ -6579,7 +6579,7 @@ bucket/notosansmono.json, KnotUntied/scoop-fonts, 0
 bucket/notoserifcjk.json, KnotUntied/scoop-fonts, 0
 bucket/noty.json, ScoopInstaller/Extras, 1
 bucket/nova.json, ScoopInstaller/Main, 1
-bucket/novelwriter.json, hoilc/scoop-lemon, 1
+bucket/novelwriter.json, ScoopInstaller/Extras, 1
 bucket/now-cli.json, ScoopInstaller/Extras, 1
 bucket/npiperelay.json, ScoopInstaller/Extras, 1
 bucket/npm-completion.json, akirco/aki-apps, 1
@@ -7803,7 +7803,7 @@ bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
 bucket/projclean.json, hoilc/scoop-lemon, 1
-bucket/project64-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/project64-dev.json, Calinou/scoop-games, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/projector-client.json, hoilc/scoop-lemon, 1
 bucket/prom2json.json, aliesbelik/poldi, 1
@@ -9568,7 +9568,7 @@ bucket/testmem5.json, brian6932/dank-scoop, 1
 bucket/tetrs.json, hoilc/scoop-lemon, 1
 bucket/tetzle.json, hoilc/scoop-lemon, 0
 bucket/tev.json, ScoopInstaller/Extras, 1
-bucket/tex-fmt.json, ivaquero/scoopet, 1
+bucket/tex-fmt.json, seumsc/scoop-seu, 1
 bucket/texlab.json, ScoopInstaller/Main, 1
 bucket/texlive-full.json, chawyehsu/dorado, 0
 bucket/texlive.json, chawyehsu/dorado, 0
