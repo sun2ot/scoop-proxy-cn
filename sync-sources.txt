@@ -2737,7 +2737,7 @@ bucket/crow-translate.json, ScoopInstaller/Extras, 1
 bucket/cru.json, ScoopInstaller/Extras, 0
 bucket/cruft.json, ScoopInstaller/Extras, 0
 bucket/crunchy-cli.json, ScoopInstaller/Extras, 1
-bucket/cryfs.json, naderi/scoop-bucket, 1
+bucket/cryfs.json, naderi/scoop-bucket, 0
 bucket/crypto-notepad.json, hoilc/scoop-lemon, 1
 bucket/cryptoknife.json, hoilc/scoop-lemon, 1
 bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
@@ -6149,6 +6149,7 @@ bucket/monolith.json, ScoopInstaller/Main, 1
 bucket/mononoki.json, KnotUntied/scoop-fonts, 1
 bucket/montserrat-alternates.json, KnotUntied/scoop-fonts, 1
 bucket/montserrat.json, KnotUntied/scoop-fonts, 1
+bucket/moon.json, hoilc/scoop-lemon, 1
 bucket/moonbit.json, hoilc/scoop-lemon, 0
 bucket/moonlight-nightly.json, brian6932/dank-scoop, 0
 bucket/moonlight.json, ScoopInstaller/Extras, 1
@@ -6784,6 +6785,7 @@ bucket/onetrueawk.json, beerpiss/scoop-bucket, 0
 bucket/oni.json, ScoopInstaller/Extras, 1
 bucket/onionshare.json, ScoopInstaller/Extras, 1
 bucket/onlyoffice-desktopeditors.json, ScoopInstaller/Extras, 1
+bucket/onthespot.json, naderi/scoop-bucket, 1
 bucket/ontopreplica.json, ScoopInstaller/Extras, 1
 bucket/opa.json, ScoopInstaller/Main, 1
 bucket/opal.json, hoilc/scoop-lemon, 1
@@ -7814,6 +7816,7 @@ bucket/propertree.json, ScoopInstaller/Extras, 1
 bucket/propertysystemview.json, ScoopInstaller/Nirsoft, 0
 bucket/protectedstoragepassview.json, kodybrown/scoop-nirsoft, 0
 bucket/protege.json, ScoopInstaller/Extras, 1
+bucket/proto.json, hoilc/scoop-lemon, 1
 bucket/protobuf.json, ScoopInstaller/Extras, 1
 bucket/protoc-gen-grpc-web.json, ScoopInstaller/Main, 1
 bucket/protoc.json, echoiron/echo-scoop, 1
@@ -9568,7 +9571,7 @@ bucket/testmem5.json, brian6932/dank-scoop, 1
 bucket/tetrs.json, hoilc/scoop-lemon, 1
 bucket/tetzle.json, hoilc/scoop-lemon, 0
 bucket/tev.json, ScoopInstaller/Extras, 1
-bucket/tex-fmt.json, seumsc/scoop-seu, 1
+bucket/tex-fmt.json, ivaquero/scoopet, 1
 bucket/texlab.json, ScoopInstaller/Main, 1
 bucket/texlive-full.json, chawyehsu/dorado, 0
 bucket/texlive.json, chawyehsu/dorado, 0
