@@ -2553,7 +2553,6 @@ bucket/cmwtat-digital-edition.json, DoveBoy/Apps, 1
 bucket/cnc-ddraw.json, Calinou/scoop-games, 1
 bucket/cnkiexpress.json, ivaquero/scoopet, 0
 bucket/cnping.json, ScoopInstaller/Extras, 1
-bucket/cntv.json, DoveBoy/Apps, 0
 bucket/cobalt.json, ScoopInstaller/Main, 1
 bucket/coca.json, seumsc/scoop-seu, 0
 bucket/cockroachdb.json, ScoopInstaller/Main, 0
@@ -6115,6 +6114,7 @@ bucket/moderncsv.json, naderi/scoop-bucket, 0
 bucket/moderndeck.json, ScoopInstaller/Extras, 1
 bucket/modernflyouts.json, ScoopInstaller/Extras, 1
 bucket/mods.json, ScoopInstaller/Main, 1
+bucket/moekoemusic.json, DoveBoy/Apps, 1
 bucket/molotov-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/momento-cli.json, hoilc/scoop-lemon, 1
 bucket/monasans.json, KnotUntied/scoop-fonts, 1
@@ -8195,6 +8195,7 @@ bucket/reachable.json, MCOfficer/scoop-bucket, 1
 bucket/react-native-debugger.json, ScoopInstaller/Extras, 1
 bucket/readcat.json, hoilc/scoop-lemon, 1
 bucket/reader.json, ivaquero/scoopet, 1
+bucket/readest.json, hoilc/scoop-lemon, 1
 bucket/readpe.json, hoilc/scoop-lemon, 1
 bucket/readysunvalley.json, hoilc/scoop-lemon, 1
 bucket/real-esrgan.json, chawyehsu/dorado, 1
@@ -8383,7 +8384,7 @@ bucket/rke.json, ScoopInstaller/Main, 1
 bucket/rktools2k3.json, ScoopInstaller/Main, 1
 bucket/rmaa.json, hoilc/scoop-lemon, 0
 bucket/rmedir.json, hoilc/scoop-lemon, 0
-bucket/rmg.json, borger/scoop-emulators, 1
+bucket/rmg.json, Calinou/scoop-games, 1
 bucket/rnacos.json, hoilc/scoop-lemon, 1
 bucket/rnote.json, ScoopInstaller/Extras, 1
 bucket/rnr.json, ScoopInstaller/Main, 1
@@ -8504,6 +8505,7 @@ bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
 bucket/rymdport.json, hoilc/scoop-lemon, 1
 bucket/ryujinx-ava.json, Calinou/scoop-games, 1
+bucket/ryujinx-canary.json, borger/scoop-emulators, 1
 bucket/ryujinx.json, Calinou/scoop-games, 1
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
@@ -11020,7 +11022,7 @@ bucket/zokumbsp.json, Calinou/scoop-games, 0
 bucket/zola.json, ScoopInstaller/Main, 1
 bucket/zookeeper.json, ScoopInstaller/Main, 0
 bucket/zoom.json, ScoopInstaller/Extras, 0
-bucket/zoomit.json, niheaven/scoop-sysinternals, 1
+bucket/zoomit.json, DoveBoy/Apps, 0
 bucket/zorba.json, hoilc/scoop-lemon, 1
 bucket/zoro.json, hoilc/scoop-lemon, 1
 bucket/zotero-beta.json, hoilc/scoop-lemon, 0
