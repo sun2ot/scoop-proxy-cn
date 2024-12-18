@@ -1705,6 +1705,7 @@ bucket/artcnn.json, brian6932/dank-scoop, 0
 bucket/artemis.json, naderi/scoop-bucket, 1
 bucket/arthas.json, ScoopInstaller/Main, 1
 bucket/artroom-stable-diffusion.json, brian6932/dank-scoop, 1
+bucket/arturo.json, amorphobia/siku, 1
 bucket/artweaver-free.json, hoilc/scoop-lemon, 0
 bucket/as-ssd.json, ScoopInstaller/Extras, 0
 bucket/asar7z.json, ScoopInstaller/Extras, 0
@@ -2376,7 +2377,7 @@ bucket/chfs-gui.json, chawyehsu/dorado, 0
 bucket/chfs-tab-completion.json, DoveBoy/Apps, 0
 bucket/chfs.json, chawyehsu/dorado, 0
 bucket/chia-blockchain.json, chawyehsu/dorado, 1
-bucket/chiaki4deck.json, Calinou/scoop-games, 1
+bucket/chiaki-ng.json, Calinou/scoop-games, 1
 bucket/chinesesubfinder.json, hoilc/scoop-lemon, 1
 bucket/chinesesubtitleconversiontool.json, chawyehsu/dorado, 1
 bucket/chipmunk.json, ScoopInstaller/Extras, 1
@@ -5058,7 +5059,7 @@ bucket/jmeter-pm.json, ScoopInstaller/Extras, 0
 bucket/jmeter.json, ScoopInstaller/Extras, 0
 bucket/jmkvpropedit.json, ScoopInstaller/Extras, 1
 bucket/jmol.json, hoilc/scoop-lemon, 0
-bucket/jmx_exporter.json, hoilc/scoop-lemon, 0
+bucket/jmx_exporter.json, hoilc/scoop-lemon, 1
 bucket/jndinjector.json, ViCrack/scoop-bucket, 1
 bucket/jnv.json, hoilc/scoop-lemon, 1
 bucket/jo.json, ScoopInstaller/Main, 1
@@ -6552,7 +6553,7 @@ bucket/notation.json, hoilc/scoop-lemon, 1
 bucket/notcpucores.json, hoilc/scoop-lemon, 1
 bucket/notejoy.json, ScoopInstaller/Extras, 0
 bucket/noteme.json, hoilc/scoop-lemon, 0
-bucket/notepad--.json, ViCrack/scoop-bucket, 1
+bucket/notepad--.json, renxia/scoop-bucket, 1
 bucket/notepad2-mod.json, ScoopInstaller/Extras, 1
 bucket/notepad2.json, ScoopInstaller/Extras, 0
 bucket/notepad3.json, ScoopInstaller/Extras, 1
@@ -9738,6 +9739,7 @@ bucket/tortoisegit.json, SayCV/scoop-cvp, 0
 bucket/tortoisehg.json, ScoopInstaller/Extras, 0
 bucket/tortoisemerge.json, ScoopInstaller/Extras, 0
 bucket/tortoisesvn.json, ScoopInstaller/Extras, 1
+bucket/tosbrowser.json, hoilc/scoop-lemon, 0
 bucket/tosutil.json, hoilc/scoop-lemon, 0
 bucket/total-registry.json, ScoopInstaller/Extras, 1
 bucket/totalcmd-mod.json, hu3rror/scoop-muggle, 0
