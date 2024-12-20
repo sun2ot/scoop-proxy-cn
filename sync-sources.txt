@@ -7853,7 +7853,7 @@ bucket/psake.json, ScoopInstaller/Main, 0
 bucket/pscale.json, hoilc/scoop-lemon, 1
 bucket/pscalendar.json, DoveBoy/Apps, 0
 bucket/pscolor.json, ScoopInstaller/Extras, 1
-bucket/pscompletions.json, DoveBoy/Apps, 0
+bucket/pscompletions.json, ivaquero/scoopet, 0
 bucket/pseps.json, ScoopInstaller/Extras, 0
 bucket/pseverything.json, akirco/aki-apps, 0
 bucket/psexec.json, niheaven/scoop-sysinternals, 1
@@ -9063,6 +9063,7 @@ bucket/spark.json, ScoopInstaller/Main, 0
 bucket/spark33.json, ScoopInstaller/Versions, 0
 bucket/spdpd-assistant.json, chawyehsu/dorado, 0
 bucket/spdx-sbom-generator.json, ScoopInstaller/Main, 1
+bucket/speakeasy.json, hoilc/scoop-lemon, 1
 bucket/spearmint.json, Calinou/scoop-games, 1
 bucket/speccy.json, ScoopInstaller/Extras, 0
 bucket/specialfoldersview.json, ScoopInstaller/Nirsoft, 0
@@ -9563,7 +9564,7 @@ bucket/terrap.json, aliesbelik/poldi, 1
 bucket/terrascan.json, hoilc/scoop-lemon, 1
 bucket/tesseract-game.json, Calinou/scoop-games, 0
 bucket/tesseract-languages.json, ScoopInstaller/Main, 1
-bucket/tesseract.json, ScoopInstaller/Main, 0
+bucket/tesseract.json, ScoopInstaller/Main, 1
 bucket/tesseract3-languages.json, ScoopInstaller/Versions, 1
 bucket/tesseract3.json, ScoopInstaller/Versions, 0
 bucket/tesseract4-languages.json, ScoopInstaller/Versions, 1
@@ -10750,6 +10751,7 @@ bucket/xb1cbi.json, ScoopInstaller/Extras, 1
 bucket/xboxdownload.json, hoilc/scoop-lemon, 1
 bucket/xc.json, ScoopInstaller/Extras, 1
 bucket/xca.json, ScoopInstaller/Extras, 1
+bucket/xcaddy.json, ScoopInstaller/Main, 1
 bucket/xcas.json, ScoopInstaller/Extras, 0
 bucket/xd-antispy.json, hoilc/scoop-lemon, 1
 bucket/xdelta.json, ScoopInstaller/Main, 1
