@@ -1517,7 +1517,7 @@ bucket/alire.json, hoilc/scoop-lemon, 1
 bucket/alist-helper.json, ivaquero/scoopet, 1
 bucket/alist.json, ScoopInstaller/Main, 1
 bucket/alisthelper-portable.json, DoveBoy/Apps, 1
-bucket/alisthelper.json, hoilc/scoop-lemon, 1
+bucket/alisthelper.json, DoveBoy/Apps, 1
 bucket/aliworkbench.json, SayCV/scoop-cvp, 1
 bucket/alixby.json, hoilc/scoop-lemon, 1
 bucket/aliyun.json, ScoopInstaller/Main, 1
