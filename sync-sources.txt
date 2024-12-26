@@ -1168,7 +1168,7 @@ bucket/Thorium-Portable.json, ACooper81/scoop-apps, 1
 bucket/ThoriumAVX-Portable.json, ACooper81/scoop-apps, 1
 bucket/ThoriumAVX2-Portable.json, ACooper81/scoop-apps, 1
 bucket/ThoriumSSE3-Portable.json, ACooper81/scoop-apps, 1
-bucket/Thunder.json, akirco/aki-apps, 0
+bucket/Thunder.json, ygguorun/scoop-bucket, 0
 bucket/ThunderS.json, hu3rror/scoop-muggle, 0
 bucket/ThunderSpeed.json, kkzzhizhou/scoop-zapps, 1
 bucket/Thunderbird-Portable.json, naderi/scoop-bucket, 0
@@ -3031,7 +3031,7 @@ bucket/dingtalk.json, akirco/aki-apps, 0
 bucket/dino-rss.json, batkiz/backit, 1
 bucket/dinorss.json, HUMORCE/nuke, 1
 bucket/directory-compare.json, naderi/scoop-bucket, 0
-bucket/directoryPredictor.json, akirco/aki-apps, 1
+bucket/directory-predictor.json, akirco/aki-apps, 1
 bucket/directx.json, starise/Scoop-Gaming, 0
 bucket/directx2010.json, mo-san/scoop-bucket, 0
 bucket/direnv.json, ScoopInstaller/Main, 1
@@ -3203,7 +3203,6 @@ bucket/downkyicore.json, batkiz/backit, 1
 bucket/downtester.json, ScoopInstaller/Nirsoft, 0
 bucket/doxygen-gui.json, ivaquero/scoopet, 0
 bucket/doxygen.json, ScoopInstaller/Main, 0
-bucket/dp.json, akirco/aki-apps, 1
 bucket/dpeaklim.json, seumsc/scoop-seu, 0
 bucket/dpkgen.json, hoilc/scoop-lemon, 0
 bucket/dprint.json, ScoopInstaller/Main, 1
@@ -6389,7 +6388,6 @@ bucket/navicat-premium-lite.json, ivaquero/scoopet, 0
 bucket/navidrome.json, ScoopInstaller/Main, 1
 bucket/nbtexplorer.json, Calinou/scoop-games, 1
 bucket/nbtscan.json, hoilc/scoop-lemon, 1
-bucket/nc.json, akirco/aki-apps, 1
 bucket/ncftpclient.json, ScoopInstaller/Extras, 0
 bucket/ncmdump.json, hoilc/scoop-lemon, 1
 bucket/ncmpc.json, ScoopInstaller/Extras, 0
@@ -8204,7 +8202,7 @@ bucket/reachable.json, MCOfficer/scoop-bucket, 1
 bucket/react-native-debugger.json, ScoopInstaller/Extras, 1
 bucket/readcat.json, hoilc/scoop-lemon, 1
 bucket/reader.json, ivaquero/scoopet, 1
-bucket/readest.json, hoilc/scoop-lemon, 1
+bucket/readest.json, DoveBoy/Apps, 1
 bucket/readpe.json, hoilc/scoop-lemon, 1
 bucket/readysunvalley.json, hoilc/scoop-lemon, 1
 bucket/real-esrgan.json, chawyehsu/dorado, 1
@@ -8418,7 +8416,7 @@ bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/royalts.json, hoilc/scoop-lemon, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rpk.json, hoilc/scoop-lemon, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rqlite.json, hoilc/scoop-lemon, 1
@@ -8932,7 +8930,7 @@ bucket/sizer.json, starise/Scoop-Confetti, 0
 bucket/skaffold.json, ScoopInstaller/Extras, 1
 bucket/skm.json, MCOfficer/scoop-bucket, 1
 bucket/skupper-cli.json, hoilc/scoop-lemon, 1
-bucket/skylark.json, hoilc/scoop-lemon, 1
+bucket/skylark.json, echoiron/echo-scoop, 1
 bucket/skype-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/skype.json, ScoopInstaller/Extras, 0
 bucket/skypecontactsview.json, ScoopInstaller/Nirsoft, 0
@@ -10372,7 +10370,7 @@ bucket/wechatmsg.json, DoveBoy/Apps, 1
 bucket/wechatvideosniffer.json, DoveBoy/Apps, 1
 bucket/wecom.json, ScoopInstaller/Extras, 0
 bucket/weebp.json, ScoopInstaller/Extras, 1
-bucket/wegame.json, akirco/aki-apps, 1
+bucket/wegame.json, akirco/aki-apps, 0
 bucket/wemod.json, Calinou/scoop-games, 0
 bucket/werf-v2.json, aliesbelik/poldi, 0
 bucket/werf.json, hoilc/scoop-lemon, 0
