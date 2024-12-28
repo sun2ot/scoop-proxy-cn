@@ -2144,6 +2144,7 @@ bucket/browseraddonsview.json, ScoopInstaller/Nirsoft, 0
 bucket/browserautofillview.json, ScoopInstaller/Nirsoft, 0
 bucket/browserdownloadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/browserpass.json, iquiw/scoop-bucket, 1
+bucket/browserpicker.json, hoilc/scoop-lemon, 1
 bucket/browsertools.json, ScoopInstaller/Nirsoft, 0
 bucket/browsh.json, chawyehsu/dorado, 1
 bucket/browsinghistoryview.json, ScoopInstaller/Nirsoft, 0
@@ -7703,6 +7704,8 @@ bucket/portal.json, ScoopInstaller/Main, 1
 bucket/portfolio-performance.json, ScoopInstaller/Extras, 1
 bucket/portmaster-np.json, ScoopInstaller/Nonportable, 1
 bucket/portmon.json, niheaven/scoop-sysinternals, 1
+bucket/portqry.json, hoilc/scoop-lemon, 0
+bucket/portqryui.json, hoilc/scoop-lemon, 0
 bucket/portr.json, hoilc/scoop-lemon, 1
 bucket/portscan.json, hoilc/scoop-lemon, 0
 bucket/portwarden.json, ScoopInstaller/Main, 1
