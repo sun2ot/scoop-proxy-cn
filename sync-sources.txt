@@ -2825,7 +2825,7 @@ bucket/curl.json, ScoopInstaller/Main, 0
 bucket/curlie.json, ScoopInstaller/Main, 1
 bucket/currports.json, kodybrown/scoop-nirsoft, 0
 bucket/currprocess.json, kodybrown/scoop-nirsoft, 0
-bucket/cursor.json, akirco/aki-apps, 0
+bucket/cursor.json, ScoopInstaller/Extras, 0
 bucket/custom-resolution-utility.json, TheRandomLabs/Scoop-Bucket, 0
 bucket/customexplorertoolbar.json, ScoopInstaller/Nirsoft, 0
 bucket/customizeie.json, kodybrown/scoop-nirsoft, 0
@@ -9397,7 +9397,7 @@ bucket/sysexporter.json, kodybrown/scoop-nirsoft, 0
 bucket/sysgauge.json, ScoopInstaller/Extras, 0
 bucket/sysinternals-nano.json, mogeko/scoop-sysinternals, 0
 bucket/sysinternals-suite.json, niheaven/scoop-sysinternals, 1
-bucket/sysinternals.json, ScoopInstaller/Extras, 0
+bucket/sysinternals.json, ScoopInstaller/Extras, 1
 bucket/sysmon.json, niheaven/scoop-sysinternals, 1
 bucket/system-font-bold.json, yuusakuri/scoop-bucket, 0
 bucket/system-tray-menu.json, hoilc/scoop-lemon, 1
