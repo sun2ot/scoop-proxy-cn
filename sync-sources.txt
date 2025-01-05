@@ -3296,7 +3296,7 @@ bucket/dxirc.json, ScoopInstaller/Extras, 0
 bucket/dxvk.json, Calinou/scoop-games, 1
 bucket/dxwnd.json, ScoopInstaller/Extras, 0
 bucket/dxwrapper.json, Calinou/scoop-games, 1
-bucket/dyff.json, aliesbelik/poldi, 1
+bucket/dyff.json, ScoopInstaller/Main, 1
 bucket/dynamorio.json, ScoopInstaller/Main, 1
 bucket/dzsalauncher.json, brian6932/dank-scoop, 0
 bucket/eac.json, ScoopInstaller/Extras, 0
@@ -5178,7 +5178,7 @@ bucket/kavita.json, ScoopInstaller/Extras, 1
 bucket/kawaii-player.json, ScoopInstaller/Extras, 1
 bucket/kawanime.json, ScoopInstaller/Extras, 1
 bucket/kaxaml.json, Deide/deide-bucket, 1
-bucket/kazumi.json, DoveBoy/Apps, 1
+bucket/kazumi.json, wzv5/ScoopBucket, 1
 bucket/kbcli.json, hoilc/scoop-lemon, 1
 bucket/kbld.json, hoilc/scoop-lemon, 1
 bucket/kbootopt.json, echoiron/echo-scoop, 0
@@ -8396,7 +8396,7 @@ bucket/rke.json, ScoopInstaller/Main, 1
 bucket/rktools2k3.json, ScoopInstaller/Main, 1
 bucket/rmaa.json, hoilc/scoop-lemon, 0
 bucket/rmedir.json, hoilc/scoop-lemon, 0
-bucket/rmg.json, Calinou/scoop-games, 1
+bucket/rmg.json, borger/scoop-emulators, 1
 bucket/rnacos.json, hoilc/scoop-lemon, 1
 bucket/rnote.json, ScoopInstaller/Extras, 1
 bucket/rnr.json, ScoopInstaller/Main, 1
