@@ -1,26 +1,32 @@
 {
-  "version": "1.11.0",
+  "version": "1.11.2",
+  "description": "A frontend for legendary, the open source Epic Games Launcher alternative.",
   "homepage": "https://github.com/Dummerle/Rare",
-  "description": "A graphical frontend for Legendary, the FOSS Epic Games Launcher alternative",
-  "license": "GPL-3.0",
+  "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Dummerle/Rare/releases/download/1.11.0/Rare-1.11.0.msi",
-      "hash": "db0d300303dbc41df21837b6053f24963e36f3c15051e9dced2226197e8178fa"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Dummerle/Rare/releases/download/1.11.2/Rare-1.11.2.0-windows.zip",
+      "extract_dir": "Rare-1.11.2.0",
+      "hash": "600da60b221a84bd77135576fa430fef2944db4583178ff80c000465d925a79e"
     }
   },
-  "bin": "rare.exe",
+  "bin": "Rare.exe",
   "shortcuts": [
     [
-      "rare.exe",
+      "Rare.exe",
       "Rare"
     ]
   ],
-  "checkver": "github",
+  "notes": "Rare is NOT portable.",
+  "checkver": {
+    "url": "https://api.github.com/repos/Dummerle/Rare/releases/latest",
+    "regex": "/download/([\\d.]+)/Rare-(?<full>[\\d.]+)-windows"
+  },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Dummerle/Rare/releases/download/$version/Rare-$version.msi"
+        "url": "https://ghproxy.085404.xyz/https://github.com/Dummerle/Rare/releases/download/$version/Rare-$matchFull-windows.zip",
+        "extract_dir": "Rare-$matchFull"
       }
     }
   }

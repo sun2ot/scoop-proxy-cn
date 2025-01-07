@@ -4516,6 +4516,7 @@ bucket/harfbuzz.json, ScoopInstaller/Main, 1
 bucket/harmonoid.json, ScoopInstaller/Extras, 1
 bucket/harmony.json, ScoopInstaller/Extras, 1
 bucket/harmonyos-sans.json, hoilc/scoop-lemon, 0
+bucket/harper.json, ScoopInstaller/Main, 1
 bucket/hash-explorer.json, rasa/scoops, 0
 bucket/hash.json, ygguorun/scoop-bucket, 0
 bucket/hashcat.json, ScoopInstaller/Main, 0
@@ -6590,6 +6591,7 @@ bucket/noty.json, ScoopInstaller/Extras, 1
 bucket/nova.json, ScoopInstaller/Main, 1
 bucket/novelwriter.json, ScoopInstaller/Extras, 1
 bucket/now-cli.json, ScoopInstaller/Extras, 1
+bucket/nping.json, hoilc/scoop-lemon, 1
 bucket/npiperelay.json, ScoopInstaller/Extras, 1
 bucket/npm-completion.json, akirco/aki-apps, 1
 bucket/npm-tab-completion.json, DoveBoy/Apps, 0
@@ -7631,7 +7633,7 @@ bucket/pixel-clipper.json, brian6932/dank-scoop, 0
 bucket/pixelflasher.json, ScoopInstaller/Extras, 1
 bucket/pixelorama.json, ScoopInstaller/Extras, 1
 bucket/pixfront.json, mo-san/scoop-bucket, 0
-bucket/pixi.json, chawyehsu/dorado, 1
+bucket/pixi.json, hoilc/scoop-lemon, 1
 bucket/pixie.json, ScoopInstaller/Extras, 0
 bucket/pixitracker-1bit.json, ScoopInstaller/Extras, 0
 bucket/pixitracker.json, ScoopInstaller/Extras, 0
@@ -8031,7 +8033,7 @@ bucket/qmmp.json, hoilc/scoop-lemon, 0
 bucket/qmplay2.json, ScoopInstaller/Extras, 1
 bucket/qnapi.json, ScoopInstaller/Extras, 1
 bucket/qownnotes.json, ScoopInstaller/Extras, 1
-bucket/qpdf.json, ScoopInstaller/Main, 0
+bucket/qpdf.json, ScoopInstaller/Main, 1
 bucket/qpress.json, hoilc/scoop-lemon, 0
 bucket/qq-dreamcast.json, ZvonimirSun/scoop-iszy, 1
 bucket/qq-nt.json, ScoopInstaller/Extras, 0
@@ -8171,7 +8173,7 @@ bucket/rancher-desktop.json, ScoopInstaller/Extras, 1
 bucket/randpass.json, starise/Scoop-Confetti, 0
 bucket/rapidcrc.json, ScoopInstaller/Extras, 0
 bucket/rapidee.json, ScoopInstaller/Extras, 0
-bucket/rare.json, Calinou/scoop-games, 1
+bucket/rare.json, hoilc/scoop-lemon, 1
 bucket/raspberry-pi-imager.json, ScoopInstaller/Extras, 1
 bucket/rathole.json, ScoopInstaller/Main, 1
 bucket/ratiomaster.json, ScoopInstaller/Extras, 1
