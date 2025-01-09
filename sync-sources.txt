@@ -2899,6 +2899,7 @@ bucket/dataspell.json, ScoopInstaller/Extras, 1
 bucket/datastation.json, batkiz/backit, 1
 bucket/datovka.json, ScoopInstaller/Extras, 0
 bucket/datree.json, ScoopInstaller/Main, 1
+bucket/daytona.json, hoilc/scoop-lemon, 0
 bucket/dbeaver-ea.json, ScoopInstaller/Versions, 0
 bucket/dbeaver-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/dbeaver.json, ScoopInstaller/Extras, 0
@@ -3011,6 +3012,7 @@ bucket/dia.json, ScoopInstaller/Extras, 0
 bucket/diagram-designer.json, ScoopInstaller/Extras, 0
 bucket/dialupass.json, ScoopInstaller/Nirsoft, 0
 bucket/dictionary.net.json, hoilc/scoop-lemon, 0
+bucket/didder.json, ScoopInstaller/Extras, 1
 bucket/die.json, TheCjw/scoop-retools, 1
 bucket/diff-pdf.json, ScoopInstaller/Extras, 1
 bucket/diff-so-fancy.json, ScoopInstaller/Main, 1
@@ -3314,6 +3316,7 @@ bucket/easyrpg-player.json, Calinou/scoop-games, 0
 bucket/easyrsa.json, ScoopInstaller/Extras, 1
 bucket/easyserviceoptimizer.json, ScoopInstaller/Extras, 0
 bucket/easytag.json, naderi/scoop-bucket, 0
+bucket/easytier.json, ScoopInstaller/Extras, 1
 bucket/easywsl.json, akirco/aki-apps, 1
 bucket/ebomgen.json, SayCV/scoop-cvp, 1
 bucket/ec2-api-tools.json, ScoopInstaller/Extras, 0
@@ -4267,6 +4270,7 @@ bucket/go-unstable.json, batkiz/backit, 0
 bucket/go-wol.json, hoilc/scoop-lemon, 1
 bucket/go.json, ScoopInstaller/Main, 0
 bucket/go114.json, ScoopInstaller/Versions, 0
+bucket/go2rtc.json, hoilc/scoop-lemon, 1
 bucket/goawk.json, aliesbelik/poldi, 1
 bucket/gobang.json, ScoopInstaller/Main, 1
 bucket/gobench.json, aliesbelik/poldi, 1
@@ -4368,6 +4372,7 @@ bucket/gotify-server.json, ScoopInstaller/Main, 1
 bucket/gotip.json, batkiz/backit, 0
 bucket/gotop.json, ScoopInstaller/Main, 1
 bucket/gottet.json, hoilc/scoop-lemon, 0
+bucket/gotz.json, aliesbelik/poldi, 1
 bucket/gource.json, ScoopInstaller/Main, 1
 bucket/govc.json, ScoopInstaller/Main, 1
 bucket/govvv.json, MCOfficer/scoop-bucket, 1
@@ -5273,6 +5278,7 @@ bucket/kl.json, aliesbelik/poldi, 1
 bucket/klatexformula.json, ScoopInstaller/Extras, 0
 bucket/klog.json, hoilc/scoop-lemon, 1
 bucket/klogg.json, ScoopInstaller/Extras, 1
+bucket/kmeans-colors.json, ScoopInstaller/Extras, 1
 bucket/kmplayer.json, naderi/scoop-bucket, 0
 bucket/kms-heu.json, SayCV/scoop-cvp, 0
 bucket/kms-vl-all-aio.json, DoveBoy/Apps, 1
@@ -5848,6 +5854,7 @@ bucket/mc.json, ScoopInstaller/Extras, 0
 bucket/mcap.json, hoilc/scoop-lemon, 1
 bucket/mcedit.json, chawyehsu/dorado, 1
 bucket/mcedit2.json, Calinou/scoop-games, 1
+bucket/mcfly.json, hoilc/scoop-lemon, 1
 bucket/mclone.json, Paxxs/Cluttered-bucket, 0
 bucket/mcloud.json, chawyehsu/dorado, 0
 bucket/mcomix.json, ScoopInstaller/Extras, 0
@@ -6698,6 +6705,7 @@ bucket/oda-file-converter.json, hoilc/scoop-lemon, 0
 bucket/odamex.json, Calinou/scoop-games, 0
 bucket/odbc2parquet.json, ScoopInstaller/Main, 1
 bucket/odfe-cli.json, hoilc/scoop-lemon, 0
+bucket/odict.json, ScoopInstaller/Extras, 1
 bucket/odigos.json, hoilc/scoop-lemon, 1
 bucket/odin-dev.json, ScoopInstaller/Versions, 1
 bucket/odin-nightly.json, ScoopInstaller/Versions, 0
@@ -6796,7 +6804,7 @@ bucket/onetrueawk.json, beerpiss/scoop-bucket, 0
 bucket/oni.json, ScoopInstaller/Extras, 1
 bucket/onionshare.json, ScoopInstaller/Extras, 1
 bucket/onlyoffice-desktopeditors.json, ScoopInstaller/Extras, 1
-bucket/onthespot.json, naderi/scoop-bucket, 1
+bucket/onthespot.json, ScoopInstaller/Extras, 1
 bucket/ontopreplica.json, ScoopInstaller/Extras, 1
 bucket/opa.json, ScoopInstaller/Main, 1
 bucket/opal.json, hoilc/scoop-lemon, 1
@@ -6927,13 +6935,17 @@ bucket/optipng.json, ScoopInstaller/Main, 0
 bucket/opus-tools.json, ScoopInstaller/Main, 0
 bucket/oracle-instant-client-odbc.json, ScoopInstaller/Main, 0
 bucket/oracle-instant-client-odbc19.json, ScoopInstaller/Versions, 0
+bucket/oracle-instant-client-odbc21.json, ScoopInstaller/Versions, 0
 bucket/oracle-instant-client-sdk.json, ScoopInstaller/Main, 0
 bucket/oracle-instant-client-sdk19.json, ScoopInstaller/Versions, 0
+bucket/oracle-instant-client-sdk21.json, ScoopInstaller/Versions, 0
 bucket/oracle-instant-client-sqlplus.json, ScoopInstaller/Main, 0
 bucket/oracle-instant-client-sqlplus19.json, ScoopInstaller/Versions, 0
+bucket/oracle-instant-client-sqlplus21.json, ScoopInstaller/Versions, 0
 bucket/oracle-instant-client.json, ScoopInstaller/Main, 0
 bucket/oracle-instant-client11.json, ZvonimirSun/scoop-iszy, 1
 bucket/oracle-instant-client19.json, ScoopInstaller/Versions, 0
+bucket/oracle-instant-client21.json, ScoopInstaller/Versions, 0
 bucket/oraclejdk-lts.json, ScoopInstaller/Java, 0
 bucket/oraclejdk.json, ScoopInstaller/Java, 0
 bucket/oraclejdk11-portapps.json, Velgus/Scoop-Portapps, 1
@@ -9555,6 +9567,7 @@ bucket/teraterm.json, ScoopInstaller/Extras, 1
 bucket/tere.json, ScoopInstaller/Main, 1
 bucket/terjang.json, aliesbelik/poldi, 1
 bucket/terminal-icons.json, ScoopInstaller/Extras, 0
+bucket/terminal-parrot.json, ScoopInstaller/Extras, 1
 bucket/terminal.icu.json, hoilc/scoop-lemon, 0
 bucket/terminalpp.json, ScoopInstaller/Extras, 1
 bucket/terminals.json, ScoopInstaller/Extras, 1
