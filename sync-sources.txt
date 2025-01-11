@@ -1970,6 +1970,7 @@ bucket/betterjoy-lts.json, hu3rror/scoop-muggle, 1
 bucket/betterjoy.json, Calinou/scoop-games, 1
 bucket/beyondcompare-zh-cn.json, chawyehsu/dorado, 0
 bucket/beyondcompare.json, ScoopInstaller/Extras, 1
+bucket/beyondcompare4.json, ScoopInstaller/Versions, 0
 bucket/bfg.json, ScoopInstaller/Main, 0
 bucket/bflat.json, ScoopInstaller/Main, 1
 bucket/bforartists.json, ScoopInstaller/Extras, 0
@@ -2372,6 +2373,7 @@ bucket/cheat.json, ScoopInstaller/Main, 1
 bucket/checkstyle.json, hoilc/scoop-lemon, 1
 bucket/checksum-compare.json, ScoopInstaller/Extras, 0
 bucket/chef-workstation.json, ScoopInstaller/Extras, 0
+bucket/cherry-studio.json, ivaquero/scoopet, 0
 bucket/cherrytree.json, ScoopInstaller/Extras, 0
 bucket/chezmoi-modify-manager.json, cderv/r-bucket, 1
 bucket/chezmoi.json, ScoopInstaller/Main, 1
@@ -4585,6 +4587,7 @@ bucket/hexo-client.json, ScoopInstaller/Extras, 1
 bucket/hexyl.json, ScoopInstaller/Main, 1
 bucket/hey.json, batkiz/backit, 0
 bucket/heynote.json, ScoopInstaller/Extras, 1
+bucket/hf.json, aliesbelik/poldi, 1
 bucket/hfd.json, Weidows-projects/scoop-3rd, 0
 bucket/hfs.json, naderi/scoop-bucket, 1
 bucket/hfsexplorer.json, amorphobia/siku, 1
@@ -8441,7 +8444,7 @@ bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/royalts.json, hoilc/scoop-lemon, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rpk.json, hoilc/scoop-lemon, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rqlite.json, hoilc/scoop-lemon, 1
@@ -8544,6 +8547,7 @@ bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
 bucket/ryzenadj.json, ScoopInstaller/Main, 1
 bucket/ryzentuner.json, hoilc/scoop-lemon, 1
 bucket/s.json, ScoopInstaller/Main, 1
+bucket/s2.json, hoilc/scoop-lemon, 1
 bucket/s2cb.json, chawyehsu/dorado, 1
 bucket/s3-browser.json, scoopcn/scoopcn, 0
 bucket/s3browser.json, ScoopInstaller/Extras, 0
@@ -11168,6 +11172,9 @@ scripts/bee/beesvc.cmd, chawyehsu/dorado, 0
 scripts/beyondcompare/install-context-32bit.reg, ScoopInstaller/Extras, 0
 scripts/beyondcompare/install-context-64bit.reg, ScoopInstaller/Extras, 0
 scripts/beyondcompare/uninstall-context.reg, ScoopInstaller/Extras, 0
+scripts/beyondcompare4/install-context-32bit.reg, ScoopInstaller/Versions, 0
+scripts/beyondcompare4/install-context-64bit.reg, ScoopInstaller/Versions, 0
+scripts/beyondcompare4/uninstall-context.reg, ScoopInstaller/Versions, 0
 scripts/blockthespot.ps1, TheRandomLabs/Scoop-Spotify, 0
 scripts/ccstudio/install-context.reg.templ, SayCV/scoop-cvp, 0
 scripts/ccstudio/uninstall-context.reg, SayCV/scoop-cvp, 0
