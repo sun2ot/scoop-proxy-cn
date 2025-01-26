@@ -1,10 +1,10 @@
 {
-  "version": "1.18.3",
+  "version": "1.18.3.1",
   "description": "A simple custom Rich Presence manager (Playing status) for Discord.",
   "homepage": "https://www.customrp.xyz/",
   "license": "MIT",
-  "url": "https://ghproxy.085404.xyz/https://github.com/maximmax42/Discord-CustomRP/releases/download/1.18.3/CustomRP.1.18.3.zip",
-  "hash": "276b03d881cd4d7170ef71788401c28fd42e6c1702e3b9443348481bf4cfb712",
+  "url": "https://ghproxy.085404.xyz/https://github.com/maximmax42/Discord-CustomRP/releases/download/1.18.3.1/CustomRP.1.18.3.1.zip",
+  "hash": "bb640cf13ed99828b4ff3da135de0620ac5c3065625f12f504425c317e415afd",
   "extract_dir": "CustomRP",
   "shortcuts": [
     [
