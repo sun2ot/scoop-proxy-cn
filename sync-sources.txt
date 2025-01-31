@@ -675,7 +675,6 @@ bucket/MSEdgeRedirect-Portable.json, ACooper81/scoop-apps, 1
 bucket/MajsoulPaipuAnalyzer.json, ygguorun/scoop-bucket, 1
 bucket/MajsoulPlus.json, ygguorun/scoop-bucket, 1
 bucket/Mali.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/Maple-Mono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Maple-Mono-SC-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Maple-Mono-autohint.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Maple-Mono-otf.json, matthewjberger/scoop-nerd-fonts, 1
@@ -3371,7 +3370,7 @@ bucket/edgedriver-dev.json, ScoopInstaller/Versions, 0
 bucket/edgedriver-legacy.json, ScoopInstaller/Versions, 0
 bucket/edgedriver.json, ScoopInstaller/Main, 0
 bucket/edgeless.json, ivaquero/scoopet, 0
-bucket/ediary.json, chawyehsu/dorado, 0
+bucket/ediary.json, hoilc/scoop-lemon, 0
 bucket/ediary3.json, hoilc/scoop-lemon, 0
 bucket/editorconfig.json, ScoopInstaller/Main, 0
 bucket/editrename.json, hoilc/scoop-lemon, 1
@@ -4404,6 +4403,7 @@ bucket/gpodder.json, ScoopInstaller/Extras, 1
 bucket/gptcommit.json, Weidows-projects/scoop-3rd, 1
 bucket/gptscript.json, ScoopInstaller/Extras, 1
 bucket/gpu-z.json, ScoopInstaller/Extras, 0
+bucket/gpujpeg-nightly.json, hoilc/scoop-lemon, 1
 bucket/gpujpeg.json, hoilc/scoop-lemon, 1
 bucket/gpxsee.json, ScoopInstaller/Extras, 0
 bucket/gql.json, brian6932/dank-scoop, 1
@@ -5827,9 +5827,15 @@ bucket/manifold.json, ScoopInstaller/Extras, 0
 bucket/manuskript.json, cc713/ownscoop, 1
 bucket/manyverse.json, hoilc/scoop-lemon, 1
 bucket/mapdownload.json, DoveBoy/Apps, 1
-bucket/maple-mono-nerd.json, hoilc/scoop-lemon, 1
-bucket/maple-mono-sc-nerd.json, hoilc/scoop-lemon, 1
+bucket/maple-mono-hinted.json, hoilc/scoop-lemon, 1
+bucket/maple-mono-nerd@6.json, hoilc/scoop-lemon, 1
+bucket/maple-mono-nf-cn-hinted.json, hoilc/scoop-lemon, 1
+bucket/maple-mono-nf-cn.json, hoilc/scoop-lemon, 1
+bucket/maple-mono-nf-hinted.json, hoilc/scoop-lemon, 1
+bucket/maple-mono-nf.json, hoilc/scoop-lemon, 1
+bucket/maple-mono-sc-nerd@6.json, hoilc/scoop-lemon, 1
 bucket/maple-mono.json, hoilc/scoop-lemon, 1
+bucket/maple-mono@6.json, hoilc/scoop-lemon, 1
 bucket/maple.json, ScoopInstaller/Extras, 1
 bucket/marble.json, ScoopInstaller/Extras, 0
 bucket/mariadb.json, ScoopInstaller/Main, 0
@@ -7824,6 +7830,7 @@ bucket/prime95.json, ScoopInstaller/Extras, 0
 bucket/primecount.json, hoilc/scoop-lemon, 1
 bucket/primesieve.json, hoilc/scoop-lemon, 1
 bucket/prince.json, ScoopInstaller/Main, 0
+bucket/printpdf.json, hoilc/scoop-lemon, 0
 bucket/prismlauncher-git.json, ScoopInstaller/Versions, 1
 bucket/prismlauncher-qt5.json, Calinou/scoop-games, 1
 bucket/prismlauncher.json, Calinou/scoop-games, 1
@@ -9949,6 +9956,7 @@ bucket/typstyle.json, ivaquero/scoopet, 1
 bucket/uabea.json, Calinou/scoop-games, 1
 bucket/uber-apk-signer.json, ScoopInstaller/Main, 1
 bucket/ubisoftconnect.json, ScoopInstaller/Versions, 0
+bucket/uboost.json, hoilc/scoop-lemon, 1
 bucket/ubports-installer.json, ScoopInstaller/Extras, 1
 bucket/ubuntu-all.json, KnotUntied/scoop-fonts, 1
 bucket/ubuntu.json, KnotUntied/scoop-fonts, 1
