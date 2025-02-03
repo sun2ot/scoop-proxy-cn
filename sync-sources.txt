@@ -3379,6 +3379,7 @@ bucket/edrawmax.json, ivaquero/scoopet, 0
 bucket/edrawmax8.json, ivaquero/scoopet, 0
 bucket/edtracker.json, Deide/deide-bucket, 0
 bucket/eduke32.json, Calinou/scoop-games, 0
+bucket/eduvpn.json, seumsc/scoop-seu, 0
 bucket/edx.json, ViCrack/scoop-bucket, 0
 bucket/effekseer.json, ScoopInstaller/Extras, 1
 bucket/efsdump.json, niheaven/scoop-sysinternals, 1
@@ -4175,7 +4176,7 @@ bucket/git-crypt.json, ScoopInstaller/Main, 1
 bucket/git-duet.json, hoilc/scoop-lemon, 1
 bucket/git-extras.json, aliesbelik/poldi, 1
 bucket/git-filter-repo.json, ScoopInstaller/Main, 1
-bucket/git-graph.json, naderi/scoop-bucket, 1
+bucket/git-graph.json, ScoopInstaller/Extras, 1
 bucket/git-igitt.json, naderi/scoop-bucket, 1
 bucket/git-interactive-rebase-tool.json, ScoopInstaller/Main, 1
 bucket/git-istage.json, ScoopInstaller/Main, 0
@@ -4772,6 +4773,7 @@ bucket/idea-ultimate-eap.json, ScoopInstaller/Versions, 1
 bucket/idea-ultimate-rc.json, ScoopInstaller/Versions, 1
 bucket/idea-ultimate.json, ScoopInstaller/Extras, 1
 bucket/idea.json, ScoopInstaller/Extras, 1
+bucket/identme.json, ScoopInstaller/Extras, 1
 bucket/idlemaster-extended.json, Calinou/scoop-games, 1
 bucket/idm-activation-script.json, DoveBoy/Apps, 1
 bucket/idm-trial-reset.json, amorphobia/siku, 1
@@ -6454,6 +6456,7 @@ bucket/neo4jbrowser.json, scoopcn/scoopcn, 1
 bucket/neoaxis-engine.json, ScoopInstaller/Extras, 0
 bucket/neochat-nightly.json, ScoopInstaller/Versions, 0
 bucket/neofetch.json, ScoopInstaller/Main, 1
+bucket/neohtop.json, ScoopInstaller/Extras, 1
 bucket/neoray.json, ScoopInstaller/Extras, 1
 bucket/neovide-dev.json, ScoopInstaller/Versions, 1
 bucket/neovide.json, ScoopInstaller/Extras, 1
@@ -10981,6 +10984,7 @@ bucket/ydl-ui-portable.json, naderi/scoop-bucket, 1
 bucket/ydl-ui.json, ScoopInstaller/Extras, 1
 bucket/yed.json, ScoopInstaller/Extras, 0
 bucket/yedit.json, ScoopInstaller/Main, 0
+bucket/yek.json, ScoopInstaller/Extras, 1
 bucket/yesplaymusic.json, ScoopInstaller/Extras, 1
 bucket/yfanyi.json, scoopcn/scoopcn, 0
 bucket/yida.json, hoilc/scoop-lemon, 1
@@ -11300,8 +11304,6 @@ scripts/modelsim-se202004-win64/install-context.reg.tpl, SayCV/scoop-cvp, 0
 scripts/modelsim-se202004-win64/scripts_modelsim.cmd.tpl, SayCV/scoop-cvp, 0
 scripts/modelsim-se202004-win64/uninstall-context.reg.tpl, SayCV/scoop-cvp, 0
 scripts/mouseinc/MouseInc.json, echoiron/echo-scoop, 0
-scripts/mp3tag/install-mp3tag-context.cmd, ScoopInstaller/Extras, 0
-scripts/mp3tag/uninstall-mp3tag-context.cmd, ScoopInstaller/Extras, 0
 scripts/msys2-mirror-cn/mirrorlist.mingw32, SayCV/scoop-cvp, 0
 scripts/msys2-mirror-cn/mirrorlist.mingw64, SayCV/scoop-cvp, 0
 scripts/msys2-mirror-cn/mirrorlist.msys, SayCV/scoop-cvp, 0
