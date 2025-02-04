@@ -4734,6 +4734,7 @@ bucket/iMazingConverter-Portable.json, ACooper81/scoop-apps, 0
 bucket/iMazingHEICConverter-Install.json, ACooper81/scoop-apps, 0
 bucket/iSlideshow-Install.json, ACooper81/scoop-apps, 0
 bucket/iaito.json, hoilc/scoop-lemon, 1
+bucket/iamb.json, hoilc/scoop-lemon, 1
 bucket/iap-desktop.json, ScoopInstaller/Extras, 1
 bucket/iar-ewarm-8421-23878.json, SayCV/scoop-cvp, 1
 bucket/iar-ewarm.json, SayCV/scoop-cvp, 1
@@ -4975,6 +4976,7 @@ bucket/iqiyi.json, echoiron/echo-scoop, 0
 bucket/irfanview-lean.json, ScoopInstaller/Extras, 0
 bucket/irfanview.ja.json, jfut/scoop-jfut, 0
 bucket/irfanview.json, ScoopInstaller/Extras, 0
+bucket/iris-player.json, hoilc/scoop-lemon, 1
 bucket/iris.json, DoveBoy/Apps, 1
 bucket/iroh.json, ScoopInstaller/Main, 1
 bucket/ironwail.json, Calinou/scoop-games, 1
@@ -7075,6 +7077,7 @@ bucket/papercut.json, ScoopInstaller/Extras, 1
 bucket/paperlib.json, hoilc/scoop-lemon, 1
 bucket/par2.json, hoilc/scoop-lemon, 1
 bucket/par2cmdline.json, ScoopInstaller/Main, 1
+bucket/parabolic.json, hoilc/scoop-lemon, 1
 bucket/parallels-client.json, amorphobia/siku, 0
 bucket/paraview.json, ScoopInstaller/Extras, 0
 bucket/pari-gp.json, ScoopInstaller/Extras, 0
@@ -7960,6 +7963,7 @@ bucket/ptags.json, ScoopInstaller/Main, 1
 bucket/pterm.json, ScoopInstaller/Extras, 0
 bucket/ptex-ng.json, batkiz/backit, 0
 bucket/ptmono.json, KnotUntied/scoop-fonts, 0
+bucket/ptr.json, naderi/scoop-bucket, 1
 bucket/ptsans-expert.json, KnotUntied/scoop-fonts, 0
 bucket/ptsans.json, KnotUntied/scoop-fonts, 0
 bucket/ptserif-expert.json, KnotUntied/scoop-fonts, 0
@@ -10672,6 +10676,7 @@ bucket/winscp-chs.json, aoisummer/scoop-bucket, 0
 bucket/winscp-full.json, jingyu9575/scoop-jingyu9575, 0
 bucket/winscp.json, ScoopInstaller/Extras, 0
 bucket/winscppwd.json, ygguorun/scoop-bucket, 1
+bucket/winscript.json, naderi/scoop-bucket, 1
 bucket/winsetupfromusb.json, ScoopInstaller/Extras, 0
 bucket/winsetview.json, naderi/scoop-bucket, 1
 bucket/winshell.json, naderi/scoop-bucket, 0
