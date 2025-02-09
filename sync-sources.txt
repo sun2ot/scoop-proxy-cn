@@ -1350,6 +1350,7 @@ bucket/WinfetchNightlyCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/WingetCLI-Install.json, ACooper81/scoop-apps, 1
 bucket/WingetUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/WingetUIBeta-Portable.json, ACooper81/scoop-apps, 1
+bucket/Winhance-Script.json, ACooper81/scoop-apps, 0
 bucket/Winpilot-Portable.json, ACooper81/scoop-apps, 1
 bucket/Wireshark-Portable.json, ACooper81/scoop-apps, 0
 bucket/WiseDataRecovery-Portable.json, ACooper81/scoop-apps, 0
@@ -2541,6 +2542,7 @@ bucket/cloudflare-speedtest.json, seumsc/scoop-seu, 1
 bucket/cloudflared.json, ScoopInstaller/Main, 1
 bucket/cloudflarespeedtest.json, hoilc/scoop-lemon, 1
 bucket/cloudfoundry-cli.json, ScoopInstaller/Extras, 0
+bucket/cloudmusic-green.json, hu3rror/scoop-muggle, 0
 bucket/cloudmusic.json, Paxxs/Cluttered-bucket, 0
 bucket/cloudquery.json, hoilc/scoop-lemon, 1
 bucket/clumsy.json, ScoopInstaller/Extras, 1
@@ -5607,6 +5609,7 @@ bucket/lilex-variable.json, KnotUntied/scoop-fonts, 1
 bucket/lilex.json, KnotUntied/scoop-fonts, 1
 bucket/lili.json, ScoopInstaller/Extras, 0
 bucket/lilypond.json, ScoopInstaller/Main, 0
+bucket/limbo.json, hoilc/scoop-lemon, 1
 bucket/lime3ds.json, Calinou/scoop-games, 1
 bucket/limitpng.json, hu3rror/scoop-muggle, 0
 bucket/liname.json, mo-san/scoop-bucket, 0
@@ -9361,6 +9364,7 @@ bucket/sublime-text-3.json, amorphobia/siku, 0
 bucket/sublime-text-4.json, naderi/scoop-bucket, 1
 bucket/sublime-text.json, ScoopInstaller/Extras, 0
 bucket/subrenamer.json, ivaquero/scoopet, 1
+bucket/subs-check.json, hoilc/scoop-lemon, 1
 bucket/subsync.json, ScoopInstaller/Extras, 1
 bucket/subtitle-ass-shifter.json, DoveBoy/Apps, 1
 bucket/subtitle-edit.json, naderi/scoop-bucket, 1
@@ -9630,6 +9634,7 @@ bucket/terminals.json, ScoopInstaller/Extras, 1
 bucket/terminus-player.json, hoilc/scoop-lemon, 1
 bucket/terminus.json, akirco/aki-apps, 1
 bucket/termius.json, ScoopInstaller/Extras, 0
+bucket/termora.json, hoilc/scoop-lemon, 1
 bucket/termscp.json, ScoopInstaller/Main, 1
 bucket/termshark.json, ScoopInstaller/Main, 1
 bucket/termsvg.json, brian6932/dank-scoop, 1
@@ -9764,6 +9769,7 @@ bucket/timeslottracker.json, ScoopInstaller/Extras, 1
 bucket/timevertor.json, hoilc/scoop-lemon, 1
 bucket/timezonesview.json, ScoopInstaller/Nirsoft, 0
 bucket/timoni.json, ScoopInstaller/Main, 1
+bucket/timr-tui.json, brian6932/dank-scoop, 1
 bucket/ting-en.json, ivaquero/scoopet, 0
 bucket/ting-es.json, ivaquero/scoopet, 0
 bucket/ting-fr.json, ivaquero/scoopet, 0
