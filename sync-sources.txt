@@ -9672,7 +9672,7 @@ bucket/tev.json, ScoopInstaller/Extras, 1
 bucket/tex-fmt.json, ivaquero/scoopet, 1
 bucket/texlab.json, ScoopInstaller/Main, 1
 bucket/texlive-full.json, chawyehsu/dorado, 0
-bucket/texlive.json, chawyehsu/dorado, 0
+bucket/texlive.json, ivaquero/scoopet, 0
 bucket/texmacs.json, ScoopInstaller/Extras, 0
 bucket/texmaker.json, ScoopInstaller/Extras, 0
 bucket/texmod.json, Calinou/scoop-games, 0
@@ -10811,6 +10811,7 @@ bucket/wslinternals.json, ScoopInstaller/Extras, 1
 bucket/wsltty.json, ScoopInstaller/Extras, 1
 bucket/wssocks.json, hoilc/scoop-lemon, 1
 bucket/wstunnel.json, ScoopInstaller/Main, 1
+bucket/wtg-assistant.json, hoilc/scoop-lemon, 1
 bucket/wthrr.json, ivaquero/scoopet, 1
 bucket/wttop.json, ScoopInstaller/Main, 1
 bucket/wu10man.json, jingyu9575/scoop-jingyu9575, 1
