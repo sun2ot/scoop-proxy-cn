@@ -1216,6 +1216,7 @@ bucket/UAC.YoudaoDict.Pure.json, Paxxs/Cluttered-bucket, 0
 bucket/UAC.ZXPInstaller.json, Paxxs/Cluttered-bucket, 1
 bucket/UAC.kdeconnect.json, Paxxs/Cluttered-bucket, 0
 bucket/UAC.xshell6.json, Paxxs/Cluttered-bucket, 0
+bucket/UAssetGUI.json, NyaMisty/scoop_bucket_misty, 1
 bucket/UCheck-Portable.json, ACooper81/scoop-apps, 0
 bucket/UELI-Portable.json, ACooper81/scoop-apps, 1
 bucket/UGetDownloadManager-Portable.json, ACooper81/scoop-apps, 0
@@ -6045,6 +6046,7 @@ bucket/migrated/ov.json, aliesbelik/poldi, 1
 bucket/migrated/restfox.json, aliesbelik/poldi, 1
 bucket/migrated/riff.json, aliesbelik/poldi, 1
 bucket/migrated/sshs.json, aliesbelik/poldi, 1
+bucket/migrated/superfile.json, aliesbelik/poldi, 1
 bucket/migrated/tailspin.json, aliesbelik/poldi, 1
 bucket/migrated/taplo.json, aliesbelik/poldi, 1
 bucket/migrated/tcping.json, aliesbelik/poldi, 0
@@ -6053,6 +6055,7 @@ bucket/migrated/tf-summarize.json, aliesbelik/poldi, 1
 bucket/migrated/ttdl.json, aliesbelik/poldi, 1
 bucket/migrated/wait4x.json, aliesbelik/poldi, 1
 bucket/migrated/walk.json, aliesbelik/poldi, 1
+bucket/migrated/yamlfmt.json, aliesbelik/poldi, 1
 bucket/mihome-token.json, amorphobia/siku, 1
 bucket/mihomo-check.json, DoveBoy/Apps, 1
 bucket/mihomo-compatible-go120.json, DoveBoy/Apps, 1
@@ -6714,7 +6717,7 @@ bucket/nyan.json, batkiz/backit, 1
 bucket/oasis.json, hoilc/scoop-lemon, 1
 bucket/oauth2c.json, ScoopInstaller/Main, 1
 bucket/objconv.json, ScoopInstaller/Main, 0
-bucket/objeck.json, hoilc/scoop-lemon, 1
+bucket/objeck.json, hoilc/scoop-lemon, 0
 bucket/oblivion-desktop.json, hoilc/scoop-lemon, 1
 bucket/obs-browser-plus.json, hoilc/scoop-lemon, 0
 bucket/obs-classic.json, chawyehsu/dorado, 1
@@ -8013,6 +8016,7 @@ bucket/pwsh-x.json, kiennq/scoop-misc, 1
 bucket/pwsh.json, ScoopInstaller/Main, 1
 bucket/pwtech.json, ScoopInstaller/Extras, 0
 bucket/px.json, ScoopInstaller/Main, 1
+bucket/py.exe.json, cderv/r-bucket, 0
 bucket/py.json, rasa/scoops, 0
 bucket/pycharm-eap.json, ScoopInstaller/Versions, 1
 bucket/pycharm-professional-eap.json, ScoopInstaller/Versions, 1
@@ -8882,7 +8886,7 @@ bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
 bucket/shadps4-dev.json, Calinou/scoop-games, 1
-bucket/shadps4.json, borger/scoop-emulators, 1
+bucket/shadps4.json, Calinou/scoop-games, 1
 bucket/shakemousetolocate.json, amorphobia/siku, 1
 bucket/shanggu-mono-jp.json, hoilc/scoop-lemon, 1
 bucket/shanggu-mono-sc.json, hoilc/scoop-lemon, 1
@@ -10565,6 +10569,7 @@ bucket/winasar.json, ViCrack/scoop-bucket, 1
 bucket/winauth-portable.json, naderi/scoop-bucket, 1
 bucket/winauth.json, ScoopInstaller/Extras, 1
 bucket/winbin2iso.json, hoilc/scoop-lemon, 0
+bucket/winbox-beta.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/winbox.json, ScoopInstaller/Extras, 0
 bucket/winbtrfs-np.json, ScoopInstaller/Nonportable, 1
 bucket/winbtrfs.json, brian6932/dank-scoop, 1
