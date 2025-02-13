@@ -325,6 +325,18 @@ bucket/Document-TagExplorer.json, kkzzhizhou/scoop-zapps, 1
 bucket/DotNetVersions.json, yuusakuri/scoop-bucket, 1
 bucket/DrFolder-Portable.json, ACooper81/scoop-apps, 0
 bucket/Draw.io-Portable.json, ACooper81/scoop-apps, 1
+bucket/Dream-Han-Sans-CN.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Sans-HK.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Sans-JP.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Sans-KR.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Sans-TW.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Sans.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Serif-CN.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Serif-HK.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Serif-JP.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Serif-KR.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Serif-TW.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Dream-Han-Serif.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/DriverGenius.json, kkzzhizhou/scoop-zapps, 1
 bucket/DriverStoreExplorer-Portable.json, ACooper81/scoop-apps, 1
 bucket/DriverTalent.json, kkzzhizhou/scoop-zapps, 1
@@ -603,6 +615,7 @@ bucket/KeymouseGo.json, DoveBoy/Apps, 1
 bucket/KindleSend.json, kkzzhizhou/scoop-zapps, 1
 bucket/KindleUnpack.json, kkzzhizhou/scoop-zapps, 1
 bucket/KitX.json, Weidows-projects/scoop-3rd, 1
+bucket/Klee-One.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/KoHo.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Kodchasan.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/Kodi-Portable.json, ACooper81/scoop-apps, 0
@@ -789,6 +802,7 @@ bucket/Noto-CJK-Mega-OTC.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Noto-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Noto-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Noto-NF.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/Noto-Serif-CJK-Super-OTC.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/NoxPlayer.json, kkzzhizhou/scoop-zapps, 1
 bucket/NpcGUI.json, kkzzhizhou/scoop-zapps, 1
 bucket/NsEmuTools.json, hu3rror/scoop-muggle, 1
@@ -1605,6 +1619,7 @@ bucket/anto.json, hoilc/scoop-lemon, 1
 bucket/antsword.json, batkiz/backit, 1
 bucket/anyburn.json, ScoopInstaller/Extras, 0
 bucket/anydesk.json, ScoopInstaller/Extras, 0
+bucket/anythingllm.json, ScoopInstaller/Extras, 1
 bucket/anytype.json, ScoopInstaller/Extras, 1
 bucket/ao.json, ScoopInstaller/Extras, 1
 bucket/aomei-partition-assistant-standard.json, TheRandomLabs/Scoop-Bucket, 0
@@ -4689,6 +4704,7 @@ bucket/httpie-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/httping.json, ScoopInstaller/Main, 1
 bucket/httplab.json, aliesbelik/poldi, 1
 bucket/httpmaster-express.json, hoilc/scoop-lemon, 0
+bucket/httpmaster-professional.json, hoilc/scoop-lemon, 0
 bucket/httpnetworksniffer.json, ScoopInstaller/Nirsoft, 0
 bucket/httprobe.json, aliesbelik/poldi, 1
 bucket/httpstat.json, ScoopInstaller/Main, 1
@@ -4742,6 +4758,7 @@ bucket/iMazingHEICConverter-Install.json, ACooper81/scoop-apps, 0
 bucket/iSlideshow-Install.json, ACooper81/scoop-apps, 0
 bucket/iaito.json, hoilc/scoop-lemon, 1
 bucket/iamb.json, hoilc/scoop-lemon, 1
+bucket/iansui.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/iap-desktop.json, ScoopInstaller/Extras, 1
 bucket/iar-ewarm-8421-23878.json, SayCV/scoop-cvp, 1
 bucket/iar-ewarm.json, SayCV/scoop-cvp, 1
@@ -6301,7 +6318,6 @@ bucket/msikombustor.json, ScoopInstaller/Extras, 0
 bucket/msival2.json, ScoopInstaller/Main, 0
 bucket/msix.json, littleli/Scoop-littleli, 0
 bucket/msklc.json, ScoopInstaller/Extras, 0
-bucket/msmbps.json, hoilc/scoop-lemon, 0
 bucket/msmpi.json, ScoopInstaller/Main, 1
 bucket/msoffice2016-4in1.json, SayCV/scoop-cvp, 1
 bucket/mspass.json, ScoopInstaller/Nirsoft, 0
@@ -7700,7 +7716,7 @@ bucket/pixel-clipper.json, brian6932/dank-scoop, 0
 bucket/pixelflasher.json, ScoopInstaller/Extras, 1
 bucket/pixelorama.json, ScoopInstaller/Extras, 1
 bucket/pixfront.json, mo-san/scoop-bucket, 0
-bucket/pixi.json, ivaquero/scoopet, 1
+bucket/pixi.json, chawyehsu/dorado, 1
 bucket/pixie.json, ScoopInstaller/Extras, 0
 bucket/pixitracker-1bit.json, ScoopInstaller/Extras, 0
 bucket/pixitracker.json, ScoopInstaller/Extras, 0
@@ -8495,7 +8511,7 @@ bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/royalts.json, hoilc/scoop-lemon, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rpk.json, hoilc/scoop-lemon, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rqlite.json, hoilc/scoop-lemon, 1
