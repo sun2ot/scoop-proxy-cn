@@ -1558,7 +1558,6 @@ bucket/am-notebook.json, hoilc/scoop-lemon, 0
 bucket/amass.json, ScoopInstaller/Main, 1
 bucket/amazon-ec2-instance-selector.json, hoilc/scoop-lemon, 1
 bucket/amazon-ec2-metadata-mock.json, hoilc/scoop-lemon, 1
-bucket/amazon-kindle.json, ivaquero/scoopet, 0
 bucket/amazon-workspaces.json, ScoopInstaller/Extras, 0
 bucket/amber.json, ScoopInstaller/Extras, 1
 bucket/amfora.json, ScoopInstaller/Extras, 1
@@ -2702,7 +2701,7 @@ bucket/corretto8-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jre.json, ScoopInstaller/Java, 0
 bucket/corsair-icue.json, TheRandomLabs/Scoop-Bucket, 0
 bucket/cortextool.json, hoilc/scoop-lemon, 1
-bucket/cosbrowser.json, chawyehsu/dorado, 1
+bucket/cosbrowser.json, hoilc/scoop-lemon, 0
 bucket/coscli.json, hoilc/scoop-lemon, 0
 bucket/cosign.json, ScoopInstaller/Main, 1
 bucket/cosmo-berry.json, hoilc/scoop-lemon, 0
@@ -2778,11 +2777,11 @@ bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/cryptsync.json, hoilc/scoop-lemon, 1
 bucket/crystal.json, ScoopInstaller/Main, 1
 bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-aoi.json, AkariiinMKII/Scoop4kariiin, 0
+bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
+bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-shizuku.json, AkariiinMKII/Scoop4kariiin, 0
+bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskmark-aoi.json, aoisummer/scoop-bucket, 0
@@ -3039,6 +3038,7 @@ bucket/dgmpgdec.json, amorphobia/siku, 0
 bucket/dgvoodoo2.json, Calinou/scoop-games, 1
 bucket/dhall.json, ScoopInstaller/Main, 1
 bucket/dhcp-server.json, ScoopInstaller/Extras, 0
+bucket/dhcplogview.json, ScoopInstaller/Nirsoft, 0
 bucket/dia.json, ScoopInstaller/Extras, 0
 bucket/diagram-designer.json, ScoopInstaller/Extras, 0
 bucket/dialupass.json, ScoopInstaller/Nirsoft, 0
@@ -4617,7 +4617,7 @@ bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroic.json, hoilc/scoop-lemon, 1
 bucket/heroku-cli.json, ScoopInstaller/Main, 0
 bucket/hetty.json, aliesbelik/poldi, 1
-bucket/heu-kms-activator.json, DoveBoy/Apps, 1
+bucket/heu-kms-activator.json, ivaquero/scoopet, 1
 bucket/hex-editor-neo.json, ScoopInstaller/Extras, 0
 bucket/hex2dec.json, niheaven/scoop-sysinternals, 1
 bucket/hexalate.json, hoilc/scoop-lemon, 0
@@ -6307,7 +6307,7 @@ bucket/mpv-sub-select.json, brian6932/dank-scoop, 0
 bucket/mpv.json, ScoopInstaller/Extras, 0
 bucket/mpv.net-DW.json, cc713/ownscoop, 1
 bucket/mpv.net-beta.json, ScoopInstaller/Versions, 1
-bucket/mpv.net-cm.json, hu3rror/scoop-muggle, 1
+bucket/mpv.net-cm.json, ivaquero/scoopet, 1
 bucket/mpv.net.json, ScoopInstaller/Extras, 1
 bucket/mpvconfigurator.json, DoveBoy/Apps, 1
 bucket/mpxplay.json, ScoopInstaller/Main, 0
@@ -9707,7 +9707,7 @@ bucket/tev.json, ScoopInstaller/Extras, 1
 bucket/tex-fmt.json, seumsc/scoop-seu, 1
 bucket/texlab.json, ScoopInstaller/Main, 1
 bucket/texlive-full.json, chawyehsu/dorado, 0
-bucket/texlive.json, ivaquero/scoopet, 0
+bucket/texlive.json, chawyehsu/dorado, 0
 bucket/texmacs.json, ScoopInstaller/Extras, 0
 bucket/texmaker.json, ScoopInstaller/Extras, 0
 bucket/texmod.json, Calinou/scoop-games, 0
@@ -10338,7 +10338,6 @@ bucket/vmware-autounlocker.json, naderi/scoop-bucket, 1
 bucket/vmware-horizon-client-np.json, ScoopInstaller/Nonportable, 0
 bucket/vmware-workstation-player-np.json, ScoopInstaller/Nonportable, 0
 bucket/vmware-workstation-pro-np.json, brian6932/dank-scoop, 0
-bucket/vmware-workstation-pro.json, ivaquero/scoopet, 0
 bucket/vmware-ws-pro.json, SayCV/scoop-cvp, 0
 bucket/vncpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/vncviewer.json, ScoopInstaller/Extras, 0
