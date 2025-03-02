@@ -1592,7 +1592,7 @@ bucket/angband.json, Calinou/scoop-games, 1
 bucket/angr-management.json, ScoopInstaller/Extras, 1
 bucket/ani-beta.json, DoveBoy/Apps, 1
 bucket/ani-cli.json, ScoopInstaller/Extras, 1
-bucket/ani.json, hu3rror/scoop-muggle, 1
+bucket/ani.json, DoveBoy/Apps, 1
 bucket/animation-garden-desktop.json, Weidows-projects/scoop-3rd, 1
 bucket/anime4k-glsl.json, HUMORCE/nuke, 1
 bucket/anime4kcpp-avisynthplus-plugin.json, HUMORCE/nuke, 1
@@ -2394,7 +2394,7 @@ bucket/cheat.json, ScoopInstaller/Main, 1
 bucket/checkstyle.json, hoilc/scoop-lemon, 1
 bucket/checksum-compare.json, ScoopInstaller/Extras, 0
 bucket/chef-workstation.json, ScoopInstaller/Extras, 0
-bucket/cherry-studio.json, hoilc/scoop-lemon, 0
+bucket/cherry-studio.json, ScoopInstaller/Extras, 1
 bucket/cherrytree.json, ScoopInstaller/Extras, 0
 bucket/chezmoi-modify-manager.json, cderv/r-bucket, 1
 bucket/chezmoi.json, ScoopInstaller/Main, 1
@@ -2776,12 +2776,12 @@ bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/cryptsync.json, hoilc/scoop-lemon, 1
 bucket/crystal.json, ScoopInstaller/Main, 1
-bucket/crystaldiskinfo-aoi-edition.json, DoveBoy/Apps, 0
-bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
+bucket/crystaldiskinfo-aoi.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
-bucket/crystaldiskinfo-shizuku-edition.json, DoveBoy/Apps, 0
-bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
+bucket/crystaldiskinfo-shizuku.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskmark-aoi.json, aoisummer/scoop-bucket, 0
@@ -6013,7 +6013,7 @@ bucket/metasploit-framework.json, ScoopInstaller/Extras, 0
 bucket/metastore.json, ScoopInstaller/Main, 1
 bucket/metatogger.json, hoilc/scoop-lemon, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
-bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mglahk.json, hoilc/scoop-lemon, 0
 bucket/mgtv.json, DoveBoy/Apps, 0
@@ -8528,7 +8528,7 @@ bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/royalts.json, hoilc/scoop-lemon, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rpk.json, hoilc/scoop-lemon, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rqlite.json, hoilc/scoop-lemon, 1
@@ -9887,6 +9887,7 @@ bucket/tpm.json, aliesbelik/poldi, 1
 bucket/tproxy.json, ScoopInstaller/Main, 1
 bucket/tracerx-viewer.json, hoilc/scoop-lemon, 1
 bucket/tracetcp.json, aoisummer/scoop-bucket, 1
+bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
@@ -10346,6 +10347,7 @@ bucket/vmware-ws-pro.json, SayCV/scoop-cvp, 0
 bucket/vncpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/vncviewer.json, ScoopInstaller/Extras, 0
 bucket/vnote.json, ScoopInstaller/Extras, 1
+bucket/vnt.json, hoilc/scoop-lemon, 1
 bucket/vocabulary.net.json, hoilc/scoop-lemon, 0
 bucket/vocal-separate.json, DoveBoy/Apps, 1
 bucket/voice-pro.json, DoveBoy/Apps, 1
