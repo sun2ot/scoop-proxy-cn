@@ -1592,7 +1592,7 @@ bucket/angband.json, Calinou/scoop-games, 1
 bucket/angr-management.json, ScoopInstaller/Extras, 1
 bucket/ani-beta.json, DoveBoy/Apps, 1
 bucket/ani-cli.json, ScoopInstaller/Extras, 1
-bucket/ani.json, DoveBoy/Apps, 1
+bucket/ani.json, hu3rror/scoop-muggle, 1
 bucket/animation-garden-desktop.json, Weidows-projects/scoop-3rd, 1
 bucket/anime4k-glsl.json, HUMORCE/nuke, 1
 bucket/anime4kcpp-avisynthplus-plugin.json, HUMORCE/nuke, 1
@@ -2701,7 +2701,7 @@ bucket/corretto8-jdk.json, ScoopInstaller/Java, 0
 bucket/corretto8-jre.json, ScoopInstaller/Java, 0
 bucket/corsair-icue.json, TheRandomLabs/Scoop-Bucket, 0
 bucket/cortextool.json, hoilc/scoop-lemon, 1
-bucket/cosbrowser.json, hoilc/scoop-lemon, 0
+bucket/cosbrowser.json, chawyehsu/dorado, 1
 bucket/coscli.json, hoilc/scoop-lemon, 0
 bucket/cosign.json, ScoopInstaller/Main, 1
 bucket/cosmo-berry.json, hoilc/scoop-lemon, 0
@@ -2777,11 +2777,11 @@ bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/cryptsync.json, hoilc/scoop-lemon, 1
 bucket/crystal.json, ScoopInstaller/Main, 1
 bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-aoi.json, AkariiinMKII/Scoop4kariiin, 0
+bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
+bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-shizuku.json, AkariiinMKII/Scoop4kariiin, 0
+bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskmark-aoi.json, aoisummer/scoop-bucket, 0
@@ -4905,7 +4905,7 @@ bucket/innoextract.json, ScoopInstaller/Main, 0
 bucket/innosetup-np.json, ScoopInstaller/Nonportable, 0
 bucket/innosetup-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/innounp-unicode.json, ScoopInstaller/Versions, 0
-bucket/innounp.json, ScoopInstaller/Main, 0
+bucket/innounp.json, ScoopInstaller/Main, 1
 bucket/innounpacker.json, ScoopInstaller/Extras, 0
 bucket/inotifywait.json, jingyu9575/scoop-jingyu9575, 1
 bucket/inputshare.json, DoveBoy/Apps, 1
@@ -9146,6 +9146,7 @@ bucket/sorayomi.json, ScoopInstaller/Extras, 1
 bucket/sort-uniq-wc.json, ScoopInstaller/Main, 0
 bucket/soul.json, batkiz/backit, 1
 bucket/soulseekqt.json, ScoopInstaller/Extras, 0
+bucket/sound-keeper.json, amorphobia/siku, 0
 bucket/sound-of-sorting.json, beerpiss/scoop-bucket, 0
 bucket/soundnode.json, ScoopInstaller/Extras, 1
 bucket/soundswitch.json, ScoopInstaller/Extras, 1
@@ -10424,6 +10425,7 @@ bucket/wakemeonlan.json, ScoopInstaller/Nirsoft, 0
 bucket/walk.json, ScoopInstaller/Main, 1
 bucket/wapm-cli.json, ScoopInstaller/Main, 1
 bucket/warp-cloudflare.json, Weidows-projects/scoop-3rd, 0
+bucket/warp-terminal.json, ScoopInstaller/Extras, 0
 bucket/warp.json, ScoopInstaller/Main, 1
 bucket/warpinator.json, hoilc/scoop-lemon, 1
 bucket/warsow.json, Calinou/scoop-games, 0
@@ -10445,6 +10447,7 @@ bucket/watt-toolkit.json, hu3rror/scoop-muggle, 1
 bucket/watttoolkit-beta.json, DoveBoy/Apps, 1
 bucket/watttoolkit.json, DoveBoy/Apps, 1
 bucket/wau-manager.json, hoilc/scoop-lemon, 0
+bucket/wave-terminal.json, ScoopInstaller/Extras, 1
 bucket/wavebox-classic.json, ScoopInstaller/Extras, 0
 bucket/wavebox-portable.json, naderi/scoop-bucket, 0
 bucket/wavebox.json, ScoopInstaller/Extras, 0
