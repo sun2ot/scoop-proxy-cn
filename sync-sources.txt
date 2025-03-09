@@ -4442,6 +4442,14 @@ bucket/gpujpeg-nightly.json, hoilc/scoop-lemon, 1
 bucket/gpujpeg.json, hoilc/scoop-lemon, 1
 bucket/gpxsee.json, ScoopInstaller/Extras, 0
 bucket/gql.json, brian6932/dank-scoop, 1
+bucket/graaljs-community-jvm.json, hoilc/scoop-lemon, 1
+bucket/graaljs-community.json, hoilc/scoop-lemon, 1
+bucket/graaljs-jvm.json, hoilc/scoop-lemon, 1
+bucket/graaljs.json, hoilc/scoop-lemon, 1
+bucket/graalpy-community-jdk.json, hoilc/scoop-lemon, 1
+bucket/graalpy-community.json, hoilc/scoop-lemon, 1
+bucket/graalpy-jvm.json, hoilc/scoop-lemon, 1
+bucket/graalpy.json, hoilc/scoop-lemon, 1
 bucket/graalvm-jdk11.json, ScoopInstaller/Java, 1
 bucket/graalvm-jdk17.json, ScoopInstaller/Java, 1
 bucket/graalvm-nightly-jdk11.json, ScoopInstaller/Java, 1
@@ -7206,6 +7214,7 @@ bucket/pdgthumbviewer.json, hoilc/scoop-lemon, 0
 bucket/pdm.json, batkiz/backit, 0
 bucket/pdraw32.json, ScoopInstaller/Extras, 0
 bucket/pdu.json, aliesbelik/poldi, 1
+bucket/pdx-unlimiter.json, hoilc/scoop-lemon, 1
 bucket/pe-anatomist.json, hoilc/scoop-lemon, 0
 bucket/pe-bear.json, ScoopInstaller/Extras, 1
 bucket/pe-sieve.json, ScoopInstaller/Main, 1
