@@ -4599,7 +4599,7 @@ bucket/haxe-dev.json, ScoopInstaller/Versions, 1
 bucket/haxe.json, ScoopInstaller/Main, 1
 bucket/hayabusa.json, hoilc/scoop-lemon, 1
 bucket/haylxon.json, hoilc/scoop-lemon, 1
-bucket/hbuilderx.json, ivaquero/scoopet, 0
+bucket/hbuilderx.json, echoiron/echo-scoop, 0
 bucket/hck.json, batkiz/backit, 1
 bucket/hcloud.json, ScoopInstaller/Main, 1
 bucket/hdcleaner.json, naderi/scoop-bucket, 0
@@ -7967,6 +7967,7 @@ bucket/proxy-switch.json, jingyu9575/scoop-jingyu9575, 1
 bucket/proxychains.json, ScoopInstaller/Main, 1
 bucket/proxyfor.json, hoilc/scoop-lemon, 1
 bucket/proxypin.json, hoilc/scoop-lemon, 1
+bucket/proxytunnel.json, hoilc/scoop-lemon, 1
 bucket/prqlc.json, ScoopInstaller/Main, 1
 bucket/prs.json, ScoopInstaller/Main, 1
 bucket/prtscr.json, hu3rror/scoop-muggle, 0
