@@ -10957,7 +10957,7 @@ bucket/xdoc2txt.json, mo-san/scoop-bucket, 0
 bucket/xdown.json, hoilc/scoop-lemon, 0
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xelitan-pdf-reader.json, hoilc/scoop-lemon, 0
-bucket/xemu.json, hermanjustnu/scoop-emulators, 1
+bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
