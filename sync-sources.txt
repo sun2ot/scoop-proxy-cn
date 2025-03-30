@@ -5693,6 +5693,7 @@ bucket/linqpadless.json, ScoopInstaller/Extras, 0
 bucket/linux-command.json, kkzzhizhou/scoop-zapps, 1
 bucket/linux-reader.json, ScoopInstaller/Extras, 0
 bucket/linuxdoc.json, DoveBoy/Apps, 1
+bucket/liqoctl.json, hoilc/scoop-lemon, 1
 bucket/liquibase.json, ScoopInstaller/Main, 1
 bucket/liquidsoap.json, ScoopInstaller/Extras, 1
 bucket/listary-beta.json, kidonng/sushi, 0
