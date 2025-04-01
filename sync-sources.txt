@@ -2205,6 +2205,7 @@ bucket/bulletspassview.json, ScoopInstaller/Nirsoft, 0
 bucket/bun-canary.json, ScoopInstaller/Versions, 0
 bucket/bun.json, ScoopInstaller/Main, 1
 bucket/bunbackup.json, jfut/scoop-jfut, 0
+bucket/bundletool.json, hoilc/scoop-lemon, 1
 bucket/burp-suite-community-np.json, ScoopInstaller/Nonportable, 0
 bucket/burp-suite-pro-np.json, ScoopInstaller/Nonportable, 0
 bucket/burrow.json, hoilc/scoop-lemon, 1
@@ -4004,6 +4005,7 @@ bucket/freedownloadmanager.json, ScoopInstaller/Extras, 0
 bucket/freedroidrpg.json, Calinou/scoop-games, 0
 bucket/freedv.json, hoilc/scoop-lemon, 1
 bucket/freelan-np.json, ScoopInstaller/Nonportable, 1
+bucket/freelens.json, hoilc/scoop-lemon, 1
 bucket/freemind.json, ScoopInstaller/Extras, 0
 bucket/freemove.json, ScoopInstaller/Extras, 1
 bucket/freeorion-test.json, Calinou/scoop-games, 0
@@ -4649,7 +4651,7 @@ bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroic.json, hoilc/scoop-lemon, 1
 bucket/heroku-cli.json, ScoopInstaller/Main, 0
 bucket/hetty.json, aliesbelik/poldi, 1
-bucket/heu-kms-activator.json, ivaquero/scoopet, 1
+bucket/heu-kms-activator.json, DoveBoy/Apps, 1
 bucket/hex-editor-neo.json, ScoopInstaller/Extras, 0
 bucket/hex2dec.json, niheaven/scoop-sysinternals, 1
 bucket/hexalate.json, hoilc/scoop-lemon, 0
@@ -11091,6 +11093,7 @@ bucket/yarn-np.json, chawyehsu/dorado, 0
 bucket/yarn.json, ScoopInstaller/Main, 1
 bucket/yarr.json, ScoopInstaller/Extras, 1
 bucket/yas.json, Weidows-projects/scoop-3rd, 1
+bucket/yasb.json, ScoopInstaller/Extras, 1
 bucket/yasm.json, ScoopInstaller/Main, 1
 bucket/yasocut.json, hoilc/scoop-lemon, 1
 bucket/yatqa.json, ScoopInstaller/Extras, 0
