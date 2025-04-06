@@ -3884,6 +3884,7 @@ bucket/flux.json, ScoopInstaller/Main, 1
 bucket/fluxctl.json, ScoopInstaller/Versions, 1
 bucket/flvextract.json, chawyehsu/dorado, 0
 bucket/flybird-downloader.json, DoveBoy/Apps, 1
+bucket/flyby11.json, hoilc/scoop-lemon, 1
 bucket/flycast.json, Calinou/scoop-games, 1
 bucket/flyctl.json, ScoopInstaller/Main, 1
 bucket/flydav.json, hoilc/scoop-lemon, 1
@@ -5019,6 +5020,7 @@ bucket/iosevka-ss18.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka.json, iquiw/scoop-bucket, 1
 bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
+bucket/ipatool.json, hoilc/scoop-lemon, 1
 bucket/ipcalc.json, ScoopInstaller/Main, 1
 bucket/ipe.json, hoilc/scoop-lemon, 1
 bucket/iperf-win32.json, SayCV/scoop-cvp, 1
