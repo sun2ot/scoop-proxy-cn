@@ -1181,6 +1181,7 @@ bucket/Thorium-Portable.json, ACooper81/scoop-apps, 1
 bucket/ThoriumAVX-Portable.json, ACooper81/scoop-apps, 1
 bucket/ThoriumAVX2-Portable.json, ACooper81/scoop-apps, 1
 bucket/ThoriumSSE3-Portable.json, ACooper81/scoop-apps, 1
+bucket/Thunder-Professional.json, Weidows-projects/scoop-3rd, 1
 bucket/Thunder.json, ygguorun/scoop-bucket, 0
 bucket/ThunderS.json, hu3rror/scoop-muggle, 0
 bucket/ThunderSpeed.json, kkzzhizhou/scoop-zapps, 1
@@ -1857,6 +1858,7 @@ bucket/axmlprinter.json, TheCjw/scoop-retools, 1
 bucket/axure.json, chawyehsu/dorado, 0
 bucket/aya.json, hoilc/scoop-lemon, 1
 bucket/ayugram.json, ScoopInstaller/Extras, 1
+bucket/azahar.json, Calinou/scoop-games, 1
 bucket/azcopy.json, ScoopInstaller/Main, 0
 bucket/azd.json, ScoopInstaller/Extras, 1
 bucket/azdrawing2.json, hoilc/scoop-lemon, 0
@@ -4009,7 +4011,7 @@ bucket/freedownloadmanager.json, ScoopInstaller/Extras, 0
 bucket/freedroidrpg.json, Calinou/scoop-games, 0
 bucket/freedv.json, hoilc/scoop-lemon, 1
 bucket/freelan-np.json, ScoopInstaller/Nonportable, 1
-bucket/freelens.json, hoilc/scoop-lemon, 1
+bucket/freelens.json, ScoopInstaller/Extras, 1
 bucket/freemind.json, ScoopInstaller/Extras, 0
 bucket/freemove.json, ScoopInstaller/Extras, 1
 bucket/freeorion-test.json, Calinou/scoop-games, 0
@@ -8453,6 +8455,7 @@ bucket/rehex.json, ScoopInstaller/Extras, 1
 bucket/reicon.json, ScoopInstaller/Extras, 0
 bucket/reko.json, TheCjw/scoop-retools, 1
 bucket/rekor-cli.json, hoilc/scoop-lemon, 1
+bucket/reloaded-ii.json, Calinou/scoop-games, 1
 bucket/remetrics.json, hoilc/scoop-lemon, 1
 bucket/remnote.json, echoiron/echo-scoop, 0
 bucket/remotedesktoppassview.json, kodybrown/scoop-nirsoft, 0
@@ -9263,7 +9266,8 @@ bucket/spicetify-cli.json, ScoopInstaller/Main, 1
 bucket/spicetify-jqbx.json, TheRandomLabs/Scoop-Spotify, 1
 bucket/spicetify-themes.json, ScoopInstaller/Extras, 1
 bucket/spim.json, amorphobia/siku, 0
-bucket/spin.json, hoilc/scoop-lemon, 0
+bucket/spin.json, hoilc/scoop-lemon, 1
+bucket/spinnaker-cli.json, hoilc/scoop-lemon, 0
 bucket/spire.json, hoilc/scoop-lemon, 1
 bucket/splashtop-business-access.json, ScoopInstaller/Extras, 0
 bucket/splayer-beta.json, DoveBoy/Apps, 1
@@ -10497,6 +10501,7 @@ bucket/warsow.json, Calinou/scoop-games, 0
 bucket/warzone2100.json, Calinou/scoop-games, 1
 bucket/wasabi-wallet.json, ScoopInstaller/Extras, 1
 bucket/wasm-pack.json, chawyehsu/dorado, 1
+bucket/wasm-tools.json, chawyehsu/dorado, 1
 bucket/wasm4.json, ScoopInstaller/Main, 1
 bucket/wasmedge.json, ScoopInstaller/Main, 1
 bucket/wasmer.json, ScoopInstaller/Main, 1
