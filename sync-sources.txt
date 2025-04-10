@@ -5732,6 +5732,7 @@ bucket/live777.json, ScoopInstaller/Extras, 1
 bucket/liveautorecord.json, DoveBoy/Apps, 1
 bucket/livecontactsview.json, ScoopInstaller/Nirsoft, 0
 bucket/livekd.json, niheaven/scoop-sysinternals, 1
+bucket/livekit-cli.json, hoilc/scoop-lemon, 1
 bucket/lively.json, ScoopInstaller/Extras, 1
 bucket/livesplit.json, Calinou/scoop-games, 1
 bucket/livetcpudpwatch.json, ScoopInstaller/Nirsoft, 0
@@ -6793,6 +6794,7 @@ bucket/nvm.json, ScoopInstaller/Main, 1
 bucket/nvs.json, ScoopInstaller/Main, 1
 bucket/nvui.json, ScoopInstaller/Extras, 1
 bucket/nvy.json, ScoopInstaller/Extras, 1
+bucket/nwinfo.json, hoilc/scoop-lemon, 1
 bucket/nwjs-sdk.json, ScoopInstaller/Extras, 0
 bucket/nwjs.json, ScoopInstaller/Extras, 0
 bucket/nyagos.json, ScoopInstaller/Main, 1
@@ -7290,6 +7292,7 @@ bucket/pfsextractor.json, seumsc/scoop-seu, 1
 bucket/pgadmin4-np.json, ScoopInstaller/Nonportable, 0
 bucket/pget.json, ScoopInstaller/Main, 1
 bucket/pgmig.json, littleli/scoop-clojure, 1
+bucket/pgrok.json, hoilc/scoop-lemon, 1
 bucket/pgweb.json, aliesbelik/poldi, 1
 bucket/phantomjs.json, ScoopInstaller/Main, 0
 bucket/phantomjs19.json, ScoopInstaller/Versions, 0
@@ -7790,7 +7793,7 @@ bucket/pixiv-omina.json, batkiz/backit, 1
 bucket/pixivbiu.json, HCLonely/my-scoop-bucket, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
 bucket/pixpin-beta.json, hoilc/scoop-lemon, 0
-bucket/pixpin.json, ygguorun/scoop-bucket, 0
+bucket/pixpin.json, hoilc/scoop-lemon, 0
 bucket/pixzip-lite.json, hoilc/scoop-lemon, 1
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
 bucket/pkg-config.json, ScoopInstaller/Main, 0
@@ -8588,7 +8591,7 @@ bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/royalts.json, hoilc/scoop-lemon, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
 bucket/rpk.json, hoilc/scoop-lemon, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rqlite.json, hoilc/scoop-lemon, 1
@@ -9714,6 +9717,8 @@ bucket/temurin22-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin22-jre.json, ScoopInstaller/Java, 1
 bucket/temurin23-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin23-jre.json, ScoopInstaller/Java, 1
+bucket/temurin24-jdk.json, ScoopInstaller/Java, 1
+bucket/temurin24-jre.json, ScoopInstaller/Java, 1
 bucket/temurin8-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin8-jre.json, ScoopInstaller/Java, 1
 bucket/temurin8-nightly-jdk.json, ScoopInstaller/Java, 1
@@ -11138,6 +11143,7 @@ bucket/yourav.json, amorphobia/siku, 1
 bucket/youtrack.json, ScoopInstaller/Extras, 0
 bucket/youtube-dl-animelover1984.json, yuusakuri/scoop-bucket, 1
 bucket/youtube-dl-gui.json, ScoopInstaller/Extras, 1
+bucket/youtube-dl-nightly.json, hoilc/scoop-lemon, 1
 bucket/youtube-dl-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/youtube-dl-wpf.json, kidonng/sushi, 1
 bucket/youtube-dl.json, ScoopInstaller/Main, 1
