@@ -250,6 +250,8 @@ bucket/CodeNewRoman-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CodeNewRoman-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/CodeNewRoman-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ComIntRep.json, kkzzhizhou/scoop-zapps, 1
+bucket/ComfyUI-Portable.json, ACooper81/scoop-apps, 0
+bucket/ComfyUIManager-Portable.json, ACooper81/scoop-apps, 1
 bucket/ComicShannsMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ComicShannsMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/ComicShannsMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -3637,6 +3639,7 @@ bucket/fairfaxhd-sm.json, KnotUntied/scoop-fonts, 0
 bucket/fairfaxhd.json, KnotUntied/scoop-fonts, 0
 bucket/fairfaxserif-sm.json, KnotUntied/scoop-fonts, 0
 bucket/fairfaxserif.json, KnotUntied/scoop-fonts, 0
+bucket/fairymusicbox.json, hoilc/scoop-lemon, 0
 bucket/fake.json, ScoopInstaller/Main, 1
 bucket/falabaac.json, hoilc/scoop-lemon, 1
 bucket/falcon-sql-client.json, ScoopInstaller/Extras, 1
@@ -3916,7 +3919,7 @@ bucket/foldermonitor.json, hoilc/scoop-lemon, 0
 bucket/foldersreport.json, kodybrown/scoop-nirsoft, 0
 bucket/foldertimeupdate.json, ScoopInstaller/Nirsoft, 0
 bucket/folding-at-home.json, ScoopInstaller/Extras, 0
-bucket/follow.json, DoveBoy/Apps, 1
+bucket/folo.json, DoveBoy/Apps, 1
 bucket/folrep.json, ScoopInstaller/Nirsoft, 0
 bucket/font-behdad.json, naderi/scoop-bucket, 1
 bucket/font-estedad.json, naderi/scoop-bucket, 1
@@ -8606,7 +8609,7 @@ bucket/routedns.json, brian6932/dank-scoop, 0
 bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/royalts.json, hoilc/scoop-lemon, 0
 bucket/rpcs3-dev.json, cc713/ownscoop, 1
-bucket/rpcs3.json, hermanjustnu/scoop-emulators, 1
+bucket/rpcs3.json, Calinou/scoop-games, 1
 bucket/rpk.json, hoilc/scoop-lemon, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rqlite.json, hoilc/scoop-lemon, 1
@@ -9161,6 +9164,7 @@ bucket/smartgit-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/smartgit.json, ScoopInstaller/Extras, 0
 bucket/smartmontools.json, ScoopInstaller/Main, 0
 bucket/smartsniff.json, kodybrown/scoop-nirsoft, 0
+bucket/smartsub.json, DoveBoy/Apps, 1
 bucket/smartsvn.json, ScoopInstaller/Extras, 0
 bucket/smartsvn11.json, zhoujin7/tomato, 0
 bucket/smartsynchronize.json, ScoopInstaller/Extras, 0
@@ -10368,7 +10372,6 @@ bucket/video-srt-windows.json, DoveBoy/Apps, 1
 bucket/video-subtitle-extractor-cpu.json, DoveBoy/Apps, 1
 bucket/video-subtitle-extractor-gpu.json, DoveBoy/Apps, 1
 bucket/video-subtitle-extractor.json, SayCV/scoop-cvp, 1
-bucket/video-subtitle-master.json, DoveBoy/Apps, 1
 bucket/video-thumbnails-maker.json, ScoopInstaller/Extras, 0
 bucket/video2x.json, seumsc/scoop-seu, 1
 bucket/videoaudiotools.json, ScoopInstaller/Nirsoft, 0
@@ -10472,7 +10475,6 @@ bucket/vpnc-front-end-np.json, ScoopInstaller/Nonportable, 0
 bucket/vrcx.json, ScoopInstaller/Extras, 1
 bucket/vrf-decompiler.json, HUMORCE/nuke, 1
 bucket/vroid-studio.json, ScoopInstaller/Extras, 0
-bucket/vs_BuildTools.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/vscan.json, ViCrack/scoop-bucket, 1
 bucket/vscli.json, hoilc/scoop-lemon, 1
 bucket/vscmount.json, hoilc/scoop-lemon, 1
