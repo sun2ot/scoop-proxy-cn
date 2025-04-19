@@ -18,9 +18,5 @@
   "persist": [
     "app",
     "data"
-  ],
-  "checkver": "github",
-  "autoupdate": {
-    "url": "https://ghproxy.085404.xyz/https://github.com/LC044/WeChatMsg/releases/download/v$version/MemoTrace-$version-beta.exe#/dl.zip"
-  }
+  ]
 }

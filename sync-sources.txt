@@ -3337,7 +3337,7 @@ bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
 bucket/duckling.json, hoilc/scoop-lemon, 1
 bucket/duckstation-preview.json, Calinou/scoop-games, 1
-bucket/duckstation.json, Calinou/scoop-games, 1
+bucket/duckstation.json, borger/scoop-emulators, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
 bucket/duf.json, ScoopInstaller/Main, 1
@@ -7251,7 +7251,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9029,7 +9029,6 @@ bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
 bucket/shadps4-dev.json, Calinou/scoop-games, 1
 bucket/shadps4.json, Calinou/scoop-games, 1
-bucket/shakemousetolocate.json, amorphobia/siku, 1
 bucket/shanggu-mono-jp.json, hoilc/scoop-lemon, 1
 bucket/shanggu-mono-sc.json, hoilc/scoop-lemon, 1
 bucket/shanggu-mono-tc.json, hoilc/scoop-lemon, 1
@@ -9141,6 +9140,7 @@ bucket/simutrans.json, Calinou/scoop-games, 0
 bucket/sing-box-beta.json, DoveBoy/Apps, 1
 bucket/sing-box-pre.json, hu3rror/scoop-muggle, 1
 bucket/sing-box.json, ScoopInstaller/Main, 1
+bucket/single-file-cli.json, ScoopInstaller/Extras, 1
 bucket/sioyek.json, ScoopInstaller/Extras, 1
 bucket/sirikali.json, ScoopInstaller/Extras, 1
 bucket/siteshoter.json, ScoopInstaller/Nirsoft, 0
@@ -9359,7 +9359,7 @@ bucket/sql-server-management-studio-np.json, ScoopInstaller/Nonportable, 0
 bucket/sql-studio.json, hoilc/scoop-lemon, 1
 bucket/sql-workbench-dev.json, ScoopInstaller/Versions, 0
 bucket/sql-workbench.json, ScoopInstaller/Extras, 0
-bucket/sqlc.json, hoilc/scoop-lemon, 0
+bucket/sqlc.json, aliesbelik/poldi, 1
 bucket/sqlcl.json, ScoopInstaller/Main, 0
 bucket/sqldef.json, ScoopInstaller/Main, 1
 bucket/sqlecmd.json, hoilc/scoop-lemon, 1
@@ -10371,7 +10371,6 @@ bucket/vesktop.json, ScoopInstaller/Extras, 1
 bucket/vesta.json, ScoopInstaller/Extras, 0
 bucket/veusz.json, ScoopInstaller/Extras, 1
 bucket/veyon-np.json, ScoopInstaller/Nonportable, 1
-bucket/vfilename.json, amorphobia/siku, 0
 bucket/vfox.json, ScoopInstaller/Main, 1
 bucket/vgmstream-cli.json, hoilc/scoop-lemon, 1
 bucket/vgmstream.json, ScoopInstaller/Main, 1
@@ -11194,7 +11193,6 @@ bucket/ynote.json, scoopcn/scoopcn, 0
 bucket/yoke.json, ScoopInstaller/Extras, 1
 bucket/yolx.json, hoilc/scoop-lemon, 1
 bucket/yomikiru.json, hu3rror/scoop-muggle, 1
-bucket/yong-im.json, amorphobia/siku, 0
 bucket/yori.json, ScoopInstaller/Main, 0
 bucket/yosys.json, ScoopInstaller/Main, 0
 bucket/you-get.json, akirco/aki-apps, 1
