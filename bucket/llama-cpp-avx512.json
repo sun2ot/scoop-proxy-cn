@@ -1,12 +1,12 @@
 {
-  "version": "b5186",
+  "version": "b5191",
   "description": "(CPU-AVX512 Backend) LLM inference in C/C++.",
   "homepage": "https://github.com/ggml-org/llama.cpp",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/b5186/llama-b5186-bin-win-avx512-x64.zip",
-      "hash": "29fdd2a88414262621999f18cefd0856cf9edbf2273eb063ffb6d5b97ce5c20d"
+      "url": "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/b5191/llama-b5191-bin-win-avx512-x64.zip",
+      "hash": "ecbbf8b21763d86a39e8973c737ada54bf64720f6aab69d45be69afdd2f7f5b0"
     }
   },
   "bin": [
