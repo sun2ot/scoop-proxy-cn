@@ -1,12 +1,12 @@
 {
-  "version": "b5200",
-  "description": "(OpenBLAS Backend) LLM inference in C/C++.",
+  "version": "b5215",
+  "description": "(OpenBLAS Backend) llama.cpp enables LLM inference with minimal setup and state-of-the-art performance on a wide range of hardware.",
   "homepage": "https://github.com/ggml-org/llama.cpp",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/b5200/llama-b5200-bin-win-openblas-x64.zip",
-      "hash": "ee0cee107d0b9fcfaef8c42945ce4fafdf9c6c47b31c1db8d6e56f4a48c8f538"
+      "url": "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/b5215/llama-b5215-bin-win-openblas-x64.zip",
+      "hash": "d1465ecfd835f118242eaeffe998548dd5e6c0e7f2c578082d6d6fd1c358bae1"
     }
   },
   "bin": [
@@ -23,13 +23,10 @@
     "llama-gguf-hash.exe",
     "llama-gguf-split.exe",
     "llama-imatrix.exe",
-    "llama-llava-cli.exe",
-    "llama-llava-clip-quantize-cli.exe",
-    "llama-minicpmv-cli.exe",
-    "llama-qwen2vl-cli.exe",
     "llama-quantize.exe",
     "llama-tokenize.exe",
-    "llama-tts.exe"
+    "llama-tts.exe",
+    "llama-mtmd-cli.exe"
   ],
   "checkver": {
     "url": "https://github.com/ggml-org/llama.cpp/releases.atom",
