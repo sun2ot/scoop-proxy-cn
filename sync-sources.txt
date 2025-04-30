@@ -1440,6 +1440,7 @@ bucket/abdownloadmanager.json, ScoopInstaller/Extras, 1
 bucket/aboboo-full.json, ivaquero/scoopet, 0
 bucket/aboboo.json, ivaquero/scoopet, 0
 bucket/abricotine.json, ScoopInstaller/Extras, 1
+bucket/abs-lang.json, hoilc/scoop-lemon, 1
 bucket/absolutetouch.json, beerpiss/scoop-bucket, 1
 bucket/absolutetouchex.json, beerpiss/scoop-bucket, 1
 bucket/abstreet.json, hoilc/scoop-lemon, 1
@@ -2697,6 +2698,7 @@ bucket/colorveil.json, hoilc/scoop-lemon, 0
 bucket/comicenhancepro-eng.json, hoilc/scoop-lemon, 0
 bucket/comicenhancepro.json, hoilc/scoop-lemon, 0
 bucket/comicmono.json, KnotUntied/scoop-fonts, 0
+bucket/comicrack-ce-nightly.json, brian6932/dank-scoop, 1
 bucket/comicrack.json, brian6932/dank-scoop, 0
 bucket/comicsviewer-eng.json, hoilc/scoop-lemon, 0
 bucket/comicsviewer.json, hoilc/scoop-lemon, 0
@@ -3042,7 +3044,7 @@ bucket/ddc-toolbox.json, ScoopInstaller/Extras, 1
 bucket/dddd.json, ViCrack/scoop-bucket, 1
 bucket/ddev.json, ScoopInstaller/Main, 1
 bucket/ddnet.json, Calinou/scoop-games, 0
-bucket/ddns-go.json, amorphobia/siku, 1
+bucket/ddns-go.json, ScoopInstaller/Extras, 1
 bucket/ddosify.json, ScoopInstaller/Main, 1
 bucket/ddtv2.json, aoisummer/scoop-bucket, 1
 bucket/ddu-lean.json, brian6932/dank-scoop, 1
@@ -4016,7 +4018,7 @@ bucket/foldermonitor.json, hoilc/scoop-lemon, 0
 bucket/foldersreport.json, kodybrown/scoop-nirsoft, 0
 bucket/foldertimeupdate.json, ScoopInstaller/Nirsoft, 0
 bucket/folding-at-home.json, ScoopInstaller/Extras, 0
-bucket/folo.json, DoveBoy/Apps, 1
+bucket/folo.json, ScoopInstaller/Extras, 1
 bucket/folrep.json, ScoopInstaller/Nirsoft, 0
 bucket/font-behdad.json, naderi/scoop-bucket, 1
 bucket/font-estedad.json, naderi/scoop-bucket, 1
@@ -4473,7 +4475,7 @@ bucket/go.json, ScoopInstaller/Main, 0
 bucket/go114.json, ScoopInstaller/Versions, 0
 bucket/go2rtc.json, hoilc/scoop-lemon, 1
 bucket/goat.json, hoilc/scoop-lemon, 1
-bucket/goawk.json, aliesbelik/poldi, 1
+bucket/goawk.json, hoilc/scoop-lemon, 1
 bucket/gobang.json, ScoopInstaller/Main, 1
 bucket/gobench.json, aliesbelik/poldi, 1
 bucket/gobuster.json, ScoopInstaller/Main, 1
@@ -6089,6 +6091,7 @@ bucket/mancy.json, ScoopInstaller/Extras, 1
 bucket/mandoc.json, ScoopInstaller/Main, 0
 bucket/mangadex-dl.json, hu3rror/scoop-muggle, 1
 bucket/mangal.json, ScoopInstaller/Extras, 1
+bucket/manhuagui-downloader.json, hu3rror/scoop-muggle, 1
 bucket/mani.json, aliesbelik/poldi, 1
 bucket/manictime.json, ScoopInstaller/Extras, 0
 bucket/manifold-viewer.json, ScoopInstaller/Extras, 0
@@ -6877,6 +6880,7 @@ bucket/nohboard.json, ScoopInstaller/Extras, 1
 bucket/nohttp-cli.json, hoilc/scoop-lemon, 0
 bucket/noi.json, ScoopInstaller/Extras, 1
 bucket/noisy-shuttle.json, hoilc/scoop-lemon, 1
+bucket/nom.json, hoilc/scoop-lemon, 1
 bucket/nomachine-enterprise.json, 42wim/scoop-bucket, 0
 bucket/nomacs.json, ScoopInstaller/Extras, 1
 bucket/nomad.json, ScoopInstaller/Main, 0
@@ -9352,6 +9356,7 @@ bucket/sing-box-beta.json, DoveBoy/Apps, 1
 bucket/sing-box-pre.json, hu3rror/scoop-muggle, 1
 bucket/sing-box.json, ScoopInstaller/Main, 1
 bucket/single-file-cli.json, ScoopInstaller/Extras, 1
+bucket/sioyek-preview.json, brian6932/dank-scoop, 1
 bucket/sioyek.json, ScoopInstaller/Extras, 1
 bucket/sirikali.json, ScoopInstaller/Extras, 1
 bucket/siteone-crawler-gui.json, hoilc/scoop-lemon, 1
@@ -10282,6 +10287,7 @@ bucket/tree.json, cderv/r-bucket, 0
 bucket/treeline.json, amorphobia/siku, 1
 bucket/treesheets.json, ScoopInstaller/Extras, 1
 bucket/treesize-free.json, ScoopInstaller/Extras, 0
+bucket/treex.json, ScoopInstaller/Extras, 1
 bucket/trellis-cli.json, hoilc/scoop-lemon, 1
 bucket/tremulous.json, ScoopInstaller/Extras, 1
 bucket/trenchbroom.json, Calinou/scoop-games, 1
@@ -10572,6 +10578,7 @@ bucket/vbindiff.json, ScoopInstaller/Main, 0
 bucket/vboxvmservice.json, ScoopInstaller/Extras, 1
 bucket/vc-ltl.json, wzv5/ScoopBucket, 1
 bucket/vcardeditor.json, hoilc/scoop-lemon, 1
+bucket/vceenc.json, hoilc/scoop-lemon, 1
 bucket/vcluster.json, ScoopInstaller/Main, 1
 bucket/vcpkg.json, ScoopInstaller/Main, 1
 bucket/vcredist-aio.json, ScoopInstaller/Extras, 1

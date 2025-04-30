@@ -1,20 +1,20 @@
 {
-  "version": "0.4.13",
+  "version": "0.4.15",
   "description": "A tool for scanning your Kubernetes clusters, diagnosing, and triaging issues in simple English.",
   "homepage": "http://k8sgpt.ai/",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.13/k8sgpt_Windows_x86_64.zip",
-      "hash": "c6a9350c6bfb9ab0529f0ee1de075cfcc6bbb645a3c20a746b2aaac94b882768"
+      "url": "https://ghproxy.085404.xyz/https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.15/k8sgpt_Windows_x86_64.zip",
+      "hash": "d70463127040addfe8a357effe89b8154cb5342d28b015bd0690e88100e29f9e"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.13/k8sgpt_Windows_i386.zip",
-      "hash": "3ee5bc15024b2b8918c273adf2c633c592fd21cb7c7c465b287ff89851760653"
+      "url": "https://ghproxy.085404.xyz/https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.15/k8sgpt_Windows_i386.zip",
+      "hash": "51ffe6cf8f5fc8ad5e3ea0808915d40d4f3f9422bcd7dfaa1b6d5cc5d98895ba"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.13/k8sgpt_Windows_arm64.zip",
-      "hash": "bc84dae73215c479a38a177256023e80c60b68a08564f9bfe095aca14f125613"
+      "url": "https://ghproxy.085404.xyz/https://github.com/k8sgpt-ai/k8sgpt/releases/download/v0.4.15/k8sgpt_Windows_arm64.zip",
+      "hash": "c96877c06caa036bf36641311a4415813d107bf1921451fa41e962b47697dc53"
     }
   },
   "bin": "k8sgpt.exe",
