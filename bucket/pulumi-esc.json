@@ -1,16 +1,16 @@
 {
-  "version": "0.13.1",
+  "version": "0.14.1",
   "description": "A CLI tool for managing and consuming environments, secrets and configuration using Pulumi ESC.",
   "homepage": "https://www.pulumi.com/product/esc/",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/pulumi/esc/releases/download/v0.13.1/esc-v0.13.1-windows-x64.zip",
-      "hash": "65187017416d1a96edd8a0457b25ea45afeae8799fb578f4cb0c9d44ead29184"
+      "url": "https://ghproxy.085404.xyz/https://github.com/pulumi/esc/releases/download/v0.14.1/esc-v0.14.1-windows-x64.zip",
+      "hash": "f1aede972a3f37fedcbd48dd5748cad9a509cf92d56845796b7c7f7d91d343c0"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/pulumi/esc/releases/download/v0.13.1/esc-v0.13.1-windows-arm64.zip",
-      "hash": "b6f52952ffcbb86081392c3d85ebf6173c1d89c1a50c5834d064842f9de56cf6"
+      "url": "https://ghproxy.085404.xyz/https://github.com/pulumi/esc/releases/download/v0.14.1/esc-v0.14.1-windows-arm64.zip",
+      "hash": "76e22be8b5b11d818615a10dd114a8c8f0ee1530fd0baa8cbfff6852bae39588"
     }
   },
   "extract_dir": "esc\\bin",
