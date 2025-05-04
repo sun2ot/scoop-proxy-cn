@@ -1655,6 +1655,7 @@ bucket/anx-reader.json, hu3rror/scoop-muggle, 1
 bucket/anyburn.json, ScoopInstaller/Extras, 0
 bucket/anydesk.json, ScoopInstaller/Extras, 0
 bucket/anythingllm.json, ScoopInstaller/Extras, 1
+bucket/anytls.json, hoilc/scoop-lemon, 1
 bucket/anytype.json, ScoopInstaller/Extras, 1
 bucket/ao.json, ScoopInstaller/Extras, 1
 bucket/aoc-cli.json, hoilc/scoop-lemon, 1
@@ -3271,6 +3272,7 @@ bucket/dogecoin-core.json, naderi/scoop-bucket, 1
 bucket/dogecoincore.json, chawyehsu/dorado, 1
 bucket/dogehouse.json, HUMORCE/nuke, 1
 bucket/doggo.json, ScoopInstaller/Main, 1
+bucket/doh-proxy.json, hoilc/scoop-lemon, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
@@ -3582,6 +3584,7 @@ bucket/enableloopback.json, jingyu9575/scoop-jingyu9575, 0
 bucket/encfs.json, naderi/scoop-bucket, 1
 bucket/encodegui-np.json, ScoopInstaller/Nonportable, 0
 bucket/encore.json, Weidows-projects/scoop-3rd, 0
+bucket/encrypted-dns-server.json, hoilc/scoop-lemon, 1
 bucket/encryptedregview.json, ScoopInstaller/Nirsoft, 0
 bucket/encrypto.json, naderi/scoop-bucket, 0
 bucket/encryptpad.json, ScoopInstaller/Extras, 1
@@ -6102,6 +6105,7 @@ bucket/manuskript.json, cc713/ownscoop, 1
 bucket/manyverse.json, hoilc/scoop-lemon, 1
 bucket/mapcidr.json, hoilc/scoop-lemon, 1
 bucket/mapdownload.json, DoveBoy/Apps, 1
+bucket/maple-file.json, DoveBoy/Apps, 1
 bucket/maple-mono-hinted.json, hoilc/scoop-lemon, 1
 bucket/maple-mono-nerd@6.json, hoilc/scoop-lemon, 1
 bucket/maple-mono-nf-cn-hinted.json, hoilc/scoop-lemon, 1
@@ -8750,6 +8754,7 @@ bucket/resto.json, aliesbelik/poldi, 1
 bucket/resvg.json, ScoopInstaller/Main, 1
 bucket/resxtranslator.json, seumsc/scoop-seu, 1
 bucket/retdec.json, ScoopInstaller/Main, 1
+bucket/reth.json, hoilc/scoop-lemon, 1
 bucket/rethinkdb.json, ScoopInstaller/Main, 0
 bucket/retrieval-based-voice-conversion-webui.json, DoveBoy/Apps, 1
 bucket/retroarch-nightly.json, hermanjustnu/scoop-emulators, 0
@@ -9395,6 +9400,7 @@ bucket/slidershim.json, beerpiss/scoop-bucket, 1
 bucket/sliksvn.json, ScoopInstaller/Main, 0
 bucket/slimpdfreader.json, hoilc/scoop-lemon, 0
 bucket/sling.json, hoilc/scoop-lemon, 1
+bucket/slint-viewer.json, hoilc/scoop-lemon, 1
 bucket/sliver.json, ViCrack/scoop-bucket, 1
 bucket/slk-img2pixel.json, hu3rror/scoop-muggle, 1
 bucket/slsa-verifier.json, hoilc/scoop-lemon, 1
