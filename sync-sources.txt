@@ -772,7 +772,6 @@ bucket/Mononoki-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Mononoki-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Mononoki-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Moo0VideoConverter-Portable.json, ACooper81/scoop-apps, 0
-bucket/MoonPlayer.json, cc713/ownscoop, 1
 bucket/Moonlight-Portable.json, ACooper81/scoop-apps, 1
 bucket/MouseWithoutBorders-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/Multrin-Portable.json, ACooper81/scoop-apps, 1
@@ -899,6 +898,7 @@ bucket/PingFangSC.json, ygguorun/scoop-bucket, 0
 bucket/PingFangTC.json, ygguorun/scoop-bucket, 0
 bucket/Pinokio-Portable.json, ACooper81/scoop-apps, 1
 bucket/PixBuilder.json, zhoujin7/tomato, 0
+bucket/Pixel-Code.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Pixeval.json, DoveBoy/Apps, 1
 bucket/Playnite-Portable.json, ACooper81/scoop-apps, 1
 bucket/PlexForWindows-Portable.json, ACooper81/scoop-apps, 0
@@ -1229,8 +1229,6 @@ bucket/TransmissionRemoteGUI-Portable.json, ACooper81/scoop-apps, 1
 bucket/Transwiz-Portable.json, ACooper81/scoop-apps, 0
 bucket/TreeSize.json, kkzzhizhou/scoop-zapps, 0
 bucket/TscanPlus.json, ViCrack/scoop-bucket, 1
-bucket/TsubakiTranslator-noRT.json, cc713/ownscoop, 1
-bucket/TsubakiTranslator.json, cc713/ownscoop, 1
 bucket/TuBaTool.json, kkzzhizhou/scoop-zapps, 0
 bucket/TweakPower-Portable.json, ACooper81/scoop-apps, 0
 bucket/TweakUIX-Portable.json, ACooper81/scoop-apps, 1
@@ -2099,7 +2097,7 @@ bucket/bison.json, ScoopInstaller/Main, 0
 bucket/bit.json, ScoopInstaller/Main, 1
 bucket/bitcoincore.json, chawyehsu/dorado, 1
 bucket/bitcoinknots.json, chawyehsu/dorado, 1
-bucket/bitcomet.json, echoiron/echo-scoop, 0
+bucket/bitcomet.json, naderi/scoop-bucket, 0
 bucket/bitmana.json, naderi/scoop-bucket, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitrock-unpacker.json, hoilc/scoop-lemon, 1
@@ -2162,7 +2160,7 @@ bucket/blush.json, ScoopInstaller/Extras, 1
 bucket/bmp2png.json, hoilc/scoop-lemon, 0
 bucket/boa.json, hoilc/scoop-lemon, 1
 bucket/bob-wallet.json, chawyehsu/dorado, 1
-bucket/bob.json, akirco/aki-apps, 1
+bucket/bob.json, hoilc/scoop-lemon, 1
 bucket/bochs.json, ScoopInstaller/Main, 0
 bucket/boilr.json, ScoopInstaller/Extras, 1
 bucket/boilsoft-video-joiner.json, SayCV/scoop-cvp, 0
@@ -2430,6 +2428,7 @@ bucket/cfr.json, ScoopInstaller/Main, 0
 bucket/cfsec.json, ScoopInstaller/Main, 1
 bucket/cfssl.json, ScoopInstaller/Extras, 1
 bucket/chafa.json, ScoopInstaller/Main, 0
+bucket/chainhook.json, hoilc/scoop-lemon, 1
 bucket/championify.json, ScoopInstaller/Extras, 1
 bucket/change-key.json, mo-san/scoop-bucket, 0
 bucket/changie.json, aliesbelik/poldi, 1
@@ -2748,7 +2747,9 @@ bucket/converseen.json, ScoopInstaller/Extras, 1
 bucket/convert.net.json, ScoopInstaller/Extras, 0
 bucket/converter-now.json, naderi/scoop-bucket, 1
 bucket/coodesker.json, echoiron/echo-scoop, 0
+bucket/cookcli.json, hoilc/scoop-lemon, 1
 bucket/cookiecutter.json, ScoopInstaller/Extras, 0
+bucket/cooklang-chef.json, hoilc/scoop-lemon, 1
 bucket/coolermaster-masterplus.json, brian6932/dank-scoop, 0
 bucket/coolplayer.json, naderi/scoop-bucket, 0
 bucket/coppeliasim.json, ScoopInstaller/Extras, 0
@@ -2834,6 +2835,7 @@ bucket/cpu-z.json, ScoopInstaller/Extras, 0
 bucket/cpufetch.json, ScoopInstaller/Main, 1
 bucket/cpustres.json, niheaven/scoop-sysinternals, 1
 bucket/cpuz-cn.json, ViCrack/scoop-bucket, 0
+bucket/cpz.json, hoilc/scoop-lemon, 1
 bucket/cq.json, littleli/scoop-clojure, 1
 bucket/cracklock.json, SayCV/scoop-cvp, 0
 bucket/craftbasic.json, hoilc/scoop-lemon, 0
@@ -3143,6 +3145,7 @@ bucket/dhcplogview.json, ScoopInstaller/Nirsoft, 0
 bucket/dia.json, ScoopInstaller/Extras, 0
 bucket/diagram-designer.json, ScoopInstaller/Extras, 0
 bucket/dialupass.json, ScoopInstaller/Nirsoft, 0
+bucket/dicom-rs-tools.json, hoilc/scoop-lemon, 1
 bucket/dictionary.net.json, hoilc/scoop-lemon, 0
 bucket/didder.json, ScoopInstaller/Extras, 1
 bucket/die.json, SayCV/scoop-cvp, 1
@@ -3632,6 +3635,7 @@ bucket/eshelper.json, ivaquero/scoopet, 0
 bucket/espanso-pre.json, ScoopInstaller/Versions, 1
 bucket/espanso.json, ScoopInstaller/Main, 1
 bucket/espeak-ng.json, ScoopInstaller/Main, 1
+bucket/espflash.json, hoilc/scoop-lemon, 1
 bucket/etcd.json, ScoopInstaller/Main, 1
 bucket/etcder.json, hoilc/scoop-lemon, 1
 bucket/etcher-cli.json, ScoopInstaller/Extras, 1
@@ -3809,7 +3813,7 @@ bucket/ferdium.json, ScoopInstaller/Extras, 1
 bucket/ferium.json, Calinou/scoop-games, 1
 bucket/fermion.json, NyaMisty/scoop_bucket_misty, 1
 bucket/fermyon-spin.json, hoilc/scoop-lemon, 1
-bucket/feroxbuster.json, HUMORCE/nuke, 1
+bucket/feroxbuster.json, hoilc/scoop-lemon, 1
 bucket/ferret.json, hoilc/scoop-lemon, 1
 bucket/fetch-github-hosts.json, DoveBoy/Apps, 1
 bucket/ff-logs-uploader.json, Calinou/scoop-games, 1
@@ -3871,6 +3875,7 @@ bucket/filelight.json, ScoopInstaller/Extras, 0
 bucket/filelist.json, starise/Scoop-Confetti, 0
 bucket/filen-cli.json, hoilc/scoop-lemon, 1
 bucket/fileoptimizer.json, ScoopInstaller/Extras, 0
+bucket/filepilot.json, brian6932/dank-scoop, 0
 bucket/files-cli.json, hoilc/scoop-lemon, 1
 bucket/files-np.json, ScoopInstaller/Nonportable, 0
 bucket/filesremote.json, hoilc/scoop-lemon, 1
@@ -4351,6 +4356,7 @@ bucket/git-credential-keepassxc.json, hoilc/scoop-lemon, 1
 bucket/git-credential-manager.json, ScoopInstaller/Extras, 1
 bucket/git-credential-oauth.json, hoilc/scoop-lemon, 1
 bucket/git-crypt.json, ScoopInstaller/Main, 1
+bucket/git-delta.json, hoilc/scoop-lemon, 1
 bucket/git-dive.json, hoilc/scoop-lemon, 1
 bucket/git-duet.json, hoilc/scoop-lemon, 1
 bucket/git-extras.json, aliesbelik/poldi, 1
@@ -4666,6 +4672,7 @@ bucket/graphql-playground.json, ScoopInstaller/Extras, 1
 bucket/graphviz.json, ScoopInstaller/Main, 0
 bucket/grasp.json, littleli/scoop-clojure, 1
 bucket/grasshopper.json, ScoopInstaller/Extras, 0
+bucket/grcov.json, hoilc/scoop-lemon, 1
 bucket/green-tunnel.json, ScoopInstaller/Extras, 1
 bucket/greenlight.json, ScoopInstaller/Extras, 1
 bucket/greenshot-unstable.json, ScoopInstaller/Versions, 1
@@ -5278,7 +5285,6 @@ bucket/jenkins-lts.json, ScoopInstaller/Main, 0
 bucket/jenkins.json, ScoopInstaller/Main, 0
 bucket/jenny.json, DoveBoy/Apps, 1
 bucket/jenv.json, ScoopInstaller/Extras, 1
-bucket/jepgview-fork.json, cc713/ownscoop, 1
 bucket/jet.json, littleli/scoop-clojure, 1
 bucket/jetaudio-basic.json, ScoopInstaller/Extras, 1
 bucket/jetbrains-hub.json, ScoopInstaller/Extras, 0
@@ -5355,7 +5361,7 @@ bucket/jpexs-decompiler.json, hoilc/scoop-lemon, 1
 bucket/jpfont-nds.json, ygguorun/scoop-bucket, 0
 bucket/jprq.json, ScoopInstaller/Main, 1
 bucket/jq.json, ScoopInstaller/Main, 1
-bucket/jql.json, aliesbelik/poldi, 1
+bucket/jql.json, hoilc/scoop-lemon, 1
 bucket/jqp.json, ScoopInstaller/Extras, 1
 bucket/jreleaser.json, ScoopInstaller/Main, 1
 bucket/jruby.json, ScoopInstaller/Main, 0
@@ -5519,6 +5525,7 @@ bucket/kicad-nightly.json, ScoopInstaller/Versions, 0
 bucket/kicad.json, ScoopInstaller/Extras, 1
 bucket/kid3.json, ScoopInstaller/Extras, 0
 bucket/kikoplay.json, hoilc/scoop-lemon, 1
+bucket/killport.json, hoilc/scoop-lemon, 1
 bucket/kim.json, ScoopInstaller/Main, 1
 bucket/kind.json, ScoopInstaller/Main, 1
 bucket/kindandfair.json, Calinou/scoop-games, 1
@@ -6540,7 +6547,7 @@ bucket/mpc.json, ScoopInstaller/Extras, 0
 bucket/mpd.json, ScoopInstaller/Main, 0
 bucket/mpg123.json, ScoopInstaller/Main, 0
 bucket/mplayer.json, ScoopInstaller/Extras, 0
-bucket/mpls.json, hoilc/scoop-lemon, 1
+bucket/mpls.json, ScoopInstaller/Extras, 1
 bucket/mpress.json, ScoopInstaller/Extras, 1
 bucket/mprocs.json, ScoopInstaller/Main, 1
 bucket/mps-dcdcdesigner.json, SayCV/scoop-cvp, 0
@@ -6895,7 +6902,7 @@ bucket/nom.json, hoilc/scoop-lemon, 1
 bucket/nomachine-enterprise.json, 42wim/scoop-bucket, 0
 bucket/nomacs.json, ScoopInstaller/Extras, 1
 bucket/nomad.json, ScoopInstaller/Main, 0
-bucket/nomeiryoui.json, chawyehsu/dorado, 1
+bucket/nomeiryoui.json, ScoopInstaller/Extras, 1
 bucket/nomino.json, ScoopInstaller/Main, 1
 bucket/none.json, kodybrown/scoop-nirsoft, 0
 bucket/noodlemanager.json, Deide/deide-bucket, 1
@@ -7356,6 +7363,8 @@ bucket/ov.json, ScoopInstaller/Main, 1
 bucket/overture.json, hoilc/scoop-lemon, 1
 bucket/ovftool.json, hoilc/scoop-lemon, 0
 bucket/owncloud.json, ScoopInstaller/Extras, 0
+bucket/oxen-server.json, hoilc/scoop-lemon, 1
+bucket/oxen.json, hoilc/scoop-lemon, 1
 bucket/oxipng.json, ScoopInstaller/Main, 1
 bucket/oxker.json, aliesbelik/poldi, 1
 bucket/oxlint.json, ScoopInstaller/Main, 1
@@ -7444,7 +7453,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -8231,6 +8240,7 @@ bucket/protobuf.json, ScoopInstaller/Extras, 1
 bucket/protoc-gen-grpc-web.json, ScoopInstaller/Main, 1
 bucket/protoc.json, echoiron/echo-scoop, 1
 bucket/protodec.json, TheCjw/scoop-retools, 1
+bucket/protofetch.json, hoilc/scoop-lemon, 1
 bucket/protolint.json, ScoopInstaller/Main, 1
 bucket/proton-launcher.json, kiennq/scoop-misc, 1
 bucket/proton-mail-export.json, ScoopInstaller/Extras, 1
@@ -8823,6 +8833,7 @@ bucket/rla.json, hoilc/scoop-lemon, 1
 bucket/rmaa.json, hoilc/scoop-lemon, 0
 bucket/rmedir.json, hoilc/scoop-lemon, 0
 bucket/rmg.json, Calinou/scoop-games, 1
+bucket/rmz.json, hoilc/scoop-lemon, 1
 bucket/rnacos.json, hoilc/scoop-lemon, 1
 bucket/rnote.json, ScoopInstaller/Extras, 1
 bucket/rnr.json, ScoopInstaller/Main, 1
@@ -8856,6 +8867,7 @@ bucket/rqlite.json, hoilc/scoop-lemon, 1
 bucket/rrdtool.json, hoilc/scoop-lemon, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rspleeter.json, hoilc/scoop-lemon, 1
+bucket/rsql.json, hoilc/scoop-lemon, 1
 bucket/rssguard-nightly.json, hoilc/scoop-lemon, 1
 bucket/rssguard.json, ScoopInstaller/Extras, 1
 bucket/rssowlnix.json, aoisummer/scoop-bucket, 1
@@ -8925,6 +8937,7 @@ bucket/runfromprocess.json, ScoopInstaller/Nirsoft, 0
 bucket/runjs.json, akirco/aki-apps, 1
 bucket/runpodctl.json, hoilc/scoop-lemon, 1
 bucket/runtimeclassesview.json, ScoopInstaller/Nirsoft, 0
+bucket/ruplacer.json, hoilc/scoop-lemon, 1
 bucket/rust-analyzer.json, ScoopInstaller/Main, 1
 bucket/rust-gnu.json, ScoopInstaller/Main, 0
 bucket/rust-msvc-nightly.json, ScoopInstaller/Versions, 0
@@ -9153,7 +9166,6 @@ bucket/sdcc-snapshot-i586.json, HUMORCE/nuke, 0
 bucket/sdcc-snapshot-x86_64.json, HUMORCE/nuke, 0
 bucket/sdcc.json, ScoopInstaller/Main, 0
 bucket/sdelete.json, niheaven/scoop-sysinternals, 1
-bucket/sdio.json, cc713/ownscoop, 0
 bucket/sdkman.json, kkzzhizhou/scoop-zapps, 1
 bucket/sdl2-image.json, ScoopInstaller/Extras, 1
 bucket/sdl2-mixer.json, ScoopInstaller/Extras, 1
@@ -9930,6 +9942,7 @@ bucket/taskbarx.json, ScoopInstaller/Extras, 1
 bucket/taskexplorer.json, hoilc/scoop-lemon, 1
 bucket/taskschedulerview.json, ScoopInstaller/Nirsoft, 0
 bucket/taskt.json, ScoopInstaller/Extras, 1
+bucket/tauon.json, ScoopInstaller/Extras, 1
 bucket/tautulli.json, amorphobia/siku, 1
 bucket/tb-Toolbox.json, Paxxs/Cluttered-bucket, 0
 bucket/tb-vol-scroll.json, ScoopInstaller/Extras, 1
@@ -10077,7 +10090,7 @@ bucket/testmem5.json, brian6932/dank-scoop, 1
 bucket/tetrs.json, hoilc/scoop-lemon, 1
 bucket/tetzle.json, hoilc/scoop-lemon, 0
 bucket/tev.json, ScoopInstaller/Extras, 1
-bucket/tex-fmt.json, hoilc/scoop-lemon, 1
+bucket/tex-fmt.json, ScoopInstaller/Extras, 1
 bucket/texlab.json, ScoopInstaller/Main, 1
 bucket/texlive-full.json, chawyehsu/dorado, 0
 bucket/texlive.json, chawyehsu/dorado, 0
@@ -10317,7 +10330,6 @@ bucket/tribler.json, ScoopInstaller/Extras, 1
 bucket/trid.json, ScoopInstaller/Main, 0
 bucket/trilium-cn.json, ViCrack/scoop-bucket, 1
 bucket/trilium.json, ScoopInstaller/Extras, 1
-bucket/triliumCN.json, cc713/ownscoop, 1
 bucket/triliumnext.json, ScoopInstaller/Extras, 1
 bucket/trillian.json, ScoopInstaller/Extras, 0
 bucket/trino-cli.json, hoilc/scoop-lemon, 0
@@ -10628,6 +10640,7 @@ bucket/veracrypt-legacy-np.json, aoisummer/scoop-bucket, 0
 bucket/veracrypt-np.json, aoisummer/scoop-bucket, 0
 bucket/verilator.json, SayCV/scoop-cvp, 1
 bucket/verilog-format.json, SayCV/scoop-cvp, 1
+bucket/versatiles.json, hoilc/scoop-lemon, 1
 bucket/verycapture.json, hoilc/scoop-lemon, 0
 bucket/verysimple.json, hoilc/scoop-lemon, 1
 bucket/verysync.json, kkzzhizhou/scoop-zapps, 0
@@ -10818,6 +10831,7 @@ bucket/waitforit.json, aliesbelik/poldi, 1
 bucket/wakatime-cli.json, ScoopInstaller/Main, 1
 bucket/wakemeonlan.json, ScoopInstaller/Nirsoft, 0
 bucket/walk.json, ScoopInstaller/Main, 1
+bucket/wallust.json, hoilc/scoop-lemon, 0
 bucket/wamr.json, hoilc/scoop-lemon, 1
 bucket/wapm-cli.json, ScoopInstaller/Main, 1
 bucket/warp-cloudflare.json, Weidows-projects/scoop-3rd, 0
