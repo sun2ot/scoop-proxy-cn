@@ -1,0 +1,50 @@
+{
+  "version": "b5308",
+  "description": "(CUDA 11 Backend) llama.cpp enables LLM inference with minimal setup and state-of-the-art performance on a wide range of hardware.",
+  "homepage": "https://github.com/ggml-org/llama.cpp",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": [
+        "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/b5308/llama-b5308-bin-win-cuda-cu11.7-x64.zip",
+        "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/b5308/cudart-llama-bin-win-cu11.7-x64.zip"
+      ],
+      "hash": [
+        "ffac3266953e4381d28a55d539bb5697e752f40f1043537375ab62087a4df52d",
+        "e7072996188af75406b8d34d1948188d9b2d430851b4adb83424bbe0fcd8c785"
+      ]
+    }
+  },
+  "bin": [
+    "llama-cli.exe",
+    "llama-server.exe",
+    "llama-perplexity.exe",
+    "llama-bench.exe",
+    "llama-run.exe",
+    "llama-batched.exe",
+    "llama-batched-bench.exe",
+    "llama-embedding.exe",
+    "llama-gguf.exe",
+    "llama-gguf-hash.exe",
+    "llama-gguf-split.exe",
+    "llama-imatrix.exe",
+    "llama-quantize.exe",
+    "llama-tokenize.exe",
+    "llama-tts.exe",
+    "llama-mtmd-cli.exe"
+  ],
+  "checkver": {
+    "url": "https://github.com/ggml-org/llama.cpp/releases.atom",
+    "regex": "Repository/\\d+/(b\\d+)<"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": [
+          "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-cuda-cu11.7-x64.zip",
+          "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/$version/cudart-llama-bin-win-cu11.7-x64.zip"
+        ]
+      }
+    }
+  }
+}

@@ -4441,6 +4441,7 @@ bucket/glary-utilities.json, ScoopInstaller/Extras, 0
 bucket/glasskube.json, hoilc/scoop-lemon, 1
 bucket/glasswire-lite-np.json, ScoopInstaller/Nonportable, 0
 bucket/glasswire-np.json, ScoopInstaller/Nonportable, 0
+bucket/glazewm-np.json, ScoopInstaller/Nonportable, 1
 bucket/glazewm.json, ScoopInstaller/Extras, 1
 bucket/gleam.json, ScoopInstaller/Main, 1
 bucket/glfw.json, ScoopInstaller/Main, 1
@@ -5946,10 +5947,9 @@ bucket/livesplit.json, Calinou/scoop-games, 1
 bucket/livetcpudpwatch.json, ScoopInstaller/Nirsoft, 0
 bucket/lky-officetools.json, ivaquero/scoopet, 1
 bucket/llama-cpp-adreno.json, hoilc/scoop-lemon, 1
-bucket/llama-cpp-avx512.json, hoilc/scoop-lemon, 1
+bucket/llama-cpp-cuda-11.json, hoilc/scoop-lemon, 1
 bucket/llama-cpp-cuda.json, hoilc/scoop-lemon, 1
 bucket/llama-cpp-hip.json, hoilc/scoop-lemon, 1
-bucket/llama-cpp-kompute.json, hoilc/scoop-lemon, 1
 bucket/llama-cpp-openblas.json, hoilc/scoop-lemon, 1
 bucket/llama-cpp-sycl.json, hoilc/scoop-lemon, 1
 bucket/llama-cpp-vulkan.json, hoilc/scoop-lemon, 1
