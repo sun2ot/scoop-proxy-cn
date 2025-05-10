@@ -1,12 +1,12 @@
 {
-  "version": "b5318",
+  "version": "b5332",
   "description": "(SYCL Backend) llama.cpp enables LLM inference with minimal setup and state-of-the-art performance on a wide range of hardware.",
   "homepage": "https://github.com/ggml-org/llama.cpp",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/b5318/llama-b5318-bin-win-sycl-x64.zip",
-      "hash": "10347b404ae2f8b6fcbde1880ead3727abbfcd4e0ec99042e9c5b3c531905555"
+      "url": "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/b5332/llama-b5332-bin-win-sycl-x64.zip",
+      "hash": "580c3c9ff5aa389a0b27cbe66307f1b1bc713aa5ffe6f507b991503ec07c79e0"
     }
   },
   "bin": [
@@ -15,12 +15,6 @@
     "llama-perplexity.exe",
     "llama-bench.exe",
     "llama-run.exe",
-    "llama-batched.exe",
-    "llama-batched-bench.exe",
-    "llama-embedding.exe",
-    "llama-gguf.exe",
-    "llama-gguf-hash.exe",
-    "llama-gguf-split.exe",
     "llama-imatrix.exe",
     "llama-quantize.exe",
     "llama-tokenize.exe",

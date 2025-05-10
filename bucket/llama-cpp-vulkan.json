@@ -1,12 +1,12 @@
 {
-  "version": "b5318",
+  "version": "b5332",
   "description": "(Vulkan Backend) llama.cpp enables LLM inference with minimal setup and state-of-the-art performance on a wide range of hardware.",
   "homepage": "https://github.com/ggml-org/llama.cpp",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/b5318/llama-b5318-bin-win-vulkan-x64.zip",
-      "hash": "67c7c75ade60d1cfc6789c7cd110c82598bf322f4d319f5a0b53d28f0263b553"
+      "url": "https://ghproxy.085404.xyz/https://github.com/ggml-org/llama.cpp/releases/download/b5332/llama-b5332-bin-win-vulkan-x64.zip",
+      "hash": "f35726ed3b092c9303f57e4814b836151e15280fc2e3b61798735d48fe9e9778"
     }
   },
   "bin": [
@@ -15,17 +15,15 @@
     "llama-perplexity.exe",
     "llama-bench.exe",
     "llama-run.exe",
-    "llama-batched.exe",
-    "llama-batched-bench.exe",
-    "llama-embedding.exe",
-    "llama-gguf.exe",
-    "llama-gguf-hash.exe",
-    "llama-gguf-split.exe",
     "llama-imatrix.exe",
     "llama-quantize.exe",
     "llama-tokenize.exe",
     "llama-tts.exe",
-    "llama-mtmd-cli.exe"
+    "llama-mtmd-cli.exe",
+    [
+      "rpc-server.exe",
+      "llama-rpc-server"
+    ]
   ],
   "checkver": {
     "url": "https://github.com/ggml-org/llama.cpp/releases.atom",
