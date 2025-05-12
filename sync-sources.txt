@@ -3123,7 +3123,7 @@ bucket/desktopnoteok.json, hoilc/scoop-lemon, 0
 bucket/desktoppet.json, amorphobia/siku, 1
 bucket/desktops.json, niheaven/scoop-sysinternals, 1
 bucket/desmume-stable.json, hermanjustnu/scoop-emulators, 1
-bucket/desmume.json, borger/scoop-emulators, 0
+bucket/desmume.json, hermanjustnu/scoop-emulators, 0
 bucket/deta.json, ScoopInstaller/Main, 1
 bucket/detect-it-easy.json, ScoopInstaller/Extras, 1
 bucket/detekt.json, ScoopInstaller/Main, 1
@@ -4245,7 +4245,7 @@ bucket/gamadv-xtd3.json, hoilc/scoop-lemon, 1
 bucket/game-backup-monitor.json, Calinou/scoop-games, 1
 bucket/game-editor.json, ScoopInstaller/Extras, 0
 bucket/gameboosthd.json, ScoopInstaller/Main, 0
-bucket/gamebuff.json, SayCV/scoop-cvp, 0
+bucket/gamebuff.json, Weidows-projects/scoop-3rd, 0
 bucket/gamesave-manager.json, starise/Scoop-Gaming, 0
 bucket/gammy.json, ScoopInstaller/Extras, 1
 bucket/gamutvision.json, seumsc/scoop-seu, 0
@@ -9238,6 +9238,7 @@ bucket/secureuxtheme.json, ScoopInstaller/Extras, 1
 bucket/securityquestionsview.json, ScoopInstaller/Nirsoft, 0
 bucket/securitysoftview.json, ScoopInstaller/Nirsoft, 0
 bucket/sed.json, ScoopInstaller/Main, 1
+bucket/see-cat.json, hoilc/scoop-lemon, 1
 bucket/sejda-pdf.json, ScoopInstaller/Extras, 0
 bucket/selene.json, ScoopInstaller/Extras, 1
 bucket/selenium-manager.json, ScoopInstaller/Main, 1
@@ -11683,6 +11684,7 @@ bucket/zpaq.json, hoilc/scoop-lemon, 0
 bucket/zpaqfranz-pakka.json, hoilc/scoop-lemon, 0
 bucket/zpaqfranz.json, hoilc/scoop-lemon, 1
 bucket/zpaste.json, hoilc/scoop-lemon, 0
+bucket/zrenamer.json, hoilc/scoop-lemon, 0
 bucket/zrok.json, ScoopInstaller/Extras, 1
 bucket/zsharp.json, ScoopInstaller/Extras, 1
 bucket/zstd.json, ScoopInstaller/Main, 1
