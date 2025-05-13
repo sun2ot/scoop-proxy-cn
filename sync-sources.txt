@@ -2174,7 +2174,7 @@ bucket/bombermaaan.json, Calinou/scoop-games, 0
 bucket/bomi.json, ScoopInstaller/Extras, 0
 bucket/bongocat-osu.json, Weidows-projects/scoop-3rd, 1
 bucket/bongocat.json, hoilc/scoop-lemon, 1
-bucket/bookget.json, hoilc/scoop-lemon, 1
+bucket/bookget.json, DoveBoy/Apps, 1
 bucket/bookhunter.json, ygguorun/scoop-bucket, 1
 bucket/bookstack.json, SayCV/scoop-cvp, 1
 bucket/bookxnote.json, hoilc/scoop-lemon, 0
@@ -4952,6 +4952,7 @@ bucket/hunterpie.json, Deide/deide-bucket, 1
 bucket/hunterpie2.json, Deide/deide-bucket, 1
 bucket/huorong-popblock.json, amorphobia/siku, 0
 bucket/hurl.json, ScoopInstaller/Main, 1
+bucket/hwameictl.json, hoilc/scoop-lemon, 1
 bucket/hwatch.json, aliesbelik/poldi, 1
 bucket/hwinfo.json, ScoopInstaller/Extras, 0
 bucket/hwmonitor.json, ScoopInstaller/Extras, 0
@@ -5041,6 +5042,7 @@ bucket/iehv.json, ScoopInstaller/Nirsoft, 0
 bucket/iepassview.json, kodybrown/scoop-nirsoft, 0
 bucket/iepv.json, ScoopInstaller/Nirsoft, 0
 bucket/ifly-pinyin.json, kkzzhizhou/scoop-zapps, 1
+bucket/ifrextractor-rs.json, ScoopInstaller/Extras, 1
 bucket/ifrextractor.json, seumsc/scoop-seu, 1
 bucket/igdm.json, ScoopInstaller/Extras, 1
 bucket/iggy-cli.json, hoilc/scoop-lemon, 1
@@ -5688,6 +5690,7 @@ bucket/kubeval.json, ScoopInstaller/Main, 1
 bucket/kubevela.json, hoilc/scoop-lemon, 1
 bucket/kubevpn.json, ScoopInstaller/Extras, 1
 bucket/kubewall.json, aliesbelik/poldi, 1
+bucket/kubewarden-cli.json, hoilc/scoop-lemon, 1
 bucket/kubexporter.json, hoilc/scoop-lemon, 1
 bucket/kubo.json, ScoopInstaller/Main, 0
 bucket/kugou.json, scoopcn/scoopcn, 0
@@ -10484,7 +10487,7 @@ bucket/udp2raw.json, hoilc/scoop-lemon, 1
 bucket/udpping.json, hoilc/scoop-lemon, 1
 bucket/udpspeeder.json, hoilc/scoop-lemon, 1
 bucket/uefitool-ne.json, seumsc/scoop-seu, 1
-bucket/uefitool.json, seumsc/scoop-seu, 1
+bucket/uefitool.json, ScoopInstaller/Extras, 1
 bucket/ueli-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/ueli.json, ScoopInstaller/Extras, 1
 bucket/uestudio.json, SayCV/scoop-cvp, 1
