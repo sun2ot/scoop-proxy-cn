@@ -6016,6 +6016,7 @@ bucket/loophole-cli.json, hoilc/scoop-lemon, 1
 bucket/loophole-desktop.json, hoilc/scoop-lemon, 1
 bucket/loot.json, Calinou/scoop-games, 1
 bucket/lorien.json, ScoopInstaller/Extras, 1
+bucket/lossless-audio-checker.json, starise/Scoop-Confetti, 0
 bucket/losslesscut.json, ScoopInstaller/Extras, 1
 bucket/lossywav.json, hoilc/scoop-lemon, 0
 bucket/love.json, ScoopInstaller/Extras, 1
