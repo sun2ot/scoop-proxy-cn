@@ -1894,7 +1894,7 @@ bucket/aya.json, hoilc/scoop-lemon, 1
 bucket/ayugram.json, ScoopInstaller/Extras, 1
 bucket/az-pim-cli.json, hoilc/scoop-lemon, 1
 bucket/azahar.json, Calinou/scoop-games, 1
-bucket/azcopy.json, ScoopInstaller/Main, 0
+bucket/azcopy.json, ScoopInstaller/Main, 1
 bucket/azd.json, ScoopInstaller/Extras, 1
 bucket/azdrawing2.json, hoilc/scoop-lemon, 0
 bucket/azpainter2.json, hoilc/scoop-lemon, 0
@@ -3148,6 +3148,7 @@ bucket/devmanview.json, ScoopInstaller/Nirsoft, 0
 bucket/devolutions-launcher.json, hoilc/scoop-lemon, 0
 bucket/devolutions-remote-desktop-manager-free.json, hoilc/scoop-lemon, 0
 bucket/devpod.json, chawyehsu/dorado, 1
+bucket/devproxy.json, hoilc/scoop-lemon, 1
 bucket/devrantron.json, ScoopInstaller/Extras, 1
 bucket/devsidecar.json, HCLonely/my-scoop-bucket, 1
 bucket/devspace.json, ScoopInstaller/Main, 1
@@ -8238,6 +8239,7 @@ bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
+bucket/preccalc.json, hoilc/scoop-lemon, 0
 bucket/premake.json, ScoopInstaller/Main, 1
 bucket/premake4.json, ScoopInstaller/Versions, 0
 bucket/premake5.json, ScoopInstaller/Versions, 1
@@ -9511,6 +9513,7 @@ bucket/slskd.json, ScoopInstaller/Extras, 1
 bucket/slu.json, littleli/Scoop-littleli, 1
 bucket/slumber.json, hoilc/scoop-lemon, 1
 bucket/slunkcrypt.json, hoilc/scoop-lemon, 0
+bucket/sm64coopdx.json, borger/scoop-emulators, 1
 bucket/smali.json, TheCjw/scoop-retools, 0
 bucket/smart-svg-viewer.json, naderi/scoop-bucket, 0
 bucket/smart-system-menu.json, hoilc/scoop-lemon, 1
@@ -10768,6 +10771,7 @@ bucket/video-thumbnails-maker.json, ScoopInstaller/Extras, 0
 bucket/video2x.json, seumsc/scoop-seu, 1
 bucket/videoaudiotools.json, ScoopInstaller/Nirsoft, 0
 bucket/videocacheview.json, ScoopInstaller/Nirsoft, 0
+bucket/videocaptioner.json, ivaquero/scoopet, 1
 bucket/videoduplicatefinder.json, hoilc/scoop-lemon, 1
 bucket/videofusion.json, hoilc/scoop-lemon, 1
 bucket/videosubfinder.json, seumsc/scoop-seu, 0
@@ -11664,6 +11668,7 @@ bucket/zeebe-modeler.json, ScoopInstaller/Extras, 1
 bucket/zeebe.json, ScoopInstaller/Main, 1
 bucket/zeebe1.3.json, ScoopInstaller/Versions, 1
 bucket/zelda-oot-soh.json, Deide/deide-bucket, 1
+bucket/zelda64recomp.json, borger/scoop-emulators, 1
 bucket/zen-browser.json, naderi/scoop-bucket, 1
 bucket/zenhan.json, ScoopInstaller/Main, 1
 bucket/zeplin.json, ScoopInstaller/Extras, 0
