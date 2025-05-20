@@ -1808,6 +1808,7 @@ bucket/audacity2.4.2.json, ScoopInstaller/Versions, 1
 bucket/audio-router.json, hoilc/scoop-lemon, 1
 bucket/audio-share-gui.json, DoveBoy/Apps, 1
 bucket/audio-share.json, DoveBoy/Apps, 1
+bucket/audiochecker.json, starise/Scoop-Confetti, 0
 bucket/audioswitcher.json, ScoopInstaller/Extras, 1
 bucket/audiotester.json, starise/Scoop-Confetti, 0
 bucket/audius.json, Weidows-projects/scoop-3rd, 0
@@ -2691,6 +2692,7 @@ bucket/codeblocks-portable.json, naderi/scoop-bucket, 0
 bucket/codeblocks.json, ScoopInstaller/Extras, 0
 bucket/codefresh-cli-v2.json, hoilc/scoop-lemon, 1
 bucket/codefresh-cli.json, hoilc/scoop-lemon, 1
+bucket/codelobster.json, hoilc/scoop-lemon, 0
 bucket/codeowners-validator.json, ScoopInstaller/Main, 1
 bucket/codeql.json, ScoopInstaller/Main, 1
 bucket/coder.json, ScoopInstaller/Main, 1
@@ -3544,6 +3546,7 @@ bucket/edgedriver.json, ScoopInstaller/Main, 0
 bucket/edgeless.json, ivaquero/scoopet, 0
 bucket/ediary.json, hoilc/scoop-lemon, 0
 bucket/ediary3.json, hoilc/scoop-lemon, 0
+bucket/edit.json, hoilc/scoop-lemon, 1
 bucket/editorconfig-checker.json, hoilc/scoop-lemon, 1
 bucket/editorconfig.json, ScoopInstaller/Main, 0
 bucket/editrename.json, hoilc/scoop-lemon, 1
@@ -6102,7 +6105,7 @@ bucket/lunarips.json, Deide/deide-bucket, 0
 bucket/lunarvim.json, ScoopInstaller/Extras, 1
 bucket/lunatask.json, starise/Scoop-Confetti, 1
 bucket/lunatic.json, batkiz/backit, 1
-bucket/lunatranslator.json, hoilc/scoop-lemon, 1
+bucket/lunatranslator.json, aoisummer/scoop-bucket, 0
 bucket/lune.json, hoilc/scoop-lemon, 1
 bucket/lutgen.json, ScoopInstaller/Main, 1
 bucket/lux.json, ScoopInstaller/Main, 1
@@ -6369,6 +6372,7 @@ bucket/microsoft-error-lookup-tool.json, hoilc/scoop-lemon, 0
 bucket/microsoft-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoft-lts-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoft-powerapps-cli.json, ScoopInstaller/Extras, 0
+bucket/microsoft-safety-scanner.json, hoilc/scoop-lemon, 0
 bucket/microsoft-teams.json, ScoopInstaller/Extras, 0
 bucket/microsoft11-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoft16-jdk.json, ScoopInstaller/Java, 0
@@ -10392,7 +10396,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, chawyehsu/dorado, 0
+bucket/trae-cn.json, akirco/aki-apps, 1
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik-certs-dumper.json, hoilc/scoop-lemon, 1
 bucket/traefik.json, ScoopInstaller/Main, 1
