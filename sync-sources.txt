@@ -2481,6 +2481,7 @@ bucket/chfs-tab-completion.json, DoveBoy/Apps, 0
 bucket/chfs.json, chawyehsu/dorado, 0
 bucket/chia-blockchain.json, chawyehsu/dorado, 1
 bucket/chiaki-ng.json, Calinou/scoop-games, 1
+bucket/chiko.json, aliesbelik/poldi, 1
 bucket/chinesesubfinder.json, hoilc/scoop-lemon, 1
 bucket/chinesesubtitleconversiontool.json, chawyehsu/dorado, 1
 bucket/chipmunk.json, ScoopInstaller/Extras, 1
@@ -2694,6 +2695,7 @@ bucket/codeblocks-portable.json, naderi/scoop-bucket, 0
 bucket/codeblocks.json, ScoopInstaller/Extras, 0
 bucket/codefresh-cli-v2.json, hoilc/scoop-lemon, 1
 bucket/codefresh-cli.json, hoilc/scoop-lemon, 1
+bucket/codegrab.json, hoilc/scoop-lemon, 1
 bucket/codelobster.json, hoilc/scoop-lemon, 0
 bucket/codeowners-validator.json, ScoopInstaller/Main, 1
 bucket/codeql.json, ScoopInstaller/Main, 1
@@ -3549,7 +3551,7 @@ bucket/edgedriver.json, ScoopInstaller/Main, 0
 bucket/edgeless.json, ivaquero/scoopet, 0
 bucket/ediary.json, hoilc/scoop-lemon, 0
 bucket/ediary3.json, hoilc/scoop-lemon, 0
-bucket/edit.json, hoilc/scoop-lemon, 1
+bucket/edit.json, ScoopInstaller/Main, 1
 bucket/editorconfig-checker.json, hoilc/scoop-lemon, 1
 bucket/editorconfig.json, ScoopInstaller/Main, 0
 bucket/editrename.json, hoilc/scoop-lemon, 1
@@ -4617,6 +4619,7 @@ bucket/gopeed-portable.json, DoveBoy/Apps, 1
 bucket/gopeed-web.json, DoveBoy/Apps, 1
 bucket/gopeed.json, ScoopInstaller/Extras, 1
 bucket/gopher360.json, ScoopInstaller/Extras, 1
+bucket/gopher64.json, hoilc/scoop-lemon, 1
 bucket/gopls.json, iquiw/scoop-bucket, 1
 bucket/goproxy.json, kkzzhizhou/scoop-zapps, 1
 bucket/gore.json, hoilc/scoop-lemon, 1
@@ -6110,7 +6113,7 @@ bucket/lunarips.json, Deide/deide-bucket, 0
 bucket/lunarvim.json, ScoopInstaller/Extras, 1
 bucket/lunatask.json, starise/Scoop-Confetti, 1
 bucket/lunatic.json, batkiz/backit, 1
-bucket/lunatranslator.json, aoisummer/scoop-bucket, 0
+bucket/lunatranslator.json, hoilc/scoop-lemon, 1
 bucket/lune.json, hoilc/scoop-lemon, 1
 bucket/lutgen.json, ScoopInstaller/Main, 1
 bucket/lux.json, ScoopInstaller/Main, 1
@@ -6520,6 +6523,7 @@ bucket/mitec-xml-viewer.json, naderi/scoop-bucket, 0
 bucket/mitmproxy.json, ScoopInstaller/Extras, 0
 bucket/mixctl.json, hoilc/scoop-lemon, 1
 bucket/mixin-messenger.json, chawyehsu/dorado, 1
+bucket/mkbrr.json, hoilc/scoop-lemon, 1
 bucket/mkcert.json, ScoopInstaller/Extras, 1
 bucket/mklnk.json, rasa/scoops, 1
 bucket/mkvmergebatcher.json, ScoopInstaller/Extras, 1
@@ -9201,6 +9205,7 @@ bucket/sarasagothic-term-sc-nf.json, AkinoKaede/maple, 1
 bucket/sasm.json, ScoopInstaller/Extras, 1
 bucket/sass-migrator.json, cderv/r-bucket, 1
 bucket/sass.json, ScoopInstaller/Main, 1
+bucket/satdump.json, hoilc/scoop-lemon, 1
 bucket/saturn-pcbtoolkit.json, SayCV/scoop-cvp, 0
 bucket/saturn.json, ScoopInstaller/Extras, 1
 bucket/saucelabs-forwarder.json, hoilc/scoop-lemon, 1
