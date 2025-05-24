@@ -1,0 +1,38 @@
+{
+  "version": "3.1.3",
+  "description": "Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.",
+  "homepage": "https://github.com/rusq/slackdump",
+  "license": "GPL-3.0-only",
+  "architecture": {
+    "64bit": {
+      "url": "https://ghproxy.085404.xyz/https://github.com/rusq/slackdump/releases/download/v3.1.3/slackdump_Windows_x86_64.zip",
+      "hash": "ea91f9bd0dd39a37c1a67d0b995b4c3df3f1c3fac3ee2de493607d049ea7aa0b"
+    },
+    "32bit": {
+      "url": "https://ghproxy.085404.xyz/https://github.com/rusq/slackdump/releases/download/v3.1.3/slackdump_Windows_i386.zip",
+      "hash": "36268016c02e6feaaead9d73b7215227d357cfca852b61e6600a2cbe6c0517fe"
+    },
+    "arm64": {
+      "url": "https://ghproxy.085404.xyz/https://github.com/rusq/slackdump/releases/download/v3.1.3/slackdump_Windows_arm64.zip",
+      "hash": "8c68451193c256ca081c74ab7f40553078bfe3eccc6a9e85e6b9be57c1a9f32a"
+    }
+  },
+  "bin": "slackdump.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://ghproxy.085404.xyz/https://github.com/rusq/slackdump/releases/download/v$version/slackdump_Windows_x86_64.zip"
+      },
+      "32bit": {
+        "url": "https://ghproxy.085404.xyz/https://github.com/rusq/slackdump/releases/download/v$version/slackdump_Windows_i386.zip"
+      },
+      "arm64": {
+        "url": "https://ghproxy.085404.xyz/https://github.com/rusq/slackdump/releases/download/v$version/slackdump_Windows_arm64.zip"
+      }
+    },
+    "hash": {
+      "url": "$baseurl/checksums.txt"
+    }
+  }
+}
