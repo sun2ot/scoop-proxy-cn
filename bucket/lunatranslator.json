@@ -1,18 +1,22 @@
 {
-  "version": "9.4.6.2-202505181749",
-  "description": "LunaTranslator is a Visual Novel translate tool, support clipboard / OCR/ HOOK, support 40+ translate engines.",
+  "version": "10.0.0.4",
+  "description": "Galgame翻译工具, 支持剪贴板, OCR, HOOK, 支持30余种翻译工具, 支持TTS",
   "homepage": "https://github.com/HIllya51/LunaTranslator",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v9.4.6.2/LunaTranslator_x64.zip",
-      "extract_dir": "LunaTranslator_x64",
-      "hash": "74e644a70ef56a50051228e65d198d562a8670a2b6c443984d98607496d052f6"
+      "url": "https://ghproxy.085404.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v10.0.0.4/LunaTranslator_x64_win10.zip",
+      "hash": "815b29660cce6a9a540f61f08d95704c3c564f27e2fc989c34e28f125036f250",
+      "pre_install": [
+        "Rename-Item -Path \"$($dir)\\LunaTranslator*\" -NewName \"dir\" -Force",
+        "Get-ChildItem -Path \"$($dir)\\dir\" -Recurse | ForEach-Object { Move-Item -Path $_.FullName -Destination \"$($dir)\\$($_.Name)\" -Force }",
+        "Remove-Item -Path \"$($dir)\\dir\" -Recurse -Force"
+      ]
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v9.4.6.2/LunaTranslator_x86.zip",
-      "extract_dir": "LunaTranslator_x86",
-      "hash": "71027727ccbe5f3a9a30220e9536af3edfc6f694457058414a99fb99d761ec80"
+      "url": "https://ghproxy.085404.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v10.0.0.4/LunaTranslator_x86_win7.zip",
+      "extract_dir": "LunaTranslator*",
+      "hash": "22470f59eae6ed1048cbf37a6e2eab4ad19694c3e48be91b68d4fd4ebd58aff6"
     }
   },
   "shortcuts": [
@@ -30,23 +34,14 @@
     "translation_record",
     "cache"
   ],
-  "checkver": {
-    "script": [
-      "try { $detail = Invoke-WebRequest 'https://github.com/HIllya51/LunaTranslator/releases.atom' -MaximumRedirection 0 -ErrorAction Ignore } catch { $_.Exception.Response }",
-      "$atom = [xml]$detail.Content",
-      "$latest = $atom.feed.entry | Select-Object -First 1",
-      "$result =  $latest.id + '-' + ([DateTime]$latest.updated).ToUniversalTime().AddHours(8).ToString('yyyyMMddHHmm')",
-      "return $result"
-    ],
-    "regex": "v((?<main>[\\d.]+)-\\d+)"
-  },
+  "checkver": "github",
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v$matchMain/LunaTranslator_x64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator_x64_win10.zip"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v$matchMain/LunaTranslator_x86.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/HIllya51/LunaTranslator/releases/download/v$version/LunaTranslator_x86_win7.zip"
       }
     }
   }

@@ -5499,6 +5499,7 @@ bucket/k0sctl.json, hoilc/scoop-lemon, 1
 bucket/k2pdfopt.json, seumsc/scoop-seu, 1
 bucket/k2tf.json, ScoopInstaller/Main, 1
 bucket/k3d.json, ScoopInstaller/Main, 1
+bucket/k3kcli.json, hoilc/scoop-lemon, 1
 bucket/k3sup.json, ScoopInstaller/Main, 1
 bucket/k6.json, ScoopInstaller/Main, 1
 bucket/k8sgpt.json, hoilc/scoop-lemon, 1
@@ -5690,7 +5691,6 @@ bucket/kops.json, ScoopInstaller/Main, 1
 bucket/kosli.json, hoilc/scoop-lemon, 1
 bucket/kotatogram-beta.json, ScoopInstaller/Versions, 1
 bucket/kotatogram.json, ScoopInstaller/Extras, 1
-bucket/kotatsu-dl.json, cc713/ownscoop, 1
 bucket/kotlin-interactive-shell.json, ScoopInstaller/Extras, 1
 bucket/kotlin-native.json, ScoopInstaller/Main, 1
 bucket/kotlin.json, ScoopInstaller/Main, 1
@@ -6144,7 +6144,7 @@ bucket/lunarips.json, Deide/deide-bucket, 0
 bucket/lunarvim.json, ScoopInstaller/Extras, 1
 bucket/lunatask.json, starise/Scoop-Confetti, 1
 bucket/lunatic.json, batkiz/backit, 1
-bucket/lunatranslator.json, hoilc/scoop-lemon, 1
+bucket/lunatranslator.json, cc713/ownscoop, 1
 bucket/lune.json, hoilc/scoop-lemon, 1
 bucket/lutgen.json, ScoopInstaller/Main, 1
 bucket/lux.json, ScoopInstaller/Main, 1
@@ -11429,7 +11429,6 @@ bucket/woodpecker.json, ViCrack/scoop-bucket, 1
 bucket/word-regex-tool.json, ygguorun/scoop-bucket, 0
 bucket/wordle.json, brian6932/dank-scoop, 1
 bucket/wordmark.json, ScoopInstaller/Extras, 1
-bucket/work-crawler.json, cc713/ownscoop, 1
 bucket/workman-np.json, ScoopInstaller/Nonportable, 0
 bucket/workman-p-np.json, ScoopInstaller/Nonportable, 0
 bucket/workman-p-uk-np.json, ScoopInstaller/Nonportable, 0
