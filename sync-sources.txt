@@ -3102,6 +3102,7 @@ bucket/deck.json, hoilc/scoop-lemon, 1
 bucket/decrypttools.json, ViCrack/scoop-bucket, 1
 bucket/deemix-portable.json, hu3rror/scoop-muggle, 0
 bucket/deep-explorer.json, amorphobia/siku, 0
+bucket/deepchat.json, hoilc/scoop-lemon, 1
 bucket/deepgit.json, ScoopInstaller/Extras, 0
 bucket/deepgit402.json, ScoopInstaller/Versions, 0
 bucket/deepl.json, ScoopInstaller/Extras, 0
@@ -3647,6 +3648,7 @@ bucket/enso.json, ScoopInstaller/Extras, 1
 bucket/ente-auth.json, hoilc/scoop-lemon, 1
 bucket/ente-cli.json, hoilc/scoop-lemon, 1
 bucket/ente-photos.json, hoilc/scoop-lemon, 1
+bucket/envfetch.json, aliesbelik/poldi, 1
 bucket/envsubst.json, ScoopInstaller/Main, 1
 bucket/eolfix.json, rasa/scoops, 1
 bucket/epic-games-launcher-cvp.json, SayCV/scoop-cvp, 0
@@ -6144,7 +6146,7 @@ bucket/lunarips.json, Deide/deide-bucket, 0
 bucket/lunarvim.json, ScoopInstaller/Extras, 1
 bucket/lunatask.json, starise/Scoop-Confetti, 1
 bucket/lunatic.json, batkiz/backit, 1
-bucket/lunatranslator.json, cc713/ownscoop, 1
+bucket/lunatranslator.json, hoilc/scoop-lemon, 1
 bucket/lune.json, hoilc/scoop-lemon, 1
 bucket/lutgen.json, ScoopInstaller/Main, 1
 bucket/lux.json, ScoopInstaller/Main, 1
@@ -8312,7 +8314,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqrs.json, hoilc/scoop-lemon, 1
 bucket/praat.json, ScoopInstaller/Extras, 1
@@ -10952,7 +10954,6 @@ bucket/vmutils.json, hoilc/scoop-lemon, 1
 bucket/vmware-autounlocker.json, naderi/scoop-bucket, 1
 bucket/vmware-horizon-client-np.json, ScoopInstaller/Nonportable, 0
 bucket/vmware-workstation-player-np.json, ScoopInstaller/Nonportable, 0
-bucket/vmware-workstation-pro-np.json, brian6932/dank-scoop, 0
 bucket/vmware-ws-pro.json, SayCV/scoop-cvp, 0
 bucket/vncpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/vncviewer.json, ScoopInstaller/Extras, 0
