@@ -3153,7 +3153,7 @@ bucket/desktopnoteok.json, hoilc/scoop-lemon, 0
 bucket/desktoppet.json, amorphobia/siku, 1
 bucket/desktops.json, niheaven/scoop-sysinternals, 1
 bucket/desmume-stable.json, hermanjustnu/scoop-emulators, 1
-bucket/desmume.json, hermanjustnu/scoop-emulators, 0
+bucket/desmume.json, borger/scoop-emulators, 0
 bucket/deta.json, ScoopInstaller/Main, 1
 bucket/detect-it-easy.json, ScoopInstaller/Extras, 1
 bucket/detekt.json, ScoopInstaller/Main, 1
@@ -3324,7 +3324,7 @@ bucket/doh-proxy.json, hoilc/scoop-lemon, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -3654,6 +3654,7 @@ bucket/enso.json, ScoopInstaller/Extras, 1
 bucket/ente-auth.json, hoilc/scoop-lemon, 1
 bucket/ente-cli.json, hoilc/scoop-lemon, 1
 bucket/ente-photos.json, hoilc/scoop-lemon, 1
+bucket/envconsul.json, hoilc/scoop-lemon, 0
 bucket/envfetch.json, aliesbelik/poldi, 1
 bucket/envsubst.json, ScoopInstaller/Main, 1
 bucket/eolfix.json, rasa/scoops, 1
@@ -4863,6 +4864,7 @@ bucket/haylxon.json, hoilc/scoop-lemon, 1
 bucket/hbuilderx.json, echoiron/echo-scoop, 0
 bucket/hck.json, hoilc/scoop-lemon, 1
 bucket/hcloud.json, ScoopInstaller/Main, 1
+bucket/hcp.json, hoilc/scoop-lemon, 0
 bucket/hdcleaner.json, naderi/scoop-bucket, 0
 bucket/hdtune.json, echoiron/echo-scoop, 0
 bucket/headlamp.json, ScoopInstaller/Extras, 1
@@ -5555,7 +5557,7 @@ bucket/katago-opencl.json, hoilc/scoop-lemon, 1
 bucket/katana.json, hoilc/scoop-lemon, 1
 bucket/kate-nightly.json, ScoopInstaller/Versions, 0
 bucket/kate.json, ScoopInstaller/Extras, 0
-bucket/katrain.json, ygguorun/scoop-bucket, 1
+bucket/katrain.json, Calinou/scoop-games, 1
 bucket/kavita.json, ScoopInstaller/Extras, 1
 bucket/kawaii-player.json, ScoopInstaller/Extras, 1
 bucket/kawanime.json, ScoopInstaller/Extras, 1
@@ -6667,6 +6669,7 @@ bucket/mouse-tester.json, couleur-tweak-tips/utils, 1
 bucket/mousegesturel-ahk.json, mo-san/scoop-bucket, 0
 bucket/mouseinc.json, hoilc/scoop-lemon, 0
 bucket/mousejiggler.json, ScoopInstaller/Extras, 1
+bucket/mousemaster.json, hoilc/scoop-lemon, 1
 bucket/move2kube.json, hoilc/scoop-lemon, 1
 bucket/movefile.json, niheaven/scoop-sysinternals, 1
 bucket/mozbackup.json, ScoopInstaller/Extras, 0
@@ -7411,6 +7414,7 @@ bucket/openshift-origin-client.json, ScoopInstaller/Main, 1
 bucket/openshot.json, ScoopInstaller/Extras, 1
 bucket/opensoldat.json, Deide/deide-bucket, 1
 bucket/openspades.json, Calinou/scoop-games, 1
+bucket/openspeedy.json, hoilc/scoop-lemon, 1
 bucket/openssh-msys.json, ScoopInstaller/Versions, 0
 bucket/openssh.json, ScoopInstaller/Main, 1
 bucket/openssl-light.json, ScoopInstaller/Main, 1
@@ -9978,7 +9982,7 @@ bucket/strun.json, ScoopInstaller/Nirsoft, 0
 bucket/struts2vulsscantools.json, ViCrack/scoop-bucket, 1
 bucket/sts.json, ScoopInstaller/Extras, 0
 bucket/sts396.json, ScoopInstaller/Versions, 0
-bucket/sttr.json, aliesbelik/poldi, 1
+bucket/sttr.json, hoilc/scoop-lemon, 1
 bucket/study-xxqg-sjkhsl.json, DoveBoy/Apps, 1
 bucket/stunnel-beta.json, ScoopInstaller/Versions, 0
 bucket/stunnel.json, ScoopInstaller/Extras, 0
@@ -10285,6 +10289,7 @@ bucket/termusic.json, ScoopInstaller/Main, 1
 bucket/tern-subtitle-file-translator.json, ScoopInstaller/Extras, 1
 bucket/terraform-docs.json, ScoopInstaller/Main, 1
 bucket/terraform-ls.json, ScoopInstaller/Main, 0
+bucket/terraform-mcp-server.json, hoilc/scoop-lemon, 0
 bucket/terraform-provider-ibm.json, ScoopInstaller/Main, 1
 bucket/terraform-switcher.json, ScoopInstaller/Main, 1
 bucket/terraform.json, ScoopInstaller/Main, 0
@@ -10644,6 +10649,7 @@ bucket/typos.json, ScoopInstaller/Main, 1
 bucket/typst.json, ScoopInstaller/Main, 1
 bucket/uabea.json, Calinou/scoop-games, 1
 bucket/uber-apk-signer.json, ScoopInstaller/Main, 1
+bucket/ubisoft-chroma.json, hoilc/scoop-lemon, 0
 bucket/ubisoftconnect.json, ScoopInstaller/Versions, 0
 bucket/uboost.json, hoilc/scoop-lemon, 1
 bucket/ubports-installer.json, ScoopInstaller/Extras, 1
@@ -10992,6 +10998,7 @@ bucket/voicemeeter-np.json, ScoopInstaller/Nonportable, 0
 bucket/voicemeeter-potato-np.json, ScoopInstaller/Nonportable, 0
 bucket/voiceroid-util.json, mo-san/scoop-bucket, 1
 bucket/voicevox-gpu.json, hu3rror/scoop-muggle, 1
+bucket/voidimageviewer.json, hoilc/scoop-lemon, 1
 bucket/vokoscreenng-np.json, ScoopInstaller/Nonportable, 0
 bucket/volcengine-cli.json, hoilc/scoop-lemon, 1
 bucket/volta-tab-completion.json, DoveBoy/Apps, 0
