@@ -1,16 +1,16 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.3",
   "description": "A powerful tool for using AWS Identity Center for the CLI and web console.",
   "homepage": "https://synfinatic.github.io/aws-sso-cli/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/synfinatic/aws-sso-cli/releases/download/v2.0.1/aws-sso-2.0.1-windows-amd64.exe#/aws-sso.exe",
-      "hash": "d86f9d0fb6e5ac523464d92e672f24fd22ba9257f5208700b646aaa8b3d1138b"
+      "url": "https://ghproxy.085404.xyz/https://github.com/synfinatic/aws-sso-cli/releases/download/v2.0.3/aws-sso-2.0.3-windows-amd64.exe#/aws-sso.exe",
+      "hash": "fb72cd34b1bd82addfc1d34e3ef72aac0523f79df223d9f3ca2541d651be6df4"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/synfinatic/aws-sso-cli/releases/download/v2.0.1/aws-sso-2.0.1-windows-386.exe#/aws-sso.exe",
-      "hash": "71aff6c7cda95537c4b1e284ba658cba44a7956c0348cf08e4582c605f83858d"
+      "url": "https://ghproxy.085404.xyz/https://github.com/synfinatic/aws-sso-cli/releases/download/v2.0.3/aws-sso-2.0.3-windows-386.exe#/aws-sso.exe",
+      "hash": "1b01df229461ea1ea2ea100968ec8d527f8ff08d7be05bf87c602b4754e1acbf"
     }
   },
   "bin": "aws-sso.exe",

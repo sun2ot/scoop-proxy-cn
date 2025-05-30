@@ -1395,7 +1395,7 @@ bucket/WizTree-Portable.json, ACooper81/scoop-apps, 0
 bucket/WondershareUniconverter.json, Weidows-projects/scoop-3rd, 0
 bucket/WsaToolbox.json, kkzzhizhou/scoop-zapps, 0
 bucket/WuMgr-Portable.json, ACooper81/scoop-apps, 1
-bucket/WubiLex.json, hoilc/scoop-lemon, 0
+bucket/WubiLex.json, kkzzhizhou/scoop-zapps, 0
 bucket/XAMPP-Portable.json, ACooper81/scoop-apps, 0
 bucket/XJad.json, zhoujin7/tomato, 0
 bucket/XStudio.json, Weidows-projects/scoop-3rd, 0
@@ -3212,7 +3212,6 @@ bucket/dim.json, akirco/aki-apps, 1
 bucket/dingtalk-gov.json, scoopcn/scoopcn, 0
 bucket/dingtalk.json, ivaquero/scoopet, 0
 bucket/dino-rss.json, batkiz/backit, 1
-bucket/dinorss.json, HUMORCE/nuke, 1
 bucket/dioxus-cli.json, hoilc/scoop-lemon, 1
 bucket/directory-compare.json, naderi/scoop-bucket, 0
 bucket/directory-predictor.json, akirco/aki-apps, 1
@@ -3261,7 +3260,7 @@ bucket/djvutoy-eng.json, hoilc/scoop-lemon, 0
 bucket/djvutoy.json, hoilc/scoop-lemon, 0
 bucket/dllexp.json, ScoopInstaller/Nirsoft, 0
 bucket/dllexportviewer.json, kodybrown/scoop-nirsoft, 0
-bucket/dlss-swapper.json, Deide/deide-bucket, 1
+bucket/dlss-swapper.json, hu3rror/scoop-muggle, 1
 bucket/dlss-updater.json, hoilc/scoop-lemon, 1
 bucket/dm2.json, naderi/scoop-bucket, 1
 bucket/dmd.json, ScoopInstaller/Main, 0
@@ -3318,7 +3317,6 @@ bucket/docto.json, ScoopInstaller/Main, 1
 bucket/dog.json, ScoopInstaller/Main, 1
 bucket/dogecoin-core.json, naderi/scoop-bucket, 1
 bucket/dogecoincore.json, chawyehsu/dorado, 1
-bucket/dogehouse.json, HUMORCE/nuke, 1
 bucket/doggo.json, ScoopInstaller/Main, 1
 bucket/doh-proxy.json, hoilc/scoop-lemon, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
@@ -4758,6 +4756,7 @@ bucket/grcov.json, hoilc/scoop-lemon, 1
 bucket/green-tunnel.json, ScoopInstaller/Extras, 1
 bucket/greenlight.json, ScoopInstaller/Extras, 1
 bucket/greenluma-gui.json, hu3rror/scoop-muggle, 1
+bucket/greenmask.json, hoilc/scoop-lemon, 1
 bucket/greenshot-unstable.json, ScoopInstaller/Versions, 1
 bucket/greenshot.json, ScoopInstaller/Extras, 1
 bucket/grep-win.json, naderi/scoop-bucket, 1
