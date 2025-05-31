@@ -1,23 +1,23 @@
 {
-  "version": "1.14.0",
+  "version": "1.14.2",
   "description": "A better offline editor for Scratch 3.",
   "homepage": "https://desktop.turbowarp.org/",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/TurboWarp/desktop/releases/download/v1.14.0/TurboWarp-Setup-1.14.0-x64.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/TurboWarp/desktop/releases/download/v1.14.2/TurboWarp-Setup-1.14.2-x64.exe#/dl.7z",
       "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
-      "hash": "ed4ce529f99db36ee29e2ddb480eaf285148e506a7c2cd56fe495b1686f3ad47"
+      "hash": "9aa4bd9799984ed6bad35b52d572b3c5c5b4836c5c910e4736e93f03576f8624"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/TurboWarp/desktop/releases/download/v1.14.0/TurboWarp-Setup-1.14.0-ia32.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/TurboWarp/desktop/releases/download/v1.14.2/TurboWarp-Setup-1.14.2-ia32.exe#/dl.7z",
       "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\"",
-      "hash": "b72631e84007a034da9dfb655b672396afeace5796e70f6ff5860288b466405e"
+      "hash": "7a736a06839c8e89ba1ab88f4a821589e5f897233f2ddd8db0bf40c335c54caf"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/TurboWarp/desktop/releases/download/v1.14.0/TurboWarp-Setup-1.14.0-arm64.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/TurboWarp/desktop/releases/download/v1.14.2/TurboWarp-Setup-1.14.2-arm64.exe#/dl.7z",
       "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
-      "hash": "09c2ae081da9aa2e52eef7431d5ae86aa6ab52177a1e5b210cddb08fbc53d1fc"
+      "hash": "9162f90b5b76b9de780b016cba1ca22ea8276186022667503ee78b0aaea09fb0"
     }
   },
   "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\`$R0\", \"$dir\\resources\\app-update.yml\"  -Force -Recurse",
