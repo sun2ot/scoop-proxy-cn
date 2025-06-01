@@ -7622,7 +7622,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -8511,7 +8511,7 @@ bucket/pulsarctl.json, hoilc/scoop-lemon, 1
 bucket/pulsarctl@3.json, hoilc/scoop-lemon, 1
 bucket/pulseview.json, ScoopInstaller/Extras, 0
 bucket/pulumi-esc.json, hoilc/scoop-lemon, 1
-bucket/pulumi.json, ScoopInstaller/Main, 0
+bucket/pulumi.json, ScoopInstaller/Main, 1
 bucket/pulumictl.json, hoilc/scoop-lemon, 1
 bucket/punzip.json, beerpiss/scoop-bucket, 1
 bucket/pup.json, ScoopInstaller/Main, 1
