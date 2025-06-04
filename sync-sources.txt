@@ -2990,6 +2990,7 @@ bucket/curli.json, aliesbelik/poldi, 1
 bucket/curlie.json, ScoopInstaller/Main, 1
 bucket/currports.json, kodybrown/scoop-nirsoft, 0
 bucket/currprocess.json, kodybrown/scoop-nirsoft, 0
+bucket/cursor-latest.json, ScoopInstaller/Versions, 0
 bucket/cursor.json, ScoopInstaller/Extras, 0
 bucket/custom-resolution-utility.json, TheRandomLabs/Scoop-Bucket, 0
 bucket/customasm.json, hoilc/scoop-lemon, 1
@@ -8917,6 +8918,8 @@ bucket/reko.json, TheCjw/scoop-retools, 1
 bucket/rekor-cli.json, hoilc/scoop-lemon, 1
 bucket/reloaded-ii.json, Calinou/scoop-games, 1
 bucket/remetrics.json, hoilc/scoop-lemon, 1
+bucket/remnant-save-guardian.json, brian6932/dank-scoop, 1
+bucket/remnant-save-manager.json, brian6932/dank-scoop, 1
 bucket/remnote.json, echoiron/echo-scoop, 0
 bucket/remodel.json, hoilc/scoop-lemon, 1
 bucket/remotedesktoppassview.json, kodybrown/scoop-nirsoft, 0
@@ -9212,7 +9215,7 @@ bucket/sandboxdiff.json, hoilc/scoop-lemon, 0
 bucket/sandboxie-classic-np.json, ScoopInstaller/Nonportable, 1
 bucket/sandboxie-classic-portable.json, DoveBoy/Apps, 1
 bucket/sandboxie-plus-np.json, ScoopInstaller/Nonportable, 1
-bucket/sandboxie-plus.json, ygguorun/scoop-bucket, 1
+bucket/sandboxie-plus.json, DoveBoy/Apps, 1
 bucket/sandman.json, ScoopInstaller/Extras, 1
 bucket/sapling.json, ScoopInstaller/Main, 1
 bucket/sapmachine-jdk.json, ScoopInstaller/Java, 1
@@ -11173,7 +11176,6 @@ bucket/wechatexporter.json, amorphobia/siku, 1
 bucket/wechatmoments.json, DoveBoy/Apps, 1
 bucket/wechatrealfriends.json, DoveBoy/Apps, 1
 bucket/wechatvideosniffer.json, DoveBoy/Apps, 1
-bucket/wechatwebdevtools.json, ivaquero/scoopet, 0
 bucket/wecom.json, ScoopInstaller/Extras, 0
 bucket/weebp.json, ScoopInstaller/Extras, 1
 bucket/wegame.json, akirco/aki-apps, 0
