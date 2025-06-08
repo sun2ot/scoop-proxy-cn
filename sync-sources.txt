@@ -2864,6 +2864,7 @@ bucket/cppcryptfs.json, hoilc/scoop-lemon, 1
 bucket/cppcryptfsctl.json, ScoopInstaller/Main, 1
 bucket/cprocess.json, ScoopInstaller/Nirsoft, 0
 bucket/cpu-v.json, ScoopInstaller/Extras, 0
+bucket/cpu-z-arm.json, chawyehsu/dorado, 0
 bucket/cpu-z-cn.json, cc713/ownscoop, 0
 bucket/cpu-z-zh-cn.json, amorphobia/siku, 0
 bucket/cpu-z-zh.json, aoisummer/scoop-bucket, 0
@@ -3018,7 +3019,7 @@ bucket/cyberduck.json, ScoopInstaller/Extras, 0
 bucket/cybr-cli.json, hoilc/scoop-lemon, 1
 bucket/cyclonedx-cli.json, hoilc/scoop-lemon, 1
 bucket/cygwin-cvp.json, SayCV/scoop-cvp, 1
-bucket/cygwin-libs-hentai.json, Weidows-projects/scoop-3rd, 1
+bucket/cygwin-libs-hentai.json, Weidows-projects/scoop-3rd, 0
 bucket/cygwin.json, ScoopInstaller/Main, 0
 bucket/cyme.json, hoilc/scoop-lemon, 1
 bucket/czkawka-gui.json, ScoopInstaller/Extras, 1
