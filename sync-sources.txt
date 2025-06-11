@@ -581,7 +581,6 @@ bucket/IntelOneMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IntelOneMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IntelOneMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/IntelligentNavalGun.json, Darkatse/Scoop-KanColle, 1
-bucket/Iobitdriverbooster.json, echoiron/echo-scoop, 0
 bucket/Iosevka-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Iosevka-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Iosevka-NF.json, matthewjberger/scoop-nerd-fonts, 1
@@ -4911,7 +4910,7 @@ bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroic.json, hoilc/scoop-lemon, 1
 bucket/heroku-cli.json, ScoopInstaller/Main, 0
 bucket/hetty.json, aliesbelik/poldi, 1
-bucket/heu-kms-activator.json, DoveBoy/Apps, 1
+bucket/heu-kms-activator.json, ivaquero/scoopet, 1
 bucket/hex-editor-neo.json, ScoopInstaller/Extras, 0
 bucket/hex2dec.json, niheaven/scoop-sysinternals, 1
 bucket/hexalate.json, hoilc/scoop-lemon, 0
@@ -5256,6 +5255,7 @@ bucket/iobit-system-information.json, DoveBoy/Apps, 0
 bucket/iobit-undelete.json, chawyehsu/dorado, 0
 bucket/iobit-uninstaller.json, DoveBoy/Apps, 0
 bucket/iobit-unlocker.json, chawyehsu/dorado, 0
+bucket/iobitdriverbooster.json, echoiron/echo-scoop, 0
 bucket/iobituninstaller.json, echoiron/echo-scoop, 0
 bucket/iographica.json, ScoopInstaller/Extras, 1
 bucket/iortcw.json, Calinou/scoop-games, 1
@@ -8702,6 +8702,7 @@ bucket/quakespasm.json, Calinou/scoop-games, 0
 bucket/qualitymuncher.json, couleur-tweak-tips/utils, 1
 bucket/quardcrt.json, hoilc/scoop-lemon, 1
 bucket/quark-cloud-drive.json, amorphobia/siku, 0
+bucket/quarkdown.json, hoilc/scoop-lemon, 1
 bucket/quarkpan.json, akirco/aki-apps, 0
 bucket/quarkus-cli.json, ScoopInstaller/Main, 1
 bucket/quarto-prerelease.json, cderv/r-bucket, 1
@@ -9187,7 +9188,7 @@ bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
 bucket/rymdport.json, hoilc/scoop-lemon, 1
-bucket/ryujinx-canary.json, borger/scoop-emulators, 0
+bucket/ryujinx-canary.json, Calinou/scoop-games, 0
 bucket/ryujinx.json, Calinou/scoop-games, 0
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
