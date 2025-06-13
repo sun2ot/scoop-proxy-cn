@@ -4913,7 +4913,7 @@ bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroic.json, hoilc/scoop-lemon, 1
 bucket/heroku-cli.json, ScoopInstaller/Main, 0
 bucket/hetty.json, aliesbelik/poldi, 1
-bucket/heu-kms-activator.json, DoveBoy/Apps, 1
+bucket/heu-kms-activator.json, ivaquero/scoopet, 1
 bucket/hex-editor-neo.json, ScoopInstaller/Extras, 0
 bucket/hex2dec.json, niheaven/scoop-sysinternals, 1
 bucket/hexalate.json, hoilc/scoop-lemon, 0
@@ -6846,6 +6846,7 @@ bucket/musique.json, ScoopInstaller/Extras, 0
 bucket/mustache-go.json, hoilc/scoop-lemon, 1
 bucket/mutagen-compose.json, ScoopInstaller/Main, 1
 bucket/mutagen.json, ScoopInstaller/Main, 1
+bucket/muxun-accelerator.json, Weidows-projects/scoop-3rd, 0
 bucket/mvmc.json, rasa/scoops, 0
 bucket/mvndaemon.json, ScoopInstaller/Main, 0
 bucket/mweather.json, ScoopInstaller/Nirsoft, 0
@@ -9944,7 +9945,6 @@ bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
 bucket/steam-rom-manager.json, Calinou/scoop-games, 1
-bucket/steam-theme-Zehn.json, Weidows-projects/scoop-3rd, 1
 bucket/steam-tools-ng.json, hoilc/scoop-lemon, 1
 bucket/steam.json, ScoopInstaller/Versions, 0
 bucket/steamchina.json, SayCV/scoop-cvp, 0
