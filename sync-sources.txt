@@ -643,7 +643,6 @@ bucket/LDPlayer-Portable.json, ACooper81/scoop-apps, 0
 bucket/LDWin-Portable.json, ACooper81/scoop-apps, 1
 bucket/LGPO-Portable.json, ACooper81/scoop-apps, 0
 bucket/LLFTOOL.json, kkzzhizhou/scoop-zapps, 1
-bucket/LM-Studio.json, Weidows-projects/scoop-3rd, 0
 bucket/LXGW-Bright-GB.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LXGW-Bright-TC.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/LXGW-Bright.json, matthewjberger/scoop-nerd-fonts, 1
@@ -6947,6 +6946,7 @@ bucket/neoaxis-engine.json, ScoopInstaller/Extras, 0
 bucket/neochat-nightly.json, ScoopInstaller/Versions, 0
 bucket/neofetch.json, ScoopInstaller/Main, 1
 bucket/neohtop.json, ScoopInstaller/Extras, 1
+bucket/neonmodem.json, hoilc/scoop-lemon, 1
 bucket/neoray.json, ScoopInstaller/Extras, 1
 bucket/neovide-dev.json, ScoopInstaller/Versions, 1
 bucket/neovide.json, ScoopInstaller/Extras, 1
@@ -11610,7 +11610,7 @@ bucket/xdown.json, hoilc/scoop-lemon, 0
 bucket/xdvdfs.json, hoilc/scoop-lemon, 1
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xelitan-pdf-reader.json, hoilc/scoop-lemon, 0
-bucket/xemu.json, Calinou/scoop-games, 1
+bucket/xemu.json, borger/scoop-emulators, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
