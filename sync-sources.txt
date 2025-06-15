@@ -5512,6 +5512,7 @@ bucket/jumplistexplorer.json, hoilc/scoop-lemon, 1
 bucket/jumplistsview.json, ScoopInstaller/Nirsoft, 0
 bucket/jumppad.json, hoilc/scoop-lemon, 1
 bucket/junction.json, niheaven/scoop-sysinternals, 1
+bucket/juniper.json, hoilc/scoop-lemon, 1
 bucket/just-color-picker.json, hoilc/scoop-lemon, 0
 bucket/just.json, ScoopInstaller/Main, 1
 bucket/justasplanned.json, beerpiss/scoop-bucket, 1
@@ -11610,7 +11611,7 @@ bucket/xdown.json, hoilc/scoop-lemon, 0
 bucket/xdvdfs.json, hoilc/scoop-lemon, 1
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xelitan-pdf-reader.json, hoilc/scoop-lemon, 0
-bucket/xemu.json, borger/scoop-emulators, 1
+bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
