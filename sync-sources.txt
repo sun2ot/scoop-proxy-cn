@@ -3194,6 +3194,7 @@ bucket/devspace.json, ScoopInstaller/Main, 1
 bucket/devtoys-np.json, ScoopInstaller/Nonportable, 1
 bucket/devtunnel.json, hoilc/scoop-lemon, 0
 bucket/dex2jar.json, TheCjw/scoop-retools, 0
+bucket/dezoomify-rs.json, hoilc/scoop-lemon, 1
 bucket/dfu-programmer.json, ScoopInstaller/Extras, 1
 bucket/dfu-util.json, ScoopInstaller/Main, 0
 bucket/dgmpgdec.json, amorphobia/siku, 0
@@ -4390,6 +4391,7 @@ bucket/gfold.json, hoilc/scoop-lemon, 1
 bucket/gg.json, ScoopInstaller/Extras, 1
 bucket/gguf-parser.json, hoilc/scoop-lemon, 1
 bucket/gh-dash.json, littleli/Scoop-littleli, 1
+bucket/gh-poi.json, hoilc/scoop-lemon, 1
 bucket/gh-skyline.json, hoilc/scoop-lemon, 1
 bucket/gh.json, ScoopInstaller/Main, 1
 bucket/ghc96.json, iquiw/scoop-bucket, 0
@@ -4956,6 +4958,7 @@ bucket/highlight.json, ScoopInstaller/Main, 0
 bucket/highs.json, ScoopInstaller/Main, 1
 bucket/himalaya.json, ScoopInstaller/Main, 1
 bucket/hitomi-downloader.json, hoilc/scoop-lemon, 1
+bucket/hitt.json, aliesbelik/poldi, 1
 bucket/hjson.json, ScoopInstaller/Main, 1
 bucket/hkbtest.json, HUMORCE/nuke, 1
 bucket/hl.json, aliesbelik/poldi, 1
@@ -7061,6 +7064,7 @@ bucket/nitroshare.json, hoilc/scoop-lemon, 0
 bucket/nixpacks.json, ScoopInstaller/Main, 1
 bucket/nk2edit.json, ScoopInstaller/Nirsoft, 0
 bucket/nk2view.json, ScoopInstaller/Nirsoft, 0
+bucket/nmap-formatter.json, hoilc/scoop-lemon, 1
 bucket/nmap-portable.json, akirco/aki-apps, 0
 bucket/nmap.json, ScoopInstaller/Main, 0
 bucket/nmkoder.json, ScoopInstaller/Extras, 1
@@ -8251,7 +8255,7 @@ bucket/pkg-config.json, ScoopInstaller/Main, 0
 bucket/pkg2zip.json, Deide/deide-bucket, 1
 bucket/pkhex.json, Calinou/scoop-games, 0
 bucket/pkl-cli.json, ScoopInstaller/Main, 1
-bucket/plain-craft-launcher.json, chawyehsu/dorado, 0
+bucket/plain-craft-launcher.json, amorphobia/siku, 1
 bucket/plantuml.json, ScoopInstaller/Extras, 1
 bucket/platformsh-cli.json, hoilc/scoop-lemon, 1
 bucket/playback.json, Calinou/scoop-games, 0
