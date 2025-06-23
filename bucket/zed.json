@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://ghproxy.085404.xyz/https://github.com/deevus/zed-windows-builds/releases/download/v0.191.7/zed.zip",
-      "hash": "e22f148c7cf2feb0ef0266b152cb303ff56948453949507e62b59537259bbe9d"
+      "hash": "54e865ed1a77e66f39e9bc0f212d6d6370439a2df54c7b5959e74e333aff2e34"
     }
   },
   "bin": "zed.exe",
