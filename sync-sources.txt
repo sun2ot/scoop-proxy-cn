@@ -3146,6 +3146,7 @@ bucket/dejavusansmono.json, KnotUntied/scoop-fonts, 1
 bucket/delapp.json, ScoopInstaller/Extras, 1
 bucket/delete-self-poc.json, batkiz/backit, 1
 bucket/deletedosdevice.json, rasa/scoops, 0
+bucket/delsum.json, hoilc/scoop-lemon, 1
 bucket/delta.json, ScoopInstaller/Main, 1
 bucket/deltachat.json, ScoopInstaller/Extras, 0
 bucket/deluge.json, ScoopInstaller/Extras, 0
@@ -3840,6 +3841,7 @@ bucket/fantasquesansmono.json, KnotUntied/scoop-fonts, 1
 bucket/far.json, ScoopInstaller/Main, 0
 bucket/fast.json, aliesbelik/poldi, 1
 bucket/fastbootEnhance.json, akirco/aki-apps, 1
+bucket/fastchess.json, hoilc/scoop-lemon, 1
 bucket/fastcopy.json, ScoopInstaller/Extras, 0
 bucket/faster-whisper-standalone.json, hoilc/scoop-lemon, 1
 bucket/faster-whisper-xxl.json, hoilc/scoop-lemon, 1
@@ -7273,7 +7275,7 @@ bucket/ocenaudio.json, ScoopInstaller/Extras, 0
 bucket/ocm-cli.json, hoilc/scoop-lemon, 1
 bucket/ocrs.json, hoilc/scoop-lemon, 1
 bucket/octant.json, ScoopInstaller/Extras, 1
-bucket/octave-cn.json, ivaquero/scoopet, 0
+bucket/octave-cn.json, Weidows-projects/scoop-3rd, 0
 bucket/octave.json, ScoopInstaller/Main, 0
 bucket/octopustools.json, ScoopInstaller/Main, 0
 bucket/octoscan.json, hoilc/scoop-lemon, 1
@@ -10553,6 +10555,7 @@ bucket/tixati.json, ScoopInstaller/Extras, 0
 bucket/tl.json, hoilc/scoop-lemon, 1
 bucket/tlaplus-toolbox.json, ScoopInstaller/Extras, 1
 bucket/tldr.json, ScoopInstaller/Main, 1
+bucket/tldx.json, hoilc/scoop-lemon, 1
 bucket/tlrc.json, ScoopInstaller/Main, 1
 bucket/tls_proxy.json, ViCrack/scoop-bucket, 1
 bucket/tlsx.json, hoilc/scoop-lemon, 1
@@ -10565,6 +10568,7 @@ bucket/todotxt-net.json, ScoopInstaller/Extras, 1
 bucket/toggl.json, ChungZH/peach, 1
 bucket/tokei.json, ScoopInstaller/Main, 1
 bucket/tokio-console.json, littleli/Scoop-littleli, 1
+bucket/tombi.json, hoilc/scoop-lemon, 1
 bucket/tomboy-ng.json, ScoopInstaller/Extras, 1
 bucket/tomcat.json, ScoopInstaller/Extras, 0
 bucket/tomcat6.json, ScoopInstaller/Versions, 0
