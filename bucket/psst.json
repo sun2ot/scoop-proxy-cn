@@ -1,12 +1,12 @@
 {
-  "version": "1169",
+  "version": "1184",
   "description": "A fast Spotify client with native GUI.",
   "homepage": "https://github.com/jpochyla/psst",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://nightly.link/jpochyla/psst/actions/runs/15901091328/Psst.exe.zip",
-      "hash": "8cc78801329a9dd156630ddd59c07e8e2aa68f8de02232ac5af993cfec6a1f49"
+      "url": "https://nightly.link/jpochyla/psst/actions/runs/15945072770/Psst.exe.zip",
+      "hash": "69b49087dc59ddc345111c48e11c16230cdbbfaa571a0d8671fc80283afccbf5"
     }
   },
   "shortcuts": [
