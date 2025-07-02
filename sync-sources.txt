@@ -2714,6 +2714,7 @@ bucket/cocogitto.json, hoilc/scoop-lemon, 1
 bucket/code-minimap.json, ScoopInstaller/Extras, 1
 bucket/code-radio-cli.json, hoilc/scoop-lemon, 1
 bucket/code2prompt.json, hoilc/scoop-lemon, 1
+bucket/codeberg-cli.json, hoilc/scoop-lemon, 1
 bucket/codeblocks-mingw.json, ScoopInstaller/Extras, 0
 bucket/codeblocks-portable.json, naderi/scoop-bucket, 0
 bucket/codeblocks.json, ScoopInstaller/Extras, 0
@@ -3081,6 +3082,7 @@ bucket/dashplayer.json, ivaquero/scoopet, 1
 bucket/database.net.json, ScoopInstaller/Extras, 0
 bucket/databricks-cli.json, hoilc/scoop-lemon, 1
 bucket/dataflare.json, hoilc/scoop-lemon, 0
+bucket/datafusion-cli.json, hoilc/scoop-lemon, 1
 bucket/datagrip-eap.json, ScoopInstaller/Versions, 1
 bucket/datagrip-rc.json, ScoopInstaller/Versions, 1
 bucket/datagrip.json, ScoopInstaller/Extras, 1
@@ -3093,7 +3095,6 @@ bucket/dataspell.json, ScoopInstaller/Extras, 1
 bucket/datastation.json, batkiz/backit, 1
 bucket/datovka.json, ScoopInstaller/Extras, 0
 bucket/datree.json, ScoopInstaller/Main, 1
-bucket/daytona.json, hoilc/scoop-lemon, 0
 bucket/dbeaver-ea.json, ScoopInstaller/Versions, 0
 bucket/dbeaver-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/dbeaver.json, ScoopInstaller/Extras, 0
@@ -6050,7 +6051,6 @@ bucket/lilex-variable.json, KnotUntied/scoop-fonts, 1
 bucket/lilex.json, KnotUntied/scoop-fonts, 1
 bucket/lili.json, ScoopInstaller/Extras, 0
 bucket/lilypond.json, ScoopInstaller/Main, 0
-bucket/limbo.json, hoilc/scoop-lemon, 1
 bucket/lime3ds.json, Calinou/scoop-games, 0
 bucket/limitpng.json, hu3rror/scoop-muggle, 0
 bucket/liname.json, mo-san/scoop-bucket, 0
@@ -7496,7 +7496,7 @@ bucket/openshift-origin-client.json, ScoopInstaller/Main, 1
 bucket/openshot.json, ScoopInstaller/Extras, 1
 bucket/opensoldat.json, Deide/deide-bucket, 1
 bucket/openspades.json, Calinou/scoop-games, 1
-bucket/openspeedy.json, DoveBoy/Apps, 1
+bucket/openspeedy.json, hoilc/scoop-lemon, 1
 bucket/openssh-msys.json, ScoopInstaller/Versions, 0
 bucket/openssh.json, ScoopInstaller/Main, 1
 bucket/openssl-light.json, ScoopInstaller/Main, 1
@@ -9438,6 +9438,7 @@ bucket/scoop-shim.json, ScoopInstaller/Main, 1
 bucket/scoop-tab-completion.json, DoveBoy/Apps, 0
 bucket/scoop-validator.json, ScoopInstaller/Main, 1
 bucket/scooper.json, ScoopInstaller/Extras, 1
+bucket/scooter.json, hoilc/scoop-lemon, 1
 bucket/scopy.json, ScoopInstaller/Extras, 1
 bucket/score-compose.json, hoilc/scoop-lemon, 1
 bucket/score-k8s.json, hoilc/scoop-lemon, 1
@@ -9980,7 +9981,7 @@ bucket/ssrr-windows.json, DoveBoy/Apps, 1
 bucket/stable-diffusion-cpp-avx512.json, hoilc/scoop-lemon, 1
 bucket/stable-diffusion-cpp-cuda.json, hoilc/scoop-lemon, 1
 bucket/stable-diffusion-cpp-vulkan.json, hoilc/scoop-lemon, 1
-bucket/stable-diffusion-cpp.json, hoilc/scoop-lemon, 1
+bucket/stable-diffusion-cpp.json, chawyehsu/dorado, 1
 bucket/stable-diffusion-prompt-reader.json, hoilc/scoop-lemon, 1
 bucket/stable-diffusion-webui.json, DoveBoy/Apps, 1
 bucket/stack.json, ScoopInstaller/Main, 1
@@ -10727,6 +10728,7 @@ bucket/tup.json, ScoopInstaller/Main, 0
 bucket/turbowarp.json, hoilc/scoop-lemon, 1
 bucket/turnedontimesview.json, ScoopInstaller/Nirsoft, 0
 bucket/tursi.json, jfut/scoop-jfut, 1
+bucket/turso.json, hoilc/scoop-lemon, 1
 bucket/turtl.json, ScoopInstaller/Extras, 1
 bucket/tusk.json, ScoopInstaller/Extras, 1
 bucket/tutanota.json, ScoopInstaller/Extras, 0
@@ -10900,7 +10902,7 @@ bucket/usbdeview.json, ScoopInstaller/Nirsoft, 0
 bucket/usbdlm.json, rasa/scoops, 0
 bucket/usbdrivelog.json, ScoopInstaller/Nirsoft, 0
 bucket/usbeam-consoles-dns.json, hoilc/scoop-lemon, 0
-bucket/usbeam-hosts-editor.json, Weidows-projects/scoop-3rd, 0
+bucket/usbeam-hosts-editor.json, hoilc/scoop-lemon, 0
 bucket/usbimager.json, ScoopInstaller/Extras, 0
 bucket/usblogview.json, ScoopInstaller/Nirsoft, 0
 bucket/usblyzer.json, SayCV/scoop-cvp, 0
@@ -11649,6 +11651,7 @@ bucket/wurl.json, ScoopInstaller/Extras, 1
 bucket/wush.json, hoilc/scoop-lemon, 1
 bucket/wutils.json, Weidows-projects/scoop-3rd, 1
 bucket/wuzz.json, ScoopInstaller/Main, 1
+bucket/wwgjx-portable.json, Weidows-projects/scoop-3rd, 1
 bucket/wx-channels-download.json, DoveBoy/Apps, 1
 bucket/wx3270.json, hoilc/scoop-lemon, 0
 bucket/wx_qq_revokeMsgPatcher.json, akirco/aki-apps, 1
