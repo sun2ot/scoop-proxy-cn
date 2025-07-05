@@ -1,23 +1,23 @@
 {
-  "version": "snapshot-8d0819c",
-  "description": "Stable Diffusion in pure C/C++ (AVX2)",
+  "version": "master-76c7262",
+  "description": "(CPU Backend) stable-diffusion.cpp enables inference of Stable Diffusion and Flux in pure C/C++.",
   "homepage": "https://github.com/leejet/stable-diffusion.cpp",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-8d0819c/sd-master-8d0819c-bin-win-avx2-x64.zip",
-      "hash": "72fcdb576829bdf8f330f272443d0c075b09d16c7038fcb9930142b415738aa6"
+      "url": "https://ghproxy.085404.xyz/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-76c7262/sd-master-76c7262-bin-win-avx2-x64.zip",
+      "hash": "4f503a5c9caa755deb8ce78b8eff6fb465db8bc0e5f70d25a4abba4740ed39ef"
     }
   },
   "bin": "sd.exe",
   "checkver": {
-    "regex": "master-(?<commit>[0-9a-f]{7})",
-    "replace": "snapshot-$1"
+    "url": "https://github.com/leejet/stable-diffusion.cpp/releases.atom",
+    "regex": "Repository/\\d+/(.+?)<"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/leejet/stable-diffusion.cpp/releases/download/master-$matchCommit/sd-master-$matchCommit-bin-win-avx2-x64.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/leejet/stable-diffusion.cpp/releases/download/$version/sd-$version-bin-win-avx2-x64.zip"
       }
     }
   }
