@@ -5362,7 +5362,7 @@ bucket/irfanview-lean.json, ScoopInstaller/Extras, 0
 bucket/irfanview.ja.json, jfut/scoop-jfut, 0
 bucket/irfanview.json, ScoopInstaller/Extras, 0
 bucket/iris-player.json, hoilc/scoop-lemon, 1
-bucket/iris.json, DoveBoy/Apps, 1
+bucket/iris.json, amorphobia/siku, 1
 bucket/iroh.json, ScoopInstaller/Main, 1
 bucket/ironwail.json, Calinou/scoop-games, 1
 bucket/irreader.json, kkzzhizhou/scoop-zapps, 0
@@ -5460,6 +5460,7 @@ bucket/jfrog.json, ScoopInstaller/Main, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jhentai.json, hoilc/scoop-lemon, 1
 bucket/jianying-pro.json, ivaquero/scoopet, 0
+bucket/jianying-pro5.json, ivaquero/scoopet, 0
 bucket/jianyingpro.json, chawyehsu/dorado, 0
 bucket/jib-cli.json, hoilc/scoop-lemon, 1
 bucket/jid.json, ScoopInstaller/Main, 1
@@ -7713,7 +7714,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9296,7 +9297,6 @@ bucket/safaricacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/safarihistoryview.json, ScoopInstaller/Nirsoft, 0
 bucket/safebrowser.json, ScoopInstaller/Extras, 1
 bucket/safeincloud.json, naderi/scoop-bucket, 0
-bucket/sagemath-cn.json, ivaquero/scoopet, 0
 bucket/sagerconnect.json, AkinoKaede/maple, 1
 bucket/sak.json, Calinou/scoop-games, 1
 bucket/sakura-apprun-cli.json, hoilc/scoop-lemon, 1
@@ -10240,6 +10240,7 @@ bucket/system-font-bold.json, yuusakuri/scoop-bucket, 0
 bucket/system-tray-menu.json, hoilc/scoop-lemon, 1
 bucket/systeminfo.json, brian6932/dank-scoop, 1
 bucket/systeminformer-nightly.json, ScoopInstaller/Versions, 1
+bucket/systeminformer.json, ScoopInstaller/Extras, 1
 bucket/systools.json, ScoopInstaller/Nirsoft, 0
 bucket/t-clock.json, ScoopInstaller/Extras, 1
 bucket/tabby-ai-cuda.json, hoilc/scoop-lemon, 1
@@ -10386,7 +10387,7 @@ bucket/temurin8-jre.json, ScoopInstaller/Java, 1
 bucket/temurin8-nightly-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin8-nightly-jre.json, ScoopInstaller/Java, 1
 bucket/tenacity.json, naderi/scoop-bucket, 0
-bucket/tencent-edu.json, ivaquero/scoopet, 0
+bucket/tencent-edu.json, ChungZH/peach, 0
 bucket/tencent-meeting.json, ivaquero/scoopet, 0
 bucket/tencent-transmart.json, hoilc/scoop-lemon, 0
 bucket/tencentmeeting.json, echoiron/echo-scoop, 0
