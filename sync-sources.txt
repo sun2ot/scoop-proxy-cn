@@ -402,7 +402,6 @@ bucket/FAT32FormatGUI-Portable.json, ACooper81/scoop-apps, 0
 bucket/FFMetrics.json, ygguorun/scoop-bucket, 1
 bucket/FFRename-pro.json, hu3rror/scoop-muggle, 0
 bucket/FFRenamePro.json, Paxxs/Cluttered-bucket, 0
-bucket/FLiNGTrainer.json, batkiz/backit, 0
 bucket/FXDrawTools-Install.json, ACooper81/scoop-apps, 0
 bucket/Fahkwang.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/FanControl-Portable.json, ACooper81/scoop-apps, 0
@@ -1561,7 +1560,7 @@ bucket/aliworkbench.json, SayCV/scoop-cvp, 1
 bucket/alixby.json, hoilc/scoop-lemon, 1
 bucket/aliyun.json, ScoopInstaller/Main, 1
 bucket/aliyundrive-webdav.json, ScoopInstaller/Main, 1
-bucket/aliyundrive.json, chawyehsu/dorado, 0
+bucket/aliyundrive.json, wzv5/ScoopBucket, 0
 bucket/aliyunpan-xiaobaiyang.json, ygguorun/scoop-bucket, 1
 bucket/aliyunpan.json, SayCV/scoop-cvp, 1
 bucket/alldup.json, ScoopInstaller/Extras, 0
@@ -1649,7 +1648,6 @@ bucket/antidupl.net.json, ScoopInstaller/Extras, 1
 bucket/antimicro.json, ScoopInstaller/Extras, 1
 bucket/antimicrox.json, ScoopInstaller/Extras, 1
 bucket/anto.json, hoilc/scoop-lemon, 1
-bucket/antsword.json, batkiz/backit, 1
 bucket/anx-reader.json, hu3rror/scoop-muggle, 1
 bucket/anyburn.json, ScoopInstaller/Extras, 0
 bucket/anydesk.json, ScoopInstaller/Extras, 0
@@ -2672,7 +2670,7 @@ bucket/cloudcompare-alpha.json, ScoopInstaller/Versions, 0
 bucket/cloudcompare.json, ScoopInstaller/Extras, 0
 bucket/cloudflare-speedtest.json, chawyehsu/dorado, 1
 bucket/cloudflared.json, ScoopInstaller/Main, 1
-bucket/cloudflarespeedtest.json, DoveBoy/Apps, 1
+bucket/cloudflarespeedtest.json, hoilc/scoop-lemon, 1
 bucket/cloudfoundry-cli.json, ScoopInstaller/Extras, 0
 bucket/cloudfox.json, hoilc/scoop-lemon, 1
 bucket/cloudlens.json, hoilc/scoop-lemon, 1
@@ -3149,7 +3147,6 @@ bucket/dejavusanscode.json, KnotUntied/scoop-fonts, 1
 bucket/dejavusansmono-lgc.json, KnotUntied/scoop-fonts, 1
 bucket/dejavusansmono.json, KnotUntied/scoop-fonts, 1
 bucket/delapp.json, ScoopInstaller/Extras, 1
-bucket/delete-self-poc.json, batkiz/backit, 1
 bucket/deletedosdevice.json, rasa/scoops, 0
 bucket/delsum.json, hoilc/scoop-lemon, 1
 bucket/delta.json, ScoopInstaller/Main, 1
@@ -4728,7 +4725,6 @@ bucket/gostv3.json, NyaMisty/scoop_bucket_misty, 1
 bucket/gotestsum.json, hoilc/scoop-lemon, 1
 bucket/gotify-cli.json, ScoopInstaller/Main, 1
 bucket/gotify-server.json, ScoopInstaller/Main, 1
-bucket/gotip.json, batkiz/backit, 0
 bucket/gotop.json, ScoopInstaller/Main, 1
 bucket/gottet.json, hoilc/scoop-lemon, 0
 bucket/gotz.json, aliesbelik/poldi, 1
@@ -6320,6 +6316,7 @@ bucket/mancy.json, ScoopInstaller/Extras, 1
 bucket/mandoc.json, ScoopInstaller/Main, 0
 bucket/mangadex-dl.json, hu3rror/scoop-muggle, 1
 bucket/mangal.json, ScoopInstaller/Extras, 1
+bucket/mangayomi.json, cc713/ownscoop, 1
 bucket/manhuagui-downloader.json, hoilc/scoop-lemon, 1
 bucket/mani.json, aliesbelik/poldi, 1
 bucket/manictime.json, ScoopInstaller/Extras, 0
@@ -6532,7 +6529,6 @@ bucket/micswitch.json, ScoopInstaller/Extras, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/midisheetmusic.json, hoilc/scoop-lemon, 0
 bucket/mieru.json, hoilc/scoop-lemon, 1
-bucket/miflash.json, batkiz/backit, 0
 bucket/mighty-mike.json, Calinou/scoop-games, 1
 bucket/migrate.json, ScoopInstaller/Main, 1
 bucket/migrated/atac.json, aliesbelik/poldi, 1
@@ -6631,6 +6627,10 @@ bucket/minify.json, ScoopInstaller/Main, 1
 bucket/minihex.json, hoilc/scoop-lemon, 0
 bucket/minijinja-cli.json, hoilc/scoop-lemon, 1
 bucket/minikube.json, ScoopInstaller/Main, 0
+bucket/minimal-ereader.json, hoilc/scoop-lemon, 1
+bucket/minimal-firewall.json, hoilc/scoop-lemon, 1
+bucket/minimal-image-viewer.json, hoilc/scoop-lemon, 1
+bucket/minimal-pdf-compress.json, hoilc/scoop-lemon, 1
 bucket/minimock.json, hoilc/scoop-lemon, 1
 bucket/minio-client.json, ScoopInstaller/Main, 0
 bucket/minio.json, ScoopInstaller/Main, 0
@@ -8600,7 +8600,7 @@ bucket/pswinutil.json, yuusakuri/scoop-bucket, 1
 bucket/pt.json, ScoopInstaller/Main, 1
 bucket/ptags.json, ScoopInstaller/Main, 1
 bucket/pterm.json, ScoopInstaller/Extras, 0
-bucket/ptex-ng.json, batkiz/backit, 0
+bucket/ptex-ng.json, batkiz/backit, 1
 bucket/ptmono.json, KnotUntied/scoop-fonts, 0
 bucket/ptr.json, naderi/scoop-bucket, 1
 bucket/ptsans-expert.json, KnotUntied/scoop-fonts, 0
@@ -9879,6 +9879,7 @@ bucket/spacegrotesk-variable.json, KnotUntied/scoop-fonts, 0
 bucket/spacegrotesk.json, KnotUntied/scoop-fonts, 1
 bucket/spacescape.json, ScoopInstaller/Extras, 0
 bucket/spacesniffer.json, ScoopInstaller/Extras, 0
+bucket/spacetrans.json, hoilc/scoop-lemon, 1
 bucket/spago.json, hoilc/scoop-lemon, 1
 bucket/spark-ai-cli.json, hoilc/scoop-lemon, 1
 bucket/spark-hadoop3.json, ScoopInstaller/Versions, 0
@@ -12001,7 +12002,7 @@ bucket/zipinstaller.json, kodybrown/scoop-nirsoft, 0
 bucket/zipkin-dependencies.json, zhoujin7/tomato, 1
 bucket/zipkin.json, zhoujin7/tomato, 1
 bucket/zipmix.json, hoilc/scoop-lemon, 0
-bucket/zizmor.json, hoilc/scoop-lemon, 0
+bucket/zizmor.json, hoilc/scoop-lemon, 1
 bucket/zkar.json, hoilc/scoop-lemon, 1
 bucket/zlib.json, ScoopInstaller/Extras, 1
 bucket/zlibrary.json, hoilc/scoop-lemon, 0
