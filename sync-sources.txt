@@ -2896,7 +2896,7 @@ bucket/craftbasic.json, hoilc/scoop-lemon, 0
 bucket/craftlaunch.json, hoilc/scoop-lemon, 0
 bucket/crane.json, hoilc/scoop-lemon, 1
 bucket/cranko.json, batkiz/backit, 1
-bucket/crapfixer.json, naderi/scoop-bucket, 1
+bucket/crapfixer.json, hoilc/scoop-lemon, 1
 bucket/crates-tui.json, hoilc/scoop-lemon, 1
 bucket/crawlergo.json, ViCrack/scoop-bucket, 1
 bucket/crawley.json, hoilc/scoop-lemon, 1
@@ -3352,7 +3352,7 @@ bucket/doh-proxy.json, hoilc/scoop-lemon, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, Calinou/scoop-games, 0
+bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -7324,6 +7324,7 @@ bucket/odin-dev.json, ScoopInstaller/Versions, 1
 bucket/odin-nightly.json, ScoopInstaller/Versions, 0
 bucket/odin.json, ScoopInstaller/Versions, 1
 bucket/odo.json, ScoopInstaller/Main, 0
+bucket/odpscmd.json, hoilc/scoop-lemon, 0
 bucket/ofd2pdf.json, DoveBoy/Apps, 1
 bucket/office-365-apps-minimal-np.json, ScoopInstaller/Nonportable, 1
 bucket/office-365-apps-np.json, ScoopInstaller/Nonportable, 1
@@ -9808,6 +9809,7 @@ bucket/smtprelay.json, iquiw/scoop-bucket, 1
 bucket/smuxi.json, ScoopInstaller/Extras, 0
 bucket/snaketail.json, ScoopInstaller/Extras, 1
 bucket/snap.hutao.json, hoilc/scoop-lemon, 1
+bucket/snap2html.json, hoilc/scoop-lemon, 0
 bucket/snappy-driver-installer-origin.json, ScoopInstaller/Extras, 0
 bucket/snapraid.json, ScoopInstaller/Main, 1
 bucket/snaptimer.json, ScoopInstaller/Extras, 0
