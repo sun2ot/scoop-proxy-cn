@@ -1,20 +1,20 @@
 {
-  "version": "1.584.0",
+  "version": "1.586.0",
   "description": "Generate client SDKs in popular languages from your OpenAPI spec with Speakeasy.",
   "homepage": "https://speakeasy.com/",
   "license": "Elastic-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/speakeasy-api/speakeasy/releases/download/v1.584.0/speakeasy_windows_amd64.zip",
-      "hash": "559c2142e6c561f18be1aafaad74c9370dea571bba91ddce7dbfba15f1c93cf8"
+      "url": "https://ghproxy.085404.xyz/https://github.com/speakeasy-api/speakeasy/releases/download/v1.586.0/speakeasy_windows_amd64.zip",
+      "hash": "62e0700f5af154142eb0b69f8a2c9eacb963042728837c154bc3346bcb6cfe75"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/speakeasy-api/speakeasy/releases/download/v1.584.0/speakeasy_windows_386.zip",
-      "hash": "6480080e5ed96771e810f22588ae8614394bd9abcf0fd48e1f94cd1ea70e827e"
+      "url": "https://ghproxy.085404.xyz/https://github.com/speakeasy-api/speakeasy/releases/download/v1.586.0/speakeasy_windows_386.zip",
+      "hash": "42844ecc04846804e6ac4504d454c1e26e6fe9aa3a3e7fbed9c6915e9a0f7b2b"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/speakeasy-api/speakeasy/releases/download/v1.584.0/speakeasy_windows_arm64.zip",
-      "hash": "6d6290530d4044f3ae396baeb77cd441bfa13ee92085c3196aaa4ab85e74bd29"
+      "url": "https://ghproxy.085404.xyz/https://github.com/speakeasy-api/speakeasy/releases/download/v1.586.0/speakeasy_windows_arm64.zip",
+      "hash": "4716b53d6f6bdee675b454a311e83652a79d31672d38b14686483087e89fdac6"
     }
   },
   "bin": "speakeasy.exe",
