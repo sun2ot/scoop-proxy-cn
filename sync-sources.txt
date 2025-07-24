@@ -3077,7 +3077,6 @@ bucket/darktable-np.json, ScoopInstaller/Nonportable, 1
 bucket/darktable.json, ScoopInstaller/Extras, 1
 bucket/dart-dev.json, ScoopInstaller/Versions, 0
 bucket/dart-sass-embedded.json, ScoopInstaller/Main, 1
-bucket/dart-simple-live.json, DoveBoy/Apps, 1
 bucket/dart.json, ScoopInstaller/Main, 0
 bucket/darteditor.json, ScoopInstaller/Extras, 0
 bucket/dartium-content-shell-dev.json, ScoopInstaller/Versions, 0
@@ -3358,7 +3357,7 @@ bucket/doh-proxy.json, hoilc/scoop-lemon, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, Calinou/scoop-games, 0
+bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -3688,7 +3687,7 @@ bucket/enjoy.json, hoilc/scoop-lemon, 1
 bucket/enonic.json, ScoopInstaller/Main, 0
 bucket/enpass.json, ScoopInstaller/Extras, 0
 bucket/enso.json, ScoopInstaller/Extras, 1
-bucket/ente-auth.json, hoilc/scoop-lemon, 1
+bucket/ente-auth.json, ScoopInstaller/Extras, 1
 bucket/ente-cli.json, hoilc/scoop-lemon, 1
 bucket/ente-photos.json, hoilc/scoop-lemon, 1
 bucket/envconsul.json, hoilc/scoop-lemon, 0
@@ -7746,7 +7745,6 @@ bucket/pdblister.json, hoilc/scoop-lemon, 1
 bucket/pdd.json, ScoopInstaller/Extras, 1
 bucket/pdf-xchange-editor-plus.json, echoiron/echo-scoop, 0
 bucket/pdf-xchange-editor.json, ScoopInstaller/Extras, 0
-bucket/pdf-xchange-viewer.json, naderi/scoop-bucket, 0
 bucket/pdf24-creator-np.json, ScoopInstaller/Nonportable, 0
 bucket/pdf2djvu.json, ScoopInstaller/Main, 1
 bucket/pdf2svg.json, ScoopInstaller/Main, 1
