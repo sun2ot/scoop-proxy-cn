@@ -4219,7 +4219,6 @@ bucket/free-shooter.json, ScoopInstaller/Extras, 1
 bucket/free42.json, ScoopInstaller/Extras, 0
 bucket/freearc.json, hoilc/scoop-lemon, 0
 bucket/freebasic.json, ScoopInstaller/Main, 0
-bucket/freecad-cn.json, ivaquero/scoopet, 1
 bucket/freecad-weekly.json, ScoopInstaller/Versions, 1
 bucket/freecad.json, ScoopInstaller/Extras, 1
 bucket/freeciv.json, Calinou/scoop-games, 0
@@ -4267,6 +4266,7 @@ bucket/fstail.json, hoilc/scoop-lemon, 1
 bucket/fstl.json, hoilc/scoop-lemon, 1
 bucket/fsviewer.json, ScoopInstaller/Extras, 0
 bucket/ft2-clone.json, ScoopInstaller/Extras, 0
+bucket/ftdv.json, aliesbelik/poldi, 1
 bucket/fteqw.json, Calinou/scoop-games, 0
 bucket/ftpserver.json, DoveBoy/Apps, 1
 bucket/fu.json, ScoopInstaller/Extras, 1
@@ -5377,7 +5377,7 @@ bucket/iris.json, amorphobia/siku, 1
 bucket/iroh.json, ScoopInstaller/Main, 1
 bucket/ironwail.json, Calinou/scoop-games, 1
 bucket/irreader.json, kkzzhizhou/scoop-zapps, 0
-bucket/irust.json, hoilc/scoop-lemon, 1
+bucket/irust.json, batkiz/backit, 1
 bucket/isaac-save-installer.json, chawyehsu/dorado, 1
 bucket/islc.json, ScoopInstaller/Extras, 0
 bucket/ismyhdok.json, hoilc/scoop-lemon, 0
@@ -6617,7 +6617,6 @@ bucket/mingw-winlibs.json, ScoopInstaller/Main, 1
 bucket/mingw.json, ScoopInstaller/Main, 1
 bucket/minhtml.json, hoilc/scoop-lemon, 1
 bucket/mini-sftp-server.json, ScoopInstaller/Extras, 0
-bucket/miniconda-cn.json, ivaquero/scoopet, 0
 bucket/miniconda.json, chawyehsu/dorado, 0
 bucket/miniconda2.json, ScoopInstaller/Versions, 0
 bucket/miniconda3-4.12.0.json, ScoopInstaller/Versions, 0
