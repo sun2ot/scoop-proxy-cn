@@ -5377,7 +5377,7 @@ bucket/iris.json, amorphobia/siku, 1
 bucket/iroh.json, ScoopInstaller/Main, 1
 bucket/ironwail.json, Calinou/scoop-games, 1
 bucket/irreader.json, kkzzhizhou/scoop-zapps, 0
-bucket/irust.json, batkiz/backit, 1
+bucket/irust.json, hoilc/scoop-lemon, 1
 bucket/isaac-save-installer.json, chawyehsu/dorado, 1
 bucket/islc.json, ScoopInstaller/Extras, 0
 bucket/ismyhdok.json, hoilc/scoop-lemon, 0
