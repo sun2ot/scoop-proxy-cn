@@ -1,20 +1,20 @@
 {
-  "version": "3.1.1-nightly.20250728",
+  "version": "3.2.1-nightly.20250729",
   "description": "GO Simple Tunnel - a simple tunnel written in golang.",
   "homepage": "https://gost.run/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/go-gost/gost/releases/download/v3.1.1-nightly.20250728/gost_3.1.1-nightly.20250728_windows_amd64.zip",
-      "hash": "d41392f3c8debf0d5069badbec6f05c9fbe91ddf098034b185df0160a957c435"
+      "url": "https://ghproxy.085404.xyz/https://github.com/go-gost/gost/releases/download/v3.2.1-nightly.20250729/gost_3.2.1-nightly.20250729_windows_amd64.zip",
+      "hash": "0504c7ed6c6c3ee55925eb28e401f0f9369ed4599679d509dae90894d200fb51"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/go-gost/gost/releases/download/v3.1.1-nightly.20250728/gost_3.1.1-nightly.20250728_windows_386.zip",
-      "hash": "274377005af9756ec74b7a663c85a3a2ad307dcc7e67095a2bfb7fa82380d036"
+      "url": "https://ghproxy.085404.xyz/https://github.com/go-gost/gost/releases/download/v3.2.1-nightly.20250729/gost_3.2.1-nightly.20250729_windows_386.zip",
+      "hash": "4dd3ef651acf145313639c3d184a220c6fcc9492446d62e16954b838d277c794"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/go-gost/gost/releases/download/v3.1.1-nightly.20250728/gost_3.1.1-nightly.20250728_windows_arm64.zip",
-      "hash": "040487f660f6e757c4c368eb44c50cf10c29ddad0b6be189c6689cd49f0ab7ad"
+      "url": "https://ghproxy.085404.xyz/https://github.com/go-gost/gost/releases/download/v3.2.1-nightly.20250729/gost_3.2.1-nightly.20250729_windows_arm64.zip",
+      "hash": "e9f5b499ad259afc050211b31bc38c007219af1fec37e162cac9ca05d20fe63b"
     }
   },
   "bin": "gost.exe",

@@ -9337,7 +9337,7 @@ bucket/sandboxdiff.json, hoilc/scoop-lemon, 0
 bucket/sandboxie-classic-np.json, ScoopInstaller/Nonportable, 1
 bucket/sandboxie-classic-portable.json, DoveBoy/Apps, 1
 bucket/sandboxie-plus-np.json, ScoopInstaller/Nonportable, 1
-bucket/sandboxie-plus.json, DoveBoy/Apps, 1
+bucket/sandboxie-plus.json, ygguorun/scoop-bucket, 1
 bucket/sandman.json, ScoopInstaller/Extras, 1
 bucket/sapling.json, ScoopInstaller/Main, 1
 bucket/sapmachine-jdk.json, ScoopInstaller/Java, 1

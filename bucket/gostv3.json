@@ -1,14 +1,14 @@
 {
-  "version": "v3.1.1-nightly.20250728",
+  "version": "v3.2.1-nightly.20250729",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/go-gost/gost/releases/download/v3.1.1-nightly.20250728/gost_3.1.1-nightly.20250728_windows_amd64.zip",
-      "hash": "d41392f3c8debf0d5069badbec6f05c9fbe91ddf098034b185df0160a957c435",
+      "url": "https://ghproxy.085404.xyz/https://github.com/go-gost/gost/releases/download/v3.2.1-nightly.20250729/gost_3.2.1-nightly.20250729_windows_amd64.zip",
+      "hash": "0504c7ed6c6c3ee55925eb28e401f0f9369ed4599679d509dae90894d200fb51",
       "pre_install": "Get-ChildItem \"$dir/gost*.exe\" | Rename-Item -NewName \"$dir/gostv3.exe\""
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/go-gost/gost/releases/download/v3.1.1-nightly.20250728/gost_3.1.1-nightly.20250728_windows_386.zip",
-      "hash": "274377005af9756ec74b7a663c85a3a2ad307dcc7e67095a2bfb7fa82380d036",
+      "url": "https://ghproxy.085404.xyz/https://github.com/go-gost/gost/releases/download/v3.2.1-nightly.20250729/gost_3.2.1-nightly.20250729_windows_386.zip",
+      "hash": "4dd3ef651acf145313639c3d184a220c6fcc9492446d62e16954b838d277c794",
       "pre_install": "Get-ChildItem \"$dir/gost*.exe\" | Rename-Item -NewName \"$dir/gostv3.exe\""
     }
   },
