@@ -5183,6 +5183,7 @@ bucket/ignoreit.json, ScoopInstaller/Extras, 1
 bucket/igrep.json, ScoopInstaller/Main, 1
 bucket/iiscrypto.json, hoilc/scoop-lemon, 0
 bucket/ijhttp.json, ScoopInstaller/Main, 0
+bucket/ik-llama-cpp.json, hoilc/scoop-lemon, 1
 bucket/ikago.json, hoilc/scoop-lemon, 1
 bucket/il2cppdumper.json, TheCjw/scoop-retools, 1
 bucket/ileapp.json, hoilc/scoop-lemon, 1
@@ -11537,6 +11538,7 @@ bucket/winmtr.json, ScoopInstaller/Extras, 0
 bucket/winnfsd.json, ScoopInstaller/Main, 1
 bucket/winobj.json, niheaven/scoop-sysinternals, 1
 bucket/winobjex64.json, hoilc/scoop-lemon, 1
+bucket/winosinfo.json, hoilc/scoop-lemon, 0
 bucket/winpaletter.json, naderi/scoop-bucket, 1
 bucket/winpkfilter.json, seumsc/scoop-seu, 1
 bucket/winprefetchview.json, ScoopInstaller/Nirsoft, 0
@@ -11942,7 +11944,7 @@ bucket/ytmdesktop.json, ScoopInstaller/Extras, 1
 bucket/ytmdl-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/ytsubconverter.json, ScoopInstaller/Extras, 1
 bucket/ytt.json, ScoopInstaller/Main, 1
-bucket/yuanbao.json, akirco/aki-apps, 0
+bucket/yuanbao.json, akirco/aki-apps, 1
 bucket/yubico-piv-tool.json, ScoopInstaller/Main, 0
 bucket/yubikey-manager-qt.json, ScoopInstaller/Extras, 0
 bucket/yubikey-personalization-gui.json, ScoopInstaller/Extras, 0
