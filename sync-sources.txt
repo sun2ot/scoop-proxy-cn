@@ -1295,6 +1295,7 @@ bucket/VNCConnect-Install.json, ACooper81/scoop-apps, 0
 bucket/VNCServer-Install.json, ACooper81/scoop-apps, 0
 bucket/VNCViewer-Install.json, ACooper81/scoop-apps, 0
 bucket/VNCViewer-Portable.json, ACooper81/scoop-apps, 0
+bucket/VRC-OBS-Overlay.json, Weidows-projects/scoop-3rd, 1
 bucket/VRCFaceTracking.json, Weidows-projects/scoop-3rd, 1
 bucket/VSCodium-Portable.json, ACooper81/scoop-apps, 1
 bucket/Vagrant-Portable.json, ACooper81/scoop-apps, 0
@@ -4242,6 +4243,7 @@ bucket/freerapid.json, ScoopInstaller/Extras, 1
 bucket/freerdp.json, hoilc/scoop-lemon, 0
 bucket/freerenamer.json, DoveBoy/Apps, 1
 bucket/freespacelogview.json, ScoopInstaller/Nirsoft, 0
+bucket/freetex.json, ivaquero/scoopet, 1
 bucket/freetube.json, ScoopInstaller/Extras, 1
 bucket/freevk.json, hoilc/scoop-lemon, 0
 bucket/freeze.json, aliesbelik/poldi, 1
@@ -6401,6 +6403,7 @@ bucket/mcloud.json, chawyehsu/dorado, 0
 bucket/mcomix.json, ScoopInstaller/Extras, 0
 bucket/mcp-grafana.json, hoilc/scoop-lemon, 1
 bucket/mcp-k8s-go.json, hoilc/scoop-lemon, 1
+bucket/mcp-toolbox.json, hoilc/scoop-lemon, 0
 bucket/mcphost.json, hoilc/scoop-lemon, 1
 bucket/mcrcon.json, Calinou/scoop-games, 1
 bucket/mcskin3d.json, chawyehsu/dorado, 0
@@ -8521,7 +8524,6 @@ bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
 bucket/projclean.json, hoilc/scoop-lemon, 1
-bucket/project-graph-nightly.json, hoilc/scoop-lemon, 1
 bucket/project-graph.json, hoilc/scoop-lemon, 1
 bucket/project64-dev.json, Calinou/scoop-games, 0
 bucket/project64.json, Deide/deide-bucket, 0
@@ -11992,6 +11994,7 @@ bucket/zelda-oot-soh.json, Deide/deide-bucket, 1
 bucket/zelda64recomp.json, Calinou/scoop-games, 1
 bucket/zen-browser.json, naderi/scoop-bucket, 1
 bucket/zenhan.json, ScoopInstaller/Main, 1
+bucket/zenta.json, hoilc/scoop-lemon, 1
 bucket/zeplin.json, ScoopInstaller/Extras, 0
 bucket/zeppelin.json, ScoopInstaller/Extras, 0
 bucket/zer0.json, brian6932/dank-scoop, 1
