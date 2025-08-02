@@ -7396,6 +7396,7 @@ bucket/ojdkbuild8-jre.json, ScoopInstaller/Java, 1
 bucket/ojdkbuild8.json, ScoopInstaller/Java, 1
 bucket/ojdkbuild9-full.json, ScoopInstaller/Java, 1
 bucket/ojdkbuild9.json, ScoopInstaller/Java, 1
+bucket/ok-wuthering-waves.json, Weidows-projects/scoop-3rd, 1
 bucket/okms-cli.json, hoilc/scoop-lemon, 1
 bucket/okta-aws-cli.json, hoilc/scoop-lemon, 1
 bucket/okteto.json, ScoopInstaller/Main, 1
