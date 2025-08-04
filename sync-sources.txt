@@ -1760,6 +1760,7 @@ bucket/armagetronad.json, Calinou/scoop-games, 0
 bucket/armclient.json, ScoopInstaller/Main, 1
 bucket/armips.json, ScoopInstaller/Extras, 1
 bucket/armor.json, ScoopInstaller/Main, 1
+bucket/arnis.json, batkiz/backit, 1
 bucket/arp-ping.json, hoilc/scoop-lemon, 0
 bucket/arpsift.json, hoilc/scoop-lemon, 0
 bucket/arrayv.json, beerpiss/scoop-bucket, 1
@@ -4110,6 +4111,7 @@ bucket/flyctl.json, ScoopInstaller/Main, 1
 bucket/flydav.json, hoilc/scoop-lemon, 1
 bucket/flyedit.json, hoilc/scoop-lemon, 0
 bucket/flyhotkey.json, hoilc/scoop-lemon, 0
+bucket/flyoobe-Portable.json, ACooper81/scoop-apps, 1
 bucket/flyscrape.json, hoilc/scoop-lemon, 1
 bucket/flysee.json, hoilc/scoop-lemon, 0
 bucket/flyway.json, ScoopInstaller/Main, 0
@@ -7461,6 +7463,7 @@ bucket/openclonk.json, Calinou/scoop-games, 0
 bucket/openclosedriveeject.json, ScoopInstaller/Extras, 0
 bucket/opencode.json, ScoopInstaller/Extras, 1
 bucket/opencomic.json, cc713/ownscoop, 1
+bucket/openconnect.json, ScoopInstaller/Main, 0
 bucket/opencv.json, ScoopInstaller/Main, 1
 bucket/opendungeons.json, Calinou/scoop-games, 0
 bucket/openedfilesview.json, kodybrown/scoop-nirsoft, 0
