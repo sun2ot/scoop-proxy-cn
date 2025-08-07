@@ -1610,7 +1610,7 @@ bucket/amulet.json, ScoopInstaller/Main, 1
 bucket/anaconda2.json, ScoopInstaller/Versions, 0
 bucket/anaconda3-2022.05.json, ScoopInstaller/Versions, 0
 bucket/anaconda3.json, ScoopInstaller/Extras, 0
-bucket/anchor-cli.json, hoilc/scoop-lemon, 1
+bucket/anchor-cli.json, chawyehsu/dorado, 1
 bucket/andcli.json, hoilc/scoop-lemon, 1
 bucket/andika-compact.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/andika-new-basic.json, matthewjberger/scoop-nerd-fonts, 0
@@ -2084,7 +2084,7 @@ bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-manga-watermark-remover.json, hoilc/scoop-lemon, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
-bucket/bilibili.json, chawyehsu/dorado, 0
+bucket/bilibili.json, akirco/aki-apps, 0
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
 bucket/bilibilidown.json, DoveBoy/Apps, 1
 bucket/bilibilitoolpro.json, DoveBoy/Apps, 1
@@ -2925,6 +2925,7 @@ bucket/crowdin-cli.json, hoilc/scoop-lemon, 1
 bucket/cru.json, ScoopInstaller/Extras, 0
 bucket/cruft.json, ScoopInstaller/Extras, 0
 bucket/crunchy-cli.json, ScoopInstaller/Extras, 1
+bucket/crush.json, hoilc/scoop-lemon, 1
 bucket/cryfs.json, naderi/scoop-bucket, 1
 bucket/crypto-notepad.json, hoilc/scoop-lemon, 1
 bucket/cryptoknife.json, hoilc/scoop-lemon, 1
@@ -4205,7 +4206,7 @@ bucket/foxit-reader.json, ScoopInstaller/Extras, 0
 bucket/foxitphantompdflite.json, SayCV/scoop-cvp, 1
 bucket/foxmail.json, ScoopInstaller/Extras, 0
 bucket/fping.json, everyx/scoop-bucket, 1
-bucket/fpm.json, hoilc/scoop-lemon, 1
+bucket/fpm.json, ScoopInstaller/Extras, 1
 bucket/fq.json, ScoopInstaller/Main, 1
 bucket/fqgrep.json, hoilc/scoop-lemon, 1
 bucket/fragment-mono.json, KnotUntied/scoop-fonts, 1
@@ -4606,6 +4607,7 @@ bucket/go-feature-flag.json, ScoopInstaller/Main, 1
 bucket/go-grip.json, hoilc/scoop-lemon, 1
 bucket/go-ios.json, hoilc/scoop-lemon, 1
 bucket/go-jsonnet.json, ScoopInstaller/Main, 1
+bucket/go-jsonschema.json, hoilc/scoop-lemon, 1
 bucket/go-musicfox.json, DoveBoy/Apps, 1
 bucket/go-p2ptunnel.json, hoilc/scoop-lemon, 1
 bucket/go-proxy-bingai.json, DoveBoy/Apps, 1
@@ -5629,6 +5631,7 @@ bucket/kapow-punch-clock.json, ScoopInstaller/Extras, 0
 bucket/kapow.json, hoilc/scoop-lemon, 0
 bucket/kapp.json, ScoopInstaller/Main, 1
 bucket/karate.json, ScoopInstaller/Main, 1
+bucket/kardolus-chatgpt-cli.json, hoilc/scoop-lemon, 1
 bucket/kargo-cli.json, hoilc/scoop-lemon, 1
 bucket/karing.json, hoilc/scoop-lemon, 1
 bucket/karlyriceditor.json, hoilc/scoop-lemon, 1
