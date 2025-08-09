@@ -4086,6 +4086,7 @@ bucket/flips.json, Deide/deide-bucket, 1
 bucket/flix.json, hoilc/scoop-lemon, 0
 bucket/flog.json, aliesbelik/poldi, 1
 bucket/floorp.json, ScoopInstaller/Extras, 1
+bucket/flow-control.json, ScoopInstaller/Extras, 1
 bucket/flow-launcher.json, ScoopInstaller/Extras, 1
 bucket/flow.json, ScoopInstaller/Main, 1
 bucket/flow030.json, ScoopInstaller/Versions, 1
@@ -6207,6 +6208,7 @@ bucket/lorien.json, ScoopInstaller/Extras, 1
 bucket/lossless-audio-checker.json, starise/Scoop-Confetti, 0
 bucket/losslesscut.json, ScoopInstaller/Extras, 1
 bucket/lossywav.json, hoilc/scoop-lemon, 0
+bucket/lostmypassword.json, ScoopInstaller/Nirsoft, 0
 bucket/love.json, ScoopInstaller/Extras, 1
 bucket/love10.json, ScoopInstaller/Versions, 1
 bucket/love6.json, ScoopInstaller/Versions, 1
@@ -7144,6 +7146,7 @@ bucket/nmap-formatter.json, hoilc/scoop-lemon, 1
 bucket/nmap-portable.json, akirco/aki-apps, 0
 bucket/nmap.json, ScoopInstaller/Main, 0
 bucket/nmkoder.json, ScoopInstaller/Extras, 1
+bucket/nmuidi.json, hoilc/scoop-lemon, 1
 bucket/nncp.json, hoilc/scoop-lemon, 0
 bucket/no-steam-webhelper.json, brian6932/dank-scoop, 1
 bucket/node-compiler.json, ScoopInstaller/Extras, 1
@@ -8559,6 +8562,7 @@ bucket/protoc.json, echoiron/echo-scoop, 1
 bucket/protodec.json, TheCjw/scoop-retools, 1
 bucket/protofetch.json, hoilc/scoop-lemon, 1
 bucket/protolint.json, ScoopInstaller/Main, 1
+bucket/proton-authenticator.json, ScoopInstaller/Extras, 0
 bucket/proton-launcher.json, kiennq/scoop-misc, 1
 bucket/proton-mail-export.json, ScoopInstaller/Extras, 1
 bucket/protonmail-bridge.json, ScoopInstaller/Extras, 1
@@ -10239,7 +10243,7 @@ bucket/swoff.json, echoiron/echo-scoop, 0
 bucket/swyh-rs.json, ScoopInstaller/Extras, 1
 bucket/swyh.json, ScoopInstaller/Extras, 1
 bucket/syft.json, ScoopInstaller/Main, 1
-bucket/sylpheed.json, hoilc/scoop-lemon, 0
+bucket/sylpheed.json, hoilc/scoop-lemon, 1
 bucket/symfony-cli.json, ScoopInstaller/Main, 1
 bucket/symphytum.json, ScoopInstaller/Extras, 1
 bucket/sync-dis-boi.json, brian6932/dank-scoop, 1
@@ -12011,7 +12015,7 @@ bucket/zeebe.json, ScoopInstaller/Main, 1
 bucket/zeebe1.3.json, ScoopInstaller/Versions, 1
 bucket/zelda-oot-soh.json, Deide/deide-bucket, 1
 bucket/zelda64recomp.json, Calinou/scoop-games, 1
-bucket/zen-browser.json, naderi/scoop-bucket, 1
+bucket/zen-browser.json, ScoopInstaller/Extras, 1
 bucket/zenhan.json, ScoopInstaller/Main, 1
 bucket/zenta.json, hoilc/scoop-lemon, 1
 bucket/zeplin.json, ScoopInstaller/Extras, 0
