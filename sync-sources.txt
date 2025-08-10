@@ -5413,7 +5413,8 @@ bucket/jabba.json, ScoopInstaller/Main, 1
 bucket/jabref.json, ScoopInstaller/Extras, 1
 bucket/jackett.json, ScoopInstaller/Extras, 1
 bucket/jadx.json, ScoopInstaller/Extras, 1
-bucket/jaeger.json, hoilc/scoop-lemon, 1
+bucket/jaeger-v1.json, hoilc/scoop-lemon, 0
+bucket/jaeger.json, hoilc/scoop-lemon, 0
 bucket/jaguar.json, hoilc/scoop-lemon, 1
 bucket/jameica.json, ScoopInstaller/Extras, 0
 bucket/jami.json, ScoopInstaller/Extras, 0
