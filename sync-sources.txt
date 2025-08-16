@@ -11,7 +11,7 @@ bucket/11game-platform.json, SayCV/scoop-cvp, 0
 bucket/123pan.json, akirco/aki-apps, 1
 bucket/163MusicLyrics-lite.json, hu3rror/scoop-muggle, 1
 bucket/163MusicLyrics-pro.json, hu3rror/scoop-muggle, 1
-bucket/163MusicLyrics.json, ygguorun/scoop-bucket, 1
+bucket/163MusicLyrics.json, DoveBoy/Apps, 1
 bucket/1Remote-Portable.json, ACooper81/scoop-apps, 1
 bucket/1by1-Portable.json, ACooper81/scoop-apps, 0
 bucket/1by1.json, naderi/scoop-bucket, 0
@@ -7769,7 +7769,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -10564,6 +10564,7 @@ bucket/thorium-reader.json, ScoopInstaller/Extras, 1
 bucket/thorium.json, ScoopInstaller/Extras, 1
 bucket/threema.json, ScoopInstaller/Extras, 0
 bucket/thrift.json, ScoopInstaller/Main, 0
+bucket/throne.json, hoilc/scoop-lemon, 1
 bucket/throttlestop.json, ScoopInstaller/Extras, 0
 bucket/ths-desktop.json, SayCV/scoop-cvp, 0
 bucket/thumbcacheviewer.json, hoilc/scoop-lemon, 1
