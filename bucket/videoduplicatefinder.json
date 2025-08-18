@@ -1,12 +1,12 @@
 {
-  "version": "3.0.251",
+  "version": "3.0.254",
   "description": "A cross-platform software to find duplicated video (and image) files on hard disk based on similiarity.",
   "homepage": "https://github.com/0x90d/videoduplicatefinder",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
       "url": "https://ghproxy.085404.xyz/https://github.com/0x90d/videoduplicatefinder/releases/download/3.0.x/App-win-x64.zip",
-      "hash": "0c155f6dc32d26daff2e2c20beaccd5a745e775f051752417f6432c48832674d"
+      "hash": "b1aa58b9c0954d187679bfb2c8bfe179e13117a62c6abe5ebddc5dffbef144bb"
     }
   },
   "shortcuts": [
