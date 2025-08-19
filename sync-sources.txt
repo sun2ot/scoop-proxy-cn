@@ -11,7 +11,7 @@ bucket/11game-platform.json, SayCV/scoop-cvp, 0
 bucket/123pan.json, akirco/aki-apps, 1
 bucket/163MusicLyrics-lite.json, hu3rror/scoop-muggle, 1
 bucket/163MusicLyrics-pro.json, hu3rror/scoop-muggle, 1
-bucket/163MusicLyrics.json, DoveBoy/Apps, 1
+bucket/163MusicLyrics.json, ygguorun/scoop-bucket, 1
 bucket/1Remote-Portable.json, ACooper81/scoop-apps, 1
 bucket/1by1-Portable.json, ACooper81/scoop-apps, 0
 bucket/1by1.json, naderi/scoop-bucket, 0
@@ -3432,7 +3432,6 @@ bucket/doublecmd.json, ScoopInstaller/Extras, 0
 bucket/doublekiller.json, zhoujin7/tomato, 0
 bucket/doukutsu-rs.json, Calinou/scoop-games, 1
 bucket/douyin-ide.json, chawyehsu/dorado, 0
-bucket/douyin-streamingtool-10.3.2.json, ivaquero/scoopet, 0
 bucket/douyin-streamingtool.json, chawyehsu/dorado, 0
 bucket/douyin.json, hoilc/scoop-lemon, 0
 bucket/douyu.json, DoveBoy/Apps, 0
@@ -4136,7 +4135,6 @@ bucket/flysee.json, hoilc/scoop-lemon, 0
 bucket/flyway.json, ScoopInstaller/Main, 0
 bucket/fm.json, aliesbelik/poldi, 1
 bucket/fman-np.json, ScoopInstaller/Nonportable, 0
-bucket/fmedia.json, ScoopInstaller/Extras, 1
 bucket/fmedia16.json, ScoopInstaller/Versions, 0
 bucket/fmodel.json, Calinou/scoop-games, 1
 bucket/fnm.json, ScoopInstaller/Main, 1
@@ -4293,6 +4291,7 @@ bucket/ftdv.json, aliesbelik/poldi, 1
 bucket/fteqw.json, Calinou/scoop-games, 0
 bucket/ftpserver.json, DoveBoy/Apps, 1
 bucket/fu.json, ScoopInstaller/Extras, 1
+bucket/fuck-u-code.json, Weidows-projects/scoop-3rd, 1
 bucket/fulleventlogview.json, ScoopInstaller/Nirsoft, 0
 bucket/fullupdateshistoryview.json, ScoopInstaller/Nirsoft, 0
 bucket/fun.json, ScoopInstaller/Extras, 0
@@ -4553,7 +4552,7 @@ bucket/gitleaks.json, ScoopInstaller/Main, 1
 bucket/gitnote.json, naderi/scoop-bucket, 1
 bucket/gitnuro.json, ScoopInstaller/Extras, 1
 bucket/gitomatic.json, ScoopInstaller/Main, 1
-bucket/gitoxide.json, hoilc/scoop-lemon, 1
+bucket/gitoxide.json, ScoopInstaller/Main, 1
 bucket/gitql.json, ScoopInstaller/Main, 1
 bucket/gitsign.json, ScoopInstaller/Main, 1
 bucket/gitsnip.json, hoilc/scoop-lemon, 1
@@ -9233,6 +9232,7 @@ bucket/rq.json, aliesbelik/poldi, 1
 bucket/rqlite.json, hoilc/scoop-lemon, 1
 bucket/rrdtool.json, hoilc/scoop-lemon, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
+bucket/rshell.json, ViCrack/scoop-bucket, 1
 bucket/rsonpath.json, hoilc/scoop-lemon, 1
 bucket/rspleeter.json, hoilc/scoop-lemon, 1
 bucket/rsql.json, hoilc/scoop-lemon, 1
