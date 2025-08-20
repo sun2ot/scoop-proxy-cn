@@ -4986,7 +4986,7 @@ bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroic.json, hoilc/scoop-lemon, 1
 bucket/heroku-cli.json, ScoopInstaller/Main, 0
 bucket/hetty.json, aliesbelik/poldi, 1
-bucket/heu-kms-activator.json, ivaquero/scoopet, 1
+bucket/heu-kms-activator.json, DoveBoy/Apps, 1
 bucket/hex-editor-neo.json, ScoopInstaller/Extras, 0
 bucket/hex2dec.json, niheaven/scoop-sysinternals, 1
 bucket/hexalate.json, hoilc/scoop-lemon, 0
@@ -8352,6 +8352,7 @@ bucket/pixelorama.json, ScoopInstaller/Extras, 1
 bucket/pixfront.json, mo-san/scoop-bucket, 0
 bucket/pixi.json, ScoopInstaller/Main, 1
 bucket/pixie.json, ScoopInstaller/Extras, 0
+bucket/pixieditor.json, ScoopInstaller/Extras, 1
 bucket/pixitracker-1bit.json, ScoopInstaller/Extras, 0
 bucket/pixitracker.json, ScoopInstaller/Extras, 0
 bucket/pixiv-omina.json, batkiz/backit, 1
@@ -8894,6 +8895,7 @@ bucket/r.json, ScoopInstaller/Main, 0
 bucket/r128gain.json, ScoopInstaller/Main, 1
 bucket/r2modman.json, Calinou/scoop-games, 1
 bucket/r36.json, ScoopInstaller/Versions, 0
+bucket/r3dfox.json, ScoopInstaller/Extras, 1
 bucket/r3nzskin.json, DoveBoy/Apps, 1
 bucket/r3play.json, DoveBoy/Apps, 1
 bucket/r3playx.json, hoilc/scoop-lemon, 1
@@ -9335,7 +9337,7 @@ bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
 bucket/rymdport.json, hoilc/scoop-lemon, 1
-bucket/ryujinx-canary.json, Calinou/scoop-games, 0
+bucket/ryujinx-canary.json, borger/scoop-emulators, 0
 bucket/ryujinx.json, Calinou/scoop-games, 0
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
@@ -9621,7 +9623,7 @@ bucket/serializationdumper.json, hoilc/scoop-lemon, 1
 bucket/serialtest.json, hoilc/scoop-lemon, 1
 bucket/serpl.json, hoilc/scoop-lemon, 1
 bucket/serve.json, ScoopInstaller/Main, 1
-bucket/serverbox.json, hoilc/scoop-lemon, 1
+bucket/serverbox.json, DoveBoy/Apps, 1
 bucket/serverless.json, ScoopInstaller/Main, 1
 bucket/servicebusexplorer.json, ScoopInstaller/Extras, 1
 bucket/serviwin.json, ScoopInstaller/Nirsoft, 0
@@ -11456,6 +11458,7 @@ bucket/wild-novel.json, hoilc/scoop-lemon, 1
 bucket/wiliwili.json, ScoopInstaller/Extras, 1
 bucket/wilma.json, starise/Scoop-Confetti, 0
 bucket/wimlib.json, kkzzhizhou/scoop-zapps, 0
+bucket/win-acme-plus.json, aoisummer/scoop-bucket, 1
 bucket/win-acme.json, ScoopInstaller/Main, 1
 bucket/win-aio.json, naderi/scoop-bucket, 0
 bucket/win-bash.json, naderi/scoop-bucket, 0
