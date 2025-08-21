@@ -1,16 +1,16 @@
 {
-  "version": "0.5.12",
+  "version": "0.5.15",
   "description": "A powerful toolkit that provides a TOML Formatter, Linter, and Language Server to help you maintain clean and consistent TOML files.",
   "homepage": "https://tombi-toml.github.io/tombi/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/tombi-toml/tombi/releases/download/v0.5.12/tombi-cli-0.5.12-x86_64-pc-windows-msvc.zip",
-      "hash": "e6949b5df9c42d9570e3bffe8b8bb7ca2934221c798e1d4007628b6a575c6d7c"
+      "url": "https://ghproxy.085404.xyz/https://github.com/tombi-toml/tombi/releases/download/v0.5.15/tombi-cli-0.5.15-x86_64-pc-windows-msvc.zip",
+      "hash": "3526a7348cbf1132d763beb71b88dff125729da284f170ba48b618dfe64effef"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/tombi-toml/tombi/releases/download/v0.5.12/tombi-cli-0.5.12-aarch64-pc-windows-msvc.zip",
-      "hash": "3833e3dbcbc92ca8c14d646621a6f39251606508e07963397cfef07afb42013d"
+      "url": "https://ghproxy.085404.xyz/https://github.com/tombi-toml/tombi/releases/download/v0.5.15/tombi-cli-0.5.15-aarch64-pc-windows-msvc.zip",
+      "hash": "8aa80bbcb7b7379c4d67d17e94a64d1ac2333d848172ddd5845389583ce599f4"
     }
   },
   "bin": "tombi.exe",
