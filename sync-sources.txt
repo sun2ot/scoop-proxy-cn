@@ -2137,7 +2137,7 @@ bucket/bit.json, ScoopInstaller/Main, 1
 bucket/bita.json, hoilc/scoop-lemon, 1
 bucket/bitcoincore.json, chawyehsu/dorado, 1
 bucket/bitcoinknots.json, chawyehsu/dorado, 1
-bucket/bitcomet.json, naderi/scoop-bucket, 0
+bucket/bitcomet.json, echoiron/echo-scoop, 0
 bucket/bitmana.json, naderi/scoop-bucket, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitrock-unpacker.json, hoilc/scoop-lemon, 1
@@ -6065,7 +6065,6 @@ bucket/libimobiledevice-nightly.json, NyaMisty/scoop_bucket_misty, 1
 bucket/libimobiledevice.json, TheCjw/scoop-retools, 1
 bucket/libjpeg-turbo.json, ScoopInstaller/Main, 1
 bucket/libjxl.json, ScoopInstaller/Main, 1
-bucket/libportable-floorp.json, hoilc/scoop-lemon, 1
 bucket/libportable-iceweasel-zh-cn.json, hoilc/scoop-lemon, 0
 bucket/libportable-iceweasel.json, hoilc/scoop-lemon, 0
 bucket/libportable.json, hoilc/scoop-lemon, 0
@@ -12053,7 +12052,7 @@ bucket/zeebe-modeler.json, ScoopInstaller/Extras, 1
 bucket/zeebe.json, ScoopInstaller/Main, 1
 bucket/zeebe1.3.json, ScoopInstaller/Versions, 1
 bucket/zelda-oot-soh.json, Deide/deide-bucket, 1
-bucket/zelda64recomp.json, borger/scoop-emulators, 1
+bucket/zelda64recomp.json, Calinou/scoop-games, 1
 bucket/zen-browser.json, ScoopInstaller/Extras, 1
 bucket/zenhan.json, ScoopInstaller/Main, 1
 bucket/zenta.json, hoilc/scoop-lemon, 1
