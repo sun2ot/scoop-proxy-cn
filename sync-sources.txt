@@ -3201,7 +3201,7 @@ bucket/desktopnoteok.json, hoilc/scoop-lemon, 0
 bucket/desktoppet.json, amorphobia/siku, 1
 bucket/desktops.json, niheaven/scoop-sysinternals, 1
 bucket/desmume-stable.json, hermanjustnu/scoop-emulators, 1
-bucket/desmume.json, borger/scoop-emulators, 0
+bucket/desmume.json, hermanjustnu/scoop-emulators, 0
 bucket/deta.json, ScoopInstaller/Main, 1
 bucket/detect-it-easy.json, ScoopInstaller/Extras, 1
 bucket/detekt.json, ScoopInstaller/Main, 1
@@ -8393,6 +8393,7 @@ bucket/plumber.json, batkiz/backit, 1
 bucket/plus42.json, hoilc/scoop-lemon, 0
 bucket/plutil.json, beerpiss/scoop-bucket, 0
 bucket/pluto.json, ScoopInstaller/Main, 1
+bucket/pmas.json, DoveBoy/Apps, 0
 bucket/pmlite.json, hoilc/scoop-lemon, 0
 bucket/pmx-editor.json, mo-san/scoop-bucket, 0
 bucket/png2html.json, ScoopInstaller/Main, 0
@@ -8867,6 +8868,8 @@ bucket/quick-any2ico.json, hoilc/scoop-lemon, 0
 bucket/quick-change-resolution.json, hoilc/scoop-lemon, 0
 bucket/quick-lint-js.json, ScoopInstaller/Main, 0
 bucket/quick-picture-viewer.json, ScoopInstaller/Extras, 1
+bucket/quickclipboard-portable.json, DoveBoy/Apps, 1
+bucket/quickclipboard.json, DoveBoy/Apps, 1
 bucket/quickcpu.json, ScoopInstaller/Extras, 0
 bucket/quickinstaller.json, ScoopInstaller/Extras, 0
 bucket/quickjs.json, hoilc/scoop-lemon, 0
