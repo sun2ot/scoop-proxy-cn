@@ -2601,6 +2601,8 @@ bucket/clash-mini.json, DoveBoy/Apps, 1
 bucket/clash-nyanpasu-nightly.json, hoilc/scoop-lemon, 1
 bucket/clash-nyanpasu-portable.json, DoveBoy/Apps, 1
 bucket/clash-nyanpasu.json, ScoopInstaller/Extras, 1
+bucket/clash-party-portable.json, DoveBoy/Apps, 1
+bucket/clash-party.json, DoveBoy/Apps, 1
 bucket/clash-premium.json, everyx/scoop-bucket, 0
 bucket/clash-rev-cgo.json, DoveBoy/Apps, 1
 bucket/clash-rev-compatible-go120.json, DoveBoy/Apps, 1
@@ -4711,6 +4713,7 @@ bucket/gomtree.json, hoilc/scoop-lemon, 1
 bucket/goneovim-nightly.json, ScoopInstaller/Versions, 1
 bucket/goneovim.json, ScoopInstaller/Extras, 1
 bucket/gonk.json, brian6932/dank-scoop, 1
+bucket/gonzo.json, aliesbelik/poldi, 1
 bucket/good-mitm.json, hoilc/scoop-lemon, 1
 bucket/goodbyedpi.json, ScoopInstaller/Main, 1
 bucket/goodhosts.json, hoilc/scoop-lemon, 1
@@ -6615,9 +6618,7 @@ bucket/migrated/wait4x.json, aliesbelik/poldi, 1
 bucket/migrated/walk.json, aliesbelik/poldi, 1
 bucket/migrated/yamlfmt.json, aliesbelik/poldi, 1
 bucket/mihome-token.json, amorphobia/siku, 1
-bucket/mihomo-check.json, DoveBoy/Apps, 1
 bucket/mihomo-compatible.json, DoveBoy/Apps, 1
-bucket/mihomo-party-portable.json, DoveBoy/Apps, 1
 bucket/mihomo-party.json, ScoopInstaller/Extras, 1
 bucket/mihomo.json, ScoopInstaller/Main, 1
 bucket/miktex.json, ScoopInstaller/Main, 0
