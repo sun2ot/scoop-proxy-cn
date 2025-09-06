@@ -3606,7 +3606,7 @@ bucket/ecspresso.json, hoilc/scoop-lemon, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
-bucket/eden.json, Calinou/scoop-games, 1
+bucket/eden.json, Deide/deide-bucket, 1
 bucket/edex-ui.json, ScoopInstaller/Extras, 1
 bucket/edge-portable-beta.json, naderi/scoop-bucket, 0
 bucket/edge-portable-canary.json, naderi/scoop-bucket, 0
@@ -7377,7 +7377,7 @@ bucket/odin-dev.json, ScoopInstaller/Versions, 1
 bucket/odin-nightly.json, ScoopInstaller/Versions, 0
 bucket/odin.json, ScoopInstaller/Versions, 1
 bucket/odo.json, ScoopInstaller/Main, 0
-bucket/odpscmd.json, hoilc/scoop-lemon, 0
+bucket/odpscmd.json, hoilc/scoop-lemon, 1
 bucket/ofd2pdf.json, DoveBoy/Apps, 1
 bucket/office-365-apps-minimal-np.json, ScoopInstaller/Nonportable, 1
 bucket/office-365-apps-np.json, ScoopInstaller/Nonportable, 1
@@ -9355,7 +9355,7 @@ bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
 bucket/rymdport.json, hoilc/scoop-lemon, 1
-bucket/ryujinx-canary.json, borger/scoop-emulators, 0
+bucket/ryujinx-canary.json, Calinou/scoop-games, 0
 bucket/ryujinx.json, Calinou/scoop-games, 0
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
@@ -9830,6 +9830,7 @@ bucket/slackdump.json, hoilc/scoop-lemon, 1
 bucket/slade.json, Calinou/scoop-games, 0
 bucket/slam.json, HUMORCE/nuke, 1
 bucket/slang.json, ScoopInstaller/Main, 1
+bucket/sldl.json, hoilc/scoop-lemon, 1
 bucket/sleek.json, ScoopInstaller/Extras, 1
 bucket/sleep-on-lan.json, AkariiinMKII/Scoop4kariiin, 1
 bucket/sleep.json, hoilc/scoop-lemon, 0
@@ -11197,6 +11198,7 @@ bucket/vivaldi-snapshot.json, ScoopInstaller/Versions, 0
 bucket/vivaldi.json, ScoopInstaller/Extras, 0
 bucket/vivetool-gui.json, hoilc/scoop-lemon, 1
 bucket/vivetool.json, ScoopInstaller/Main, 1
+bucket/vivictpp.json, hoilc/scoop-lemon, 1
 bucket/vkquake.json, Calinou/scoop-games, 1
 bucket/vkquake2.json, Calinou/scoop-games, 1
 bucket/vlang.json, littleli/Scoop-littleli, 1
