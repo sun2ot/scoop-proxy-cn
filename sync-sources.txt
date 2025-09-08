@@ -4156,6 +4156,7 @@ bucket/focus-editor.json, ScoopInstaller/Extras, 1
 bucket/focus-writer.json, naderi/scoop-bucket, 0
 bucket/focus.json, ScoopInstaller/Extras, 1
 bucket/focuswriter.json, hoilc/scoop-lemon, 0
+bucket/foks.json, hoilc/scoop-lemon, 1
 bucket/folder-marker.json, ScoopInstaller/Extras, 0
 bucket/folder-painter.json, ScoopInstaller/Extras, 0
 bucket/folderchangesview.json, ScoopInstaller/Nirsoft, 0
@@ -6254,6 +6255,7 @@ bucket/lsd.json, ScoopInstaller/Main, 1
 bucket/lsdsk.json, rasa/scoops, 1
 bucket/lsix.json, ScoopInstaller/Main, 1
 bucket/lsmash-muxer-gui.json, hoilc/scoop-lemon, 1
+bucket/lspatch.json, hoilc/scoop-lemon, 1
 bucket/lstags.json, MCOfficer/scoop-bucket, 1
 bucket/lstr.json, hoilc/scoop-lemon, 1
 bucket/lsx.json, DoveBoy/Apps, 1
