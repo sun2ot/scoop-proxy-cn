@@ -1,0 +1,32 @@
+{
+  "version": "0.4.4",
+  "description": "Local first semantic and hybrid BM25 grep / search tool for use by AI and humans.",
+  "homepage": "https://github.com/BeaconBay/ck",
+  "license": "Apache-2.0|MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://ghproxy.085404.xyz/https://github.com/BeaconBay/ck/releases/download/0.4.4/ck-0.4.4-x86_64-pc-windows-msvc.zip",
+      "hash": "aa9aa841f4bfd3f7ed1a1f7bae88a7e13878191093546ae0f036be6a409764e6"
+    },
+    "arm64": {
+      "url": "https://ghproxy.085404.xyz/https://github.com/BeaconBay/ck/releases/download/0.4.4/ck-0.4.4-aarch64-pc-windows-msvc.zip",
+      "hash": "481264a36869b9ef57d69d016208eacfd5a19f0097a83e2b14864be41dda15b6"
+    }
+  },
+  "bin": "ck.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://ghproxy.085404.xyz/https://github.com/BeaconBay/ck/releases/download/$version/ck-$version-x86_64-pc-windows-msvc.zip"
+      },
+      "arm64": {
+        "url": "https://ghproxy.085404.xyz/https://github.com/BeaconBay/ck/releases/download/$version/ck-$version-aarch64-pc-windows-msvc.zip"
+      }
+    },
+    "hash": {
+      "url": "$url.sha256",
+      "regex": "$sha256"
+    }
+  }
+}
