@@ -4503,7 +4503,7 @@ bucket/git-bug.json, ScoopInstaller/Main, 1
 bucket/git-chglog.json, ScoopInstaller/Main, 1
 bucket/git-cliff.json, ScoopInstaller/Main, 1
 bucket/git-cn.json, ivaquero/scoopet, 0
-bucket/git-cola.json, cc713/ownscoop, 1
+bucket/git-cola.json, hoilc/scoop-lemon, 1
 bucket/git-credential-gopass.json, chawyehsu/dorado, 1
 bucket/git-credential-keepassxc-full.json, hoilc/scoop-lemon, 1
 bucket/git-credential-keepassxc.json, hoilc/scoop-lemon, 1
@@ -4605,6 +4605,7 @@ bucket/glow.json, ScoopInstaller/Main, 1
 bucket/glslang-nightly.json, ScoopInstaller/Versions, 1
 bucket/glslang.json, ScoopInstaller/Main, 1
 bucket/glslviewer.json, ScoopInstaller/Main, 1
+bucket/gltfpack.json, hoilc/scoop-lemon, 1
 bucket/gluon-openjfx-jmods-ea.json, ScoopInstaller/Java, 0
 bucket/gluon-openjfx-jmods.json, ScoopInstaller/Java, 0
 bucket/gluon-openjfx-monocle-sdk-ea.json, ScoopInstaller/Java, 0
@@ -4974,6 +4975,8 @@ bucket/hcledit.json, hoilc/scoop-lemon, 1
 bucket/hcloud.json, ScoopInstaller/Main, 1
 bucket/hcp.json, hoilc/scoop-lemon, 0
 bucket/hdcleaner.json, naderi/scoop-bucket, 0
+bucket/hdd-llf-low-level-format-tool.json, hoilc/scoop-lemon, 0
+bucket/hdd-raw-copy-tool.json, hoilc/scoop-lemon, 0
 bucket/hdfview.json, hoilc/scoop-lemon, 1
 bucket/hdr10plus_tool.json, hoilc/scoop-lemon, 1
 bucket/hdtune.json, echoiron/echo-scoop, 0
@@ -5173,6 +5176,7 @@ bucket/iawriterquattro-variable.json, KnotUntied/scoop-fonts, 0
 bucket/iawriterquattro.json, KnotUntied/scoop-fonts, 0
 bucket/ib-en.json, beerpiss/scoop-bucket, 0
 bucket/ib-jp.json, beerpiss/scoop-bucket, 0
+bucket/ibazel.json, ScoopInstaller/Extras, 1
 bucket/ibmcloud-cli.json, ScoopInstaller/Main, 0
 bucket/icaros-np.json, ScoopInstaller/Nonportable, 0
 bucket/icat.json, couleur-tweak-tips/utils, 0
@@ -6086,6 +6090,7 @@ bucket/library.net-standard.json, hoilc/scoop-lemon, 0
 bucket/library.net.json, hoilc/scoop-lemon, 0
 bucket/libraw.json, HUMORCE/nuke, 0
 bucket/librecad.json, ScoopInstaller/Extras, 1
+bucket/libredwg.json, hoilc/scoop-lemon, 1
 bucket/librehardwaremonitor.json, ScoopInstaller/Extras, 1
 bucket/libreoffice-cn.json, ivaquero/scoopet, 0
 bucket/libreoffice.json, ScoopInstaller/Extras, 0
@@ -6550,7 +6555,7 @@ bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mftecmd.json, hoilc/scoop-lemon, 1
 bucket/mftexplorer.json, hoilc/scoop-lemon, 1
-bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mglahk.json, hoilc/scoop-lemon, 0
 bucket/mgtv.json, DoveBoy/Apps, 0
@@ -6942,6 +6947,7 @@ bucket/multicommander.json, ScoopInstaller/Extras, 0
 bucket/multidesk-chs.json, hoilc/scoop-lemon, 0
 bucket/multidesk.json, hoilc/scoop-lemon, 0
 bucket/multidoge.json, naderi/scoop-bucket, 1
+bucket/multidrive.json, hoilc/scoop-lemon, 0
 bucket/multimarkdown.json, kkzzhizhou/scoop-zapps, 1
 bucket/multimc.json, Deide/deide-bucket, 0
 bucket/multimonitortool.json, ScoopInstaller/Nirsoft, 0
@@ -11130,6 +11136,7 @@ bucket/venera.json, hoilc/scoop-lemon, 1
 bucket/ventoy.json, ScoopInstaller/Extras, 1
 bucket/veracrypt-legacy-np.json, aoisummer/scoop-bucket, 0
 bucket/veracrypt-np.json, aoisummer/scoop-bucket, 0
+bucket/verible.json, hoilc/scoop-lemon, 1
 bucket/verilator.json, SayCV/scoop-cvp, 1
 bucket/verilog-format.json, SayCV/scoop-cvp, 1
 bucket/versatiles.json, hoilc/scoop-lemon, 1
@@ -11447,6 +11454,7 @@ bucket/whatishang.json, ScoopInstaller/Nirsoft, 0
 bucket/whatsapp-chat-exporter.json, hoilc/scoop-lemon, 1
 bucket/whatsapp-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/wheel-py.json, TheRandomLabs/Scoop-Python, 1
+bucket/wheelwizard.json, Calinou/scoop-games, 1
 bucket/whepfrom.json, ScoopInstaller/Extras, 1
 bucket/which.json, ScoopInstaller/Main, 0
 bucket/whipinto.json, ScoopInstaller/Extras, 1
