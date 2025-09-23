@@ -8355,6 +8355,8 @@ bucket/php8.2-nts.json, ScoopInstaller/PHP, 0
 bucket/php8.2.json, ScoopInstaller/PHP, 0
 bucket/php8.3-nts.json, ScoopInstaller/PHP, 0
 bucket/php8.3.json, ScoopInstaller/PHP, 0
+bucket/php8.4-nts.json, ScoopInstaller/PHP, 0
+bucket/php8.4.json, ScoopInstaller/PHP, 0
 bucket/php80-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php80.json, ScoopInstaller/Versions, 0
 bucket/php81-xdebug.json, ScoopInstaller/Versions, 0
@@ -8406,7 +8408,7 @@ bucket/pietty.json, ScoopInstaller/Extras, 0
 bucket/pijul.json, ScoopInstaller/Versions, 1
 bucket/pikapika-comic.json, hoilc/scoop-lemon, 1
 bucket/pikapika.json, DoveBoy/Apps, 1
-bucket/pikpak.json, akirco/aki-apps, 0
+bucket/pikpak.json, hoilc/scoop-lemon, 0
 bucket/pilotedit-lite.json, hoilc/scoop-lemon, 0
 bucket/pine64-updater.json, ScoopInstaller/Extras, 1
 bucket/pineapple-pictures.json, hoilc/scoop-lemon, 1
