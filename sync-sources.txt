@@ -3211,6 +3211,7 @@ bucket/depotdownloader.json, hoilc/scoop-lemon, 1
 bucket/deprecated.Filezilla-persist.json, Paxxs/Cluttered-bucket, 0
 bucket/deprecated.LDPlayer.clear.json, Paxxs/Cluttered-bucket, 0
 bucket/deps.clj.json, littleli/scoop-clojure, 1
+bucket/depyler.json, hoilc/scoop-lemon, 1
 bucket/deskflow.json, ScoopInstaller/Extras, 1
 bucket/deskpins.json, ScoopInstaller/Extras, 0
 bucket/deskreen-portable.json, DoveBoy/Apps, 1
@@ -4594,6 +4595,7 @@ bucket/gitsign.json, ScoopInstaller/Main, 1
 bucket/gitsnip.json, hoilc/scoop-lemon, 1
 bucket/gittuf.json, hoilc/scoop-lemon, 1
 bucket/gitty.json, batkiz/backit, 1
+bucket/gittype.json, hoilc/scoop-lemon, 1
 bucket/gittyup.json, ScoopInstaller/Extras, 1
 bucket/gitu.json, ScoopInstaller/Extras, 1
 bucket/gitui.json, ScoopInstaller/Main, 1
