@@ -179,7 +179,7 @@ bucket/Avidemux-Portable.json, ACooper81/scoop-apps, 1
 bucket/AxGlyph.json, ygguorun/scoop-bucket, 0
 bucket/AxMath.json, ygguorun/scoop-bucket, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
+bucket/BaiduNetdisk.json, ygguorun/scoop-bucket, 0
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/Bart-Portable.json, ACooper81/scoop-apps, 0
 bucket/BatToExeConverter.json, kkzzhizhou/scoop-zapps, 1
@@ -1694,6 +1694,7 @@ bucket/apifox.json, ScoopInstaller/Extras, 0
 bucket/apimonitor.json, 42wim/scoop-bucket, 0
 bucket/apimtemplate.json, ScoopInstaller/Main, 1
 bucket/apipost.json, zhoujin7/tomato, 0
+bucket/apk-editor-studio.json, ScoopInstaller/Extras, 1
 bucket/apkeep.json, ScoopInstaller/Extras, 1
 bucket/apkeepCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/apkstudio.json, ChungZH/peach, 1
@@ -2640,6 +2641,7 @@ bucket/clashmi-portable.json, DoveBoy/Apps, 1
 bucket/clashmi.json, DoveBoy/Apps, 1
 bucket/clashn.json, hoilc/scoop-lemon, 1
 bucket/clashrauto.json, akirco/aki-apps, 1
+bucket/clashrs.json, DoveBoy/Apps, 1
 bucket/clashsinicizationtool.json, DoveBoy/Apps, 1
 bucket/clashtui.json, ScoopInstaller/Extras, 1
 bucket/clashwarden.json, DoveBoy/Apps, 1
@@ -3622,7 +3624,7 @@ bucket/ecspresso.json, hoilc/scoop-lemon, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
-bucket/eden.json, Deide/deide-bucket, 1
+bucket/eden.json, Calinou/scoop-games, 1
 bucket/edex-ui.json, ScoopInstaller/Extras, 1
 bucket/edge-portable-beta.json, naderi/scoop-bucket, 0
 bucket/edge-portable-canary.json, naderi/scoop-bucket, 0
@@ -5884,6 +5886,7 @@ bucket/ksnip.json, ScoopInstaller/Extras, 1
 bucket/ksoftmgr.json, echoiron/echo-scoop, 0
 bucket/ksubdomain.json, ViCrack/scoop-bucket, 1
 bucket/kt-connect.json, chawyehsu/dorado, 1
+bucket/ktea.json, aliesbelik/poldi, 1
 bucket/ktfmt.json, hoilc/scoop-lemon, 1
 bucket/ktlint.json, ScoopInstaller/Main, 1
 bucket/ktor-cli.json, hoilc/scoop-lemon, 1
@@ -8410,6 +8413,7 @@ bucket/pietty.json, ScoopInstaller/Extras, 0
 bucket/pijul.json, ScoopInstaller/Versions, 1
 bucket/pikapika-comic.json, hoilc/scoop-lemon, 1
 bucket/pikapika.json, DoveBoy/Apps, 1
+bucket/pikatorrent.json, DoveBoy/Apps, 1
 bucket/pikpak.json, hoilc/scoop-lemon, 0
 bucket/pilotedit-lite.json, hoilc/scoop-lemon, 0
 bucket/pine64-updater.json, ScoopInstaller/Extras, 1
