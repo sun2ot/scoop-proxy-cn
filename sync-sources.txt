@@ -1439,6 +1439,7 @@ bucket/ab.json, ScoopInstaller/Main, 0
 bucket/abaddon.json, brian6932/dank-scoop, 1
 bucket/abc.json, ScoopInstaller/Main, 1
 bucket/abcl.json, hoilc/scoop-lemon, 0
+bucket/abctl.json, hoilc/scoop-lemon, 1
 bucket/abdownloadmanager.json, ScoopInstaller/Extras, 1
 bucket/aboboo-full.json, ivaquero/scoopet, 0
 bucket/aboboo.json, ivaquero/scoopet, 0
@@ -2727,6 +2728,7 @@ bucket/clumsy.json, ScoopInstaller/Extras, 1
 bucket/clustal-omega.json, ScoopInstaller/Extras, 0
 bucket/clustalw.json, ScoopInstaller/Extras, 0
 bucket/clustalx.json, ScoopInstaller/Extras, 0
+bucket/clusterctl.json, hoilc/scoop-lemon, 1
 bucket/clusterlint.json, hoilc/scoop-lemon, 1
 bucket/cmail.json, hoilc/scoop-lemon, 0
 bucket/cmailgui.json, hoilc/scoop-lemon, 0
@@ -3325,9 +3327,11 @@ bucket/displaycal.json, ScoopInstaller/Extras, 0
 bucket/ditto-np.json, ScoopInstaller/Nonportable, 0
 bucket/ditto.json, ScoopInstaller/Extras, 1
 bucket/diun.json, ScoopInstaller/Main, 1
+bucket/divamodmanager.json, Calinou/scoop-games, 1
 bucket/dive.json, ScoopInstaller/Main, 1
 bucket/divoom-cli.json, ScoopInstaller/Extras, 1
 bucket/divoom-gateway.json, ScoopInstaller/Extras, 1
+bucket/djview.json, hoilc/scoop-lemon, 0
 bucket/djvulibre.json, ScoopInstaller/Main, 0
 bucket/djvutoy-eng.json, hoilc/scoop-lemon, 0
 bucket/djvutoy.json, hoilc/scoop-lemon, 0
@@ -5704,7 +5708,7 @@ bucket/karate.json, ScoopInstaller/Main, 1
 bucket/kardolus-chatgpt-cli.json, hoilc/scoop-lemon, 1
 bucket/kargo-cli.json, hoilc/scoop-lemon, 1
 bucket/karing-portable.json, DoveBoy/Apps, 1
-bucket/karing.json, DoveBoy/Apps, 1
+bucket/karing.json, hoilc/scoop-lemon, 1
 bucket/karlyriceditor.json, hoilc/scoop-lemon, 1
 bucket/karma.json, hoilc/scoop-lemon, 1
 bucket/karmor.json, hoilc/scoop-lemon, 1
@@ -5910,6 +5914,7 @@ bucket/kubectl-buildkit.json, hoilc/scoop-lemon, 1
 bucket/kubectl-cnpg.json, hoilc/scoop-lemon, 1
 bucket/kubectl-debug.json, hoilc/scoop-lemon, 1
 bucket/kubectl-explore.json, hoilc/scoop-lemon, 1
+bucket/kubectl-gadget.json, hoilc/scoop-lemon, 1
 bucket/kubectl-kcl.json, hoilc/scoop-lemon, 1
 bucket/kubectl-kcp.json, hoilc/scoop-lemon, 1
 bucket/kubectl-retina.json, hoilc/scoop-lemon, 1
@@ -7532,6 +7537,7 @@ bucket/ollama.json, ScoopInstaller/Main, 1
 bucket/ollydbg.json, ScoopInstaller/Extras, 0
 bucket/omegat.json, ScoopInstaller/Extras, 0
 bucket/omenmon.json, ScoopInstaller/Extras, 1
+bucket/omnictl.json, hoilc/scoop-lemon, 1
 bucket/omnidb-np.json, ScoopInstaller/Nonportable, 1
 bucket/omnisharp-http-net6.json, ScoopInstaller/Versions, 1
 bucket/omnisharp-http.json, ScoopInstaller/Main, 1
@@ -8606,6 +8612,7 @@ bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqrs.json, hoilc/scoop-lemon, 1
 bucket/praat.json, ScoopInstaller/Extras, 1
 bucket/pragtical.json, ScoopInstaller/Extras, 1
+bucket/praises.json, hoilc/scoop-lemon, 1
 bucket/prboom-plus.json, Calinou/scoop-games, 1
 bucket/preccalc.json, hoilc/scoop-lemon, 0
 bucket/precious.json, hoilc/scoop-lemon, 1
@@ -12104,7 +12111,7 @@ bucket/youtube-dl-animelover1984.json, yuusakuri/scoop-bucket, 1
 bucket/youtube-dl-gui.json, ScoopInstaller/Extras, 1
 bucket/youtube-dl-nightly.json, hoilc/scoop-lemon, 1
 bucket/youtube-dl-py.json, TheRandomLabs/Scoop-Python, 1
-bucket/youtube-dl-wpf.json, kidonng/sushi, 1
+bucket/youtube-dl-wpf.json, akirco/aki-apps, 1
 bucket/youtube-dl.json, ScoopInstaller/Main, 1
 bucket/youtube-dlc.json, ScoopInstaller/Versions, 1
 bucket/youtube-downloader-hd.json, naderi/scoop-bucket, 0
