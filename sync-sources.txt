@@ -1845,6 +1845,7 @@ bucket/audiotester.json, starise/Scoop-Confetti, 0
 bucket/audius.json, Weidows-projects/scoop-3rd, 0
 bucket/audmes.json, ScoopInstaller/Extras, 0
 bucket/augmentinel.json, Calinou/scoop-games, 0
+bucket/aurora-rgb.json, ScoopInstaller/Versions, 1
 bucket/aurora.json, ScoopInstaller/Extras, 1
 bucket/auryo.json, naderi/scoop-bucket, 1
 bucket/austin.json, ScoopInstaller/Main, 1
@@ -2369,6 +2370,8 @@ bucket/camunda-modeler.json, ScoopInstaller/Extras, 1
 bucket/camunda-operate.json, ScoopInstaller/Main, 1
 bucket/camunda-operate1.3.json, ScoopInstaller/Versions, 1
 bucket/canal2sql.json, hoilc/scoop-lemon, 1
+bucket/canme-portable.json, DoveBoy/Apps, 1
+bucket/canme.json, DoveBoy/Apps, 1
 bucket/capcut.json, chawyehsu/dorado, 0
 bucket/capframex.json, ScoopInstaller/Extras, 1
 bucket/capnp.json, ScoopInstaller/Main, 0
@@ -3028,6 +3031,7 @@ bucket/cuda11.7.json, ScoopInstaller/Versions, 0
 bucket/cuda11.8.json, ScoopInstaller/Versions, 0
 bucket/cuda12.4.json, Weidows-projects/scoop-3rd, 0
 bucket/cuda12.8.json, Weidows-projects/scoop-3rd, 0
+bucket/cuda12.9.json, ScoopInstaller/Versions, 0
 bucket/cuda6.0.json, ScoopInstaller/Versions, 0
 bucket/cuda6.5.json, ScoopInstaller/Versions, 0
 bucket/cuda6.json, ScoopInstaller/Versions, 0
@@ -4342,6 +4346,7 @@ bucket/fun.json, ScoopInstaller/Extras, 0
 bucket/function-runner.json, hoilc/scoop-lemon, 1
 bucket/fupx.json, hoilc/scoop-lemon, 0
 bucket/furmark.json, ScoopInstaller/Extras, 0
+bucket/furmark1.json, ScoopInstaller/Versions, 0
 bucket/furnace.json, ScoopInstaller/Extras, 1
 bucket/fuse.json, renxia/scoop-bucket, 0
 bucket/fusion-lang.json, hoilc/scoop-lemon, 1
@@ -5419,7 +5424,7 @@ bucket/iosevka-ss15.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss16.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss17.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss18.json, KnotUntied/scoop-fonts, 1
-bucket/iosevka.json, iquiw/scoop-bucket, 1
+bucket/iosevka.json, KnotUntied/scoop-fonts, 1
 bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
 bucket/ipatool.json, amorphobia/siku, 1
@@ -6365,6 +6370,7 @@ bucket/lutgen-studio.json, hoilc/scoop-lemon, 1
 bucket/lutgen.json, ScoopInstaller/Main, 1
 bucket/lux.json, ScoopInstaller/Main, 1
 bucket/luyten.json, TheCjw/scoop-retools, 1
+bucket/lvory.json, hoilc/scoop-lemon, 1
 bucket/lwc.json, ScoopInstaller/Main, 1
 bucket/lwp.json, ScoopInstaller/Extras, 1
 bucket/lx-music-desktop-win7.json, DoveBoy/Apps, 1
@@ -9194,6 +9200,7 @@ bucket/reicon.json, ScoopInstaller/Extras, 0
 bucket/reko.json, TheCjw/scoop-retools, 1
 bucket/rekor-cli.json, hoilc/scoop-lemon, 1
 bucket/reloaded-ii.json, Calinou/scoop-games, 1
+bucket/rem.json, hoilc/scoop-lemon, 1
 bucket/remetrics.json, hoilc/scoop-lemon, 1
 bucket/remnant-overseer.json, brian6932/dank-scoop, 1
 bucket/remnant-save-guardian.json, brian6932/dank-scoop, 1
