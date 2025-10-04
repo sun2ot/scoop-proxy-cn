@@ -1,16 +1,16 @@
 {
-  "version": "1.46.0",
+  "version": "1.46.2",
   "description": "The CLI for Qovery, a DevOps Automation Platform.",
   "homepage": "https://www.qovery.com/",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Qovery/qovery-cli/releases/download/v1.46.0/qovery-cli_1.46.0_windows_amd64.zip",
-      "hash": "31033bbdd8e05fd899769a2c61d633bb004653367907d28e34a8ca2a1d07fc1e"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Qovery/qovery-cli/releases/download/v1.46.2/qovery-cli_1.46.2_windows_amd64.zip",
+      "hash": "a30eb84a0551bab0bfb47ca246ce6e436d408d6c0980bcc69545eb8e9314a971"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Qovery/qovery-cli/releases/download/v1.46.0/qovery-cli_1.46.0_windows_arm64.zip",
-      "hash": "0df1d57ba1a7bd862e9d1515038c047e85046b6ccc5bc010200e40d58da8ca9c"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Qovery/qovery-cli/releases/download/v1.46.2/qovery-cli_1.46.2_windows_arm64.zip",
+      "hash": "a80176baafc76f88127e01a2f4a293a0733100f2c15ea46bae5e745cb3d9bc70"
     }
   },
   "bin": "qovery.exe",
