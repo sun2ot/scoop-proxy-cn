@@ -21,6 +21,7 @@ bucket/1password-cli.json, ScoopInstaller/Main, 0
 bucket/1password-cli1.json, ScoopInstaller/Versions, 0
 bucket/1remote.json, hoilc/scoop-lemon, 1
 bucket/2345pic.json, echoiron/echo-scoop, 0
+bucket/2faguard.json, naderi/scoop-bucket, 1
 bucket/2ship2harkinian.json, Calinou/scoop-games, 1
 bucket/3270-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/3270-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
@@ -1850,6 +1851,7 @@ bucket/auryo.json, naderi/scoop-bucket, 1
 bucket/austin.json, ScoopInstaller/Main, 1
 bucket/ausweisapp2.json, ScoopInstaller/Extras, 1
 bucket/auth-thu.json, jingyu9575/scoop-jingyu9575, 0
+bucket/authenticator.json, naderi/scoop-bucket, 1
 bucket/authme.json, ScoopInstaller/Extras, 1
 bucket/authpass.json, ScoopInstaller/Extras, 1
 bucket/authy.json, ScoopInstaller/Extras, 0
@@ -2911,6 +2913,7 @@ bucket/cpa.json, aliesbelik/poldi, 1
 bucket/cpachecker.json, seumsc/scoop-seu, 0
 bucket/cpc.json, hoilc/scoop-lemon, 1
 bucket/cpdf.json, rasa/scoops, 1
+bucket/cpdt.json, hoilc/scoop-lemon, 1
 bucket/cpeditor-beta.json, kidonng/sushi, 1
 bucket/cpeditor.json, hoilc/scoop-lemon, 1
 bucket/cpix-cn.json, hoilc/scoop-lemon, 0
@@ -4338,11 +4341,12 @@ bucket/ftdv.json, aliesbelik/poldi, 1
 bucket/fteqw.json, Calinou/scoop-games, 0
 bucket/ftpserver.json, DoveBoy/Apps, 1
 bucket/fu.json, ScoopInstaller/Extras, 1
-bucket/fuck-u-code.json, Weidows-projects/scoop-3rd, 1
+bucket/fuck-u-code.json, hoilc/scoop-lemon, 1
 bucket/fulleventlogview.json, ScoopInstaller/Nirsoft, 0
 bucket/fullupdateshistoryview.json, ScoopInstaller/Nirsoft, 0
 bucket/fun.json, ScoopInstaller/Extras, 0
 bucket/function-runner.json, hoilc/scoop-lemon, 1
+bucket/funkin.json, Calinou/scoop-games, 1
 bucket/fupx.json, hoilc/scoop-lemon, 0
 bucket/furmark.json, ScoopInstaller/Extras, 0
 bucket/furmark1.json, ScoopInstaller/Versions, 0
@@ -4568,7 +4572,7 @@ bucket/git-tower.json, ScoopInstaller/Extras, 0
 bucket/git-town.json, ScoopInstaller/Main, 1
 bucket/git-trim.json, hoilc/scoop-lemon, 1
 bucket/git-up.json, ScoopInstaller/Main, 1
-bucket/git-who.json, batkiz/backit, 1
+bucket/git-who.json, hoilc/scoop-lemon, 1
 bucket/git-with-openssh.json, ScoopInstaller/Main, 1
 bucket/git-without-openssh.json, ScoopInstaller/Versions, 1
 bucket/git-workspace.json, hoilc/scoop-lemon, 1
@@ -4746,7 +4750,7 @@ bucket/goland-rc.json, ScoopInstaller/Versions, 1
 bucket/goland.json, ScoopInstaller/Extras, 1
 bucket/golang.json, kiennq/scoop-misc, 0
 bucket/golangci-lint.json, ScoopInstaller/Main, 1
-bucket/goldendict-ng.json, cc713/ownscoop, 1
+bucket/goldendict-ng.json, hu3rror/scoop-muggle, 1
 bucket/goldendict.json, ScoopInstaller/Extras, 1
 bucket/golly.json, Calinou/scoop-games, 0
 bucket/gom-player-plus.json, mo-san/scoop-bucket, 0
@@ -6935,7 +6939,7 @@ bucket/mpsmart.json, SayCV/scoop-cvp, 0
 bucket/mpv-Portable.json, ACooper81/scoop-apps, 0
 bucket/mpv-autoload.json, brian6932/dank-scoop, 1
 bucket/mpv-easy-player.json, ScoopInstaller/Extras, 1
-bucket/mpv-git.json, ScoopInstaller/Extras, 0
+bucket/mpv-git.json, ScoopInstaller/Extras, 1
 bucket/mpv-handler.json, hu3rror/scoop-muggle, 1
 bucket/mpv-lazy.json, cc713/ownscoop, 1
 bucket/mpv-persist-properties.json, brian6932/dank-scoop, 1
@@ -7319,7 +7323,7 @@ bucket/note-gen.json, DoveBoy/Apps, 1
 bucket/notegen.json, hoilc/scoop-lemon, 1
 bucket/notejoy.json, ScoopInstaller/Extras, 0
 bucket/noteme.json, hoilc/scoop-lemon, 0
-bucket/notepad--.json, ViCrack/scoop-bucket, 1
+bucket/notepad--.json, zhoujin7/tomato, 1
 bucket/notepad2-mod.json, ScoopInstaller/Extras, 1
 bucket/notepad2.json, ScoopInstaller/Extras, 0
 bucket/notepad3.json, ScoopInstaller/Extras, 1
@@ -8623,7 +8627,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqrs.json, hoilc/scoop-lemon, 1
 bucket/praat.json, ScoopInstaller/Extras, 1
@@ -10234,8 +10238,6 @@ bucket/statuspilatus.json, MCOfficer/scoop-bucket, 1
 bucket/staxrip.json, ScoopInstaller/Extras, 1
 bucket/stc.json, rasa/scoops, 1
 bucket/stdiscosrv.json, ScoopInstaller/Main, 1
-bucket/stdu-viewer.json, naderi/scoop-bucket, 0
-bucket/stdu-xml-editor.json, naderi/scoop-bucket, 0
 bucket/stduviewer.json, hoilc/scoop-lemon, 0
 bucket/steam-achievement-manager-syntaxtm.json, Calinou/scoop-games, 1
 bucket/steam-achievement-manager.json, Calinou/scoop-games, 1
