@@ -3345,6 +3345,7 @@ bucket/djvutoy-eng.json, hoilc/scoop-lemon, 0
 bucket/djvutoy.json, hoilc/scoop-lemon, 0
 bucket/dllexp.json, ScoopInstaller/Nirsoft, 0
 bucket/dllexportviewer.json, kodybrown/scoop-nirsoft, 0
+bucket/dlm.json, aliesbelik/poldi, 1
 bucket/dlss-swapper.json, hu3rror/scoop-muggle, 1
 bucket/dlss-updater.json, hoilc/scoop-lemon, 1
 bucket/dm2.json, naderi/scoop-bucket, 1
@@ -3357,7 +3358,7 @@ bucket/dn-tool-container.json, ScoopInstaller/Extras, 1
 bucket/dnSpyEx-nightly.json, NyaMisty/scoop_bucket_misty, 0
 bucket/dnglab.json, hoilc/scoop-lemon, 1
 bucket/dngrep.json, ScoopInstaller/Extras, 1
-bucket/dnote.json, hoilc/scoop-lemon, 1
+bucket/dnote.json, batkiz/backit, 1
 bucket/dns-jumper.json, hoilc/scoop-lemon, 0
 bucket/dns-safeguard.json, brian6932/dank-scoop, 1
 bucket/dnsbench.json, rasa/scoops, 0
@@ -5567,7 +5568,10 @@ bucket/jeveassets.json, Calinou/scoop-games, 1
 bucket/jexiftoolgui.json, ScoopInstaller/Extras, 1
 bucket/jextract.json, hoilc/scoop-lemon, 0
 bucket/jf-open-huninn.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/jfduke3d.json, hoilc/scoop-lemon, 0
+bucket/jflex.json, hoilc/scoop-lemon, 1
 bucket/jfrog.json, ScoopInstaller/Main, 0
+bucket/jfsw.json, hoilc/scoop-lemon, 0
 bucket/jhead.json, ScoopInstaller/Main, 0
 bucket/jhentai.json, hoilc/scoop-lemon, 1
 bucket/jianying-pro.json, ivaquero/scoopet, 0
@@ -5576,6 +5580,7 @@ bucket/jib-cli.json, hoilc/scoop-lemon, 1
 bucket/jid.json, ScoopInstaller/Main, 1
 bucket/jigsaw.json, ScoopInstaller/Extras, 0
 bucket/jijidown.json, amorphobia/siku, 0
+bucket/jikken.json, hoilc/scoop-lemon, 1
 bucket/jim.json, Calinou/scoop-games, 0
 bucket/jiq.json, brian6932/dank-scoop, 1
 bucket/jira-cli.json, ScoopInstaller/Extras, 1
@@ -5600,6 +5605,7 @@ bucket/jmkvpropedit.json, ScoopInstaller/Extras, 1
 bucket/jmol.json, hoilc/scoop-lemon, 0
 bucket/jmx_exporter.json, hoilc/scoop-lemon, 1
 bucket/jndinjector.json, ViCrack/scoop-bucket, 1
+bucket/jnetmap.json, hoilc/scoop-lemon, 0
 bucket/jnv.json, ScoopInstaller/Main, 1
 bucket/jo.json, ScoopInstaller/Main, 1
 bucket/joe.json, ScoopInstaller/Extras, 0
@@ -11112,6 +11118,7 @@ bucket/uniextract2.json, ScoopInstaller/Extras, 1
 bucket/unigetui-beta.json, DoveBoy/Apps, 1
 bucket/unigetui.json, ScoopInstaller/Extras, 1
 bucket/unikey.json, beerpiss/scoop-bucket, 0
+bucket/uninstall-tool.json, ScoopInstaller/Extras, 1
 bucket/uninstalltool.json, echoiron/echo-scoop, 0
 bucket/uninstallview.json, ScoopInstaller/Nirsoft, 0
 bucket/uninstalr.json, ScoopInstaller/Extras, 0
