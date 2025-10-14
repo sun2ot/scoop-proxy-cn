@@ -3358,7 +3358,7 @@ bucket/dn-tool-container.json, ScoopInstaller/Extras, 1
 bucket/dnSpyEx-nightly.json, NyaMisty/scoop_bucket_misty, 0
 bucket/dnglab.json, hoilc/scoop-lemon, 1
 bucket/dngrep.json, ScoopInstaller/Extras, 1
-bucket/dnote.json, batkiz/backit, 1
+bucket/dnote.json, hoilc/scoop-lemon, 1
 bucket/dns-jumper.json, hoilc/scoop-lemon, 0
 bucket/dns-safeguard.json, brian6932/dank-scoop, 1
 bucket/dnsbench.json, rasa/scoops, 0
@@ -3410,7 +3410,7 @@ bucket/doh-proxy.json, hoilc/scoop-lemon, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, Calinou/scoop-games, 0
+bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
