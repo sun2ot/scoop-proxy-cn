@@ -1,20 +1,20 @@
 {
-  "version": "1.16.2",
+  "version": "1.18.0",
   "description": "A CLI client for the Sakura Cloud.",
   "homepage": "https://github.com/sacloud/usacloud",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/sacloud/usacloud/releases/download/v1.16.2/usacloud_windows-amd64.zip",
-      "hash": "4f510372198513dbcf1a64d73daf56357ceffaa8a82006e74c8ba6a8285cbf62"
+      "url": "https://ghproxy.085404.xyz/https://github.com/sacloud/usacloud/releases/download/v1.18.0/usacloud_windows-amd64.zip",
+      "hash": "4dd7eece1aeb806116bf77f3f7d952006ab15b8ec9ccbf1aed75a5dae99732df"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/sacloud/usacloud/releases/download/v1.16.2/usacloud_windows-386.zip",
-      "hash": "452370df109ee96b53b2794a5949afde3901fbafa7745538242835e513a8400b"
+      "url": "https://ghproxy.085404.xyz/https://github.com/sacloud/usacloud/releases/download/v1.18.0/usacloud_windows-386.zip",
+      "hash": "bab09a8e3989845ea038ba38aa23d78d83102439207044170a59b6e288bc18b2"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/sacloud/usacloud/releases/download/v1.16.2/usacloud_windows-arm64.zip",
-      "hash": "99a5b5e08b018b977d842137a3485d74ddb466bed5fb9d5026ca95697cc694a1"
+      "url": "https://ghproxy.085404.xyz/https://github.com/sacloud/usacloud/releases/download/v1.18.0/usacloud_windows-arm64.zip",
+      "hash": "5dc91f2d8b3641eeb106b6ffce7db7258ba52be74de028e0708c11a5275e7c50"
     }
   },
   "bin": "usacloud.exe",

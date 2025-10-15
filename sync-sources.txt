@@ -1022,6 +1022,7 @@ bucket/SPlayerLegacy-Portable.json, ACooper81/scoop-apps, 0
 bucket/SSDLife.json, kkzzhizhou/scoop-zapps, 0
 bucket/SakuraFrp-GUI.json, Paxxs/Cluttered-bucket, 0
 bucket/Sakura_frpc.json, Paxxs/Cluttered-bucket, 0
+bucket/Sam-Toki-Mouse-Cursors.json, Weidows-projects/scoop-3rd, 1
 bucket/SamToki-pack.json, Weidows-projects/scoop-3rd, 1
 bucket/SamsungSmartSwitch-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/Sandboxie-Classic.json, DoveBoy/Apps, 1
@@ -1868,7 +1869,7 @@ bucket/autoclicker.json, ScoopInstaller/Extras, 0
 bucket/autocorrect.json, ScoopInstaller/Main, 1
 bucket/autocursorlock.json, hoilc/scoop-lemon, 1
 bucket/autocut.json, Weidows-projects/scoop-3rd, 0
-bucket/autodarkmode.json, hoilc/scoop-lemon, 1
+bucket/autodarkmode.json, DoveBoy/Apps, 1
 bucket/autogpuaffinity-spddl.json, couleur-tweak-tips/utils, 1
 bucket/autogpuaffinity.json, couleur-tweak-tips/utils, 1
 bucket/autohidedesktopicons.json, hoilc/scoop-lemon, 0
@@ -2108,7 +2109,7 @@ bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-manga-watermark-remover.json, hoilc/scoop-lemon, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
-bucket/bilibili.json, chawyehsu/dorado, 0
+bucket/bilibili.json, akirco/aki-apps, 0
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
 bucket/bilibilidown.json, DoveBoy/Apps, 1
 bucket/bilibilitoolpro.json, DoveBoy/Apps, 1
@@ -3410,7 +3411,7 @@ bucket/doh-proxy.json, hoilc/scoop-lemon, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -4184,6 +4185,7 @@ bucket/flyedit.json, hoilc/scoop-lemon, 0
 bucket/flyhotkey.json, hoilc/scoop-lemon, 0
 bucket/flyoobe-Portable.json, ACooper81/scoop-apps, 1
 bucket/flyoobe-classic.json, DoveBoy/Apps, 1
+bucket/flyoobe-mediakit.json, DoveBoy/Apps, 1
 bucket/flyoobe.json, DoveBoy/Apps, 1
 bucket/flyscrape.json, hoilc/scoop-lemon, 1
 bucket/flysee.json, hoilc/scoop-lemon, 0
@@ -9533,6 +9535,7 @@ bucket/sakura-apprun-cli.json, hoilc/scoop-lemon, 1
 bucket/sakura.json, mo-san/scoop-bucket, 1
 bucket/sakurafrp-launcher.json, hoilc/scoop-lemon, 0
 bucket/salt.json, kidonng/sushi, 1
+bucket/sam-rewritten.json, starise/Scoop-Gaming, 1
 bucket/sam.json, ScoopInstaller/Extras, 1
 bucket/sameboy.json, Calinou/scoop-games, 1
 bucket/saml2aws.json, ScoopInstaller/Main, 1
@@ -10386,7 +10389,7 @@ bucket/superf4.json, ScoopInstaller/Extras, 1
 bucket/superfile.json, ScoopInstaller/Main, 1
 bucket/supergrate.json, hu3rror/scoop-muggle, 1
 bucket/superhtml.json, ScoopInstaller/Main, 1
-bucket/supermium.json, ScoopInstaller/Extras, 0
+bucket/supermium.json, ScoopInstaller/Extras, 1
 bucket/supermodel.json, Calinou/scoop-games, 0
 bucket/superpowers-app.json, ScoopInstaller/Extras, 1
 bucket/superputty.json, ScoopInstaller/Extras, 1
@@ -11024,7 +11027,7 @@ bucket/twitch-hls-client-uri-protocol.json, brian6932/dank-scoop, 1
 bucket/twitch-hls-client.json, hoilc/scoop-lemon, 1
 bucket/twitchdownloader-cli.json, ScoopInstaller/Main, 1
 bucket/twitchdownloader.json, ScoopInstaller/Extras, 1
-bucket/twitchdropsminer.json, Calinou/scoop-games, 1
+bucket/twitchdropsminer.json, Calinou/scoop-games, 0
 bucket/twitchtest.json, ScoopInstaller/Extras, 0
 bucket/twolame.json, hoilc/scoop-lemon, 0
 bucket/txedu.json, hoilc/scoop-lemon, 0
@@ -11815,6 +11818,7 @@ bucket/winsnap.json, kkzzhizhou/scoop-zapps, 0
 bucket/winsockservicesview.json, ScoopInstaller/Nirsoft, 0
 bucket/winspy.json, ScoopInstaller/Extras, 0
 bucket/winsshterm.json, ScoopInstaller/Extras, 1
+bucket/winsw-pre.json, ScoopInstaller/Versions, 1
 bucket/winsw.json, ScoopInstaller/Main, 1
 bucket/wintogo.json, kkzzhizhou/scoop-zapps, 1
 bucket/wintools.json, SayCV/scoop-cvp, 1
@@ -11826,6 +11830,7 @@ bucket/winupdateminitool.json, DoveBoy/Apps, 1
 bucket/winupdateslist.json, kodybrown/scoop-nirsoft, 0
 bucket/winupdatesview.json, ScoopInstaller/Nirsoft, 0
 bucket/winusb.json, naderi/scoop-bucket, 0
+bucket/winutil.json, ScoopInstaller/Extras, 1
 bucket/winxcorners.json, Paxxs/Cluttered-bucket, 1
 bucket/winxray.json, Weidows-projects/scoop-3rd, 1
 bucket/winyl.json, ScoopInstaller/Extras, 1
