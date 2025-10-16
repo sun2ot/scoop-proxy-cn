@@ -1869,7 +1869,7 @@ bucket/autoclicker.json, ScoopInstaller/Extras, 0
 bucket/autocorrect.json, ScoopInstaller/Main, 1
 bucket/autocursorlock.json, hoilc/scoop-lemon, 1
 bucket/autocut.json, Weidows-projects/scoop-3rd, 0
-bucket/autodarkmode.json, DoveBoy/Apps, 1
+bucket/autodarkmode.json, hoilc/scoop-lemon, 1
 bucket/autogpuaffinity-spddl.json, couleur-tweak-tips/utils, 1
 bucket/autogpuaffinity.json, couleur-tweak-tips/utils, 1
 bucket/autohidedesktopicons.json, hoilc/scoop-lemon, 0
@@ -2109,7 +2109,7 @@ bucket/bilibili-livehime.json, chawyehsu/dorado, 0
 bucket/bilibili-manga-downloader.json, hu3rror/scoop-muggle, 1
 bucket/bilibili-manga-watermark-remover.json, hoilc/scoop-lemon, 1
 bucket/bilibili-toolkit.json, batkiz/backit, 1
-bucket/bilibili.json, akirco/aki-apps, 0
+bucket/bilibili.json, chawyehsu/dorado, 0
 bucket/bilibilidown-with-jre.json, DoveBoy/Apps, 1
 bucket/bilibilidown.json, DoveBoy/Apps, 1
 bucket/bilibilitoolpro.json, DoveBoy/Apps, 1
@@ -12000,7 +12000,7 @@ bucket/xdown.json, hoilc/scoop-lemon, 0
 bucket/xdvdfs.json, hoilc/scoop-lemon, 1
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xelitan-pdf-reader.json, hoilc/scoop-lemon, 0
-bucket/xemu.json, Calinou/scoop-games, 1
+bucket/xemu.json, borger/scoop-emulators, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
