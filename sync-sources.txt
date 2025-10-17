@@ -1651,6 +1651,7 @@ bucket/anime4k-glsl.json, brian6932/dank-scoop, 1
 bucket/anime4kcpp-cli.json, hoilc/scoop-lemon, 1
 bucket/anime4kcpp-gui.json, hoilc/scoop-lemon, 1
 bucket/animeko-alpha.json, hu3rror/scoop-muggle, 1
+bucket/animeko-pre.json, DoveBoy/Apps, 1
 bucket/animeko.json, hoilc/scoop-lemon, 0
 bucket/anki-np.json, ScoopInstaller/Nonportable, 1
 bucket/anki-with-sync.json, kkzzhizhou/scoop-zapps, 1
@@ -2235,7 +2236,7 @@ bucket/bookget.json, hoilc/scoop-lemon, 1
 bucket/bookhunter.json, ygguorun/scoop-bucket, 1
 bucket/bookstack.json, SayCV/scoop-cvp, 1
 bucket/bookxnote.json, hoilc/scoop-lemon, 0
-bucket/boom.json, hoilc/scoop-lemon, 0
+bucket/boom.json, naderi/scoop-bucket, 0
 bucket/boomerang.json, TheCjw/scoop-retools, 1
 bucket/boost-msvc142.json, ScoopInstaller/Versions, 0
 bucket/boost.json, ScoopInstaller/Main, 0
@@ -2868,6 +2869,7 @@ bucket/coq.json, ScoopInstaller/Main, 1
 bucket/coredns.json, ScoopInstaller/Main, 1
 bucket/coreftp.json, ScoopInstaller/Extras, 0
 bucket/coreinfo.json, mogeko/scoop-sysinternals, 0
+bucket/corepack.json, brian6932/dank-scoop, 1
 bucket/coretemp.json, ScoopInstaller/Extras, 1
 bucket/coreutils-rs.json, batkiz/backit, 1
 bucket/coreutils.json, ScoopInstaller/Main, 0
@@ -4601,7 +4603,7 @@ bucket/gitg.json, cc713/ownscoop, 0
 bucket/github-beta.json, ScoopInstaller/Versions, 1
 bucket/github-hosts.json, DoveBoy/Apps, 1
 bucket/github-markdown-toc-go.json, hoilc/scoop-lemon, 1
-bucket/github-mcp-server.json, hoilc/scoop-lemon, 1
+bucket/github-mcp-server.json, cderv/r-bucket, 1
 bucket/github.json, ScoopInstaller/Extras, 1
 bucket/gitify.json, ScoopInstaller/Extras, 1
 bucket/gitignore.json, ScoopInstaller/Main, 1
@@ -7930,7 +7932,7 @@ bucket/pdfbox.json, ScoopInstaller/Main, 0
 bucket/pdfcommander.json, hoilc/scoop-lemon, 0
 bucket/pdfcpu.json, ScoopInstaller/Main, 1
 bucket/pdfelement.json, SayCV/scoop-cvp, 0
-bucket/pdfgear.json, hoilc/scoop-lemon, 0
+bucket/pdfgear.json, ScoopInstaller/Extras, 0
 bucket/pdfill-np.json, ScoopInstaller/Nonportable, 0
 bucket/pdfmk.json, SayCV/scoop-cvp, 1
 bucket/pdfqfz.json, DoveBoy/Apps, 1
@@ -9502,7 +9504,7 @@ bucket/rvgl.json, Calinou/scoop-games, 0
 bucket/rxrepl.json, ScoopInstaller/Extras, 0
 bucket/rye.json, ScoopInstaller/Main, 1
 bucket/rymdport.json, hoilc/scoop-lemon, 1
-bucket/ryujinx-canary.json, Calinou/scoop-games, 0
+bucket/ryujinx-canary.json, borger/scoop-emulators, 0
 bucket/ryujinx.json, Calinou/scoop-games, 0
 bucket/ryusak.json, kiennq/scoop-misc, 1
 bucket/ryzen-controller.json, ScoopInstaller/Extras, 0
@@ -10151,7 +10153,7 @@ bucket/splashtop-business-access.json, ScoopInstaller/Extras, 0
 bucket/splayer-beta.json, DoveBoy/Apps, 1
 bucket/splayer-dev.json, hoilc/scoop-lemon, 0
 bucket/splayer-legacy.json, hoilc/scoop-lemon, 0
-bucket/splayer.json, hoilc/scoop-lemon, 1
+bucket/splayer.json, DoveBoy/Apps, 1
 bucket/spleeter-gui.json, hoilc/scoop-lemon, 0
 bucket/spline.json, hoilc/scoop-lemon, 0
 bucket/splunk-acs-cli.json, hoilc/scoop-lemon, 1
@@ -12000,7 +12002,7 @@ bucket/xdown.json, hoilc/scoop-lemon, 0
 bucket/xdvdfs.json, hoilc/scoop-lemon, 1
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xelitan-pdf-reader.json, hoilc/scoop-lemon, 0
-bucket/xemu.json, borger/scoop-emulators, 1
+bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
 bucket/xenos.json, HUMORCE/nuke, 1
@@ -12197,6 +12199,7 @@ bucket/ytdlp-interface.json, ScoopInstaller/Extras, 1
 bucket/ytdlp.json, hoilc/scoop-lemon, 1
 bucket/ytmdesktop.json, ScoopInstaller/Extras, 1
 bucket/ytmdl-py.json, TheRandomLabs/Scoop-Python, 1
+bucket/ytsage.json, DoveBoy/Apps, 1
 bucket/ytsubconverter.json, ScoopInstaller/Extras, 1
 bucket/ytt.json, ScoopInstaller/Main, 1
 bucket/yuanbao.json, akirco/aki-apps, 1
