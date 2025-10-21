@@ -1677,7 +1677,7 @@ bucket/anydesk.json, ScoopInstaller/Extras, 0
 bucket/anyportal-portable.json, DoveBoy/Apps, 1
 bucket/anyportal.json, DoveBoy/Apps, 1
 bucket/anyquery.json, hoilc/scoop-lemon, 1
-bucket/anythingllm.json, ScoopInstaller/Extras, 1
+bucket/anythingllm.json, ScoopInstaller/Extras, 0
 bucket/anytls.json, hoilc/scoop-lemon, 1
 bucket/anytype.json, ScoopInstaller/Extras, 1
 bucket/anyzig.json, hoilc/scoop-lemon, 1
@@ -4992,7 +4992,7 @@ bucket/handbrake-snapshot.json, ScoopInstaller/Versions, 1
 bucket/handbrake.json, ScoopInstaller/Extras, 1
 bucket/handle.json, niheaven/scoop-sysinternals, 1
 bucket/handlecountersview.json, ScoopInstaller/Nirsoft, 0
-bucket/handy.json, hermanjustnu/scoop-emulators, 0
+bucket/handy.json, ScoopInstaller/Extras, 1
 bucket/haofang-platform.json, SayCV/scoop-cvp, 0
 bucket/hap-viewer.json, hoilc/scoop-lemon, 0
 bucket/haproxy_exporter.json, hoilc/scoop-lemon, 1
@@ -7918,7 +7918,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -10449,6 +10449,7 @@ bucket/swyh.json, ScoopInstaller/Extras, 1
 bucket/syft.json, ScoopInstaller/Main, 1
 bucket/sylpheed.json, hoilc/scoop-lemon, 1
 bucket/symfony-cli.json, ScoopInstaller/Main, 1
+bucket/symlinker.json, ScoopInstaller/Extras, 1
 bucket/symphytum.json, ScoopInstaller/Extras, 1
 bucket/sync-dis-boi.json, brian6932/dank-scoop, 1
 bucket/sync.json, niheaven/scoop-sysinternals, 1
