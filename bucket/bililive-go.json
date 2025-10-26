@@ -1,20 +1,20 @@
 {
-  "version": "0.7.39-rc.5",
+  "version": "0.7.39-rc.7",
   "description": "一个支持多种直播平台的直播录制工具",
   "homepage": "https://github.com/bililive-go/bililive-go",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/bililive-go/bililive-go/releases/download/v0.7.39-rc.5/bililive-windows-amd64.zip",
-      "hash": "8aedbea3013bf4f6daaf9353141854c6c613982751901e7448bebbb87aa104ab"
+      "url": "https://ghproxy.085404.xyz/https://github.com/bililive-go/bililive-go/releases/download/v0.7.39-rc.7/bililive-windows-amd64.zip",
+      "hash": "3fb9b87b4499e2866a681c0b359bdd718b3cb40e899b190a980122c2cb77b36b"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/bililive-go/bililive-go/releases/download/v0.7.39-rc.5/bililive-windows-386.zip",
-      "hash": "fa2f28ba4dfcbf6f79a5ac7876b1aa3a2c7bfa62d62b1b261347f1f99da3a1d3"
+      "url": "https://ghproxy.085404.xyz/https://github.com/bililive-go/bililive-go/releases/download/v0.7.39-rc.7/bililive-windows-386.zip",
+      "hash": "2a0ba9fba6a80e757379bbfe655186533742018c00c5b9d2e5db1d14c6b141ac"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/bililive-go/bililive-go/releases/download/v0.7.39-rc.5/bililive-windows-arm64.zip",
-      "hash": "e5fd146cb4b7c029c8dac1dbda5a274e748a86bc4c31dfa81b3bdf491866ef97"
+      "url": "https://ghproxy.085404.xyz/https://github.com/bililive-go/bililive-go/releases/download/v0.7.39-rc.7/bililive-windows-arm64.zip",
+      "hash": "ae0d5e031e6e0c49b2ac46a51a19c35f8d744aaa9ab25cdddd99b44ec74d9886"
     }
   },
   "pre_install": "Get-ChildItem \"$dir\" 'bililive-*.exe' | Select-Object -First 1 | Rename-Item -NewName 'bililive.exe'",
