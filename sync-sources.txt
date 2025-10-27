@@ -2159,7 +2159,7 @@ bucket/bit.json, ScoopInstaller/Main, 1
 bucket/bita.json, hoilc/scoop-lemon, 1
 bucket/bitcoincore.json, chawyehsu/dorado, 1
 bucket/bitcoinknots.json, chawyehsu/dorado, 1
-bucket/bitcomet.json, echoiron/echo-scoop, 0
+bucket/bitcomet.json, batkiz/backit, 0
 bucket/bitmana.json, naderi/scoop-bucket, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitrock-unpacker.json, hoilc/scoop-lemon, 1
@@ -3365,7 +3365,7 @@ bucket/dn-tool-container.json, ScoopInstaller/Extras, 1
 bucket/dnSpyEx-nightly.json, NyaMisty/scoop_bucket_misty, 0
 bucket/dnglab.json, hoilc/scoop-lemon, 1
 bucket/dngrep.json, ScoopInstaller/Extras, 1
-bucket/dnote.json, hoilc/scoop-lemon, 1
+bucket/dnote.json, batkiz/backit, 1
 bucket/dns-jumper.json, hoilc/scoop-lemon, 0
 bucket/dns-safeguard.json, brian6932/dank-scoop, 1
 bucket/dnsbench.json, rasa/scoops, 0
@@ -6447,6 +6447,7 @@ bucket/macrocreator.json, ScoopInstaller/Extras, 1
 bucket/mactype-np.json, ScoopInstaller/Nonportable, 1
 bucket/mado.json, hoilc/scoop-lemon, 1
 bucket/madpassext.json, ScoopInstaller/Nirsoft, 0
+bucket/madvr-test.json, seumsc/scoop-seu, 0
 bucket/madvr.json, ScoopInstaller/Extras, 0
 bucket/maestro-cli.json, hoilc/scoop-lemon, 1
 bucket/maestro.json, hoilc/scoop-lemon, 1
@@ -6972,7 +6973,7 @@ bucket/mpv-autoload.json, brian6932/dank-scoop, 1
 bucket/mpv-easy-player.json, ScoopInstaller/Extras, 1
 bucket/mpv-git.json, ScoopInstaller/Extras, 1
 bucket/mpv-handler.json, hu3rror/scoop-muggle, 1
-bucket/mpv-lazy.json, cc713/ownscoop, 1
+bucket/mpv-lazy.json, DoveBoy/Apps, 1
 bucket/mpv-persist-properties.json, brian6932/dank-scoop, 1
 bucket/mpv-sponsorblock-minimal.json, brian6932/dank-scoop, 0
 bucket/mpv-sub-select.json, brian6932/dank-scoop, 0
