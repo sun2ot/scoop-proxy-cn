@@ -1,26 +1,32 @@
 {
-  "version": "1.11.3",
+  "version": "1.11.3.255",
+  "description": "A frontend for legendary, the open source Epic Games Launcher alternative.",
   "homepage": "https://github.com/RareDevs/Rare",
-  "description": "A graphical frontend for Legendary, the FOSS Epic Games Launcher alternative",
-  "license": "GPL-3.0",
+  "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/RareDevs/Rare/releases/download/1.11.3/Rare-1.11.3.0.msi",
-      "hash": "117fb7b4bd801d5c32242740570f42f7fc4e5494875491806bec32e1449953b1"
+      "url": "https://ghproxy.085404.xyz/https://github.com/RareDevs/Rare/releases/download/1.11.3.255/Rare-1.11.3.255-windows.zip",
+      "extract_dir": "Rare-1.11.3.255",
+      "hash": "e4b3f52b2ba8e744c0ab0565654eee2356fdeb9a129337058bc0e20b8bcf2c51"
     }
   },
-  "bin": "rare.exe",
+  "bin": "Rare.exe",
   "shortcuts": [
     [
-      "rare.exe",
+      "Rare.exe",
       "Rare"
     ]
   ],
-  "checkver": "github",
+  "notes": "Rare is NOT portable.",
+  "checkver": {
+    "url": "https://api.github.com/repos/RareDevs/Rare/releases/latest",
+    "regex": "/download/([\\d.]+)/Rare-(?<full>[\\d.]+)-windows"
+  },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/RareDevs/Rare/releases/download/$version/Rare-$version.0.msi"
+        "url": "https://ghproxy.085404.xyz/https://github.com/RareDevs/Rare/releases/download/$version/Rare-$matchFull-windows.zip",
+        "extract_dir": "Rare-$matchFull"
       }
     }
   }

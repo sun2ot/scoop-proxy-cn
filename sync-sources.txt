@@ -5308,8 +5308,8 @@ bucket/imagecacheviewer.json, ScoopInstaller/Nirsoft, 0
 bucket/imageglass-moon.json, ScoopInstaller/Versions, 0
 bucket/imageglass.json, ScoopInstaller/Extras, 1
 bucket/imagemagick-ffmpeg.json, ScoopInstaller/Versions, 0
-bucket/imagemagick-lean.json, ScoopInstaller/Main, 0
-bucket/imagemagick.json, ScoopInstaller/Main, 0
+bucket/imagemagick-lean.json, ScoopInstaller/Main, 1
+bucket/imagemagick.json, ScoopInstaller/Main, 1
 bucket/imagesearch.json, hoilc/scoop-lemon, 1
 bucket/imageusb.json, hoilc/scoop-lemon, 0
 bucket/imageworsener.json, hoilc/scoop-lemon, 0
@@ -9118,7 +9118,7 @@ bucket/rapidcrc.json, ScoopInstaller/Extras, 0
 bucket/rapidee.json, ScoopInstaller/Extras, 0
 bucket/rapidraw.json, hoilc/scoop-lemon, 1
 bucket/rare-regex.json, hoilc/scoop-lemon, 1
-bucket/rare.json, Calinou/scoop-games, 1
+bucket/rare.json, hoilc/scoop-lemon, 1
 bucket/rascal.json, seumsc/scoop-seu, 1
 bucket/raspberry-pi-imager.json, ScoopInstaller/Extras, 1
 bucket/rathole.json, ScoopInstaller/Main, 1
