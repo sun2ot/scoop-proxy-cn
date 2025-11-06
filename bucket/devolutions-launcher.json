@@ -1,10 +1,10 @@
 {
-  "version": "2025.3.17.0",
+  "version": "2025.3.21.0",
   "description": "The remote connection launching tool for Devolutions Server & Devolutions Hub Business.",
   "homepage": "https://devolutions.net/launcher/",
   "license": "Proprietary",
-  "url": "https://cdn.devolutions.net/download/Setup.Devolutions.Launcher.2025.3.17.0.msi",
-  "hash": "1c887170776c2e1bb3febe1da84f79963d117c3293de4fb758dad2f6994ad920",
+  "url": "https://cdn.devolutions.net/download/Setup.Devolutions.Launcher.2025.3.21.0.msi",
+  "hash": "8564107be1611f7e61168dbf731586c6f87071e26197bb9ff8591f531d4a1279",
   "architecture": {
     "64bit": {
       "shortcuts": [
@@ -26,8 +26,8 @@
   "post_install": "Remove-Item \"$dir\\Devolutions.Updater*\" -Force",
   "notes": "Devolutions Launcher is NOT portable.",
   "checkver": {
-    "url": "https://devolutions.net/products.htm/",
-    "regex": "Launcher.Version=([\\d.]+)"
+    "url": "https://devolutions.net/launcher/download/",
+    "regex": "Launcher.([\\d.]+).BOM.xml"
   },
   "autoupdate": {
     "url": "https://cdn.devolutions.net/download/Setup.Devolutions.Launcher.$version.msi"

@@ -2518,7 +2518,6 @@ bucket/chat2db.json, ViCrack/scoop-bucket, 1
 bucket/chatall.json, ScoopInstaller/Extras, 1
 bucket/chatbox-ce.json, chawyehsu/dorado, 1
 bucket/chatgpt.json, ScoopInstaller/Extras, 1
-bucket/chatlog.json, hoilc/scoop-lemon, 1
 bucket/chatmcp.json, hoilc/scoop-lemon, 1
 bucket/chatterino-portable.json, brian6932/dank-scoop, 1
 bucket/chatterino.json, ScoopInstaller/Extras, 0
@@ -3197,7 +3196,7 @@ bucket/deck.json, hoilc/scoop-lemon, 1
 bucket/decrypttools.json, ViCrack/scoop-bucket, 1
 bucket/deemix-portable.json, hu3rror/scoop-muggle, 0
 bucket/deep-explorer.json, amorphobia/siku, 0
-bucket/deepchat.json, hoilc/scoop-lemon, 1
+bucket/deepchat.json, hoilc/scoop-lemon, 0
 bucket/deepgit.json, ScoopInstaller/Extras, 0
 bucket/deepgit402.json, ScoopInstaller/Versions, 0
 bucket/deeplx.json, ScoopInstaller/Extras, 1
@@ -3481,6 +3480,7 @@ bucket/double-finder.json, amorphobia/siku, 0
 bucket/doublecmd-beta.json, ScoopInstaller/Versions, 0
 bucket/doublecmd.json, ScoopInstaller/Extras, 0
 bucket/doublekiller.json, zhoujin7/tomato, 0
+bucket/dougi.json, hoilc/scoop-lemon, 0
 bucket/doukutsu-rs.json, Calinou/scoop-games, 1
 bucket/douyin-ide.json, chawyehsu/dorado, 0
 bucket/douyin-streamingtool.json, chawyehsu/dorado, 0
@@ -3777,6 +3777,7 @@ bucket/epub-metadata-editor.json, starise/Scoop-Confetti, 1
 bucket/epubcheck.json, hoilc/scoop-lemon, 1
 bucket/epubsanitizer.json, hoilc/scoop-lemon, 1
 bucket/eql-cli.json, littleli/scoop-clojure, 1
+bucket/eqonomize.json, hoilc/scoop-lemon, 1
 bucket/equalizer-apo-np.json, ScoopInstaller/Nonportable, 0
 bucket/equalx.json, hoilc/scoop-lemon, 0
 bucket/equationtoolsgui.json, ViCrack/scoop-bucket, 1
@@ -4676,8 +4677,10 @@ bucket/gluon-openjfx-sdk.json, ScoopInstaller/Java, 0
 bucket/gluttonyFLIF.json, ygguorun/scoop-bucket, 0
 bucket/gluttonyPNG.json, ygguorun/scoop-bucket, 0
 bucket/gmcurl.json, hoilc/scoop-lemon, 0
+bucket/gmix.json, hoilc/scoop-lemon, 1
 bucket/gmkvextractgui.json, ScoopInstaller/Extras, 0
 bucket/gmsh.json, chawyehsu/dorado, 0
+bucket/gmwget.json, hoilc/scoop-lemon, 0
 bucket/gn.json, ScoopInstaller/Versions, 0
 bucket/gnirehtet.json, ScoopInstaller/Main, 1
 bucket/gns3.json, DoveBoy/Apps, 1
@@ -6012,7 +6015,7 @@ bucket/l4d2modmanager.json, Calinou/scoop-games, 0
 bucket/lab.json, ScoopInstaller/Main, 1
 bucket/labplot-nightly.json, ScoopInstaller/Versions, 0
 bucket/labplot.json, ScoopInstaller/Extras, 0
-bucket/lada.json, hoilc/scoop-lemon, 1
+bucket/lada.json, hoilc/scoop-lemon, 0
 bucket/lagrange.json, ScoopInstaller/Extras, 1
 bucket/laigter.json, ScoopInstaller/Extras, 1
 bucket/lakefs.json, hoilc/scoop-lemon, 1
@@ -8528,7 +8531,7 @@ bucket/pixiv-omina.json, batkiz/backit, 1
 bucket/pixivbiu.json, hu3rror/scoop-muggle, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
 bucket/pixpin-beta.json, hoilc/scoop-lemon, 0
-bucket/pixpin.json, ygguorun/scoop-bucket, 0
+bucket/pixpin.json, hoilc/scoop-lemon, 0
 bucket/pixzip-lite.json, hoilc/scoop-lemon, 1
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
 bucket/pkg-config.json, ScoopInstaller/Main, 0
