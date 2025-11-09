@@ -10791,6 +10791,7 @@ bucket/throne.json, ScoopInstaller/Extras, 1
 bucket/throttlestop.json, ScoopInstaller/Extras, 0
 bucket/ths-desktop.json, SayCV/scoop-cvp, 0
 bucket/thumbcacheviewer.json, hoilc/scoop-lemon, 1
+bucket/thumbfast-fork.json, brian6932/dank-scoop, 0
 bucket/thumbfast.json, brian6932/dank-scoop, 0
 bucket/thumbsviewer.json, hoilc/scoop-lemon, 1
 bucket/thunder-https.json, DoveBoy/Apps, 1
