@@ -5852,6 +5852,7 @@ bucket/kftray.json, hoilc/scoop-lemon, 1
 bucket/kftui.json, hoilc/scoop-lemon, 1
 bucket/kgctl.json, hoilc/scoop-lemon, 1
 bucket/kibana.json, ScoopInstaller/Extras, 0
+bucket/kibi.json, hoilc/scoop-lemon, 1
 bucket/kicad-cn.json, ivaquero/scoopet, 1
 bucket/kicad-lite-nightly.json, ScoopInstaller/Versions, 0
 bucket/kicad-nightly.json, ScoopInstaller/Versions, 0
@@ -6860,6 +6861,7 @@ bucket/mitec-system-information-x.json, naderi/scoop-bucket, 0
 bucket/mitec-task-manager-deluxe.json, naderi/scoop-bucket, 0
 bucket/mitec-windows-registry-recovery.json, naderi/scoop-bucket, 0
 bucket/mitec-xml-viewer.json, naderi/scoop-bucket, 0
+bucket/mitex.json, hoilc/scoop-lemon, 1
 bucket/mitmproxy.json, ScoopInstaller/Extras, 0
 bucket/mixctl.json, hoilc/scoop-lemon, 1
 bucket/mixin-messenger.json, chawyehsu/dorado, 1
@@ -6885,6 +6887,7 @@ bucket/mobaxterm-sp.json, hu3rror/scoop-muggle, 0
 bucket/mobaxterm.json, ScoopInstaller/Extras, 0
 bucket/mobilecontrolguru.json, DoveBoy/Apps, 1
 bucket/mobilefilesearch.json, ScoopInstaller/Nirsoft, 0
+bucket/mochi.json, hoilc/scoop-lemon, 1
 bucket/mockery.json, ScoopInstaller/Main, 1
 bucket/mockoon.json, ScoopInstaller/Extras, 1
 bucket/mocreak.json, DoveBoy/Apps, 1
@@ -8725,7 +8728,7 @@ bucket/privexec.json, hoilc/scoop-lemon, 1
 bucket/privoxy.json, ScoopInstaller/Extras, 0
 bucket/prm.json, ScoopInstaller/Main, 1
 bucket/probe-rs-tools.json, hoilc/scoop-lemon, 1
-bucket/procdump.json, niheaven/scoop-sysinternals, 1
+bucket/procdump.json, mo-san/scoop-bucket, 0
 bucket/process-compose.json, hoilc/scoop-lemon, 1
 bucket/process-explorer.json, chawyehsu/dorado, 0
 bucket/process-governor.json, ScoopInstaller/Main, 1
