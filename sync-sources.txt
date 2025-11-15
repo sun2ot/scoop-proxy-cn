@@ -2244,6 +2244,7 @@ bucket/bookstack.json, SayCV/scoop-cvp, 1
 bucket/bookxnote.json, hoilc/scoop-lemon, 0
 bucket/boom.json, naderi/scoop-bucket, 0
 bucket/boomerang.json, TheCjw/scoop-retools, 1
+bucket/boon.json, hoilc/scoop-lemon, 1
 bucket/boost-msvc142.json, ScoopInstaller/Versions, 0
 bucket/boost.json, ScoopInstaller/Main, 0
 bucket/boostnote-local.json, ScoopInstaller/Extras, 1
@@ -8728,7 +8729,7 @@ bucket/privexec.json, hoilc/scoop-lemon, 1
 bucket/privoxy.json, ScoopInstaller/Extras, 0
 bucket/prm.json, ScoopInstaller/Main, 1
 bucket/probe-rs-tools.json, hoilc/scoop-lemon, 1
-bucket/procdump.json, mo-san/scoop-bucket, 0
+bucket/procdump.json, niheaven/scoop-sysinternals, 1
 bucket/process-compose.json, hoilc/scoop-lemon, 1
 bucket/process-explorer.json, chawyehsu/dorado, 0
 bucket/process-governor.json, ScoopInstaller/Main, 1
@@ -11051,6 +11052,7 @@ bucket/tuba.json, hoilc/scoop-lemon, 0
 bucket/tui-journal.json, hoilc/scoop-lemon, 1
 bucket/tuic.json, hoilc/scoop-lemon, 1
 bucket/tuifeed.json, aliesbelik/poldi, 1
+bucket/tuios.json, hoilc/scoop-lemon, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
 bucket/tun2proxy.json, hoilc/scoop-lemon, 1
 bucket/tunnel.json, ScoopInstaller/Main, 1
