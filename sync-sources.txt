@@ -2085,7 +2085,8 @@ bucket/bethesdaLauncher.json, Deide/deide-bucket, 0
 bucket/better-joy.json, ScoopInstaller/Extras, 1
 bucket/betterbird.json, ScoopInstaller/Extras, 0
 bucket/bettercap.json, hoilc/scoop-lemon, 1
-bucket/bettergi.json, hoilc/scoop-lemon, 1
+bucket/bettergi-alpha.json, hoilc/scoop-lemon, 0
+bucket/bettergi.json, hoilc/scoop-lemon, 0
 bucket/betterjoy-lts.json, hu3rror/scoop-muggle, 1
 bucket/betterjoy.json, Calinou/scoop-games, 1
 bucket/beyondcompare-zh-cn.json, chawyehsu/dorado, 0
@@ -2388,6 +2389,7 @@ bucket/capnp.json, ScoopInstaller/Main, 0
 bucket/capnproto.json, hoilc/scoop-lemon, 0
 bucket/caprine-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/caprine.json, ScoopInstaller/Extras, 1
+bucket/capsblock.json, brian6932/dank-scoop, 1
 bucket/capslock-plus.json, batkiz/backit, 0
 bucket/capstone.json, ScoopInstaller/Main, 1
 bucket/captfencoder.json, ScoopInstaller/Extras, 1
@@ -5713,7 +5715,7 @@ bucket/juniper.json, hoilc/scoop-lemon, 1
 bucket/just-color-picker.json, hoilc/scoop-lemon, 0
 bucket/just.json, ScoopInstaller/Main, 1
 bucket/justasplanned.json, beerpiss/scoop-bucket, 1
-bucket/justcolorpicker.json, naderi/scoop-bucket, 0
+bucket/justcolorpicker.json, chawyehsu/dorado, 0
 bucket/jvms.json, Weidows-projects/scoop-3rd, 1
 bucket/jwasm.json, hoilc/scoop-lemon, 1
 bucket/jwno.json, hoilc/scoop-lemon, 1
@@ -5767,7 +5769,7 @@ bucket/karate.json, ScoopInstaller/Main, 1
 bucket/kardolus-chatgpt-cli.json, hoilc/scoop-lemon, 1
 bucket/kargo-cli.json, hoilc/scoop-lemon, 1
 bucket/karing-portable.json, DoveBoy/Apps, 1
-bucket/karing.json, DoveBoy/Apps, 1
+bucket/karing.json, hoilc/scoop-lemon, 1
 bucket/karlyriceditor.json, hoilc/scoop-lemon, 1
 bucket/karma.json, hoilc/scoop-lemon, 1
 bucket/karmor.json, hoilc/scoop-lemon, 1
@@ -5891,7 +5893,7 @@ bucket/kluctl.json, hoilc/scoop-lemon, 1
 bucket/kmeans-colors.json, ScoopInstaller/Extras, 1
 bucket/kmplayer.json, naderi/scoop-bucket, 0
 bucket/kms-heu.json, SayCV/scoop-cvp, 0
-bucket/kms-vl-all-aio.json, DoveBoy/Apps, 1
+bucket/kms-vl-all-aio.json, cc713/ownscoop, 1
 bucket/kms-vl-sll-aio.json, yuusakuri/scoop-bucket, 0
 bucket/kms.json, SayCV/scoop-cvp, 1
 bucket/knative.json, ScoopInstaller/Main, 1
@@ -6906,6 +6908,7 @@ bucket/moderndeck.json, ScoopInstaller/Extras, 1
 bucket/modernflyouts.json, ScoopInstaller/Extras, 1
 bucket/mods.json, ScoopInstaller/Main, 1
 bucket/moekoemusic.json, DoveBoy/Apps, 1
+bucket/mold.json, ScoopInstaller/Main, 1
 bucket/molotov-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/momento-cli.json, hoilc/scoop-lemon, 1
 bucket/monasans.json, KnotUntied/scoop-fonts, 1
@@ -7960,7 +7963,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -8511,6 +8514,7 @@ bucket/pikapika-comic.json, hoilc/scoop-lemon, 1
 bucket/pikapika.json, DoveBoy/Apps, 1
 bucket/pikatorrent.json, DoveBoy/Apps, 1
 bucket/pikpak.json, hoilc/scoop-lemon, 0
+bucket/piliplus.json, hoilc/scoop-lemon, 1
 bucket/pilotedit-lite.json, hoilc/scoop-lemon, 0
 bucket/pine64-updater.json, ScoopInstaller/Extras, 1
 bucket/pineapple-pictures.json, hoilc/scoop-lemon, 1
@@ -9068,7 +9072,7 @@ bucket/quickclipboard-portable.json, DoveBoy/Apps, 1
 bucket/quickclipboard.json, DoveBoy/Apps, 1
 bucket/quickcpu.json, ScoopInstaller/Extras, 0
 bucket/quickinstaller.json, ScoopInstaller/Extras, 0
-bucket/quickjs.json, hoilc/scoop-lemon, 0
+bucket/quickjs.json, ScoopInstaller/Main, 0
 bucket/quicklook.json, ScoopInstaller/Extras, 1
 bucket/quicksetdns.json, ScoopInstaller/Nirsoft, 0
 bucket/quicktextpaste.json, ScoopInstaller/Extras, 0
