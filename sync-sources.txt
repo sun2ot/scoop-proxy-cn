@@ -1672,7 +1672,7 @@ bucket/antidupl.net.json, ScoopInstaller/Extras, 1
 bucket/antimicro.json, ScoopInstaller/Extras, 1
 bucket/antimicrox.json, ScoopInstaller/Extras, 1
 bucket/anto.json, hoilc/scoop-lemon, 1
-bucket/anx-reader.json, hoilc/scoop-lemon, 1
+bucket/anx-reader.json, ScoopInstaller/Extras, 1
 bucket/anyburn.json, ScoopInstaller/Extras, 0
 bucket/anydesk.json, ScoopInstaller/Extras, 0
 bucket/anyportal-portable.json, DoveBoy/Apps, 1
@@ -3223,6 +3223,7 @@ bucket/deletedosdevice.json, rasa/scoops, 0
 bucket/delsum.json, hoilc/scoop-lemon, 1
 bucket/delta.json, ScoopInstaller/Main, 1
 bucket/deltachat.json, ScoopInstaller/Extras, 0
+bucket/deltapatcher.json, ScoopInstaller/Extras, 1
 bucket/deluge.json, ScoopInstaller/Extras, 0
 bucket/demul.json, Calinou/scoop-games, 0
 bucket/demulshooter.json, Calinou/scoop-games, 1
@@ -5769,7 +5770,7 @@ bucket/karate.json, ScoopInstaller/Main, 1
 bucket/kardolus-chatgpt-cli.json, hoilc/scoop-lemon, 1
 bucket/kargo-cli.json, hoilc/scoop-lemon, 1
 bucket/karing-portable.json, DoveBoy/Apps, 1
-bucket/karing.json, hoilc/scoop-lemon, 1
+bucket/karing.json, DoveBoy/Apps, 1
 bucket/karlyriceditor.json, hoilc/scoop-lemon, 1
 bucket/karma.json, hoilc/scoop-lemon, 1
 bucket/karmor.json, hoilc/scoop-lemon, 1
@@ -7530,6 +7531,7 @@ bucket/oci-cli.json, ScoopInstaller/Main, 1
 bucket/ocm-cli.json, hoilc/scoop-lemon, 1
 bucket/ocrs.json, hoilc/scoop-lemon, 1
 bucket/octant.json, ScoopInstaller/Extras, 1
+bucket/octarine.json, cderv/r-bucket, 0
 bucket/octave-cn.json, ivaquero/scoopet, 0
 bucket/octave.json, ScoopInstaller/Main, 0
 bucket/octelium-cli.json, hoilc/scoop-lemon, 1
@@ -7665,7 +7667,7 @@ bucket/openallegroparser.json, SayCV/scoop-cvp, 1
 bucket/openapi-generator-cli.json, ScoopInstaller/Main, 0
 bucket/openapi-tui.json, hoilc/scoop-lemon, 1
 bucket/openarena.json, Calinou/scoop-games, 0
-bucket/openark.json, ScoopInstaller/Extras, 1
+bucket/openark.json, ScoopInstaller/Extras, 0
 bucket/openbao.json, hoilc/scoop-lemon, 1
 bucket/openbbterminal-pre.json, DoveBoy/Apps, 1
 bucket/openbbterminal.json, DoveBoy/Apps, 1
@@ -7963,7 +7965,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9885,7 +9887,7 @@ bucket/shadowsocksr-hmbsbige-full.json, DoveBoy/Apps, 1
 bucket/shadowsocksr-hmbsbige.json, ScoopInstaller/Extras, 1
 bucket/shadowsocksrr.json, echoiron/echo-scoop, 1
 bucket/shadps4-dev.json, Calinou/scoop-games, 1
-bucket/shadps4.json, Calinou/scoop-games, 1
+bucket/shadps4.json, borger/scoop-emulators, 1
 bucket/shanggu-mono-jp.json, hoilc/scoop-lemon, 1
 bucket/shanggu-mono-sc.json, hoilc/scoop-lemon, 1
 bucket/shanggu-mono-tc.json, hoilc/scoop-lemon, 1
@@ -11043,6 +11045,7 @@ bucket/tsftool.json, hu3rror/scoop-muggle, 0
 bucket/tsip.json, ScoopInstaller/Extras, 1
 bucket/tsmuxer.json, hoilc/scoop-lemon, 1
 bucket/tssh.json, ScoopInstaller/Main, 1
+bucket/tsshd.json, ScoopInstaller/Extras, 1
 bucket/tsukimi.json, ScoopInstaller/Extras, 1
 bucket/tsuru.json, hoilc/scoop-lemon, 1
 bucket/tt.json, aliesbelik/poldi, 1
