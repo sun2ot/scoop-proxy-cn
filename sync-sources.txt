@@ -1673,6 +1673,8 @@ bucket/antimicro.json, ScoopInstaller/Extras, 1
 bucket/antimicrox.json, ScoopInstaller/Extras, 1
 bucket/anto.json, hoilc/scoop-lemon, 1
 bucket/anx-reader.json, ScoopInstaller/Extras, 1
+bucket/anxreader-portable.json, DoveBoy/Apps, 1
+bucket/anxreader.json, DoveBoy/Apps, 1
 bucket/anyburn.json, ScoopInstaller/Extras, 0
 bucket/anydesk.json, ScoopInstaller/Extras, 0
 bucket/anyportal-portable.json, DoveBoy/Apps, 1
@@ -2681,6 +2683,7 @@ bucket/clementine.json, ScoopInstaller/Extras, 1
 bucket/clever-ffmpeg.json, ScoopInstaller/Extras, 0
 bucket/clever-mines.json, hoilc/scoop-lemon, 0
 bucket/cli53.json, hoilc/scoop-lemon, 1
+bucket/clianpro.json, DoveBoy/Apps, 1
 bucket/clib.json, littleli/Scoop-littleli, 1
 bucket/clibor.json, mo-san/scoop-bucket, 0
 bucket/clickmonitorddc.json, hoilc/scoop-lemon, 0
@@ -8710,7 +8713,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqrs.json, hoilc/scoop-lemon, 1
 bucket/praat.json, ScoopInstaller/Extras, 1
@@ -11390,6 +11393,7 @@ bucket/victoria-metrics.json, hoilc/scoop-lemon, 1
 bucket/victoria-traces.json, hoilc/scoop-lemon, 1
 bucket/victoria.json, hoilc/scoop-lemon, 0
 bucket/victormono.json, KnotUntied/scoop-fonts, 0
+bucket/vidbee.json, DoveBoy/Apps, 1
 bucket/vidcoder-beta.json, ScoopInstaller/Versions, 1
 bucket/vidcoder.json, ScoopInstaller/Extras, 1
 bucket/vidcutter.json, ScoopInstaller/Extras, 1
