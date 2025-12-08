@@ -9077,6 +9077,7 @@ bucket/quakespasm.json, Calinou/scoop-games, 0
 bucket/qualitymuncher.json, couleur-tweak-tips/utils, 1
 bucket/quardcrt.json, hoilc/scoop-lemon, 1
 bucket/quark-cloud-drive.json, amorphobia/siku, 0
+bucket/quarkclouddrive.json, ivaquero/scoopet, 0
 bucket/quarkdown.json, hoilc/scoop-lemon, 1
 bucket/quarkpan.json, akirco/aki-apps, 0
 bucket/quarkpantool.json, DoveBoy/Apps, 1
@@ -11866,8 +11867,6 @@ bucket/wing-personal.json, hoilc/scoop-lemon, 0
 bucket/winget-preview.json, ScoopInstaller/Versions, 1
 bucket/winget-ps.json, ScoopInstaller/Main, 0
 bucket/winget.json, ScoopInstaller/Main, 1
-bucket/winget1.4.json, ScoopInstaller/Versions, 1
-bucket/winget1.5.json, ScoopInstaller/Versions, 1
 bucket/wingetcreate.json, ScoopInstaller/Main, 1
 bucket/wininfo.json, hoilc/scoop-lemon, 0
 bucket/winipbroadcast.json, seumsc/scoop-seu, 1
