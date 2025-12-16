@@ -2592,6 +2592,7 @@ bucket/chrome-headless-shell.json, cderv/r-bucket, 0
 bucket/chrome-pak-customizer.json, hoilc/scoop-lemon, 1
 bucket/chrome-portable.json, naderi/scoop-bucket, 0
 bucket/chrome-power-app.json, Weidows-projects/scoop-3rd, 1
+bucket/chrome-updater.json, hoilc/scoop-lemon, 1
 bucket/chrome-with-flash.json, kkzzhizhou/scoop-zapps, 1
 bucket/chrome.json, echoiron/echo-scoop, 0
 bucket/chrome103.json, Weidows-projects/scoop-3rd, 1
@@ -6057,7 +6058,7 @@ bucket/l4d2modmanager.json, Calinou/scoop-games, 0
 bucket/lab.json, ScoopInstaller/Main, 1
 bucket/labplot-nightly.json, ScoopInstaller/Versions, 0
 bucket/labplot.json, ScoopInstaller/Extras, 0
-bucket/lada.json, hoilc/scoop-lemon, 0
+bucket/lada.json, hoilc/scoop-lemon, 1
 bucket/lagrange.json, ScoopInstaller/Extras, 1
 bucket/laigter.json, ScoopInstaller/Extras, 1
 bucket/lakefs.json, hoilc/scoop-lemon, 1
@@ -11360,7 +11361,7 @@ bucket/vcardeditor.json, hoilc/scoop-lemon, 1
 bucket/vceenc.json, hoilc/scoop-lemon, 1
 bucket/vcluster.json, ScoopInstaller/Main, 1
 bucket/vcpkg.json, ScoopInstaller/Main, 1
-bucket/vcredist-aio.json, ScoopInstaller/Extras, 0
+bucket/vcredist-aio.json, ScoopInstaller/Extras, 1
 bucket/vcredist.json, ScoopInstaller/Extras, 0
 bucket/vcredist2005.json, ScoopInstaller/Extras, 0
 bucket/vcredist2008.json, ScoopInstaller/Extras, 0
@@ -11526,7 +11527,7 @@ bucket/volume2.json, ScoopInstaller/Extras, 1
 bucket/volumeid.json, niheaven/scoop-sysinternals, 1
 bucket/volumelock.json, wzv5/ScoopBucket, 1
 bucket/volumouse.json, ScoopInstaller/Nirsoft, 0
-bucket/vorbis-tools.json, hoilc/scoop-lemon, 0
+bucket/vorbis-tools.json, hoilc/scoop-lemon, 1
 bucket/vortexdm.json, ScoopInstaller/Extras, 1
 bucket/vosviewer.json, ScoopInstaller/Extras, 0
 bucket/vott.json, ScoopInstaller/Extras, 1
