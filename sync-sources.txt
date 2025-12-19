@@ -1600,6 +1600,7 @@ bucket/alternate-timer.json, hoilc/scoop-lemon, 0
 bucket/alternatestreamview.json, ScoopInstaller/Nirsoft, 0
 bucket/alterx.json, hoilc/scoop-lemon, 1
 bucket/altools.json, ScoopInstaller/Extras, 0
+bucket/altsendme.json, ScoopInstaller/Extras, 1
 bucket/altserver.json, chawyehsu/dorado, 0
 bucket/altsnap.json, ScoopInstaller/Extras, 1
 bucket/altstreamdump.json, ScoopInstaller/Nirsoft, 0
@@ -5109,6 +5110,7 @@ bucket/helm2.json, ScoopInstaller/Versions, 0
 bucket/helmfile.json, ScoopInstaller/Main, 1
 bucket/helmify.json, hoilc/scoop-lemon, 1
 bucket/helmsman.json, chawyehsu/dorado, 1
+bucket/hemmelig.json, ScoopInstaller/Extras, 1
 bucket/hercules.json, littleli/Scoop-littleli, 1
 bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroic.json, hoilc/scoop-lemon, 1
@@ -7057,6 +7059,8 @@ bucket/mqttx.json, ScoopInstaller/Extras, 1
 bucket/mra.json, naderi/scoop-bucket, 1
 bucket/mremoteng-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/mremoteng.json, ScoopInstaller/Extras, 1
+bucket/mrrss-portable.json, DoveBoy/Apps, 1
+bucket/mrrss.json, DoveBoy/Apps, 1
 bucket/msbuild-structured-log-viewer.json, ScoopInstaller/Extras, 1
 bucket/msedge-beta.json, 42wim/scoop-bucket, 0
 bucket/msedge-canary.json, 42wim/scoop-bucket, 0
@@ -9302,7 +9306,7 @@ bucket/reflector-desktop.json, SayCV/scoop-cvp, 1
 bucket/refreshenv.json, ScoopInstaller/Main, 1
 bucket/reg.json, hoilc/scoop-lemon, 1
 bucket/regal.json, hoilc/scoop-lemon, 1
-bucket/regclient.json, hoilc/scoop-lemon, 1
+bucket/regclient.json, ScoopInstaller/Extras, 1
 bucket/regcool.json, naderi/scoop-bucket, 0
 bucket/regdelnull.json, niheaven/scoop-sysinternals, 1
 bucket/regdelta.json, rasa/scoops, 1
@@ -10847,6 +10851,7 @@ bucket/theia-ide.json, ScoopInstaller/Extras, 0
 bucket/thesage.json, hoilc/scoop-lemon, 0
 bucket/thewitchshouse-en.json, beerpiss/scoop-bucket, 0
 bucket/thewitchshouse-jp.json, beerpiss/scoop-bucket, 0
+bucket/thide.json, Deide/deide-bucket, 1
 bucket/thief.json, Weidows-projects/scoop-3rd, 0
 bucket/thisiswin11.json, ScoopInstaller/Extras, 1
 bucket/thonny.json, ScoopInstaller/Extras, 1
