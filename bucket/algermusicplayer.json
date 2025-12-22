@@ -64,7 +64,7 @@
       "$r = 'AlgerMusicPlayer-([\\d.]+)-win-ia32\\.' ",
       "if (!($cont -match $r)) { error \"Could not match $r in $url\"; continue }",
       "$ia32 = $matches[1]",
-      "$r = 'AlgerMusic_([\\d.]+)_Setup_arm64\\.' ",
+      "$r = 'AlgerMusicPlayer-([\\d.]+)_Setup_arm64\\.' ",
       "if (!($cont -match $r)) { error \"Could not match $r in $url\"; continue }",
       "$arm64 = $matches[1]",
       "Write-Output $version $ia32 $arm64"
@@ -80,7 +80,7 @@
         "url": "https://ghproxy.085404.xyz/https://github.com/algerkong/AlgerMusicPlayer/releases/download/v$matchIa32/AlgerMusicPlayer-$matchIa32-win-ia32.exe#/dl.7z"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/algerkong/AlgerMusicPlayer/releases/download/v$matchArm64/AlgerMusic_$matchArm64_Setup_arm64.exe#/dl.7z"
+        "url": "https://ghproxy.085404.xyz/https://github.com/algerkong/AlgerMusicPlayer/releases/download/v$matchArm64/AlgerMusicPlayer-$matchArm64-win-arm64.exe#/dl.7z"
       }
     }
   }
