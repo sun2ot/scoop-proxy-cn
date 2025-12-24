@@ -1,0 +1,34 @@
+{
+  "version": "1.2.1",
+  "description": "flutter开发的第三方音乐播放器",
+  "homepage": "https://github.com/moraxs/CyreneMusic",
+  "license": {
+    "identifier": "Unknown"
+  },
+  "architecture": {
+    "64bit": {
+      "url": "https://ghproxy.085404.xyz/https://github.com/moraxs/CyreneMusic/releases/download/1.2.1/CyreneMusic_1.2.10_setup.exe#/dl.7z",
+      "hash": "f6422494a94e291df86ffbc520c2a272aa0611bbdc476c66d75eb21373244c72"
+    }
+  },
+  "extract_dir": "PFiles\\Cyrene Music",
+  "bin": "CyreneMusic.exe",
+  "shortcuts": [
+    [
+      "CyreneMusic.exe",
+      "CyreneMusic"
+    ]
+  ],
+  "checkver": {
+    "url": "https://api.github.com/repos/moraxs/CyreneMusic/releases",
+    "jp": "$[0].assets[*].browser_download_url",
+    "regex": "/releases/download/([\\d.]+)/CyreneMusic_([\\d.]+)"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://ghproxy.085404.xyz/https://github.com/moraxs/CyreneMusic/releases/download/$version/CyreneMusic_$match2_setup.exe#/dl.7z"
+      }
+    }
+  }
+}
