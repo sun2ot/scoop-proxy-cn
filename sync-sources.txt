@@ -2174,7 +2174,7 @@ bucket/bit.json, ScoopInstaller/Main, 1
 bucket/bita.json, hoilc/scoop-lemon, 1
 bucket/bitcoincore.json, chawyehsu/dorado, 1
 bucket/bitcoinknots.json, chawyehsu/dorado, 1
-bucket/bitcomet.json, echoiron/echo-scoop, 0
+bucket/bitcomet.json, batkiz/backit, 0
 bucket/bitmana.json, naderi/scoop-bucket, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitrock-unpacker.json, hoilc/scoop-lemon, 1
@@ -10540,6 +10540,7 @@ bucket/swc.json, ScoopInstaller/Main, 1
 bucket/sweethome3d.json, ScoopInstaller/Extras, 0
 bucket/swego.json, hoilc/scoop-lemon, 1
 bucket/swgp-go.json, hoilc/scoop-lemon, 1
+bucket/swi-prolog.json, hoilc/scoop-lemon, 0
 bucket/swift-nightly.json, ScoopInstaller/Versions, 1
 bucket/swift-snapshot.json, chawyehsu/dorado, 0
 bucket/swift.json, ScoopInstaller/Main, 0
