@@ -1587,6 +1587,7 @@ bucket/alloy.json, hoilc/scoop-lemon, 1
 bucket/alloydb-auth-proxy.json, hoilc/scoop-lemon, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
+bucket/alma.json, chawyehsu/dorado, 1
 bucket/alpaca.json, hoilc/scoop-lemon, 1
 bucket/alphagomoku.json, hoilc/scoop-lemon, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
@@ -3454,7 +3455,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, Calinou/scoop-games, 0
+bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -5807,7 +5808,7 @@ bucket/karate.json, ScoopInstaller/Main, 1
 bucket/kardolus-chatgpt-cli.json, hoilc/scoop-lemon, 1
 bucket/kargo-cli.json, hoilc/scoop-lemon, 1
 bucket/karing-portable.json, DoveBoy/Apps, 1
-bucket/karing.json, DoveBoy/Apps, 1
+bucket/karing.json, hoilc/scoop-lemon, 1
 bucket/karlyriceditor.json, hoilc/scoop-lemon, 1
 bucket/karma.json, hoilc/scoop-lemon, 1
 bucket/karmor.json, hoilc/scoop-lemon, 1
@@ -9565,6 +9566,10 @@ bucket/ruby25.json, ScoopInstaller/Versions, 1
 bucket/ruby26.json, ScoopInstaller/Versions, 1
 bucket/ruby27.json, ScoopInstaller/Versions, 1
 bucket/ruby30.json, ScoopInstaller/Versions, 1
+bucket/ruby31.json, ScoopInstaller/Versions, 1
+bucket/ruby32.json, ScoopInstaller/Versions, 1
+bucket/ruby33.json, ScoopInstaller/Versions, 1
+bucket/ruby34.json, ScoopInstaller/Versions, 1
 bucket/rubymine-eap.json, ScoopInstaller/Versions, 1
 bucket/rubymine-latest.json, ScoopInstaller/Versions, 1
 bucket/rubymine.json, ScoopInstaller/Extras, 1
