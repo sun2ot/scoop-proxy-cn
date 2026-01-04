@@ -16,7 +16,6 @@ bucket/1Remote-Portable.json, ACooper81/scoop-apps, 1
 bucket/1by1-Portable.json, ACooper81/scoop-apps, 0
 bucket/1by1.json, naderi/scoop-bucket, 0
 bucket/1history.json, hoilc/scoop-lemon, 1
-bucket/1key.run.json, hoilc/scoop-lemon, 1
 bucket/1password-cli.json, ScoopInstaller/Main, 0
 bucket/1password-cli1.json, ScoopInstaller/Versions, 0
 bucket/1remote.json, hoilc/scoop-lemon, 1
@@ -249,7 +248,7 @@ bucket/Charles.json, chawyehsu/dorado, 0
 bucket/Charm.json, batkiz/backit, 1
 bucket/Charmonman.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/ChatALL-Portable.json, ACooper81/scoop-apps, 1
-bucket/ChatBox-Portable.json, ACooper81/scoop-apps, 1
+bucket/ChatBox-Portable.json, ACooper81/scoop-apps, 0
 bucket/ChatBox.json, DoveBoy/Apps, 1
 bucket/ChenYuLuoYen-Thin.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Chocolatey-Portable.json, ACooper81/scoop-apps, 0
@@ -1018,6 +1017,7 @@ bucket/RustDesk-Portable.json, ACooper81/scoop-apps, 1
 bucket/Rymdport-Portable.json, ACooper81/scoop-apps, 1
 bucket/RyzenController-Portable.json, ACooper81/scoop-apps, 0
 bucket/SABnzbd-Portable.json, ACooper81/scoop-apps, 1
+bucket/SD-LoRA-Manager.json, Weidows-projects/scoop-3rd, 1
 bucket/SDeleteCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/SFP.json, Weidows-projects/scoop-3rd, 1
 bucket/SIW.json, kkzzhizhou/scoop-zapps, 1
@@ -1075,6 +1075,7 @@ bucket/SleepCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/SlimPDFReader-Portable.json, ACooper81/scoop-apps, 0
 bucket/SmartSystemMenu-Portable.json, ACooper81/scoop-apps, 1
 bucket/SmartTaskbar-Portable.json, ACooper81/scoop-apps, 1
+bucket/Snap.Hutao.json, Weidows-projects/scoop-3rd, 1
 bucket/SnappyDriverInstallerOrigin-Portable.json, ACooper81/scoop-apps, 0
 bucket/Snipaste-Portable.json, ACooper81/scoop-apps, 0
 bucket/Snipaste2.json, AkariiinMKII/Scoop4kariiin, 0
@@ -2967,7 +2968,7 @@ bucket/cpolar.json, hoilc/scoop-lemon, 0
 bucket/cports.json, ScoopInstaller/Nirsoft, 0
 bucket/cppcheck.json, ScoopInstaller/Main, 1
 bucket/cppcryptfs-np.json, ScoopInstaller/Nonportable, 1
-bucket/cppcryptfs.json, naderi/scoop-bucket, 1
+bucket/cppcryptfs.json, hoilc/scoop-lemon, 1
 bucket/cppcryptfsctl.json, ScoopInstaller/Main, 1
 bucket/cprocess.json, ScoopInstaller/Nirsoft, 0
 bucket/cpu-v.json, ScoopInstaller/Extras, 0
@@ -3100,6 +3101,7 @@ bucket/cue.json, ScoopInstaller/Main, 1
 bucket/cuetools.json, ScoopInstaller/Extras, 1
 bucket/cupscale.json, ScoopInstaller/Extras, 1
 bucket/cura.json, ScoopInstaller/Extras, 1
+bucket/curd.json, ScoopInstaller/Extras, 1
 bucket/curl-impersonate.json, ViCrack/scoop-bucket, 1
 bucket/curl.json, ScoopInstaller/Main, 0
 bucket/curli.json, aliesbelik/poldi, 1
@@ -5590,7 +5592,6 @@ bucket/jasmine.json, DoveBoy/Apps, 1
 bucket/jasob.json, SayCV/scoop-cvp, 0
 bucket/jasp.json, hoilc/scoop-lemon, 1
 bucket/jasper.json, ScoopInstaller/Extras, 1
-bucket/jaspersoft-studio.json, ScoopInstaller/Extras, 0
 bucket/java-chains.json, ViCrack/scoop-bucket, 1
 bucket/java-cup.json, hoilc/scoop-lemon, 0
 bucket/java-echo-generator-release.json, ViCrack/scoop-bucket, 1
@@ -7801,7 +7802,7 @@ bucket/openshift-origin-client.json, ScoopInstaller/Main, 1
 bucket/openshot.json, ScoopInstaller/Extras, 1
 bucket/opensoldat.json, Deide/deide-bucket, 1
 bucket/openspades.json, Calinou/scoop-games, 1
-bucket/openspeedy.json, DoveBoy/Apps, 1
+bucket/openspeedy.json, hoilc/scoop-lemon, 1
 bucket/openssh.json, ScoopInstaller/Main, 1
 bucket/openssl-light.json, ScoopInstaller/Main, 1
 bucket/openssl-lts-light.json, ScoopInstaller/Main, 1
@@ -8756,7 +8757,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqrs.json, hoilc/scoop-lemon, 1
 bucket/praat.json, ScoopInstaller/Extras, 1
@@ -10153,7 +10154,6 @@ bucket/smt-mod-compendium.json, Deide/deide-bucket, 1
 bucket/smtprelay.json, iquiw/scoop-bucket, 1
 bucket/smuxi.json, ScoopInstaller/Extras, 0
 bucket/snaketail.json, ScoopInstaller/Extras, 1
-bucket/snap.hutao.json, hoilc/scoop-lemon, 1
 bucket/snap2html.json, hoilc/scoop-lemon, 0
 bucket/snappy-driver-installer-origin.json, ScoopInstaller/Extras, 0
 bucket/snapraid.json, ScoopInstaller/Main, 1
@@ -12148,7 +12148,7 @@ bucket/xdown.json, hoilc/scoop-lemon, 0
 bucket/xdvdfs.json, hoilc/scoop-lemon, 1
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xelitan-pdf-reader.json, hoilc/scoop-lemon, 0
-bucket/xemu.json, Calinou/scoop-games, 1
+bucket/xemu.json, hermanjustnu/scoop-emulators, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia-edge.json, Calinou/scoop-games, 1
 bucket/xenia.json, Calinou/scoop-games, 1
