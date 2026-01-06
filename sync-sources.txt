@@ -3384,6 +3384,7 @@ bucket/ditto.json, ScoopInstaller/Extras, 1
 bucket/diun.json, ScoopInstaller/Main, 1
 bucket/divamodmanager.json, Calinou/scoop-games, 1
 bucket/dive.json, ScoopInstaller/Main, 1
+bucket/diving-rs.json, hoilc/scoop-lemon, 1
 bucket/divoom-cli.json, ScoopInstaller/Extras, 1
 bucket/divoom-gateway.json, ScoopInstaller/Extras, 1
 bucket/djview.json, hoilc/scoop-lemon, 0
@@ -6330,6 +6331,7 @@ bucket/lite.json, ScoopInstaller/Extras, 1
 bucket/litebrowser.json, ScoopInstaller/Extras, 0
 bucket/litedb-studio.json, ScoopInstaller/Extras, 1
 bucket/liteide.json, ScoopInstaller/Extras, 1
+bucket/litemonitor.json, hoilc/scoop-lemon, 1
 bucket/litespeedtest.json, DoveBoy/Apps, 1
 bucket/lito-music.json, hu3rror/scoop-muggle, 1
 bucket/litomusic.json, hoilc/scoop-lemon, 1
@@ -7303,7 +7305,7 @@ bucket/netcoredbg.json, ScoopInstaller/Main, 1
 bucket/neteasemusic-cvp.json, SayCV/scoop-cvp, 1
 bucket/neteasemusic.json, chawyehsu/dorado, 0
 bucket/neteasepopo.json, kkzzhizhou/scoop-zapps, 0
-bucket/neteaseuu.json, chawyehsu/dorado, 0
+bucket/neteaseuu.json, DoveBoy/Apps, 0
 bucket/neteaseuuvoice.json, chawyehsu/dorado, 0
 bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
@@ -8613,7 +8615,7 @@ bucket/pixiv-omina.json, batkiz/backit, 1
 bucket/pixivbiu.json, hu3rror/scoop-muggle, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
 bucket/pixpin-beta.json, hoilc/scoop-lemon, 0
-bucket/pixpin.json, ivaquero/scoopet, 0
+bucket/pixpin.json, hoilc/scoop-lemon, 0
 bucket/pixzip-lite.json, hoilc/scoop-lemon, 1
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
 bucket/pkg-config.json, ScoopInstaller/Main, 0
@@ -10860,6 +10862,7 @@ bucket/textpad8-np.json, ScoopInstaller/Nonportable, 0
 bucket/texts.json, naderi/scoop-bucket, 0
 bucket/texworks-portable.json, naderi/scoop-bucket, 1
 bucket/texworks.json, chawyehsu/dorado, 1
+bucket/teyvatguide.json, hoilc/scoop-lemon, 1
 bucket/tf-summarize.json, ScoopInstaller/Main, 1
 bucket/tf.json, ScoopInstaller/Main, 1
 bucket/tf2-hud-editor.json, Calinou/scoop-games, 1
@@ -11043,7 +11046,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, chawyehsu/dorado, 0
+bucket/trae-cn.json, akirco/aki-apps, 1
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik-certs-dumper.json, hoilc/scoop-lemon, 1
 bucket/traefik.json, ScoopInstaller/Main, 1
@@ -12395,6 +12398,7 @@ bucket/zed-nightly.json, ScoopInstaller/Versions, 1
 bucket/zed-opengl-nightly.json, ScoopInstaller/Versions, 1
 bucket/zed-opengl.json, ScoopInstaller/Extras, 1
 bucket/zed.json, ScoopInstaller/Extras, 1
+bucket/zedis.json, hoilc/scoop-lemon, 1
 bucket/zeebe-modeler.json, ScoopInstaller/Extras, 1
 bucket/zeebe.json, ScoopInstaller/Main, 1
 bucket/zeebe1.3.json, ScoopInstaller/Versions, 1
@@ -12603,10 +12607,10 @@ scripts/geogebra5/install-associations.reg, ScoopInstaller/Versions, 0
 scripts/geogebra5/uninstall-associations.reg, ScoopInstaller/Versions, 0
 scripts/get-spotify-path.ps1, TheRandomLabs/Scoop-Spotify, 0
 scripts/gimp/default.env, ScoopInstaller/Extras, 0
+scripts/git/install-associations.reg, ScoopInstaller/Main, 0
 scripts/git/install-context.reg, ScoopInstaller/Main, 0
-scripts/git/install-file-associations.reg, ScoopInstaller/Main, 0
+scripts/git/uninstall-associations.reg, ScoopInstaller/Main, 0
 scripts/git/uninstall-context.reg, ScoopInstaller/Main, 0
-scripts/git/uninstall-file-associations.reg, ScoopInstaller/Main, 0
 scripts/gitkraken/install-context.reg, ScoopInstaller/Extras, 0
 scripts/gitkraken/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/grepwin/install-context.reg, ScoopInstaller/Extras, 0
