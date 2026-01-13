@@ -4429,6 +4429,7 @@ bucket/fsviewer.json, ScoopInstaller/Extras, 0
 bucket/ft2-clone.json, ScoopInstaller/Extras, 0
 bucket/ftdv.json, aliesbelik/poldi, 1
 bucket/fteqw.json, Calinou/scoop-games, 0
+bucket/ftprush.json, hoilc/scoop-lemon, 0
 bucket/ftpserver.json, DoveBoy/Apps, 1
 bucket/fu.json, ScoopInstaller/Extras, 1
 bucket/fuck-u-code.json, hoilc/scoop-lemon, 1
@@ -5835,7 +5836,7 @@ bucket/karate.json, ScoopInstaller/Main, 1
 bucket/kardolus-chatgpt-cli.json, hoilc/scoop-lemon, 1
 bucket/kargo-cli.json, hoilc/scoop-lemon, 1
 bucket/karing-portable.json, DoveBoy/Apps, 1
-bucket/karing.json, hoilc/scoop-lemon, 1
+bucket/karing.json, DoveBoy/Apps, 1
 bucket/karlyriceditor.json, hoilc/scoop-lemon, 1
 bucket/karma.json, hoilc/scoop-lemon, 1
 bucket/karmor.json, hoilc/scoop-lemon, 1
@@ -10114,7 +10115,7 @@ bucket/simsu.json, hoilc/scoop-lemon, 0
 bucket/simulationcraft.json, Calinou/scoop-games, 0
 bucket/simulide.json, hoilc/scoop-lemon, 0
 bucket/simutrans.json, Calinou/scoop-games, 0
-bucket/sing-box-beta.json, DoveBoy/Apps, 1
+bucket/sing-box-beta.json, hoilc/scoop-lemon, 1
 bucket/sing-box-pre.json, hu3rror/scoop-muggle, 1
 bucket/sing-box.json, ScoopInstaller/Main, 1
 bucket/sing-geoip-rule-set.json, hoilc/scoop-lemon, 1
@@ -11046,7 +11047,7 @@ bucket/todotxt-net.json, ScoopInstaller/Extras, 1
 bucket/toggl.json, ChungZH/peach, 1
 bucket/tokei.json, ScoopInstaller/Main, 1
 bucket/tokio-console.json, littleli/Scoop-littleli, 1
-bucket/tombi.json, hoilc/scoop-lemon, 1
+bucket/tombi.json, ScoopInstaller/Main, 1
 bucket/tomboy-ng.json, ScoopInstaller/Extras, 1
 bucket/tomcat.json, ScoopInstaller/Extras, 0
 bucket/tomcat6.json, ScoopInstaller/Versions, 0
