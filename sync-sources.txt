@@ -2660,6 +2660,7 @@ bucket/clarinet.json, hoilc/scoop-lemon, 1
 bucket/clash-dashboard.json, everyx/scoop-bucket, 1
 bucket/clash-for-flutter.json, DoveBoy/Apps, 1
 bucket/clash-for-windows.json, amorphobia/siku, 0
+bucket/clash-mi.json, ivaquero/scoopet, 1
 bucket/clash-mini.json, DoveBoy/Apps, 1
 bucket/clash-nyanpasu-nightly.json, hoilc/scoop-lemon, 1
 bucket/clash-nyanpasu-portable.json, DoveBoy/Apps, 1
@@ -3409,7 +3410,7 @@ bucket/djvutoy.json, hoilc/scoop-lemon, 0
 bucket/dllexp.json, ScoopInstaller/Nirsoft, 0
 bucket/dllexportviewer.json, kodybrown/scoop-nirsoft, 0
 bucket/dlm.json, aliesbelik/poldi, 1
-bucket/dlss-swapper.json, hu3rror/scoop-muggle, 1
+bucket/dlss-swapper.json, starise/Scoop-Gaming, 1
 bucket/dlss-updater.json, hoilc/scoop-lemon, 1
 bucket/dm2.json, naderi/scoop-bucket, 1
 bucket/dmd.json, ScoopInstaller/Main, 0
@@ -3474,7 +3475,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -4676,6 +4677,7 @@ bucket/git-with-openssh.json, ScoopInstaller/Main, 1
 bucket/git-without-openssh.json, ScoopInstaller/Versions, 1
 bucket/git-workspace.json, hoilc/scoop-lemon, 1
 bucket/git-xargs.json, ScoopInstaller/Main, 1
+bucket/git-xet.json, hoilc/scoop-lemon, 1
 bucket/git.json, ScoopInstaller/Main, 1
 bucket/git19.json, ScoopInstaller/Versions, 1
 bucket/gitahead.json, ScoopInstaller/Extras, 1
@@ -6924,7 +6926,7 @@ bucket/minimal-image-viewer.json, hoilc/scoop-lemon, 1
 bucket/minimal-pdf-compress.json, hoilc/scoop-lemon, 1
 bucket/minimock.json, hoilc/scoop-lemon, 1
 bucket/minio-client.json, ScoopInstaller/Main, 0
-bucket/minio-warp.json, hoilc/scoop-lemon, 1
+bucket/minio-warp.json, hoilc/scoop-lemon, 0
 bucket/minio.json, ScoopInstaller/Main, 0
 bucket/minipad2.json, hoilc/scoop-lemon, 0
 bucket/minirenamer.json, hoilc/scoop-lemon, 0
@@ -8667,7 +8669,7 @@ bucket/pixiv-omina.json, batkiz/backit, 1
 bucket/pixivbiu.json, hu3rror/scoop-muggle, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
 bucket/pixpin-beta.json, hoilc/scoop-lemon, 0
-bucket/pixpin.json, hoilc/scoop-lemon, 0
+bucket/pixpin.json, ivaquero/scoopet, 0
 bucket/pixzip-lite.json, hoilc/scoop-lemon, 1
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
 bucket/pkg-config.json, ScoopInstaller/Main, 0
