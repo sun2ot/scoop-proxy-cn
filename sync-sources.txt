@@ -622,6 +622,7 @@ bucket/K2D.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/KCCacheProxy.json, Darkatse/Scoop-KanColle, 1
 bucket/KDEConnect-Portable.json, ACooper81/scoop-apps, 0
 bucket/KMS_VL_All_AiO-Portable.json, ACooper81/scoop-apps, 1
+bucket/Kabegame.json, Weidows-projects/scoop-3rd, 1
 bucket/KanColleViewer.json, Darkatse/Scoop-KanColle, 1
 bucket/Kangaroo-Portable.json, ACooper81/scoop-apps, 1
 bucket/Kanit.json, matthewjberger/scoop-nerd-fonts, 0
@@ -1568,7 +1569,7 @@ bucket/algermusicplayer.json, DoveBoy/Apps, 1
 bucket/algernon.json, ScoopInstaller/Main, 1
 bucket/algol68g.json, ScoopInstaller/Main, 0
 bucket/algolia-cli.json, hoilc/scoop-lemon, 1
-bucket/ali.json, DoveBoy/Apps, 1
+bucket/ali.json, aliesbelik/poldi, 1
 bucket/alias-additions.json, ACooper81/scoop-apps, 1
 bucket/alice-tools.json, hoilc/scoop-lemon, 1
 bucket/alien.json, ScoopInstaller/Extras, 1
@@ -3779,7 +3780,6 @@ bucket/elixir.json, ScoopInstaller/Main, 0
 bucket/elm.json, ScoopInstaller/Main, 1
 bucket/elvish.json, ScoopInstaller/Main, 0
 bucket/emacs-k.json, kiennq/scoop-misc, 1
-bucket/emacs-kl.json, kiennq/scoop-misc, 1
 bucket/emacs-lsp-booster.json, kiennq/scoop-misc, 1
 bucket/emacs-tree-sitter-module-ucrt64.json, iquiw/scoop-bucket, 1
 bucket/emacs-tree-sitter-module.json, iquiw/scoop-bucket, 1
@@ -8156,6 +8156,7 @@ bucket/pfm2afm.json, rasa/scoops, 0
 bucket/pfsextractor.json, seumsc/scoop-seu, 1
 bucket/pgadmin4-np.json, ScoopInstaller/Nonportable, 0
 bucket/pget.json, ScoopInstaller/Main, 1
+bucket/pgmetrics.json, hoilc/scoop-lemon, 1
 bucket/pgmig.json, littleli/scoop-clojure, 1
 bucket/pgrok.json, hoilc/scoop-lemon, 1
 bucket/pgroll.json, hoilc/scoop-lemon, 1
@@ -8678,7 +8679,7 @@ bucket/pixiv-omina.json, batkiz/backit, 1
 bucket/pixivbiu.json, hu3rror/scoop-muggle, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
 bucket/pixpin-beta.json, hoilc/scoop-lemon, 0
-bucket/pixpin.json, AkariiinMKII/Scoop4kariiin, 0
+bucket/pixpin.json, ivaquero/scoopet, 0
 bucket/pixzip-lite.json, hoilc/scoop-lemon, 1
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
 bucket/pkg-config.json, ScoopInstaller/Main, 0
@@ -12002,7 +12003,7 @@ bucket/winget-preview.json, ScoopInstaller/Versions, 1
 bucket/winget-ps.json, ScoopInstaller/Main, 0
 bucket/winget.json, ScoopInstaller/Main, 1
 bucket/wingetcreate.json, ScoopInstaller/Main, 1
-bucket/winhance.json, DoveBoy/Apps, 1
+bucket/winhance.json, starise/Scoop-Confetti, 1
 bucket/wininfo.json, hoilc/scoop-lemon, 0
 bucket/winipbroadcast.json, seumsc/scoop-seu, 1
 bucket/winjump.json, brian6932/dank-scoop, 1
