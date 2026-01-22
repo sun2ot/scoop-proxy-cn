@@ -1,12 +1,12 @@
 {
-  "version": "1.3.5",
+  "version": "1.4.1",
   "description": "Proton Pass CLI is a command-line interface for managing your Proton Pass vaults, items, and secrets.",
   "homepage": "https://protonpass.github.io/pass-cli/",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://proton.me/download/pass-cli/1.3.5/pass-cli-windows-x86_64.zip",
-      "hash": "55c2ab5d74ee07979602f3e306ce492ebee9a64694f938a71d63d4f561d36e46"
+      "url": "https://proton.me/download/pass-cli/1.4.1/pass-cli-windows-x86_64.zip",
+      "hash": "5ff415330223cfe8aa90943f9802b055a3ed005b3bc850cb093231fa62ad9d17"
     }
   },
   "bin": "pass-cli.exe",

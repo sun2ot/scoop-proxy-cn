@@ -1,13 +1,13 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.6",
   "description": "A lightweight and customizable desktop hardware monitoring tool.",
   "homepage": "https://github.com/Diorser/LiteMonitor",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Diorser/LiteMonitor/releases/download/v1.2.4/LiteMonitor_v1.2.4-win-x64.zip",
-      "extract_dir": "LiteMonitor_v1.2.4-win-x64",
-      "hash": "5e8c97073a0e18c777d27ac4f4bc017cf8b6e189e2976bd88f4e68d00e62d9ac"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Diorser/LiteMonitor/releases/download/v1.2.6/LiteMonitor_v1.2.6-win-x64.zip",
+      "extract_dir": "LiteMonitor_v1.2.6-win-x64",
+      "hash": "bca50a36f1d8e20ce519723b074d22b3cbc528c89f5afb546ec7b977c1096d06"
     }
   },
   "shortcuts": [
