@@ -2914,6 +2914,7 @@ bucket/cooklang-chef.json, hoilc/scoop-lemon, 1
 bucket/coolermaster-masterplus.json, brian6932/dank-scoop, 0
 bucket/coolplayer.json, naderi/scoop-bucket, 0
 bucket/copicseal.json, hoilc/scoop-lemon, 1
+bucket/copilot-cli.json, ScoopInstaller/Main, 1
 bucket/coppeliasim.json, ScoopInstaller/Extras, 0
 bucket/copy-dialog-lunar-lander.json, ScoopInstaller/Extras, 1
 bucket/copy-excel-paste-markdown.json, SayCV/scoop-cvp, 1
@@ -4660,7 +4661,7 @@ bucket/git-credential-gopass.json, chawyehsu/dorado, 1
 bucket/git-credential-keepassxc-full.json, hoilc/scoop-lemon, 1
 bucket/git-credential-keepassxc.json, hoilc/scoop-lemon, 1
 bucket/git-credential-manager.json, ScoopInstaller/Extras, 1
-bucket/git-credential-oauth.json, hoilc/scoop-lemon, 1
+bucket/git-credential-oauth.json, ScoopInstaller/Main, 1
 bucket/git-crypt.json, ScoopInstaller/Main, 1
 bucket/git-delta.json, hoilc/scoop-lemon, 1
 bucket/git-dive.json, hoilc/scoop-lemon, 1
@@ -6809,7 +6810,7 @@ bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mftecmd.json, hoilc/scoop-lemon, 1
 bucket/mftexplorer.json, hoilc/scoop-lemon, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mglahk.json, hoilc/scoop-lemon, 0
 bucket/mgtv.json, DoveBoy/Apps, 0
@@ -8848,7 +8849,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqrs.json, hoilc/scoop-lemon, 1
 bucket/praat.json, ScoopInstaller/Extras, 1
@@ -9215,6 +9216,7 @@ bucket/quick-any2ico.json, hoilc/scoop-lemon, 0
 bucket/quick-change-resolution.json, hoilc/scoop-lemon, 0
 bucket/quick-lint-js.json, ScoopInstaller/Main, 0
 bucket/quick-picture-viewer.json, ScoopInstaller/Extras, 1
+bucket/quickbib.json, ivaquero/scoopet, 1
 bucket/quickclipboard-portable.json, DoveBoy/Apps, 1
 bucket/quickclipboard.json, DoveBoy/Apps, 1
 bucket/quickcpu.json, ScoopInstaller/Extras, 0
@@ -10358,7 +10360,7 @@ bucket/speedbump.json, aliesbelik/poldi, 1
 bucket/speedcrunch.json, ScoopInstaller/Extras, 0
 bucket/speedfan.json, ScoopInstaller/Extras, 0
 bucket/speedtest-cli.json, ScoopInstaller/Main, 0
-bucket/speedtest-go.json, hoilc/scoop-lemon, 1
+bucket/speedtest-go.json, ScoopInstaller/Main, 1
 bucket/speedtest.json, ScoopInstaller/Extras, 0
 bucket/speedy.json, ViCrack/scoop-bucket, 1
 bucket/speedyfox.json, ScoopInstaller/Extras, 0
