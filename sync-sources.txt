@@ -2700,7 +2700,7 @@ bucket/clash.net.json, Weidows-projects/scoop-3rd, 1
 bucket/clash2singbox.json, hoilc/scoop-lemon, 1
 bucket/clashcross.json, DoveBoy/Apps, 1
 bucket/clashmi-portable.json, DoveBoy/Apps, 1
-bucket/clashmi.json, hoilc/scoop-lemon, 1
+bucket/clashmi.json, DoveBoy/Apps, 1
 bucket/clashn.json, hoilc/scoop-lemon, 1
 bucket/clashrauto.json, akirco/aki-apps, 1
 bucket/clashrs.json, DoveBoy/Apps, 1
@@ -3160,7 +3160,7 @@ bucket/cvemap.json, hoilc/scoop-lemon, 1
 bucket/cvs.json, ScoopInstaller/Main, 0
 bucket/cwrsync.json, ScoopInstaller/Main, 1
 bucket/cwtch.json, naderi/scoop-bucket, 0
-bucket/cxbx-reloaded.json, hermanjustnu/scoop-emulators, 1
+bucket/cxbx-reloaded.json, Calinou/scoop-games, 1
 bucket/cyanrip.json, ScoopInstaller/Extras, 1
 bucket/cyberapi.json, ViCrack/scoop-bucket, 1
 bucket/cyberchef.json, ScoopInstaller/Extras, 1
@@ -5871,7 +5871,7 @@ bucket/karate.json, ScoopInstaller/Main, 1
 bucket/kardolus-chatgpt-cli.json, hoilc/scoop-lemon, 1
 bucket/kargo-cli.json, hoilc/scoop-lemon, 1
 bucket/karing-portable.json, DoveBoy/Apps, 1
-bucket/karing.json, hoilc/scoop-lemon, 1
+bucket/karing.json, DoveBoy/Apps, 1
 bucket/karlyriceditor.json, hoilc/scoop-lemon, 1
 bucket/karma.json, hoilc/scoop-lemon, 1
 bucket/karmor.json, hoilc/scoop-lemon, 1
@@ -6038,7 +6038,7 @@ bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koocli.json, hoilc/scoop-lemon, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, chawyehsu/dorado, 0
+bucket/kook.json, seumsc/scoop-seu, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -7171,6 +7171,7 @@ bucket/msedge-dev.json, 42wim/scoop-bucket, 0
 bucket/msedge-stable.json, 42wim/scoop-bucket, 0
 bucket/msedgeredirect.json, ScoopInstaller/Extras, 1
 bucket/msgraph-cli.json, hoilc/scoop-lemon, 1
+bucket/msgvault.json, cderv/r-bucket, 1
 bucket/msiafterburner.json, ScoopInstaller/Extras, 0
 bucket/msieve-gpu.json, hoilc/scoop-lemon, 0
 bucket/msieve.json, hoilc/scoop-lemon, 0
@@ -11237,6 +11238,7 @@ bucket/trrntzip.net.json, hoilc/scoop-lemon, 0
 bucket/trubka.json, aliesbelik/poldi, 1
 bucket/trufflehog.json, ScoopInstaller/Main, 1
 bucket/trunk.json, ScoopInstaller/Main, 1
+bucket/trusttunnel_client.json, hoilc/scoop-lemon, 1
 bucket/trzsz.json, ScoopInstaller/Main, 1
 bucket/ts-dns.json, hoilc/scoop-lemon, 1
 bucket/tsac.json, hoilc/scoop-lemon, 0
