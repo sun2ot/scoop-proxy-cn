@@ -3229,6 +3229,7 @@ bucket/dataspell.json, ScoopInstaller/Extras, 1
 bucket/datastation.json, batkiz/backit, 1
 bucket/datovka.json, ScoopInstaller/Extras, 0
 bucket/datree.json, ScoopInstaller/Main, 1
+bucket/dawn.json, aliesbelik/poldi, 1
 bucket/dbeaver-cn.json, ivaquero/scoopet, 0
 bucket/dbeaver-ea.json, ScoopInstaller/Versions, 0
 bucket/dbeaver-portapps.json, Velgus/Scoop-Portapps, 1
@@ -4717,6 +4718,7 @@ bucket/github-beta.json, ScoopInstaller/Versions, 1
 bucket/github-hosts.json, DoveBoy/Apps, 1
 bucket/github-markdown-toc-go.json, hoilc/scoop-lemon, 1
 bucket/github-mcp-server.json, cderv/r-bucket, 1
+bucket/github-store.json, DoveBoy/Apps, 1
 bucket/github.json, ScoopInstaller/Extras, 1
 bucket/gitify.json, ScoopInstaller/Extras, 1
 bucket/gitignore.json, ScoopInstaller/Main, 1
@@ -5141,7 +5143,7 @@ bucket/haxe-dev.json, ScoopInstaller/Versions, 1
 bucket/haxe.json, ScoopInstaller/Main, 1
 bucket/hayabusa.json, hoilc/scoop-lemon, 1
 bucket/haylxon.json, hoilc/scoop-lemon, 1
-bucket/hbuilderx.json, echoiron/echo-scoop, 0
+bucket/hbuilderx.json, ivaquero/scoopet, 0
 bucket/hck.json, hoilc/scoop-lemon, 1
 bucket/hcl2json.json, hoilc/scoop-lemon, 1
 bucket/hcledit.json, hoilc/scoop-lemon, 1
@@ -6038,7 +6040,7 @@ bucket/konsole-nightly.json, ScoopInstaller/Versions, 0
 bucket/konversation-nightly.json, ScoopInstaller/Versions, 0
 bucket/koocli.json, hoilc/scoop-lemon, 0
 bucket/koodo-reader.json, ScoopInstaller/Extras, 0
-bucket/kook.json, seumsc/scoop-seu, 0
+bucket/kook.json, chawyehsu/dorado, 0
 bucket/kopia-cli.json, DoveBoy/Apps, 1
 bucket/kopia-rc.json, ScoopInstaller/Versions, 1
 bucket/kopia-ui-portable.json, DoveBoy/Apps, 1
@@ -7015,7 +7017,6 @@ bucket/mmdbctl.json, hoilc/scoop-lemon, 1
 bucket/mmdbinspect.json, hoilc/scoop-lemon, 1
 bucket/mmview.json, ScoopInstaller/Nirsoft, 0
 bucket/mo2.json, Calinou/scoop-games, 1
-bucket/moar.json, ScoopInstaller/Extras, 1
 bucket/mob.json, ScoopInstaller/Main, 1
 bucket/mobalivecd.json, ScoopInstaller/Extras, 0
 bucket/mobaxterm-professional.json, naderi/scoop-bucket, 0
@@ -8860,7 +8861,7 @@ bucket/powertoys.json, ScoopInstaller/Extras, 1
 bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqrs.json, hoilc/scoop-lemon, 1
 bucket/praat.json, ScoopInstaller/Extras, 1
