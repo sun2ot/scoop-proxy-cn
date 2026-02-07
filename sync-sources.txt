@@ -2225,7 +2225,7 @@ bucket/aquasnap.json, starise/Scoop-Confetti, 0
 bucket/arc.json, ScoopInstaller/Main, 1
 bucket/arc_unpacker.json, hoilc/scoop-lemon, 1
 bucket/arcadedb.json, ScoopInstaller/Extras, 1
-bucket/archi.json, ScoopInstaller/Extras, 1
+bucket/archi.json, ScoopInstaller/Extras, 0
 bucket/archisteamfarm-generic.json, seumsc/scoop-seu, 1
 bucket/archisteamfarm.json, ScoopInstaller/Extras, 1
 bucket/archive.is.json, chawyehsu/dorado, 1
@@ -2531,6 +2531,7 @@ bucket/bcut.json, akirco/aki-apps, 0
 bucket/bdInfo-cli.json, yuusakuri/scoop-bucket, 1
 bucket/bdinfo.json, amorphobia/siku, 0
 bucket/beads-rust.json, cderv/r-bucket, 1
+bucket/beads-task-issue-tracker.json, cderv/r-bucket, 1
 bucket/beads.json, cderv/r-bucket, 1
 bucket/beaker-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/beaker.json, ScoopInstaller/Extras, 1
@@ -2948,7 +2949,7 @@ bucket/catbox.json, brian6932/dank-scoop, 1
 bucket/categraf.json, hoilc/scoop-lemon, 1
 bucket/catime.json, hoilc/scoop-lemon, 1
 bucket/catsxp.json, hoilc/scoop-lemon, 0
-bucket/cava.json, hoilc/scoop-lemon, 1
+bucket/cava.json, Deide/deide-bucket, 1
 bucket/cavif.json, hoilc/scoop-lemon, 1
 bucket/cbconvert.json, hoilc/scoop-lemon, 1
 bucket/cbmc.json, seumsc/scoop-seu, 1
@@ -3866,6 +3867,7 @@ bucket/discord-ptb-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/discord-ptb.json, ScoopInstaller/Versions, 1
 bucket/discord-rpc-extension.json, ScoopInstaller/Extras, 1
 bucket/discord.json, ScoopInstaller/Extras, 1
+bucket/discordchatexporter-cli.json, hoilc/scoop-lemon, 1
 bucket/discordchatexporter.json, ScoopInstaller/Extras, 1
 bucket/discordcompressor.json, couleur-tweak-tips/utils, 1
 bucket/discrakt.json, ScoopInstaller/Extras, 1
@@ -4097,6 +4099,7 @@ bucket/droppoint.json, hoilc/scoop-lemon, 1
 bucket/dry.json, aliesbelik/poldi, 1
 bucket/ds4windows-circumspector-pre.json, ScoopInstaller/Versions, 1
 bucket/ds4windows.json, ScoopInstaller/Extras, 1
+bucket/dsc.json, hoilc/scoop-lemon, 1
 bucket/dsda-doom.json, Calinou/scoop-games, 1
 bucket/dshidmini-np.json, ScoopInstaller/Nonportable, 1
 bucket/dskwipe.json, rasa/scoops, 1
@@ -5988,6 +5991,7 @@ bucket/injecteddll.json, ScoopInstaller/Nirsoft, 0
 bucket/injector.json, ScoopInstaller/Extras, 1
 bucket/ink-canvas.json, hoilc/scoop-lemon, 1
 bucket/ink.json, dodorz/scoop, 0
+bucket/inkscape-cn.json, ivaquero/scoopet, 0
 bucket/inkscape-dev.json, ScoopInstaller/Versions, 0
 bucket/inkscape-extension-sozi.json, ScoopInstaller/Extras, 1
 bucket/inkscape.json, ScoopInstaller/Extras, 0
@@ -7346,7 +7350,7 @@ bucket/meteor.json, aliesbelik/poldi, 1
 bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mftecmd.json, hoilc/scoop-lemon, 1
 bucket/mftexplorer.json, hoilc/scoop-lemon, 1
-bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mglahk.json, hoilc/scoop-lemon, 0
 bucket/mgtv.json, DoveBoy/Apps, 0
@@ -7376,6 +7380,7 @@ bucket/microsoft-lts-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoft-powerapps-cli.json, ScoopInstaller/Extras, 0
 bucket/microsoft-safety-scanner.json, hoilc/scoop-lemon, 0
 bucket/microsoft-teams.json, ScoopInstaller/Extras, 0
+bucket/microsoft-win32-content-prep-tool.json, hoilc/scoop-lemon, 1
 bucket/microsoft11-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoft16-jdk.json, ScoopInstaller/Java, 0
 bucket/microsoft17-jdk.json, ScoopInstaller/Java, 0
@@ -9783,6 +9788,7 @@ bucket/quicksetdns.json, ScoopInstaller/Nirsoft, 0
 bucket/quicksfv.json, ScoopInstaller/Extras, 0
 bucket/quicktextpaste.json, ScoopInstaller/Extras, 0
 bucket/quickviewer.json, ScoopInstaller/Extras, 1
+bucket/quicreach-nightly.json, hoilc/scoop-lemon, 0
 bucket/quincy.json, hoilc/scoop-lemon, 1
 bucket/quiterss.json, ScoopInstaller/Extras, 0
 bucket/quodlibet.json, ScoopInstaller/Extras, 1
@@ -11658,6 +11664,7 @@ bucket/tinytex.json, cderv/r-bucket, 1
 bucket/tipp10.json, hoilc/scoop-lemon, 0
 bucket/tixati.json, ScoopInstaller/Extras, 0
 bucket/tkdiff.json, dodorz/scoop, 0
+bucket/tkforge.json, hoilc/scoop-lemon, 1
 bucket/tkn-pac.json, hoilc/scoop-lemon, 1
 bucket/tl.json, hoilc/scoop-lemon, 1
 bucket/tlaplus-toolbox.json, ScoopInstaller/Extras, 1
