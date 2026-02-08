@@ -3646,6 +3646,7 @@ bucket/cygwin-libs-hentai.json, Weidows-projects/scoop-3rd, 0
 bucket/cygwin.json, ScoopInstaller/Main, 0
 bucket/cyme.json, hoilc/scoop-lemon, 1
 bucket/cyrenemusic.json, DoveBoy/Apps, 1
+bucket/cz.json, hoilc/scoop-lemon, 1
 bucket/czkawka-gui.json, ScoopInstaller/Extras, 1
 bucket/czkawka.json, ScoopInstaller/Main, 1
 bucket/d2.json, ScoopInstaller/Main, 1
@@ -3908,7 +3909,7 @@ bucket/djvutoy.json, hoilc/scoop-lemon, 0
 bucket/dllexp.json, ScoopInstaller/Nirsoft, 0
 bucket/dllexportviewer.json, kodybrown/scoop-nirsoft, 0
 bucket/dlm.json, aliesbelik/poldi, 1
-bucket/dlss-swapper.json, hu3rror/scoop-muggle, 1
+bucket/dlss-swapper.json, ScoopInstaller/Extras, 1
 bucket/dlss-updater.json, hoilc/scoop-lemon, 1
 bucket/dm2.json, naderi/scoop-bucket, 1
 bucket/dmd.json, ScoopInstaller/Main, 0
@@ -12304,6 +12305,7 @@ bucket/vtfedit-reloaded.json, hoilc/scoop-lemon, 1
 bucket/vtfedit.json, ScoopInstaller/Extras, 0
 bucket/vtm.json, ScoopInstaller/Extras, 1
 bucket/vtracer.json, hoilc/scoop-lemon, 1
+bucket/vuetorrent.json, amorphobia/siku, 1
 bucket/vulkan.json, ScoopInstaller/Main, 1
 bucket/vultr-cli.json, hoilc/scoop-lemon, 1
 bucket/vultr.json, ScoopInstaller/Main, 1
