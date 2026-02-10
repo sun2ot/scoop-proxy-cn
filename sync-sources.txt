@@ -5916,6 +5916,8 @@ bucket/ignoreit.json, ScoopInstaller/Extras, 1
 bucket/igrep.json, ScoopInstaller/Main, 1
 bucket/iiscrypto.json, hoilc/scoop-lemon, 0
 bucket/ijhttp.json, ScoopInstaller/Main, 0
+bucket/ik-llama-cpp-cpu.json, hoilc/scoop-lemon, 1
+bucket/ik-llama-cpp-cuda-13.json, hoilc/scoop-lemon, 1
 bucket/ik-llama-cpp.json, hoilc/scoop-lemon, 1
 bucket/ikago.json, hoilc/scoop-lemon, 1
 bucket/il2cppdumper-gui.json, hoilc/scoop-lemon, 1
@@ -7686,7 +7688,10 @@ bucket/mpv.net.json, ScoopInstaller/Extras, 1
 bucket/mpv_PlayKit.json, Weidows-projects/scoop-3rd, 1
 bucket/mpvconfigurator.json, DoveBoy/Apps, 1
 bucket/mpxplay.json, ScoopInstaller/Main, 0
-bucket/mq.json, aliesbelik/poldi, 1
+bucket/mq-dbg.json, cderv/r-bucket, 1
+bucket/mq-lsp.json, cderv/r-bucket, 1
+bucket/mq.json, cderv/r-bucket, 1
+bucket/mqcr.json, cderv/r-bucket, 1
 bucket/mqtt-cli.json, ScoopInstaller/Extras, 1
 bucket/mqtt-explorer.json, ScoopInstaller/Extras, 1
 bucket/mqtt-spy.json, ScoopInstaller/Extras, 1
@@ -10530,6 +10535,7 @@ bucket/securityquestionsview.json, ScoopInstaller/Nirsoft, 0
 bucket/securitysoftview.json, ScoopInstaller/Nirsoft, 0
 bucket/sed.json, ScoopInstaller/Main, 1
 bucket/see-cat.json, hoilc/scoop-lemon, 1
+bucket/see-cli.json, hoilc/scoop-lemon, 1
 bucket/seelen-ui.json, ScoopInstaller/Extras, 1
 bucket/sejda-pdf.json, ScoopInstaller/Extras, 0
 bucket/selene.json, ScoopInstaller/Extras, 1
