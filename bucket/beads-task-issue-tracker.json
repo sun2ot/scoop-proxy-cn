@@ -1,10 +1,10 @@
 {
-  "version": "1.14.0",
+  "version": "1.16.0",
   "description": "Lightweight desktop app for managing Beads issues outside your IDE",
   "homepage": "https://github.com/w3dev33/beads-task-issue-tracker",
   "license": "MIT",
-  "url": "https://ghproxy.085404.xyz/https://github.com/w3dev33/beads-task-issue-tracker/releases/download/v1.14.0/Beads.Task-Issue.Tracker_1.14.0_Windows-setup.exe",
-  "hash": "e81b962a9b04541258e7cda5a123a03c5fce467b19c6ec3644ca2727aec067c3",
+  "url": "https://ghproxy.085404.xyz/https://github.com/w3dev33/beads-task-issue-tracker/releases/download/v1.16.0/Beads.Task-Issue.Tracker_1.16.0_Windows-setup.exe",
+  "hash": "727409cb7328bcf021ff101926a32550b66ea77b002429f6a630d19b1321b140",
   "installer": {
     "args": [
       "/S",
