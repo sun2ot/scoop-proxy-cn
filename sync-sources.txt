@@ -5661,6 +5661,7 @@ bucket/hdd-llf-low-level-format-tool.json, hoilc/scoop-lemon, 0
 bucket/hdd-raw-copy-tool.json, hoilc/scoop-lemon, 0
 bucket/hdfview.json, hoilc/scoop-lemon, 1
 bucket/hdr10plus_tool.json, hoilc/scoop-lemon, 1
+bucket/hdrtray.json, starise/Scoop-Confetti, 1
 bucket/hdtune.json, echoiron/echo-scoop, 0
 bucket/headlamp.json, ScoopInstaller/Extras, 1
 bucket/heapmemview.json, ScoopInstaller/Nirsoft, 0
@@ -6281,7 +6282,6 @@ bucket/jol-cli.json, hoilc/scoop-lemon, 0
 bucket/jom.json, ScoopInstaller/Main, 0
 bucket/joplin-pre.json, ScoopInstaller/Versions, 1
 bucket/joplin.json, ScoopInstaller/Extras, 1
-bucket/josm-generic.json, seumsc/scoop-seu, 1
 bucket/josm.json, ScoopInstaller/Extras, 0
 bucket/jot.json, dodorz/scoop, 1
 bucket/jotdown.json, hoilc/scoop-lemon, 1
@@ -8630,6 +8630,7 @@ bucket/paralus-cli.json, hoilc/scoop-lemon, 1
 bucket/paraview.json, ScoopInstaller/Extras, 0
 bucket/pari-gp.json, ScoopInstaller/Extras, 0
 bucket/parkdale.json, hoilc/scoop-lemon, 0
+bucket/parlay.json, ScoopInstaller/Main, 1
 bucket/parsec-np.json, ScoopInstaller/Nonportable, 0
 bucket/parsec-vdd.json, Weidows-projects/scoop-3rd, 1
 bucket/parsec.json, ScoopInstaller/Extras, 0
@@ -9489,7 +9490,7 @@ bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
 bucket/projclean.json, hoilc/scoop-lemon, 1
 bucket/project-graph.json, ScoopInstaller/Extras, 1
-bucket/project64-dev.json, borger/scoop-emulators, 0
+bucket/project64-dev.json, Calinou/scoop-games, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/projectdiscovery-notify.json, hoilc/scoop-lemon, 1
 bucket/projector-client.json, hoilc/scoop-lemon, 1
@@ -12438,7 +12439,7 @@ bucket/webstorm-eap.json, ScoopInstaller/Versions, 1
 bucket/webstorm.json, ScoopInstaller/Extras, 1
 bucket/webtorrent.json, ScoopInstaller/Extras, 1
 bucket/webvideocap.json, ScoopInstaller/Nirsoft, 0
-bucket/webview2.json, SayCV/scoop-cvp, 0
+bucket/webview2.json, ScoopInstaller/Extras, 0
 bucket/wechat-beta.json, scoopcn/scoopcn, 0
 bucket/wechat-cvp.json, SayCV/scoop-cvp, 1
 bucket/wechat-devtools.json, scoopcn/scoopcn, 0
