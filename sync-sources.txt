@@ -4326,7 +4326,7 @@ bucket/encodegui-np.json, ScoopInstaller/Nonportable, 0
 bucket/encore.json, Weidows-projects/scoop-3rd, 0
 bucket/encrypted-dns-server.json, hoilc/scoop-lemon, 1
 bucket/encryptedregview.json, ScoopInstaller/Nirsoft, 0
-bucket/encrypto.json, dodorz/scoop, 0
+bucket/encrypto.json, naderi/scoop-bucket, 0
 bucket/encryptpad.json, ScoopInstaller/Extras, 1
 bucket/endless-sky.json, Calinou/scoop-games, 1
 bucket/energystarx.json, DoveBoy/Apps, 1
@@ -7370,7 +7370,7 @@ bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
 bucket/mftecmd.json, hoilc/scoop-lemon, 1
 bucket/mftexplorer.json, hoilc/scoop-lemon, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mglahk.json, hoilc/scoop-lemon, 0
 bucket/mgtv.json, DoveBoy/Apps, 0
@@ -12656,7 +12656,7 @@ bucket/winget-preview.json, ScoopInstaller/Versions, 1
 bucket/winget-ps.json, ScoopInstaller/Main, 0
 bucket/winget.json, ScoopInstaller/Main, 1
 bucket/wingetcreate.json, ScoopInstaller/Main, 1
-bucket/winhance.json, starise/Scoop-Confetti, 1
+bucket/winhance.json, DoveBoy/Apps, 1
 bucket/wininfo.json, hoilc/scoop-lemon, 0
 bucket/winipbroadcast.json, seumsc/scoop-seu, 1
 bucket/winjump.json, brian6932/dank-scoop, 1
