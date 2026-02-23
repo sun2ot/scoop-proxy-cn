@@ -1,36 +1,35 @@
 {
-  "version": "4.11",
+  "version": "5 days ago",
+  "homepage": "https://sourceforge.net/projects/hotkeyp/",
   "description": "Create keyboard or mouse shortcuts for apps, documents, folders, web pages and keyboard macros.",
-  "homepage": "https://plastovicka.github.io/others.html#hotkey",
-  "license": "GPL-3.0-only",
+  "license": "freeware",
   "architecture": {
     "64bit": {
-      "url": "https://sourceforge.net/projects/hotkeyp/files/hotkeyp_64bit.zip",
+      "url": "https://downloads.sourceforge.net/project/hotkeyp/files/hotkeyp_64bit.zip",
       "hash": "sha1:267c4acb59b0a20fd6c6c466c67c1188c35a28ff"
     },
     "32bit": {
-      "url": "https://sourceforge.net/projects/hotkeyp/files/hotkeyp.zip",
+      "url": "https://downloads.sourceforge.net/project/hotkeyp/files/hotkeyp.zip",
       "hash": "sha1:e90a3cd47dc2c2b814f8ab5c1b0d50ec43085e4e"
     }
   },
   "shortcuts": [
     [
-      "HotkeyP.exe",
+      "hotkeyp.exe",
       "HotkeyP"
     ]
   ],
-  "post_uninstall": "if ($purge) { Remove-Item -Path 'HKCU:\\Software\\Petr Lastovicka\\hotkey' -ErrorAction SilentlyContinue }",
-  "persist": "config",
   "checkver": {
-    "regex": ">HotkeyP ([\\d.]+)<"
+    "url": "https://sourceforge.net/projects/hotkeyp/",
+    "re": "dateUpdated.+?>(.+?)<"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://sourceforge.net/projects/hotkeyp/files/hotkeyp_64bit.zip"
+        "url": "https://downloads.sourceforge.net/project/hotkeyp/files/hotkeyp_64bit.zip"
       },
       "32bit": {
-        "url": "https://sourceforge.net/projects/hotkeyp/files/hotkeyp.zip"
+        "url": "https://downloads.sourceforge.net/project/hotkeyp/files/hotkeyp.zip"
       }
     }
   }

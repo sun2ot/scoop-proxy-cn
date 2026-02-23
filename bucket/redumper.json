@@ -1,23 +1,23 @@
 {
-  "version": "695",
+  "version": "698",
   "description": "A low level CD dumper utility.",
   "homepage": "https://github.com/superg/redumper",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b695/redumper-b695-windows-x64.zip",
-      "extract_dir": "redumper-b695-windows-x64\\bin",
-      "hash": "ea296c38957332131c3f299b463bfacd65e35e71dd7d0ceacbe3c2b5dcb39e6d"
+      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b698/redumper-b698-windows-x64.zip",
+      "extract_dir": "redumper-b698-windows-x64\\bin",
+      "hash": "cea57b8a4d2abd8c0eafbf9e33f45424f5333c14d443a92c7d5ffd97c52a6e3e"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b695/redumper-b695-windows-x86.zip",
-      "extract_dir": "redumper-b695-windows-x86\\bin",
-      "hash": "3c3c6c1e84f16b0b485cd0c890a3fff914ae6e32695da50d0fa1262c6fbca913"
+      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b698/redumper-b698-windows-x86.zip",
+      "extract_dir": "redumper-b698-windows-x86\\bin",
+      "hash": "a1b85a55cef1d10a436dd132f499bae4a3b221c565a7db2db3b59fce7a19cbff"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b695/redumper-b695-windows-arm64.zip",
-      "extract_dir": "redumper-b695-windows-arm64\\bin",
-      "hash": "c1c835dc1b39649515bf44138ef080b45a8947b61ece3d18d38aa4542b486134"
+      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b698/redumper-b698-windows-arm64.zip",
+      "extract_dir": "redumper-b698-windows-arm64\\bin",
+      "hash": "bd09d22fe868e0eec6583f3b1200e7cc057aa274c72d3e9d0dd3af88606f9554"
     }
   },
   "bin": "redumper.exe",
