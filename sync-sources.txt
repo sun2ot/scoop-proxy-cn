@@ -1408,6 +1408,7 @@ bucket/SideQuest.json, Weidows-projects/scoop-3rd, 1
 bucket/SilentCMD-Portable.json, ACooper81/scoop-apps, 1
 bucket/SimilarImagesFinder.json, dodorz/scoop, 0
 bucket/Simplewall-Portable.json, ACooper81/scoop-apps, 1
+bucket/Skills-Hub.json, dodorz/scoop, 1
 bucket/SleepCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/SlimPDF.json, dodorz/scoop, 0
 bucket/SlimPDFReader-Portable.json, ACooper81/scoop-apps, 0
@@ -5180,6 +5181,7 @@ bucket/git-duet.json, hoilc/scoop-lemon, 1
 bucket/git-extras.json, aliesbelik/poldi, 1
 bucket/git-filter-repo.json, ScoopInstaller/Main, 1
 bucket/git-flow-next-pre.json, ScoopInstaller/Versions, 1
+bucket/git-flow-next.json, ScoopInstaller/Main, 1
 bucket/git-gamble.json, hoilc/scoop-lemon, 0
 bucket/git-graph.json, ScoopInstaller/Extras, 1
 bucket/git-hound.json, hoilc/scoop-lemon, 1
@@ -6496,6 +6498,7 @@ bucket/keypirinha.json, ScoopInstaller/Extras, 1
 bucket/keyring-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/keyscope.json, hoilc/scoop-lemon, 1
 bucket/keystore-explorer.json, ScoopInstaller/Extras, 1
+bucket/keyviz-dart.json, brian6932/dank-scoop, 1
 bucket/keyviz.json, ScoopInstaller/Extras, 1
 bucket/kf.json, hoilc/scoop-lemon, 0
 bucket/kftray.json, hoilc/scoop-lemon, 1
@@ -7596,6 +7599,7 @@ bucket/mods.json, ScoopInstaller/Main, 1
 bucket/moekoemusic.json, DoveBoy/Apps, 1
 bucket/mogan-cn.json, ivaquero/scoopet, 0
 bucket/mold.json, ScoopInstaller/Main, 1
+bucket/moldau.json, brian6932/dank-scoop, 1
 bucket/molotov-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/momento-cli.json, hoilc/scoop-lemon, 1
 bucket/monasans.json, KnotUntied/scoop-fonts, 1
@@ -13080,7 +13084,6 @@ bucket/yosys.json, ScoopInstaller/Main, 0
 bucket/you-get.json, amorphobia/siku, 1
 bucket/youdaodict.json, ygguorun/scoop-bucket, 0
 bucket/youku-cvp.json, SayCV/scoop-cvp, 1
-bucket/youku.json, DoveBoy/Apps, 0
 bucket/yourav.json, amorphobia/siku, 1
 bucket/youtrack.json, ScoopInstaller/Extras, 0
 bucket/youtube-dl-animelover1984.json, yuusakuri/scoop-bucket, 1
