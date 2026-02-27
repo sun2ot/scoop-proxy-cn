@@ -1,16 +1,16 @@
 {
-  "version": "0.0.8",
+  "version": "0.0.10",
   "description": "The installer and manager for CLI tools in the Sui ecosystem.",
   "homepage": "https://github.com/MystenLabs/suiup",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/MystenLabs/suiup/releases/download/v0.0.8/suiup-Windows-msvc-x86_64.zip",
-      "hash": "ba77056dfb6ec591bf5d28290622c9e7afcef0001a839c46e529ce281bcf3078"
+      "url": "https://ghproxy.085404.xyz/https://github.com/MystenLabs/suiup/releases/download/v0.0.10/suiup-Windows-msvc-x86_64.zip",
+      "hash": "17abfc7cf5b94a5e65cfeae33496e3140d1bb87df66f1e2e5e705da3a5b1f313"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/MystenLabs/suiup/releases/download/v0.0.8/suiup-Windows-msvc-arm64.zip",
-      "hash": "5271bdfa40f8743c16d244e4554da2d8ab5a1511a580ca631d005fe5de8bc017"
+      "url": "https://ghproxy.085404.xyz/https://github.com/MystenLabs/suiup/releases/download/v0.0.10/suiup-Windows-msvc-arm64.zip",
+      "hash": "2f7ab8b8744b3f987e3ee62d410772ae2e56519da3d1e341c5382b4cbf002152"
     }
   },
   "bin": "suiup.exe",

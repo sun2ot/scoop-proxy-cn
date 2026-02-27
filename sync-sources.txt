@@ -1179,6 +1179,7 @@ bucket/PhotoFiltre7.json, zhoujin7/tomato, 0
 bucket/PhotoQt.json, cc713/ownscoop, 0
 bucket/PhotoZoomPro.json, kkzzhizhou/scoop-zapps, 1
 bucket/PicaComic.json, hu3rror/scoop-muggle, 1
+bucket/PicoClaw.json, dodorz/scoop, 1
 bucket/PicoTorrent-Portable.json, ACooper81/scoop-apps, 1
 bucket/PingFang.json, ygguorun/scoop-bucket, 0
 bucket/PingFangHK.json, ygguorun/scoop-bucket, 0
@@ -5209,7 +5210,7 @@ bucket/git-with-openssh.json, ScoopInstaller/Main, 1
 bucket/git-without-openssh.json, ScoopInstaller/Versions, 1
 bucket/git-workspace.json, hoilc/scoop-lemon, 1
 bucket/git-xargs.json, ScoopInstaller/Main, 1
-bucket/git-xet.json, hoilc/scoop-lemon, 1
+bucket/git-xet.json, ScoopInstaller/Main, 1
 bucket/git.json, ScoopInstaller/Main, 1
 bucket/git19.json, ScoopInstaller/Versions, 1
 bucket/gitahead.json, ScoopInstaller/Extras, 1
@@ -5391,7 +5392,7 @@ bucket/goland-rc.json, ScoopInstaller/Versions, 1
 bucket/goland.json, ScoopInstaller/Extras, 1
 bucket/golang.json, kiennq/scoop-misc, 0
 bucket/golangci-lint.json, ScoopInstaller/Main, 1
-bucket/goldendict-ng.json, cc713/ownscoop, 1
+bucket/goldendict-ng.json, hu3rror/scoop-muggle, 1
 bucket/goldendict.json, ScoopInstaller/Extras, 1
 bucket/golly.json, Calinou/scoop-games, 0
 bucket/gom-player-plus.json, mo-san/scoop-bucket, 0
@@ -7259,6 +7260,7 @@ bucket/maxthon5.json, hoilc/scoop-lemon, 0
 bucket/maxthon6.json, hoilc/scoop-lemon, 1
 bucket/maxto.json, ScoopInstaller/Extras, 0
 bucket/maye-lite.json, hoilc/scoop-lemon, 1
+bucket/maye-nano.json, hoilc/scoop-lemon, 1
 bucket/maye.json, hoilc/scoop-lemon, 1
 bucket/mayo.json, ScoopInstaller/Extras, 1
 bucket/mbox-viewer.json, hoilc/scoop-lemon, 1
@@ -7715,6 +7717,7 @@ bucket/mpvconfigurator.json, DoveBoy/Apps, 1
 bucket/mpxplay.json, ScoopInstaller/Main, 0
 bucket/mq-dbg.json, cderv/r-bucket, 1
 bucket/mq-lsp.json, cderv/r-bucket, 1
+bucket/mq-mcp.json, cderv/r-bucket, 1
 bucket/mq-tui.json, cderv/r-bucket, 1
 bucket/mq.json, cderv/r-bucket, 1
 bucket/mqcr.json, cderv/r-bucket, 1
@@ -10155,6 +10158,7 @@ bucket/rime-weasel.json, SayCV/scoop-cvp, 1
 bucket/rimpy-pre-release.json, Calinou/scoop-games, 1
 bucket/rimpy.json, Calinou/scoop-games, 1
 bucket/rimsort.json, Calinou/scoop-games, 1
+bucket/ringracers.json, Calinou/scoop-games, 1
 bucket/rink.json, ScoopInstaller/Main, 1
 bucket/rio.json, ScoopInstaller/Extras, 1
 bucket/riot-optimizer.json, hoilc/scoop-lemon, 0
@@ -13180,6 +13184,7 @@ bucket/zeplin.json, ScoopInstaller/Extras, 0
 bucket/zeppelin.json, ScoopInstaller/Extras, 0
 bucket/zer0.json, brian6932/dank-scoop, 1
 bucket/zerobrane-studio.json, ScoopInstaller/Extras, 0
+bucket/zeroclaw.json, ScoopInstaller/Main, 1
 bucket/zerolaunch.json, hoilc/scoop-lemon, 1
 bucket/zeronet.json, ScoopInstaller/Extras, 1
 bucket/zerotier-np.json, ScoopInstaller/Nonportable, 0
