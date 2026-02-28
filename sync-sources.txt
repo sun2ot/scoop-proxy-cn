@@ -1653,6 +1653,7 @@ bucket/UELI-Portable.json, ACooper81/scoop-apps, 1
 bucket/UGetDownloadManager-Portable.json, ACooper81/scoop-apps, 0
 bucket/UGit.json, dodorz/scoop, 0
 bucket/UNetbootin-Portable.json, ACooper81/scoop-apps, 1
+bucket/URLProtocol.json, ygguorun/scoop-bucket, 1
 bucket/USBCopyer.json, dodorz/scoop, 1
 bucket/USBSafelyRemove.json, kkzzhizhou/scoop-zapps, 1
 bucket/UVOutliner.json, dodorz/scoop, 0
@@ -2665,7 +2666,6 @@ bucket/bita.json, hoilc/scoop-lemon, 1
 bucket/bitcoincore.json, chawyehsu/dorado, 1
 bucket/bitcoinknots.json, chawyehsu/dorado, 1
 bucket/bitcomet.json, naderi/scoop-bucket, 0
-bucket/bitmana.json, naderi/scoop-bucket, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitrock-unpacker.json, hoilc/scoop-lemon, 1
 bucket/bitsmanager.json, ScoopInstaller/Extras, 1
@@ -5392,7 +5392,7 @@ bucket/goland-rc.json, ScoopInstaller/Versions, 1
 bucket/goland.json, ScoopInstaller/Extras, 1
 bucket/golang.json, kiennq/scoop-misc, 0
 bucket/golangci-lint.json, ScoopInstaller/Main, 1
-bucket/goldendict-ng.json, hu3rror/scoop-muggle, 1
+bucket/goldendict-ng.json, cc713/ownscoop, 1
 bucket/goldendict.json, ScoopInstaller/Extras, 1
 bucket/golly.json, Calinou/scoop-games, 0
 bucket/gom-player-plus.json, mo-san/scoop-bucket, 0
@@ -6412,7 +6412,7 @@ bucket/karate.json, ScoopInstaller/Main, 1
 bucket/kardolus-chatgpt-cli.json, hoilc/scoop-lemon, 1
 bucket/kargo-cli.json, hoilc/scoop-lemon, 1
 bucket/karing-portable.json, DoveBoy/Apps, 1
-bucket/karing.json, DoveBoy/Apps, 1
+bucket/karing.json, ScoopInstaller/Extras, 1
 bucket/karlyriceditor.json, hoilc/scoop-lemon, 1
 bucket/karma.json, hoilc/scoop-lemon, 1
 bucket/karmor.json, hoilc/scoop-lemon, 1
@@ -6752,7 +6752,7 @@ bucket/ldmdump.json, niheaven/scoop-sysinternals, 1
 bucket/ldplayer.json, ScoopInstaller/Extras, 0
 bucket/ldplayer9.json, cc713/ownscoop, 1
 bucket/ldtk.json, hoilc/scoop-lemon, 1
-bucket/leaf.json, hoilc/scoop-lemon, 1
+bucket/leaf.json, ScoopInstaller/Main, 1
 bucket/leafview.json, hoilc/scoop-lemon, 1
 bucket/leagueakari.json, DoveBoy/Apps, 1
 bucket/leaguemono.json, KnotUntied/scoop-fonts, 1
@@ -8007,7 +8007,7 @@ bucket/newfiletime.json, ViCrack/scoop-bucket, 0
 bucket/newrain-duplicate-photo-finder.json, hu3rror/scoop-muggle, 0
 bucket/newreleases.json, batkiz/backit, 1
 bucket/newt.json, hoilc/scoop-lemon, 1
-bucket/nextai-translator.json, DoveBoy/Apps, 1
+bucket/nextai-translator.json, ScoopInstaller/Extras, 1
 bucket/nextcloud-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/nextcloud-uploader.json, kkzzhizhou/scoop-zapps, 1
 bucket/nextcloud.json, ScoopInstaller/Extras, 1
@@ -9558,6 +9558,7 @@ bucket/prusaslicer-pre.json, ScoopInstaller/Versions, 1
 bucket/prusaslicer.json, ScoopInstaller/Extras, 1
 bucket/ps-guicompletion.json, DoveBoy/Apps, 0
 bucket/ps3-system-software.json, Calinou/scoop-games, 0
+bucket/ps3decrs.json, Deide/deide-bucket, 1
 bucket/psake.json, ScoopInstaller/Main, 0
 bucket/pscale.json, hoilc/scoop-lemon, 1
 bucket/pscalendar.json, DoveBoy/Apps, 0
@@ -10362,6 +10363,7 @@ bucket/safeincloud.json, naderi/scoop-bucket, 0
 bucket/sagerconnect.json, AkinoKaede/maple, 1
 bucket/sak.json, Calinou/scoop-games, 1
 bucket/sakura-apprun-cli.json, hoilc/scoop-lemon, 1
+bucket/sakura-launcher-gui.json, aoisummer/scoop-bucket, 1
 bucket/sakura.json, mo-san/scoop-bucket, 1
 bucket/sakurafrp-launcher.json, hoilc/scoop-lemon, 0
 bucket/salt.json, kidonng/sushi, 1
@@ -11766,6 +11768,7 @@ bucket/tosbrowser.json, hoilc/scoop-lemon, 0
 bucket/tosutil.json, hoilc/scoop-lemon, 1
 bucket/total-registry.json, ScoopInstaller/Extras, 1
 bucket/totalcmd-mod.json, hu3rror/scoop-muggle, 0
+bucket/totalcommander-beta-portable.json, naderi/scoop-bucket, 0
 bucket/totalcommander-portable.json, naderi/scoop-bucket, 0
 bucket/totalcommander.json, ScoopInstaller/Extras, 0
 bucket/touch.json, ScoopInstaller/Main, 1
