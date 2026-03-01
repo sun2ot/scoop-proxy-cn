@@ -1,20 +1,20 @@
 {
-  "version": "1.4.424",
+  "version": "1.4.427",
   "description": "An open-source framework for augmenting humans using AI.",
   "homepage": "https://github.com/danielmiessler/fabric",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/danielmiessler/Fabric/releases/download/v1.4.424/fabric_Windows_x86_64.zip",
-      "hash": "dcb419a1e5e560abd9c09e5c31221a85265b8f301097ff3a1d86c43a33d76af9"
+      "url": "https://ghproxy.085404.xyz/https://github.com/danielmiessler/Fabric/releases/download/v1.4.427/fabric_Windows_x86_64.zip",
+      "hash": "f519cc63085c97de9db1581910a64246de0d0f6bb2d3c6f2c63812af9e5bdd13"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/danielmiessler/Fabric/releases/download/v1.4.424/fabric_Windows_i386.zip",
-      "hash": "66e0a15721f7924648709f4fe5f727c83de56c7f991d65b211f48427700e5a15"
+      "url": "https://ghproxy.085404.xyz/https://github.com/danielmiessler/Fabric/releases/download/v1.4.427/fabric_Windows_i386.zip",
+      "hash": "6876de344a6274fa7d7b3184d3245e28c2699229d3fc4bc43878d60870d3b0a1"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/danielmiessler/Fabric/releases/download/v1.4.424/fabric_Windows_arm64.zip",
-      "hash": "4dc45c26d2e1383578b4c68ac9e21c333dfc5d275282b394135a7e716dec47b2"
+      "url": "https://ghproxy.085404.xyz/https://github.com/danielmiessler/Fabric/releases/download/v1.4.427/fabric_Windows_arm64.zip",
+      "hash": "c93f8d787a851ea35017f8458a3f322133aa8c880651978cb483d846791c4885"
     }
   },
   "bin": "fabric.exe",
