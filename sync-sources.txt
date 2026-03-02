@@ -1245,6 +1245,7 @@ bucket/Python-embed.json, dodorz/scoop, 0
 bucket/PythonStudio.json, dodorz/scoop, 0
 bucket/Q10.json, dodorz/scoop, 0
 bucket/QR-Desktop.json, dodorz/scoop, 1
+bucket/QTranslate.json, dodorz/scoop, 0
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QianWen.json, dodorz/scoop, 0
 bucket/Qoder.json, dodorz/scoop, 0
@@ -6105,7 +6106,7 @@ bucket/iosevka-ss15.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss16.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss17.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss18.json, KnotUntied/scoop-fonts, 1
-bucket/iosevka.json, iquiw/scoop-bucket, 1
+bucket/iosevka.json, KnotUntied/scoop-fonts, 1
 bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
 bucket/ipatool.json, amorphobia/siku, 1
@@ -6530,7 +6531,7 @@ bucket/kindle-previewer.json, seumsc/scoop-seu, 0
 bucket/kindlegen.json, seumsc/scoop-seu, 0
 bucket/kingdraw.json, ivaquero/scoopet, 0
 bucket/kiota.json, ScoopInstaller/Main, 1
-bucket/kiro.json, naderi/scoop-bucket, 0
+bucket/kiro.json, ScoopInstaller/Extras, 0
 bucket/kitch.json, chawyehsu/dorado, 0
 bucket/kite-todo.json, hoilc/scoop-lemon, 0
 bucket/kitematic.json, ScoopInstaller/Extras, 1
@@ -9504,6 +9505,7 @@ bucket/procyon.json, ScoopInstaller/Main, 1
 bucket/productkeyscanner.json, ScoopInstaller/Nirsoft, 0
 bucket/produkey.json, ScoopInstaller/Nirsoft, 0
 bucket/profile-explorer.json, hoilc/scoop-lemon, 1
+bucket/profileasync.json, brian6932/dank-scoop, 0
 bucket/programmers-notepad.json, naderi/scoop-bucket, 1
 bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
@@ -9530,11 +9532,12 @@ bucket/protodec.json, TheCjw/scoop-retools, 1
 bucket/protofetch.json, hoilc/scoop-lemon, 1
 bucket/protolint.json, ScoopInstaller/Main, 1
 bucket/proton-authenticator.json, ScoopInstaller/Extras, 0
-bucket/proton-drive.json, naderi/scoop-bucket, 0
+bucket/proton-drive.json, ScoopInstaller/Extras, 0
 bucket/proton-launcher.json, kiennq/scoop-misc, 1
 bucket/proton-mail-export.json, ScoopInstaller/Extras, 1
+bucket/proton-mail.json, ScoopInstaller/Extras, 0
 bucket/proton-pass-cli.json, hoilc/scoop-lemon, 0
-bucket/proton-pass.json, naderi/scoop-bucket, 0
+bucket/proton-pass.json, ScoopInstaller/Extras, 0
 bucket/protonmail-bridge.json, ScoopInstaller/Extras, 1
 bucket/protonvpn-np.json, ScoopInstaller/Nonportable, 0
 bucket/protonvpn.json, Homeland-Community/scoop, 0
@@ -9632,7 +9635,6 @@ bucket/puppet-agent.json, ScoopInstaller/Main, 0
 bucket/puppet-bolt.json, ScoopInstaller/Main, 0
 bucket/pupsqlite.json, mo-san/scoop-bucket, 0
 bucket/pure-data.json, ScoopInstaller/Extras, 0
-bucket/pureref.json, ScoopInstaller/Extras, 1
 bucket/purescript.json, ScoopInstaller/Main, 1
 bucket/purewriter.json, DoveBoy/Apps, 1
 bucket/pushbullet.json, naderi/scoop-bucket, 0
@@ -9788,7 +9790,6 @@ bucket/qtemu.json, ScoopInstaller/Extras, 0
 bucket/qtifw.json, ScoopInstaller/Main, 0
 bucket/qtox.json, ScoopInstaller/Extras, 1
 bucket/qtpass.json, kidonng/sushi, 1
-bucket/qtranslate.json, ScoopInstaller/Extras, 0
 bucket/qtscrcpy.json, ScoopInstaller/Extras, 1
 bucket/qttabbar-beta.json, brian6932/dank-scoop, 0
 bucket/qttabbar-indiff-np.json, ScoopInstaller/Nonportable, 1
