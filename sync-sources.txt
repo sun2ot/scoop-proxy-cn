@@ -2637,6 +2637,7 @@ bucket/bililive-tools.json, DoveBoy/Apps, 1
 bucket/bililiverecorder.json, chawyehsu/dorado, 1
 bucket/bilimini.json, amorphobia/siku, 1
 bucket/bilineo.json, DoveBoy/Apps, 1
+bucket/bilitools.json, ivaquero/scoopet, 1
 bucket/biliup-app.json, Weidows-projects/scoop-3rd, 1
 bucket/biliup-rs.json, hoilc/scoop-lemon, 1
 bucket/biliup.json, hoilc/scoop-lemon, 1
@@ -4169,7 +4170,7 @@ bucket/dxirc.json, ScoopInstaller/Extras, 0
 bucket/dxvk.json, Calinou/scoop-games, 1
 bucket/dxwnd.json, ScoopInstaller/Extras, 0
 bucket/dxwrapper.json, Calinou/scoop-games, 1
-bucket/dyad.json, akirco/aki-apps, 1
+bucket/dyad.json, ScoopInstaller/Extras, 1
 bucket/dyff.json, ScoopInstaller/Main, 1
 bucket/dynamorio.json, ScoopInstaller/Main, 1
 bucket/dynein.json, hoilc/scoop-lemon, 1
@@ -4229,7 +4230,7 @@ bucket/ecspresso.json, hoilc/scoop-lemon, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
-bucket/eden.json, borger/scoop-emulators, 1
+bucket/eden.json, Calinou/scoop-games, 1
 bucket/edex-ui.json, ScoopInstaller/Extras, 1
 bucket/edge-TTS-record.json, dodorz/scoop, 0
 bucket/edge-portable-beta.json, naderi/scoop-bucket, 0
@@ -4998,7 +4999,7 @@ bucket/fzf.json, ScoopInstaller/Main, 1
 bucket/g-assist.json, ScoopInstaller/Extras, 1
 bucket/g-helper.json, ScoopInstaller/Extras, 1
 bucket/g-np.json, batkiz/backit, 1
-bucket/g.json, batkiz/backit, 1
+bucket/g.json, ScoopInstaller/Main, 1
 bucket/gImageReader-Qt.json, dodorz/scoop, 1
 bucket/gactions.json, ScoopInstaller/Main, 0
 bucket/gacview.json, ScoopInstaller/Nirsoft, 0
@@ -5307,7 +5308,7 @@ bucket/go-aws-sso.json, hoilc/scoop-lemon, 1
 bucket/go-bindata.json, hoilc/scoop-lemon, 1
 bucket/go-blueprint.json, hoilc/scoop-lemon, 1
 bucket/go-chromecast.json, ScoopInstaller/Extras, 1
-bucket/go-cn.json, chawyehsu/dorado, 0
+bucket/go-cn.json, akirco/aki-apps, 0
 bucket/go-containerregistry.json, ScoopInstaller/Main, 1
 bucket/go-cqhttp.json, ygguorun/scoop-bucket, 1
 bucket/go-crx3.json, hoilc/scoop-lemon, 1
@@ -5726,7 +5727,7 @@ bucket/hibit-system-information.json, ScoopInstaller/Extras, 0
 bucket/hibit-uninstaller.json, ScoopInstaller/Extras, 0
 bucket/hibituninstaller.json, DoveBoy/Apps, 0
 bucket/hiccup-cli.json, littleli/scoop-clojure, 1
-bucket/hiddify-next.json, naderi/scoop-bucket, 1
+bucket/hiddify-next.json, DoveBoy/Apps, 1
 bucket/hiddify.json, ScoopInstaller/Extras, 1
 bucket/hide-from-uninstall-list.json, ViCrack/scoop-bucket, 0
 bucket/hideul.json, ScoopInstaller/Extras, 0
@@ -6492,6 +6493,7 @@ bucket/keyfinder.json, naderi/scoop-bucket, 0
 bucket/keyguard.json, ScoopInstaller/Extras, 1
 bucket/keyhac.json, hoilc/scoop-lemon, 1
 bucket/keymap.json, DoveBoy/Apps, 1
+bucket/keynavish.json, ScoopInstaller/Extras, 1
 bucket/keynote-nf.json, hoilc/scoop-lemon, 1
 bucket/keypirinha-EasySearch.json, yuusakuri/scoop-bucket, 1
 bucket/keypirinha-Kill.json, yuusakuri/scoop-bucket, 1
@@ -9515,7 +9517,7 @@ bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
 bucket/projclean.json, hoilc/scoop-lemon, 1
 bucket/project-graph.json, ScoopInstaller/Extras, 1
-bucket/project64-dev.json, Calinou/scoop-games, 0
+bucket/project64-dev.json, borger/scoop-emulators, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/projectdiscovery-notify.json, hoilc/scoop-lemon, 1
 bucket/projector-client.json, hoilc/scoop-lemon, 1
@@ -10224,6 +10226,7 @@ bucket/rpg-cli.json, hoilc/scoop-lemon, 1
 bucket/rpk.json, hoilc/scoop-lemon, 1
 bucket/rq.json, aliesbelik/poldi, 1
 bucket/rqlite.json, hoilc/scoop-lemon, 1
+bucket/rquickshare.json, brian6932/dank-scoop, 1
 bucket/rrdtool.json, hoilc/scoop-lemon, 1
 bucket/rsgain.json, ScoopInstaller/Extras, 1
 bucket/rshell.json, ViCrack/scoop-bucket, 1
@@ -10784,7 +10787,7 @@ bucket/simsu.json, hoilc/scoop-lemon, 0
 bucket/simulationcraft.json, Calinou/scoop-games, 0
 bucket/simulide.json, hoilc/scoop-lemon, 0
 bucket/simutrans.json, Calinou/scoop-games, 0
-bucket/sing-box-beta.json, hoilc/scoop-lemon, 1
+bucket/sing-box-beta.json, DoveBoy/Apps, 1
 bucket/sing-box-pre.json, hu3rror/scoop-muggle, 1
 bucket/sing-box.json, ScoopInstaller/Main, 1
 bucket/sing-geoip-rule-set.json, hoilc/scoop-lemon, 1
@@ -10870,6 +10873,7 @@ bucket/smeagol.json, hoilc/scoop-lemon, 1
 bucket/smiley-sans-dev.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/smiley-sans.json, hoilc/scoop-lemon, 1
 bucket/smimesign.json, ScoopInstaller/Main, 1
+bucket/smoothcsv.json, ScoopInstaller/Extras, 1
 bucket/smoothie.json, couleur-tweak-tips/utils, 1
 bucket/smplayer-with-smtube.json, ScoopInstaller/Versions, 1
 bucket/smplayer.json, ScoopInstaller/Extras, 1
