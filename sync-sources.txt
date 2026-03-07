@@ -1258,7 +1258,6 @@ bucket/QuickCPU-Portable.json, ACooper81/scoop-apps, 0
 bucket/QuickCut.json, Weidows-projects/scoop-3rd, 1
 bucket/QuickHash.json, dodorz/scoop, 0
 bucket/QuickSwitch.json, ygguorun/scoop-bucket, 1
-bucket/Quicker.json, zhoujin7/tomato, 0
 bucket/Qute.json, dodorz/scoop, 0
 bucket/R-Studio.json, kkzzhizhou/scoop-zapps, 1
 bucket/RAMExpect.json, kkzzhizhou/scoop-zapps, 0
@@ -5161,7 +5160,7 @@ bucket/gink.json, ScoopInstaller/Extras, 1
 bucket/gisto.json, ScoopInstaller/Extras, 1
 bucket/git-absorb.json, ScoopInstaller/Main, 1
 bucket/git-aliases.json, ScoopInstaller/Extras, 0
-bucket/git-all.json, rasa/scoops, 1
+bucket/git-all.json, Weidows-projects/scoop-3rd, 1
 bucket/git-annex.json, ScoopInstaller/Main, 0
 bucket/git-backup-go.json, hoilc/scoop-lemon, 1
 bucket/git-branch-stash.json, hoilc/scoop-lemon, 1
@@ -5184,6 +5183,7 @@ bucket/git-filter-repo.json, ScoopInstaller/Main, 1
 bucket/git-flow-next-pre.json, ScoopInstaller/Versions, 1
 bucket/git-flow-next.json, ScoopInstaller/Main, 1
 bucket/git-gamble.json, hoilc/scoop-lemon, 0
+bucket/git-grab.json, brian6932/dank-scoop, 1
 bucket/git-graph.json, ScoopInstaller/Extras, 1
 bucket/git-hound.json, hoilc/scoop-lemon, 1
 bucket/git-igitt.json, hoilc/scoop-lemon, 1
@@ -5308,7 +5308,7 @@ bucket/go-aws-sso.json, hoilc/scoop-lemon, 1
 bucket/go-bindata.json, hoilc/scoop-lemon, 1
 bucket/go-blueprint.json, hoilc/scoop-lemon, 1
 bucket/go-chromecast.json, ScoopInstaller/Extras, 1
-bucket/go-cn.json, akirco/aki-apps, 0
+bucket/go-cn.json, chawyehsu/dorado, 0
 bucket/go-containerregistry.json, ScoopInstaller/Main, 1
 bucket/go-cqhttp.json, ygguorun/scoop-bucket, 1
 bucket/go-crx3.json, hoilc/scoop-lemon, 1
@@ -7721,9 +7721,11 @@ bucket/mpv_PlayKit.json, Weidows-projects/scoop-3rd, 1
 bucket/mpvconfigurator.json, DoveBoy/Apps, 1
 bucket/mpxplay.json, ScoopInstaller/Main, 0
 bucket/mq-dbg.json, cderv/r-bucket, 1
+bucket/mq-edit.json, cderv/r-bucket, 1
 bucket/mq-lsp.json, cderv/r-bucket, 1
 bucket/mq-mcp.json, cderv/r-bucket, 1
 bucket/mq-tui.json, cderv/r-bucket, 1
+bucket/mq-view.json, cderv/r-bucket, 1
 bucket/mq.json, cderv/r-bucket, 1
 bucket/mqcr.json, cderv/r-bucket, 1
 bucket/mql.json, hoilc/scoop-lemon, 1
@@ -9830,6 +9832,7 @@ bucket/quickbib.json, ivaquero/scoopet, 1
 bucket/quickclipboard-portable.json, DoveBoy/Apps, 1
 bucket/quickclipboard.json, DoveBoy/Apps, 1
 bucket/quickcpu.json, ScoopInstaller/Extras, 0
+bucket/quicker.json, ivaquero/scoopet, 0
 bucket/quickinstaller.json, ScoopInstaller/Extras, 0
 bucket/quickjs.json, ScoopInstaller/Main, 0
 bucket/quicklook.json, ScoopInstaller/Extras, 1
@@ -11271,6 +11274,7 @@ bucket/supertux.json, Calinou/scoop-games, 1
 bucket/supertuxkart.json, Calinou/scoop-games, 1
 bucket/supervisord-go.json, hoilc/scoop-lemon, 1
 bucket/surfer.json, hoilc/scoop-lemon, 0
+bucket/surge.json, DoveBoy/Apps, 1
 bucket/surgescript.json, hoilc/scoop-lemon, 1
 bucket/surrealdb-migrations.json, hoilc/scoop-lemon, 1
 bucket/surrealdb.json, ScoopInstaller/Main, 0
@@ -12687,7 +12691,7 @@ bucket/winget-preview.json, ScoopInstaller/Versions, 1
 bucket/winget-ps.json, ScoopInstaller/Main, 0
 bucket/winget.json, ScoopInstaller/Main, 1
 bucket/wingetcreate.json, ScoopInstaller/Main, 1
-bucket/winhance.json, starise/Scoop-Confetti, 1
+bucket/winhance.json, DoveBoy/Apps, 1
 bucket/wininfo.json, hoilc/scoop-lemon, 0
 bucket/winipbroadcast.json, seumsc/scoop-seu, 1
 bucket/winjump.json, brian6932/dank-scoop, 1
