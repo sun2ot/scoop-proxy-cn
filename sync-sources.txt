@@ -4904,6 +4904,7 @@ bucket/franz-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/franz.json, ScoopInstaller/Extras, 1
 bucket/freac-continuous.json, ScoopInstaller/Versions, 1
 bucket/freac.json, ScoopInstaller/Extras, 1
+bucket/fred-tv.json, ScoopInstaller/Extras, 1
 bucket/free-alarm-clock.json, yuusakuri/scoop-bucket, 0
 bucket/free-color-picker.json, hoilc/scoop-lemon, 0
 bucket/free-countdown-timer.json, yuusakuri/scoop-bucket, 0
@@ -7382,7 +7383,7 @@ bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
 bucket/mftecmd.json, hoilc/scoop-lemon, 1
 bucket/mftexplorer.json, hoilc/scoop-lemon, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mglahk.json, hoilc/scoop-lemon, 0
 bucket/mgtv.json, DoveBoy/Apps, 0
@@ -9385,6 +9386,7 @@ bucket/pomsky.json, ScoopInstaller/Main, 1
 bucket/popeye.json, ScoopInstaller/Main, 1
 bucket/poppler.json, ScoopInstaller/Main, 1
 bucket/poppler068.json, ScoopInstaller/Versions, 0
+bucket/port-kill-console.json, ScoopInstaller/Main, 1
 bucket/portable-build-tools.json, amorphobia/siku, 1
 bucket/portable-registrator.json, naderi/scoop-bucket, 1
 bucket/portable-virtualbox.json, ScoopInstaller/Extras, 0
