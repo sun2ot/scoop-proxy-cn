@@ -6750,7 +6750,7 @@ bucket/lazydocker.json, ScoopInstaller/Main, 1
 bucket/lazygit.json, ScoopInstaller/Extras, 1
 bucket/lazykube.json, hoilc/scoop-lemon, 1
 bucket/lazysql.json, ScoopInstaller/Extras, 1
-bucket/lazyssh.json, hoilc/scoop-lemon, 1
+bucket/lazyssh.json, ScoopInstaller/Main, 1
 bucket/lazytrivy.json, hoilc/scoop-lemon, 1
 bucket/lazyworktree.json, aliesbelik/poldi, 1
 bucket/lbry-desktop.json, chawyehsu/dorado, 1
@@ -8253,7 +8253,7 @@ bucket/obs-plugin-scale-to-sound.json, Weidows-projects/scoop-3rd, 1
 bucket/obs-studio-cn.json, ivaquero/scoopet, 0
 bucket/obs-studio-pre.json, ScoopInstaller/Versions, 1
 bucket/obs-studio-small.json, ScoopInstaller/Extras, 1
-bucket/obs-studio.json, ScoopInstaller/Extras, 0
+bucket/obs-studio.json, ScoopInstaller/Extras, 1
 bucket/obs-studio27.json, ScoopInstaller/Versions, 0
 bucket/obs-studio28.json, ScoopInstaller/Versions, 0
 bucket/observerward.json, ViCrack/scoop-bucket, 1
@@ -12703,7 +12703,7 @@ bucket/winget-preview.json, ScoopInstaller/Versions, 1
 bucket/winget-ps.json, ScoopInstaller/Main, 0
 bucket/winget.json, ScoopInstaller/Main, 1
 bucket/wingetcreate.json, ScoopInstaller/Main, 1
-bucket/winhance.json, starise/Scoop-Confetti, 1
+bucket/winhance.json, DoveBoy/Apps, 1
 bucket/wininfo.json, hoilc/scoop-lemon, 0
 bucket/winipbroadcast.json, seumsc/scoop-seu, 1
 bucket/winjump.json, brian6932/dank-scoop, 1
