@@ -2848,7 +2848,7 @@ bucket/bulletspassview.json, ScoopInstaller/Nirsoft, 0
 bucket/bun-canary.json, ScoopInstaller/Versions, 0
 bucket/bun.json, ScoopInstaller/Main, 1
 bucket/bunbackup.json, jfut/scoop-jfut, 0
-bucket/bundletool.json, hoilc/scoop-lemon, 1
+bucket/bundletool.json, ScoopInstaller/Main, 1
 bucket/burp-suite-community-np.json, ScoopInstaller/Nonportable, 0
 bucket/burp-suite-pro-np.json, ScoopInstaller/Nonportable, 0
 bucket/burrow.json, hoilc/scoop-lemon, 1
@@ -6712,7 +6712,7 @@ bucket/lab.json, ScoopInstaller/Main, 1
 bucket/labplot-nightly.json, ScoopInstaller/Versions, 0
 bucket/labplot.json, ScoopInstaller/Extras, 0
 bucket/lada.json, hoilc/scoop-lemon, 1
-bucket/ladybugdb.json, littleli/Scoop-littleli, 1
+bucket/ladybugdb.json, ScoopInstaller/Main, 1
 bucket/lagrange.json, ScoopInstaller/Extras, 1
 bucket/laigter.json, ScoopInstaller/Extras, 1
 bucket/lakefs.json, hoilc/scoop-lemon, 1
@@ -9248,6 +9248,7 @@ bucket/php83-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php83.json, ScoopInstaller/Versions, 0
 bucket/php84-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php84.json, ScoopInstaller/Versions, 0
+bucket/php85.json, ScoopInstaller/Versions, 0
 bucket/phpmyadmin.json, wzv5/ScoopBucket, 0
 bucket/phpstorm-eap.json, ScoopInstaller/Versions, 1
 bucket/phpstorm-latest.json, ScoopInstaller/Versions, 1
@@ -12642,6 +12643,7 @@ bucket/winauth-portable.json, naderi/scoop-bucket, 1
 bucket/winauth.json, ScoopInstaller/Extras, 1
 bucket/winbin2iso.json, hoilc/scoop-lemon, 0
 bucket/winbox.json, ScoopInstaller/Extras, 0
+bucket/winbox3.json, ScoopInstaller/Versions, 0
 bucket/winbox4.json, starise/Scoop-Confetti, 0
 bucket/winbtrfs-np.json, ScoopInstaller/Nonportable, 1
 bucket/winbtrfs.json, brian6932/dank-scoop, 1
@@ -13227,6 +13229,7 @@ bucket/zed-cli.json, naderi/scoop-bucket, 1
 bucket/zed-nightly.json, ScoopInstaller/Versions, 1
 bucket/zed-opengl-nightly.json, ScoopInstaller/Versions, 1
 bucket/zed-opengl.json, ScoopInstaller/Extras, 1
+bucket/zed-pre.json, ScoopInstaller/Versions, 1
 bucket/zed.json, ScoopInstaller/Extras, 1
 bucket/zedis.json, ScoopInstaller/Extras, 1
 bucket/zeebe-modeler.json, ScoopInstaller/Extras, 1
