@@ -2490,6 +2490,7 @@ bucket/balena-cli.json, ScoopInstaller/Main, 1
 bucket/balenaEtcher-Portable.json, ACooper81/scoop-apps, 1
 bucket/balenaEtcher-UserInstall.json, ACooper81/scoop-apps, 1
 bucket/ballerina.json, hoilc/scoop-lemon, 0
+bucket/ballsheetogl.json, brian6932/dank-scoop, 1
 bucket/bamboo.json, chawyehsu/dorado, 1
 bucket/bambu-studio.json, ScoopInstaller/Extras, 1
 bucket/banana-cake-pop.json, ScoopInstaller/Extras, 0
@@ -3033,7 +3034,6 @@ bucket/cfsec.json, ScoopInstaller/Main, 1
 bucket/cfspeedtest.json, hoilc/scoop-lemon, 1
 bucket/cfssl.json, ScoopInstaller/Extras, 1
 bucket/chafa.json, ScoopInstaller/Main, 0
-bucket/chainhook.json, hoilc/scoop-lemon, 1
 bucket/championify.json, ScoopInstaller/Extras, 1
 bucket/change-key.json, mo-san/scoop-bucket, 0
 bucket/changie.json, aliesbelik/poldi, 1
@@ -5330,6 +5330,7 @@ bucket/go-drive.json, DoveBoy/Apps, 1
 bucket/go-exploitdb.json, hoilc/scoop-lemon, 1
 bucket/go-feature-flag.json, ScoopInstaller/Main, 1
 bucket/go-grip.json, hoilc/scoop-lemon, 1
+bucket/go-http-file-server.json, hoilc/scoop-lemon, 1
 bucket/go-ios.json, hoilc/scoop-lemon, 1
 bucket/go-jsonnet.json, ScoopInstaller/Main, 1
 bucket/go-jsonschema.json, hoilc/scoop-lemon, 1
@@ -6039,7 +6040,7 @@ bucket/inky.json, ScoopInstaller/Extras, 1
 bucket/inlets-pro.json, hoilc/scoop-lemon, 1
 bucket/inlyne.json, hoilc/scoop-lemon, 1
 bucket/inno-script-studio.json, ScoopInstaller/Extras, 0
-bucket/inno-setup.json, ScoopInstaller/Extras, 0
+bucket/inno-setup.json, ScoopInstaller/Extras, 1
 bucket/innoextract.json, ScoopInstaller/Main, 0
 bucket/innosetup-np.json, ScoopInstaller/Nonportable, 0
 bucket/innosetup-portapps.json, Velgus/Scoop-Portapps, 1
@@ -8138,7 +8139,7 @@ bucket/note-gen.json, DoveBoy/Apps, 1
 bucket/notegen.json, hoilc/scoop-lemon, 1
 bucket/notejoy.json, ScoopInstaller/Extras, 0
 bucket/noteme.json, hoilc/scoop-lemon, 0
-bucket/notepad--.json, ViCrack/scoop-bucket, 1
+bucket/notepad--.json, ScoopInstaller/Extras, 1
 bucket/notepad2-mod.json, ScoopInstaller/Extras, 1
 bucket/notepad2.json, ScoopInstaller/Extras, 0
 bucket/notepad3.json, ScoopInstaller/Extras, 1
@@ -10359,6 +10360,9 @@ bucket/rust.json, ScoopInstaller/Main, 0
 bucket/rustclock.json, ygguorun/scoop-bucket, 1
 bucket/rustdesk-nightly.json, ScoopInstaller/Versions, 1
 bucket/rustdesk.json, ScoopInstaller/Extras, 1
+bucket/rustfs-cli.json, hoilc/scoop-lemon, 0
+bucket/rustfs-launcher.json, hoilc/scoop-lemon, 0
+bucket/rustfs.json, hoilc/scoop-lemon, 0
 bucket/rustic.json, ScoopInstaller/Main, 1
 bucket/rustnet.json, hoilc/scoop-lemon, 1
 bucket/rustowl.json, hoilc/scoop-lemon, 1
@@ -12614,7 +12618,7 @@ bucket/wikidpad.json, naderi/scoop-bucket, 0
 bucket/wild-novel.json, hoilc/scoop-lemon, 1
 bucket/wiliwili.json, ScoopInstaller/Extras, 1
 bucket/wilma.json, starise/Scoop-Confetti, 0
-bucket/wimlib.json, kkzzhizhou/scoop-zapps, 0
+bucket/wimlib.json, ScoopInstaller/Main, 0
 bucket/win-acme-plus.json, aoisummer/scoop-bucket, 1
 bucket/win-acme.json, ScoopInstaller/Main, 1
 bucket/win-aio.json, naderi/scoop-bucket, 0
