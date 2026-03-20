@@ -1010,6 +1010,7 @@ bucket/Mononoki-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Mononoki-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Moo0VideoConverter-Portable.json, ACooper81/scoop-apps, 0
 bucket/Moonlight-Portable.json, ACooper81/scoop-apps, 1
+bucket/Moraya.json, dodorz/scoop, 1
 bucket/MouseWithoutBorders-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/MstyStudio.json, dodorz/scoop, 0
 bucket/Multrin-Portable.json, ACooper81/scoop-apps, 1
@@ -1048,6 +1049,7 @@ bucket/Netch-Portable.json, ACooper81/scoop-apps, 1
 bucket/NetworkDriveControl-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/NexusImage.json, dodorz/scoop, 0
 bucket/NilesoftShell-Portable.json, ACooper81/scoop-apps, 0
+bucket/Nimbalyst.json, dodorz/scoop, 1
 bucket/Niramit.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/NirsoftAdvancedRun-Portable.json, ACooper81/scoop-apps, 0
 bucket/NirsoftControlMyMonitor-Portable.json, ACooper81/scoop-apps, 0
@@ -1698,6 +1700,7 @@ bucket/Unlocker-Portable.json, ACooper81/scoop-apps, 1
 bucket/UnrealCommander.json, dodorz/scoop, 1
 bucket/UnstoppableCopier.json, dodorz/scoop, 0
 bucket/UpNote.json, dodorz/scoop, 0
+bucket/UpSnap.json, dodorz/scoop, 1
 bucket/UpdateHub-Portable.json, ACooper81/scoop-apps, 1
 bucket/UpdateManagerForWindows-Portable.json, ACooper81/scoop-apps, 1
 bucket/Upscayl-Portable.json, ACooper81/scoop-apps, 1
@@ -1851,6 +1854,7 @@ bucket/WondershareUniconverter.json, Weidows-projects/scoop-3rd, 0
 bucket/WordGrinder.json, dodorz/scoop, 1
 bucket/WordTsar.json, dodorz/scoop, 0
 bucket/Wordster.json, dodorz/scoop, 0
+bucket/WorkBuddy.json, dodorz/scoop, 0
 bucket/WriteMonkey.json, dodorz/scoop, 0
 bucket/WriteMonkey3.json, dodorz/scoop, 0
 bucket/WsaToolbox.json, kkzzhizhou/scoop-zapps, 0
@@ -7036,6 +7040,7 @@ bucket/lms.json, hoilc/scoop-lemon, 1
 bucket/lmstudio.json, dodorz/scoop, 0
 bucket/ln.json, ScoopInstaller/Main, 1
 bucket/lnCLI-Portable.json, ACooper81/scoop-apps, 0
+bucket/lnav.json, ScoopInstaller/Main, 1
 bucket/lnko.json, aliesbelik/poldi, 1
 bucket/loadeddllsview.json, ScoopInstaller/Nirsoft, 0
 bucket/loadmedia.json, rasa/scoops, 0
@@ -7745,6 +7750,7 @@ bucket/mpv.net.json, ScoopInstaller/Extras, 1
 bucket/mpv_PlayKit.json, Weidows-projects/scoop-3rd, 1
 bucket/mpvconfigurator.json, DoveBoy/Apps, 1
 bucket/mpxplay.json, ScoopInstaller/Main, 0
+bucket/mq-check.json, cderv/r-bucket, 1
 bucket/mq-dbg.json, cderv/r-bucket, 1
 bucket/mq-edit.json, cderv/r-bucket, 1
 bucket/mq-lsp.json, cderv/r-bucket, 1
@@ -10297,7 +10303,7 @@ bucket/rstudio11.json, ScoopInstaller/Versions, 0
 bucket/rsvg-convert-miyako.json, cderv/r-bucket, 1
 bucket/rsvg-convert.json, cderv/r-bucket, 0
 bucket/rtcwcoop.json, Calinou/scoop-games, 1
-bucket/rtk.json, cderv/r-bucket, 1
+bucket/rtk.json, ScoopInstaller/Main, 1
 bucket/rtlutility.json, ScoopInstaller/Extras, 0
 bucket/rtmpdump.json, ScoopInstaller/Main, 0
 bucket/rtmpdumphelper.json, ScoopInstaller/Nirsoft, 0
@@ -11089,6 +11095,7 @@ bucket/sqlcl.json, ScoopInstaller/Main, 0
 bucket/sqldef.json, ScoopInstaller/Main, 1
 bucket/sqldeveloper.json, ScoopInstaller/Extras, 0
 bucket/sqlecmd.json, hoilc/scoop-lemon, 1
+bucket/sqlite-dll.json, ScoopInstaller/Main, 0
 bucket/sqlite-gui-no-ciphers.json, dodorz/scoop, 1
 bucket/sqlite-gui.json, hoilc/scoop-lemon, 1
 bucket/sqlite-x.json, hoilc/scoop-lemon, 1
@@ -12795,6 +12802,7 @@ bucket/winsw.json, ScoopInstaller/Main, 1
 bucket/wintogo.json, kkzzhizhou/scoop-zapps, 1
 bucket/wintools.json, SayCV/scoop-cvp, 1
 bucket/wintousb-free.json, hoilc/scoop-lemon, 0
+bucket/wintun-dll.json, ScoopInstaller/Main, 0
 bucket/wintun-libs.json, hoilc/scoop-lemon, 0
 bucket/wintun.json, HUMORCE/nuke, 0
 bucket/winuae.json, hoilc/scoop-lemon, 0
@@ -13058,6 +13066,7 @@ bucket/xpdf-tools-all.json, naderi/scoop-bucket, 0
 bucket/xpdf-tools-lsp.json, ScoopInstaller/Main, 0
 bucket/xpdf-tools-t1fonts.json, HUMORCE/nuke, 0
 bucket/xpdf-tools.json, ScoopInstaller/Main, 0
+bucket/xpeviewer.json, hoilc/scoop-lemon, 1
 bucket/xpipe.json, ScoopInstaller/Extras, 1
 bucket/xplist.json, amorphobia/siku, 1
 bucket/xplorer.json, ScoopInstaller/Extras, 1
@@ -13212,6 +13221,7 @@ bucket/z.lua.json, ScoopInstaller/Main, 1
 bucket/z0scan.json, ViCrack/scoop-bucket, 1
 bucket/z26.json, hermanjustnu/scoop-emulators, 0
 bucket/z3.json, ScoopInstaller/Main, 1
+bucket/z_lua.json, dodorz/scoop, 1
 bucket/zabbix-agent.json, wzv5/ScoopBucket, 0
 bucket/zabbix-agent2.json, wzv5/ScoopBucket, 0
 bucket/zadig-np.json, ScoopInstaller/Nonportable, 1
