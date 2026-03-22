@@ -5421,6 +5421,7 @@ bucket/gomi.json, aliesbelik/poldi, 1
 bucket/gomono.json, KnotUntied/scoop-fonts, 0
 bucket/gomplate.json, ScoopInstaller/Main, 1
 bucket/gomtree.json, hoilc/scoop-lemon, 1
+bucket/gonavi.json, ScoopInstaller/Extras, 1
 bucket/gonc.json, hoilc/scoop-lemon, 1
 bucket/goneovim-nightly.json, ScoopInstaller/Versions, 1
 bucket/goneovim.json, ScoopInstaller/Extras, 1
