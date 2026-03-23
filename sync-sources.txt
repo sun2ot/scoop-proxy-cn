@@ -2582,7 +2582,7 @@ bucket/beehive.json, ScoopInstaller/Main, 1
 bucket/beekeeper-studio-portable.json, naderi/scoop-bucket, 1
 bucket/beekeeper-studio.json, ScoopInstaller/Extras, 1
 bucket/beekeeper.json, chawyehsu/dorado, 1
-bucket/beeper.json, beerpiss/scoop-bucket, 1
+bucket/beeper.json, ScoopInstaller/Extras, 0
 bucket/beeref.json, ScoopInstaller/Extras, 1
 bucket/behinder.json, ViCrack/scoop-bucket, 1
 bucket/belautils.json, hoilc/scoop-lemon, 1
@@ -7299,6 +7299,7 @@ bucket/maxto.json, ScoopInstaller/Extras, 0
 bucket/maye-lite.json, hoilc/scoop-lemon, 1
 bucket/maye-nano.json, hoilc/scoop-lemon, 1
 bucket/maye.json, hoilc/scoop-lemon, 1
+bucket/mayenano.json, ViCrack/scoop-bucket, 1
 bucket/mayo.json, ScoopInstaller/Extras, 1
 bucket/mbox-viewer.json, hoilc/scoop-lemon, 1
 bucket/mc.json, ScoopInstaller/Extras, 1
