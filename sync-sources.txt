@@ -2500,6 +2500,7 @@ bucket/bamboo.json, chawyehsu/dorado, 1
 bucket/bambu-studio.json, ScoopInstaller/Extras, 1
 bucket/banana-cake-pop.json, ScoopInstaller/Extras, 0
 bucket/bandcamp-collection-downloader-nightly.json, hoilc/scoop-lemon, 0
+bucket/bandcamp-downloader.json, ScoopInstaller/Extras, 1
 bucket/bandicam.json, echoiron/echo-scoop, 0
 bucket/bandizip-classic.json, HUMORCE/nuke, 0
 bucket/bandizip.json, ScoopInstaller/Extras, 0
@@ -2691,7 +2692,7 @@ bucket/bitthief.json, yuusakuri/scoop-bucket, 1
 bucket/bittorrent-tracker-editor.json, ScoopInstaller/Extras, 1
 bucket/bitvise-ssh-client.json, SayCV/scoop-cvp, 1
 bucket/bitwarden-cli.json, ScoopInstaller/Main, 1
-bucket/bitwarden-secrets-manager-cli.json, hoilc/scoop-lemon, 1
+bucket/bitwarden-secrets-manager-cli.json, ScoopInstaller/Main, 1
 bucket/bitwarden.json, ScoopInstaller/Extras, 1
 bucket/biu-portable.json, DoveBoy/Apps, 1
 bucket/biyi.json, hoilc/scoop-lemon, 1
@@ -8330,7 +8331,7 @@ bucket/officeins.json, ScoopInstaller/Nirsoft, 0
 bucket/officetool-dotnet.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetool.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetoolplus-with-runtime.json, DoveBoy/Apps, 1
-bucket/officetoolplus.json, akirco/aki-apps, 1
+bucket/officetoolplus.json, naderi/scoop-bucket, 1
 bucket/offlineinsiderenroll.json, ScoopInstaller/Main, 1
 bucket/offlineregistryfinder.json, ScoopInstaller/Nirsoft, 0
 bucket/offlineregistryview.json, ScoopInstaller/Nirsoft, 0
@@ -9349,7 +9350,7 @@ bucket/pixiv-omina.json, batkiz/backit, 1
 bucket/pixivbiu.json, hu3rror/scoop-muggle, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
 bucket/pixpin-beta.json, hoilc/scoop-lemon, 0
-bucket/pixpin.json, hoilc/scoop-lemon, 0
+bucket/pixpin.json, ygguorun/scoop-bucket, 0
 bucket/pixzip-lite.json, hoilc/scoop-lemon, 1
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
 bucket/pkg-config.json, ScoopInstaller/Main, 0
@@ -10838,7 +10839,7 @@ bucket/simsu.json, hoilc/scoop-lemon, 0
 bucket/simulationcraft.json, Calinou/scoop-games, 0
 bucket/simulide.json, hoilc/scoop-lemon, 0
 bucket/simutrans.json, Calinou/scoop-games, 0
-bucket/sing-box-beta.json, DoveBoy/Apps, 1
+bucket/sing-box-beta.json, hoilc/scoop-lemon, 1
 bucket/sing-box-pre.json, hu3rror/scoop-muggle, 1
 bucket/sing-box.json, ScoopInstaller/Main, 1
 bucket/sing-geoip-rule-set.json, hoilc/scoop-lemon, 1
@@ -13256,6 +13257,7 @@ bucket/zeebe1.3.json, ScoopInstaller/Versions, 1
 bucket/zelda-mm-ultraship.json, Deide/deide-bucket, 1
 bucket/zelda-oot-ultraship.json, Deide/deide-bucket, 1
 bucket/zelda64recomp.json, Calinou/scoop-games, 1
+bucket/zellij.json, ScoopInstaller/Main, 1
 bucket/zen-browser.json, ScoopInstaller/Extras, 1
 bucket/zenhan.json, ScoopInstaller/Main, 1
 bucket/zenta.json, hoilc/scoop-lemon, 1
