@@ -1018,7 +1018,7 @@ bucket/Multrin-Portable.json, ACooper81/scoop-apps, 1
 bucket/MuseScore-Portable.json, ACooper81/scoop-apps, 1
 bucket/MusicBee-Portable.json, ACooper81/scoop-apps, 0
 bucket/MusicBrainzPicard-Portable.json, ACooper81/scoop-apps, 0
-bucket/MusicFreeDesktop.json, cc713/ownscoop, 1
+bucket/MusicFreeDesktop.json, DoveBoy/Apps, 1
 bucket/MusicLake.json, dodorz/scoop, 1
 bucket/MusicTools.json, SayCV/scoop-cvp, 1
 bucket/MutoMark.json, dodorz/scoop, 0
@@ -3845,7 +3845,7 @@ bucket/devproxy.json, hoilc/scoop-lemon, 1
 bucket/devrantron.json, ScoopInstaller/Extras, 1
 bucket/devspace.json, ScoopInstaller/Main, 1
 bucket/devtoys-np.json, ScoopInstaller/Nonportable, 1
-bucket/devtunnel.json, hoilc/scoop-lemon, 0
+bucket/devtunnel.json, ScoopInstaller/Main, 0
 bucket/dex2jar.json, TheCjw/scoop-retools, 0
 bucket/dezoomify-rs.json, hoilc/scoop-lemon, 1
 bucket/dfu-programmer.json, ScoopInstaller/Extras, 1
@@ -4229,6 +4229,7 @@ bucket/eclipse-embedcpp.json, ScoopInstaller/Extras, 0
 bucket/eclipse-java.json, ScoopInstaller/Extras, 0
 bucket/eclipse-javascript.json, ScoopInstaller/Extras, 0
 bucket/eclipse-jee.json, ScoopInstaller/Extras, 0
+bucket/eclipse-mat-semeru.json, hoilc/scoop-lemon, 0
 bucket/eclipse-mat.json, ScoopInstaller/Extras, 0
 bucket/eclipse-modeling.json, ScoopInstaller/Extras, 0
 bucket/eclipse-parallel.json, ScoopInstaller/Extras, 0
@@ -7460,6 +7461,7 @@ bucket/microsoftedge-canary.json, chawyehsu/dorado, 0
 bucket/microsoftedge-dev.json, chawyehsu/dorado, 0
 bucket/microsoftedge.json, chawyehsu/dorado, 0
 bucket/micswitch.json, ScoopInstaller/Extras, 1
+bucket/micyou.json, hoilc/scoop-lemon, 1
 bucket/midicsv.json, ScoopInstaller/Extras, 0
 bucket/midisheetmusic.json, hoilc/scoop-lemon, 0
 bucket/mieru.json, hoilc/scoop-lemon, 1
@@ -7698,6 +7700,7 @@ bucket/mosdns.json, chawyehsu/dorado, 1
 bucket/mosh-client.json, ScoopInstaller/Main, 1
 bucket/mosquitto.json, ScoopInstaller/Main, 0
 bucket/motrix.json, ScoopInstaller/Extras, 1
+bucket/motrixnext.json, DoveBoy/Apps, 1
 bucket/moul.json, chawyehsu/dorado, 1
 bucket/mouse-monitor.json, brian6932/dank-scoop, 1
 bucket/mouse-tester-fork.json, couleur-tweak-tips/utils, 1
@@ -8255,6 +8258,7 @@ bucket/nvidia-display-driver.json, starise/Scoop-Gaming, 0
 bucket/nvidia-geforce-experience.json, starise/Scoop-Gaming, 0
 bucket/nvidia-inspector.json, brian6932/dank-scoop, 0
 bucket/nvidia-physx-legacy.json, starise/Scoop-Gaming, 0
+bucket/nvidia-profile-inspector-beta.json, starise/Scoop-Gaming, 1
 bucket/nvidia-profile-inspector-revamped.json, hu3rror/scoop-muggle, 1
 bucket/nvidia-profile-inspector.json, ScoopInstaller/Extras, 1
 bucket/nvm-completion.json, DoveBoy/Apps, 0
@@ -9365,7 +9369,7 @@ bucket/pkg2zip.json, Deide/deide-bucket, 1
 bucket/pkgx.json, hoilc/scoop-lemon, 1
 bucket/pkhex.json, Calinou/scoop-games, 0
 bucket/pkl-cli.json, ScoopInstaller/Main, 1
-bucket/plain-craft-launcher.json, amorphobia/siku, 1
+bucket/plain-craft-launcher.json, chawyehsu/dorado, 0
 bucket/plakar.json, ScoopInstaller/Extras, 1
 bucket/plantuml.json, ScoopInstaller/Extras, 1
 bucket/platformsh-cli.json, hoilc/scoop-lemon, 1
@@ -10060,6 +10064,7 @@ bucket/redis.json, ScoopInstaller/Main, 1
 bucket/redis5.json, zhoujin7/tomato, 1
 bucket/redis_exporter.json, hoilc/scoop-lemon, 1
 bucket/redisfish.json, hoilc/scoop-lemon, 1
+bucket/redisfront.json, hoilc/scoop-lemon, 0
 bucket/redisfx.json, hoilc/scoop-lemon, 1
 bucket/redli.json, hoilc/scoop-lemon, 1
 bucket/rednotebook.json, ScoopInstaller/Extras, 1
@@ -13215,6 +13220,7 @@ bucket/ytdownloader-portable.json, DoveBoy/Apps, 1
 bucket/ytdownloader.json, DoveBoy/Apps, 1
 bucket/ytmdesktop.json, ScoopInstaller/Extras, 1
 bucket/ytmdl-py.json, TheRandomLabs/Scoop-Python, 1
+bucket/ytplayer.json, DoveBoy/Apps, 1
 bucket/ytsage.json, DoveBoy/Apps, 1
 bucket/ytsubconverter.json, ScoopInstaller/Extras, 1
 bucket/ytt.json, ScoopInstaller/Main, 1
