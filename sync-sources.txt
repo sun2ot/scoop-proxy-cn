@@ -1560,6 +1560,7 @@ bucket/TCC-LE.json, dodorz/scoop, 0
 bucket/TCC-RT.json, dodorz/scoop, 0
 bucket/TEDNPad.json, dodorz/scoop, 0
 bucket/TMSpeech.json, ygguorun/scoop-bucket, 1
+bucket/TUIOS-Web.json, dodorz/scoop, 1
 bucket/Tabbit.json, Weidows-projects/scoop-3rd, 0
 bucket/TablacusExplorer.json, dodorz/scoop, 1
 bucket/Tag.json, dodorz/scoop, 0
@@ -1597,7 +1598,7 @@ bucket/Thunder-Professional.json, Weidows-projects/scoop-3rd, 1
 bucket/Thunder.json, ygguorun/scoop-bucket, 0
 bucket/ThunderS.json, hu3rror/scoop-muggle, 0
 bucket/ThunderSpeed.json, kkzzhizhou/scoop-zapps, 1
-bucket/Thunderbird-Portable.json, ACooper81/scoop-apps, 0
+bucket/Thunderbird-Portable.json, naderi/scoop-bucket, 0
 bucket/TianRuoOCR.json, kkzzhizhou/scoop-zapps, 1
 bucket/Tickeys-Portable.json, ACooper81/scoop-apps, 0
 bucket/Tidal-Portable.json, ACooper81/scoop-apps, 0
@@ -6134,7 +6135,7 @@ bucket/iosevka-ss15.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss16.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss17.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss18.json, KnotUntied/scoop-fonts, 1
-bucket/iosevka.json, iquiw/scoop-bucket, 1
+bucket/iosevka.json, KnotUntied/scoop-fonts, 1
 bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
 bucket/ipatool.json, ScoopInstaller/Main, 1
@@ -10153,6 +10154,7 @@ bucket/resamplescope.json, hoilc/scoop-lemon, 0
 bucket/rescandevices.json, rasa/scoops, 0
 bucket/rescuetime.json, ScoopInstaller/Extras, 0
 bucket/resend-cli.json, hoilc/scoop-lemon, 1
+bucket/reshade-addons.json, ScoopInstaller/Versions, 0
 bucket/reshade.json, ScoopInstaller/Extras, 0
 bucket/resharper-clt.json, ScoopInstaller/Main, 0
 bucket/resilio-sync-np.json, ScoopInstaller/Nonportable, 0
@@ -10255,6 +10257,7 @@ bucket/rla.json, hoilc/scoop-lemon, 1
 bucket/rmaa.json, hoilc/scoop-lemon, 0
 bucket/rmedir.json, hoilc/scoop-lemon, 0
 bucket/rmg.json, Calinou/scoop-games, 1
+bucket/rmx.json, ViCrack/scoop-bucket, 1
 bucket/rmz.json, hoilc/scoop-lemon, 1
 bucket/rnacos.json, hoilc/scoop-lemon, 1
 bucket/rnote.json, ScoopInstaller/Extras, 1
@@ -11965,7 +11968,6 @@ bucket/tuba.json, hoilc/scoop-lemon, 0
 bucket/tui-journal.json, hoilc/scoop-lemon, 1
 bucket/tuic.json, hoilc/scoop-lemon, 1
 bucket/tuifeed.json, aliesbelik/poldi, 1
-bucket/tuios-web.json, dodorz/scoop, 1
 bucket/tuios.json, hoilc/scoop-lemon, 1
 bucket/tumblthree.json, ScoopInstaller/Extras, 1
 bucket/tun2proxy.json, hoilc/scoop-lemon, 1
