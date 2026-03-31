@@ -1,5 +1,5 @@
 {
-  "version": "2.7.2",
+  "version": "2.8.2",
   "description": "Kubernetes-native testing framework for test execution and orchestration.",
   "homepage": "https://testkube.io/",
   "license": {
@@ -8,16 +8,12 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/kubeshop/testkube/releases/download/2.7.2/testkube_2.7.2_Windows_x86_64.tar.gz",
-      "hash": "9baf767e655ead7d3737576eef4c0c721c9802fd72a9361b1c31702858c9e2b7"
-    },
-    "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/kubeshop/testkube/releases/download/2.7.2/testkube_2.7.2_Windows_i386.tar.gz",
-      "hash": "4fcd10247bb956b83731aa14612f3c3bfcf87b83b270a6e97752fdb6cfb07e6d"
+      "url": "https://ghproxy.085404.xyz/https://github.com/kubeshop/testkube/releases/download/2.8.2/testkube_2.8.2_Windows_x86_64.tar.gz",
+      "hash": "78e05199d0adefef249bc8c595a38803a8ec59224bbb0aa846f6183876a40b37"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/kubeshop/testkube/releases/download/2.7.2/testkube_2.7.2_Windows_arm64.tar.gz",
-      "hash": "18cab5888999e1db2f233e6e2e195532a9631cbd4f375d0b9bee416478448848"
+      "url": "https://ghproxy.085404.xyz/https://github.com/kubeshop/testkube/releases/download/2.8.2/testkube_2.8.2_Windows_arm64.tar.gz",
+      "hash": "66960a4b33b85c48568c15027b1553e5c1f97950e19f2941751a4799b1bf4884"
     }
   },
   "bin": [
@@ -34,9 +30,6 @@
     "architecture": {
       "64bit": {
         "url": "https://ghproxy.085404.xyz/https://github.com/kubeshop/testkube/releases/download/$version/testkube_$version_Windows_x86_64.tar.gz"
-      },
-      "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/kubeshop/testkube/releases/download/$version/testkube_$version_Windows_i386.tar.gz"
       },
       "arm64": {
         "url": "https://ghproxy.085404.xyz/https://github.com/kubeshop/testkube/releases/download/$version/testkube_$version_Windows_arm64.tar.gz"
