@@ -2459,7 +2459,7 @@ bucket/aya.json, hoilc/scoop-lemon, 1
 bucket/ayugram.json, ScoopInstaller/Extras, 1
 bucket/az-pim-cli.json, hoilc/scoop-lemon, 1
 bucket/az-tui.json, aliesbelik/poldi, 1
-bucket/azahar.json, Calinou/scoop-games, 1
+bucket/azahar.json, Deide/deide-bucket, 1
 bucket/azcopy.json, ScoopInstaller/Main, 1
 bucket/azd.json, ScoopInstaller/Extras, 1
 bucket/azdrawing2.json, hoilc/scoop-lemon, 0
@@ -5772,7 +5772,7 @@ bucket/highlight-text.json, hoilc/scoop-lemon, 0
 bucket/highlight.json, ScoopInstaller/Main, 0
 bucket/highs.json, ScoopInstaller/Main, 1
 bucket/himalaya.json, ScoopInstaller/Main, 1
-bucket/hitomi-downloader.json, hoilc/scoop-lemon, 1
+bucket/hitomi-downloader.json, hoilc/scoop-lemon, 0
 bucket/hitt.json, aliesbelik/poldi, 1
 bucket/hjson.json, ScoopInstaller/Main, 1
 bucket/hkbtest.json, HUMORCE/nuke, 1
@@ -6372,6 +6372,7 @@ bucket/json2hcl.json, hoilc/scoop-lemon, 1
 bucket/json2parquet.json, hoilc/scoop-lemon, 1
 bucket/jsoncomma.json, brian6932/dank-scoop, 1
 bucket/jsonedit.json, naderi/scoop-bucket, 0
+bucket/jsongrep.json, ScoopInstaller/Main, 1
 bucket/jsonnet-bundler.json, hoilc/scoop-lemon, 1
 bucket/jsonschema.json, ScoopInstaller/Main, 1
 bucket/jsonui.json, dodorz/scoop, 1
@@ -7443,7 +7444,7 @@ bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
 bucket/mftecmd.json, hoilc/scoop-lemon, 1
 bucket/mftexplorer.json, hoilc/scoop-lemon, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mglahk.json, hoilc/scoop-lemon, 0
 bucket/mgtv.json, DoveBoy/Apps, 0
@@ -10913,6 +10914,7 @@ bucket/sjasmplus.json, hoilc/scoop-lemon, 1
 bucket/skaffold.json, ScoopInstaller/Extras, 1
 bucket/skate.json, hoilc/scoop-lemon, 1
 bucket/skeditor.json, hoilc/scoop-lemon, 1
+bucket/skim.json, ScoopInstaller/Main, 1
 bucket/skm.json, MCOfficer/scoop-bucket, 1
 bucket/skupper-cli.json, hoilc/scoop-lemon, 1
 bucket/skyemu.json, Calinou/scoop-games, 1
