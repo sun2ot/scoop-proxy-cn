@@ -1,16 +1,16 @@
 {
-  "version": "1.28.1",
+  "version": "1.29.0",
   "description": "A plugin for kubectl to manage CloudNativePG cluster in Kubernetes.",
   "homepage": "https://cloudnative-pg.io/",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.28.1/kubectl-cnpg_1.28.1_windows_x86_64.tar.gz",
-      "hash": "71298b15e2393f6b558e24673094be822f810c6fbbc99ecee9e629cf530b700a"
+      "url": "https://ghproxy.085404.xyz/https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.29.0/kubectl-cnpg_1.29.0_windows_x86_64.tar.gz",
+      "hash": "594c892b385e36827d879562cc824fc52e15582c4ed4419ab6f1cef9647a7af9"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.28.1/kubectl-cnpg_1.28.1_windows_arm64.tar.gz",
-      "hash": "1954c54ab0ca223d2fb460d382d106a0c8a860eaa3235e715a8d895449604586"
+      "url": "https://ghproxy.085404.xyz/https://github.com/cloudnative-pg/cloudnative-pg/releases/download/v1.29.0/kubectl-cnpg_1.29.0_windows_arm64.tar.gz",
+      "hash": "1fd4b627462795c364616881a4331fb7381fcd674a97fddd17e110e39a934937"
     }
   },
   "bin": "kubectl-cnpg.exe",
