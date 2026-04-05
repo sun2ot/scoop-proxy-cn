@@ -4015,7 +4015,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, Calinou/scoop-games, 0
+bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -5670,6 +5670,7 @@ bucket/handlecountersview.json, ScoopInstaller/Nirsoft, 0
 bucket/handy.json, ScoopInstaller/Extras, 1
 bucket/haofang-platform.json, SayCV/scoop-cvp, 0
 bucket/hap-viewer.json, hoilc/scoop-lemon, 0
+bucket/hapi.json, ScoopInstaller/Main, 1
 bucket/haproxy_exporter.json, hoilc/scoop-lemon, 1
 bucket/harbor-cli.json, hoilc/scoop-lemon, 1
 bucket/harbour.json, littleli/Scoop-littleli, 0
@@ -6011,7 +6012,7 @@ bucket/imdone.json, ScoopInstaller/Extras, 0
 bucket/imessage-exporter.json, hoilc/scoop-lemon, 1
 bucket/imewlconverter.json, chawyehsu/dorado, 1
 bucket/imfile-portable.json, DoveBoy/Apps, 1
-bucket/imfile.json, naderi/scoop-bucket, 1
+bucket/imfile.json, DoveBoy/Apps, 1
 bucket/img-convert.json, hoilc/scoop-lemon, 0
 bucket/imgbrd-grabber.json, cc713/ownscoop, 1
 bucket/imgburn.ja.json, jfut/scoop-jfut, 0
@@ -6779,7 +6780,7 @@ bucket/lap.json, hoilc/scoop-lemon, 1
 bucket/lapce-nightly.json, ScoopInstaller/Versions, 1
 bucket/lapce.json, ScoopInstaller/Extras, 1
 bucket/laragon.json, ScoopInstaller/Extras, 1
-bucket/lark-cli.json, hoilc/scoop-lemon, 1
+bucket/lark-cli.json, ScoopInstaller/Main, 1
 bucket/lark.json, ScoopInstaller/Extras, 0
 bucket/lassie.json, chawyehsu/dorado, 1
 bucket/lastactivityview.json, ScoopInstaller/Nirsoft, 0
@@ -7084,7 +7085,7 @@ bucket/lobster.json, ScoopInstaller/Main, 1
 bucket/local-browser.json, ScoopInstaller/Extras, 1
 bucket/local-wp.json, naderi/scoop-bucket, 0
 bucket/locale-emulator.json, ScoopInstaller/Extras, 1
-bucket/locale-remulator.json, hu3rror/scoop-muggle, 1
+bucket/locale-remulator.json, ScoopInstaller/Extras, 1
 bucket/localsend.json, ScoopInstaller/Extras, 1
 bucket/localsqueeze.json, DoveBoy/Apps, 1
 bucket/localstack.json, ScoopInstaller/Main, 1
@@ -11035,7 +11036,7 @@ bucket/solidity.json, ScoopInstaller/Main, 1
 bucket/solvespace.json, ScoopInstaller/Extras, 1
 bucket/sometypemono.json, KnotUntied/scoop-fonts, 0
 bucket/sonar-scanner.json, ScoopInstaller/Main, 0
-bucket/sonar.json, hoilc/scoop-lemon, 1
+bucket/sonar.json, ScoopInstaller/Main, 1
 bucket/sonarqube.json, ScoopInstaller/Main, 0
 bucket/sonarr.json, amorphobia/siku, 0
 bucket/sonic-pi.json, ScoopInstaller/Extras, 0
