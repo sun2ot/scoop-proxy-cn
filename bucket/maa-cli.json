@@ -1,16 +1,16 @@
 {
-  "version": "0.7.2",
+  "version": "0.7.4",
   "description": "明日方舟小助手命令行版本，全日常一键长草 | A CLI tool for the daily tasks of Arknights.",
   "homepage": "https://github.com/MaaAssistantArknights/maa-cli",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/MaaAssistantArknights/maa-cli/releases/download/v0.7.2/maa_cli-v0.7.2-x86_64-pc-windows-msvc-winget.zip",
-      "hash": "63d083b06bebf95573ca638bbd988cb02da9d024cfc71a43b7b4b558c7b9cf57"
+      "url": "https://ghproxy.085404.xyz/https://github.com/MaaAssistantArknights/maa-cli/releases/download/v0.7.4/maa_cli-v0.7.4-x86_64-pc-windows-msvc-winget.zip",
+      "hash": "1f232dae85fb33d95db1e508d4d1f1891f34e595ad1d1b31f354c9a6fe965d8a"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/MaaAssistantArknights/maa-cli/releases/download/v0.7.2/maa_cli-v0.7.2-aarch64-pc-windows-msvc-winget.zip",
-      "hash": "b0cea0b374aee9508c105425fef2405770ba138e171471985811da2cd7888b7b"
+      "url": "https://ghproxy.085404.xyz/https://github.com/MaaAssistantArknights/maa-cli/releases/download/v0.7.4/maa_cli-v0.7.4-aarch64-pc-windows-msvc-winget.zip",
+      "hash": "66352e49ef191fbd1083e92f89174de47f189c505e850c6bf7006bdfa6068c07"
     }
   },
   "bin": "maa-cli.exe",

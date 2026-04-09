@@ -3204,7 +3204,7 @@ bucket/clash.net.json, Weidows-projects/scoop-3rd, 1
 bucket/clash2singbox.json, hoilc/scoop-lemon, 1
 bucket/clashcross.json, DoveBoy/Apps, 1
 bucket/clashmi-portable.json, DoveBoy/Apps, 1
-bucket/clashmi.json, DoveBoy/Apps, 1
+bucket/clashmi.json, hoilc/scoop-lemon, 1
 bucket/clashn.json, hoilc/scoop-lemon, 1
 bucket/clashrauto.json, akirco/aki-apps, 1
 bucket/clashrs.json, DoveBoy/Apps, 1
@@ -3319,7 +3319,6 @@ bucket/cmix.json, hoilc/scoop-lemon, 0
 bucket/cmwtat-digital-edition.json, DoveBoy/Apps, 1
 bucket/cnc-ddraw.json, Calinou/scoop-games, 1
 bucket/cnkiexpress.json, ivaquero/scoopet, 0
-bucket/cnnettool.json, DoveBoy/Apps, 1
 bucket/cnosdb.json, hoilc/scoop-lemon, 1
 bucket/cnping.json, ScoopInstaller/Extras, 1
 bucket/cnquery.json, hoilc/scoop-lemon, 1
@@ -4321,6 +4320,7 @@ bucket/element.json, ScoopInstaller/Extras, 0
 bucket/elevate.json, dodorz/scoop, 0
 bucket/elisa.json, ScoopInstaller/Extras, 0
 bucket/elite-log-agent.json, Deide/deide-bucket, 1
+bucket/elixir-ls.json, ScoopInstaller/Main, 1
 bucket/elixir.json, ScoopInstaller/Main, 0
 bucket/elm.json, ScoopInstaller/Main, 1
 bucket/elvish.json, ScoopInstaller/Main, 0
@@ -4649,6 +4649,7 @@ bucket/ffprogress.json, couleur-tweak-tips/utils, 1
 bucket/ffqueue.json, ScoopInstaller/Extras, 0
 bucket/ffrename.json, hoilc/scoop-lemon, 0
 bucket/ffsend.json, ScoopInstaller/Main, 1
+bucket/ffstudio.json, ScoopInstaller/Extras, 1
 bucket/ffuf.json, ScoopInstaller/Main, 1
 bucket/fgbio.json, hoilc/scoop-lemon, 1
 bucket/fheroes2.json, Calinou/scoop-games, 1
@@ -4808,7 +4809,7 @@ bucket/flowus.json, dodorz/scoop, 0
 bucket/fluent-bit.json, hoilc/scoop-lemon, 0
 bucket/fluent-m3u8.json, DoveBoy/Apps, 1
 bucket/fluent-reader.json, ScoopInstaller/Extras, 1
-bucket/fluent-search.json, ScoopInstaller/Extras, 0
+bucket/fluent-search.json, ScoopInstaller/Extras, 1
 bucket/fluent-terminal-np.json, ScoopInstaller/Nonportable, 1
 bucket/fluentfin.json, hoilc/scoop-lemon, 1
 bucket/fluidsynth.json, ScoopInstaller/Extras, 1
@@ -12059,6 +12060,7 @@ bucket/twitchdropsminer.json, Calinou/scoop-games, 0
 bucket/twitchtest.json, ScoopInstaller/Extras, 0
 bucket/twolame.json, hoilc/scoop-lemon, 0
 bucket/txedu.json, hoilc/scoop-lemon, 0
+bucket/txikijs.json, ScoopInstaller/Main, 1
 bucket/txsso.json, SayCV/scoop-cvp, 0
 bucket/ty.json, ScoopInstaller/Main, 1
 bucket/tylax.json, hoilc/scoop-lemon, 1
