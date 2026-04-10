@@ -2072,7 +2072,7 @@ bucket/alist.json, ScoopInstaller/Main, 1
 bucket/alisthelper-portable.json, DoveBoy/Apps, 1
 bucket/alisthelper.json, hoilc/scoop-lemon, 1
 bucket/aliworkbench.json, SayCV/scoop-cvp, 1
-bucket/alixby.json, hoilc/scoop-lemon, 1
+bucket/alixby.json, echoiron/echo-scoop, 1
 bucket/aliyun.json, ScoopInstaller/Main, 1
 bucket/aliyundrive-webdav.json, ScoopInstaller/Main, 1
 bucket/aliyundrive.json, chawyehsu/dorado, 0
@@ -4809,6 +4809,7 @@ bucket/flowus.json, dodorz/scoop, 0
 bucket/fluent-bit.json, hoilc/scoop-lemon, 0
 bucket/fluent-m3u8.json, DoveBoy/Apps, 1
 bucket/fluent-reader.json, ScoopInstaller/Extras, 1
+bucket/fluent-search-nightly.json, ScoopInstaller/Versions, 1
 bucket/fluent-search.json, ScoopInstaller/Extras, 1
 bucket/fluent-terminal-np.json, ScoopInstaller/Nonportable, 1
 bucket/fluentfin.json, hoilc/scoop-lemon, 1
@@ -7174,6 +7175,7 @@ bucket/ludusavi.json, ScoopInstaller/Extras, 1
 bucket/ludwig.json, ScoopInstaller/Extras, 0
 bucket/lukestackwalker.json, hoilc/scoop-lemon, 0
 bucket/lumen.json, hoilc/scoop-lemon, 1
+bucket/lumine.json, hoilc/scoop-lemon, 1
 bucket/luminous-ttv.json, brian6932/dank-scoop, 1
 bucket/lunacy.json, ScoopInstaller/Extras, 0
 bucket/lunar.json, dodorz/scoop, 1
@@ -9363,6 +9365,7 @@ bucket/pikpak.json, hoilc/scoop-lemon, 1
 bucket/piliplus.json, hoilc/scoop-lemon, 1
 bucket/pilotedit-lite.json, hoilc/scoop-lemon, 0
 bucket/pincat.json, chawyehsu/dorado, 1
+bucket/pinchtab.json, hoilc/scoop-lemon, 1
 bucket/pine64-updater.json, ScoopInstaller/Extras, 1
 bucket/pineapple-pictures.json, hoilc/scoop-lemon, 1
 bucket/pineflash.json, ScoopInstaller/Extras, 1
@@ -11021,6 +11024,7 @@ bucket/snipaste-beta.json, ScoopInstaller/Versions, 0
 bucket/snipaste.json, ScoopInstaller/Extras, 0
 bucket/sniproxy.json, DoveBoy/Apps, 1
 bucket/snipsvg.json, hoilc/scoop-lemon, 0
+bucket/snishaper.json, hoilc/scoop-lemon, 1
 bucket/snmp_exporter.json, hoilc/scoop-lemon, 1
 bucket/snoop.json, ScoopInstaller/Extras, 1
 bucket/snova-asio.json, hoilc/scoop-lemon, 1
@@ -12115,6 +12119,7 @@ bucket/ultracompare-pro.json, SayCV/scoop-cvp, 1
 bucket/ultraedit.json, SayCV/scoop-cvp, 1
 bucket/ultraiso.json, ScoopInstaller/Extras, 0
 bucket/ultramarinviewer.json, naderi/scoop-bucket, 0
+bucket/ultraplusmanager.json, Calinou/scoop-games, 0
 bucket/ultrasearch.json, hoilc/scoop-lemon, 0
 bucket/ultravnc.json, ScoopInstaller/Extras, 0
 bucket/umaviewer.json, aoisummer/scoop-bucket, 1
