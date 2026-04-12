@@ -134,6 +134,7 @@ bucket/AltAppInstaller-Portable.json, ACooper81/scoop-apps, 1
 bucket/AmazonGames-UserInstall.json, ACooper81/scoop-apps, 0
 bucket/AmazonMusic-UserInstall.json, ACooper81/scoop-apps, 0
 bucket/AngryIPScanner-Portable.json, ACooper81/scoop-apps, 1
+bucket/Anki-Install.json, ACooper81/scoop-apps, 1
 bucket/Anki-Portable.json, ACooper81/scoop-apps, 1
 bucket/AnonymousPro-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/AnonymousPro-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
@@ -1573,7 +1574,7 @@ bucket/TarTool.json, dodorz/scoop, 1
 bucket/TaskExplorer-Portable.json, ACooper81/scoop-apps, 1
 bucket/TaskbarGroups-Portable.json, ACooper81/scoop-apps, 1
 bucket/TeamViewer-Install.json, ACooper81/scoop-apps, 0
-bucket/Teamviewer-Portable.json, naderi/scoop-bucket, 0
+bucket/Teamviewer-Portable.json, ACooper81/scoop-apps, 0
 bucket/Telegram-Portable.json, ACooper81/scoop-apps, 0
 bucket/TencentQQNT.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/TeraCopy-Install.json, ACooper81/scoop-apps, 0
@@ -4982,7 +4983,7 @@ bucket/freetube.json, ScoopInstaller/Extras, 1
 bucket/freevk.json, hoilc/scoop-lemon, 0
 bucket/freeze.json, aliesbelik/poldi, 1
 bucket/freezetostock.json, couleur-tweak-tips/utils, 1
-bucket/fresh-editor.json, hoilc/scoop-lemon, 1
+bucket/fresh-editor.json, littleli/Scoop-littleli, 1
 bucket/fresh.json, ScoopInstaller/Main, 1
 bucket/frhelper.json, ivaquero/scoopet, 0
 bucket/fricas.json, ScoopInstaller/Extras, 1
@@ -7057,7 +7058,9 @@ bucket/llama-cpp.json, hoilc/scoop-lemon, 1
 bucket/llama-swap.json, hoilc/scoop-lemon, 1
 bucket/llama.cpp-cpu.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-cu117.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-cu124-dll.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-cu124.json, ScoopInstaller/Versions, 1
+bucket/llama.cpp-cu131-dll.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-cu131.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-hip-gfx1030.json, ScoopInstaller/Versions, 1
 bucket/llama.cpp-hip-gfx1100.json, ScoopInstaller/Versions, 1
@@ -7715,7 +7718,7 @@ bucket/monit.json, DoveBoy/Apps, 1
 bucket/monitor-switcher.json, starise/Scoop-Confetti, 0
 bucket/monitorinfoview.json, ScoopInstaller/Nirsoft, 0
 bucket/monitorprofileswitcher.json, ScoopInstaller/Extras, 0
-bucket/monkeysaudio.json, hoilc/scoop-lemon, 0
+bucket/monkeysaudio.json, dodorz/scoop, 0
 bucket/mono.json, ScoopInstaller/Main, 0
 bucket/monochrome.json, hoilc/scoop-lemon, 0
 bucket/monokle.json, ScoopInstaller/Extras, 1
