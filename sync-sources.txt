@@ -4991,7 +4991,7 @@ bucket/freetube.json, ScoopInstaller/Extras, 1
 bucket/freevk.json, hoilc/scoop-lemon, 0
 bucket/freeze.json, aliesbelik/poldi, 1
 bucket/freezetostock.json, couleur-tweak-tips/utils, 1
-bucket/fresh-editor.json, littleli/Scoop-littleli, 1
+bucket/fresh-editor.json, hoilc/scoop-lemon, 1
 bucket/fresh.json, ScoopInstaller/Main, 1
 bucket/frhelper.json, ivaquero/scoopet, 0
 bucket/fricas.json, ScoopInstaller/Extras, 1
@@ -6166,7 +6166,7 @@ bucket/iosevka-ss15.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss16.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss17.json, KnotUntied/scoop-fonts, 1
 bucket/iosevka-ss18.json, KnotUntied/scoop-fonts, 1
-bucket/iosevka.json, iquiw/scoop-bucket, 1
+bucket/iosevka.json, KnotUntied/scoop-fonts, 1
 bucket/iosevkacustom.json, KnotUntied/scoop-fonts, 1
 bucket/ip2location-io-cli.json, ScoopInstaller/Extras, 1
 bucket/ipatool.json, ScoopInstaller/Main, 1
@@ -7611,6 +7611,7 @@ bucket/minidump-stackwalk.json, hoilc/scoop-lemon, 1
 bucket/miniflux.json, dodorz/scoop, 1
 bucket/miniforge-cn.json, ivaquero/scoopet, 0
 bucket/miniforge.json, chawyehsu/dorado, 1
+bucket/miniforge3.json, ScoopInstaller/Extras, 1
 bucket/minify-js.json, brian6932/dank-scoop, 0
 bucket/minify.json, ScoopInstaller/Main, 1
 bucket/minihex.json, hoilc/scoop-lemon, 0
@@ -7726,6 +7727,7 @@ bucket/mongosh.json, ScoopInstaller/Extras, 0
 bucket/monit-portable.json, DoveBoy/Apps, 1
 bucket/monit.json, DoveBoy/Apps, 1
 bucket/monitor-switcher.json, starise/Scoop-Confetti, 0
+bucket/monitorian.json, aoisummer/scoop-bucket, 1
 bucket/monitorinfoview.json, ScoopInstaller/Nirsoft, 0
 bucket/monitorprofileswitcher.json, ScoopInstaller/Extras, 0
 bucket/monkeysaudio.json, hoilc/scoop-lemon, 0
@@ -7978,7 +7980,7 @@ bucket/naev.json, Calinou/scoop-games, 1
 bucket/nagstamon.json, hoilc/scoop-lemon, 1
 bucket/naiveproxy.json, ScoopInstaller/Main, 1
 bucket/naivesharp.json, kidonng/sushi, 1
-bucket/nak.json, littleli/Scoop-littleli, 1
+bucket/nak.json, hoilc/scoop-lemon, 1
 bucket/nali.json, ScoopInstaller/Main, 1
 bucket/nanaget.json, naderi/scoop-bucket, 1
 bucket/nanarun.json, ScoopInstaller/Main, 1
@@ -8036,6 +8038,7 @@ bucket/nefcon.json, ScoopInstaller/Extras, 1
 bucket/nehm.json, MCOfficer/scoop-bucket, 1
 bucket/neil.json, littleli/scoop-clojure, 1
 bucket/neko.json, ScoopInstaller/Main, 1
+bucket/nekobox.json, ScoopInstaller/Extras, 1
 bucket/nekomata.json, Deide/deide-bucket, 1
 bucket/nekoray.json, hoilc/scoop-lemon, 1
 bucket/nelm.json, hoilc/scoop-lemon, 0
@@ -8714,6 +8717,7 @@ bucket/ovhcloud-cli.json, cderv/r-bucket, 1
 bucket/owncloud.json, ScoopInstaller/Extras, 0
 bucket/oxen-server.json, hoilc/scoop-lemon, 1
 bucket/oxen.json, hoilc/scoop-lemon, 1
+bucket/oxideterm.json, hoilc/scoop-lemon, 1
 bucket/oxipng.json, ScoopInstaller/Main, 1
 bucket/oxker.json, hoilc/scoop-lemon, 1
 bucket/oxlint.json, ScoopInstaller/Main, 1
@@ -8861,6 +8865,7 @@ bucket/pear-desktop.json, ScoopInstaller/Extras, 1
 bucket/peazip.json, ScoopInstaller/Extras, 1
 bucket/pecmd.json, hoilc/scoop-lemon, 1
 bucket/peco.json, ScoopInstaller/Main, 1
+bucket/peerbanhelper.json, ScoopInstaller/Extras, 1
 bucket/peerblock.json, ScoopInstaller/Extras, 0
 bucket/peerguard.json, hoilc/scoop-lemon, 1
 bucket/peg-e.json, hoilc/scoop-lemon, 0
@@ -10956,7 +10961,7 @@ bucket/skim.json, ScoopInstaller/Main, 1
 bucket/skm.json, MCOfficer/scoop-bucket, 1
 bucket/skupper-cli.json, hoilc/scoop-lemon, 1
 bucket/skyemu.json, Calinou/scoop-games, 1
-bucket/skylark.json, echoiron/echo-scoop, 1
+bucket/skylark.json, ScoopInstaller/Extras, 1
 bucket/skype-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/skypecontactsview.json, ScoopInstaller/Nirsoft, 0
 bucket/skypelogview.json, ScoopInstaller/Nirsoft, 0
@@ -11160,7 +11165,7 @@ bucket/spotbugs-beta.json, ScoopInstaller/Versions, 0
 bucket/spotbugs.json, ScoopInstaller/Main, 0
 bucket/spotdl-beta.json, ScoopInstaller/Versions, 1
 bucket/spotdl-py.json, TheRandomLabs/Scoop-Python, 1
-bucket/spotdl.json, hoilc/scoop-lemon, 1
+bucket/spotdl.json, ScoopInstaller/Main, 1
 bucket/spotify-latest.json, TheRandomLabs/Scoop-Spotify, 0
 bucket/spotify-player.json, ScoopInstaller/Main, 1
 bucket/spotify-qt-nightly.json, ScoopInstaller/Versions, 1
@@ -12266,6 +12271,7 @@ bucket/uup-download-wizard-converter.json, hu3rror/scoop-muggle, 1
 bucket/uupmediacreator.json, hoilc/scoop-lemon, 1
 bucket/uutils-coreutils-lean.json, ScoopInstaller/Main, 1
 bucket/uutils-coreutils.json, ScoopInstaller/Main, 1
+bucket/uutils-findutils.json, ScoopInstaller/Main, 1
 bucket/uuu.json, hoilc/scoop-lemon, 1
 bucket/uv-portable-cn.json, Weidows-projects/scoop-3rd, 1
 bucket/uv.json, ScoopInstaller/Main, 1
