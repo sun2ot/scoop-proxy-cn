@@ -1442,7 +1442,6 @@ bucket/SoftwareOKGetWindowText-Portable.json, ACooper81/scoop-apps, 0
 bucket/SoftwareOKPrintTestPageOK-Portable.json, ACooper81/scoop-apps, 0
 bucket/SogouPinyin-Portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/SogouWubi-Portable.json, kkzzhizhou/scoop-zapps, 1
-bucket/SoloMD.json, dodorz/scoop, 1
 bucket/Sonarr-Portable.json, ACooper81/scoop-apps, 0
 bucket/SophiApp-Portable.json, ACooper81/scoop-apps, 1
 bucket/SordumBackupStartMenuLayout-Portable.json, ACooper81/scoop-apps, 0
@@ -1920,7 +1919,7 @@ bucket/Zotero-Install.json, ACooper81/scoop-apps, 0
 bucket/a2fa.json, hoilc/scoop-lemon, 1
 bucket/a5m2.json, hoilc/scoop-lemon, 0
 bucket/aapt2.json, chawyehsu/dorado, 0
-bucket/aardio.json, dodorz/scoop, 0
+bucket/aardio.json, hoilc/scoop-lemon, 0
 bucket/aaru.json, cc713/ownscoop, 1
 bucket/ab-av1.json, ScoopInstaller/Extras, 1
 bucket/ab.json, ScoopInstaller/Main, 0
@@ -2696,6 +2695,7 @@ bucket/bita.json, hoilc/scoop-lemon, 1
 bucket/bitcoincore.json, chawyehsu/dorado, 1
 bucket/bitcoinknots.json, chawyehsu/dorado, 1
 bucket/bitcomet.json, naderi/scoop-bucket, 0
+bucket/bitmagnet.json, ScoopInstaller/Main, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitrock-unpacker.json, hoilc/scoop-lemon, 1
 bucket/bitsmanager.json, ScoopInstaller/Extras, 1
@@ -3209,7 +3209,7 @@ bucket/clash.net.json, Weidows-projects/scoop-3rd, 1
 bucket/clash2singbox.json, hoilc/scoop-lemon, 1
 bucket/clashcross.json, DoveBoy/Apps, 1
 bucket/clashmi-portable.json, DoveBoy/Apps, 1
-bucket/clashmi.json, DoveBoy/Apps, 1
+bucket/clashmi.json, hoilc/scoop-lemon, 1
 bucket/clashn.json, hoilc/scoop-lemon, 1
 bucket/clashrauto.json, akirco/aki-apps, 1
 bucket/clashrs.json, DoveBoy/Apps, 1
@@ -4529,7 +4529,7 @@ bucket/faac.json, hoilc/scoop-lemon, 0
 bucket/faad2.json, hoilc/scoop-lemon, 0
 bucket/faas-cli.json, ScoopInstaller/Main, 1
 bucket/fab.json, ViCrack/scoop-bucket, 0
-bucket/fabric-ai.json, hoilc/scoop-lemon, 1
+bucket/fabric-ai.json, ScoopInstaller/Main, 1
 bucket/facebook-delete.json, hoilc/scoop-lemon, 1
 bucket/fadetop.json, ScoopInstaller/Extras, 1
 bucket/fairfax-sm.json, KnotUntied/scoop-fonts, 0
@@ -5734,7 +5734,7 @@ bucket/heatseeker.json, hoilc/scoop-lemon, 1
 bucket/heavyload.json, starise/Scoop-Confetti, 0
 bucket/hedge-mod-manager.json, Calinou/scoop-games, 1
 bucket/hedgewars.json, Calinou/scoop-games, 0
-bucket/heidisql.json, ScoopInstaller/Extras, 0
+bucket/heidisql.json, ScoopInstaller/Extras, 1
 bucket/hekasoft-backup-restore.json, ScoopInstaller/Extras, 0
 bucket/helio.json, hoilc/scoop-lemon, 0
 bucket/helium-pre.json, ScoopInstaller/Versions, 1
@@ -7332,6 +7332,7 @@ bucket/materialgram.json, ScoopInstaller/Extras, 1
 bucket/materialize.json, ScoopInstaller/Extras, 0
 bucket/mathpix.json, ScoopInstaller/Extras, 0
 bucket/matlab-mcp-core-server.json, ScoopInstaller/Main, 1
+bucket/matlab-package-manager.json, ScoopInstaller/Main, 0
 bucket/matterbridge.json, ScoopInstaller/Extras, 1
 bucket/matterircd.json, ScoopInstaller/Extras, 1
 bucket/mattermost.json, ScoopInstaller/Extras, 0
@@ -11063,6 +11064,7 @@ bucket/sokobanp.json, hoilc/scoop-lemon, 0
 bucket/solana.json, chawyehsu/dorado, 1
 bucket/soldat.json, Deide/deide-bucket, 1
 bucket/solidity.json, ScoopInstaller/Main, 1
+bucket/solomd.json, ScoopInstaller/Extras, 1
 bucket/solvespace.json, ScoopInstaller/Extras, 1
 bucket/sometypemono.json, KnotUntied/scoop-fonts, 0
 bucket/sonar-scanner.json, ScoopInstaller/Main, 0
@@ -13105,6 +13107,7 @@ bucket/xdvdfs.json, hoilc/scoop-lemon, 1
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xelfviewer.json, hoilc/scoop-lemon, 1
 bucket/xelitan-pdf-reader.json, hoilc/scoop-lemon, 0
+bucket/xemu-dev.json, Calinou/scoop-games, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia-edge.json, Calinou/scoop-games, 1
