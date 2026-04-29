@@ -2424,6 +2424,7 @@ bucket/autossh.json, ScoopInstaller/Main, 1
 bucket/autothememode.json, hoilc/scoop-lemon, 1
 bucket/autotyper.json, ivaquero/scoopet, 0
 bucket/autowikibrowser.json, seumsc/scoop-seu, 0
+bucket/avalonia86.json, Calinou/scoop-games, 1
 bucket/avidemux-nightly.json, ScoopInstaller/Versions, 0
 bucket/avidemux.json, ScoopInstaller/Extras, 1
 bucket/avogadro.json, ScoopInstaller/Extras, 1
@@ -2614,6 +2615,8 @@ bucket/berglas.json, hoilc/scoop-lemon, 1
 bucket/bes.json, ScoopInstaller/Extras, 0
 bucket/bestsub.json, hoilc/scoop-lemon, 1
 bucket/besttrace.json, hoilc/scoop-lemon, 1
+bucket/betacraft-launcher-v2.json, Calinou/scoop-games, 1
+bucket/betacraft-launcher.json, Calinou/scoop-games, 1
 bucket/betaflight-blackbox-explorer.json, ScoopInstaller/Extras, 1
 bucket/betaflight-configurator.json, ScoopInstaller/Extras, 1
 bucket/bethesdaLauncher.json, Deide/deide-bucket, 0
@@ -3215,7 +3218,7 @@ bucket/clash.net.json, Weidows-projects/scoop-3rd, 1
 bucket/clash2singbox.json, hoilc/scoop-lemon, 1
 bucket/clashcross.json, DoveBoy/Apps, 1
 bucket/clashmi-portable.json, DoveBoy/Apps, 1
-bucket/clashmi.json, hoilc/scoop-lemon, 1
+bucket/clashmi.json, DoveBoy/Apps, 1
 bucket/clashn.json, hoilc/scoop-lemon, 1
 bucket/clashrauto.json, akirco/aki-apps, 1
 bucket/clashrs.json, DoveBoy/Apps, 1
@@ -3224,6 +3227,7 @@ bucket/clashtui.json, ScoopInstaller/Extras, 1
 bucket/class-obf.json, hoilc/scoop-lemon, 1
 bucket/class-widgets.json, hoilc/scoop-lemon, 1
 bucket/classic-volume-mixer.json, ScoopInstaller/Extras, 1
+bucket/classicube.json, Calinou/scoop-games, 0
 bucket/classisland.json, hoilc/scoop-lemon, 0
 bucket/classviewer.json, hoilc/scoop-lemon, 1
 bucket/classyshark.json, ScoopInstaller/Extras, 1
@@ -7599,7 +7603,7 @@ bucket/mindustry-server.json, Calinou/scoop-games, 1
 bucket/mindustry.json, Calinou/scoop-games, 1
 bucket/mine-imator.json, chawyehsu/dorado, 0
 bucket/minecraft.json, Calinou/scoop-games, 0
-bucket/mineru.json, hoilc/scoop-lemon, 0
+bucket/mineru.json, dodorz/scoop, 0
 bucket/minesweeper-arbiter.json, amorphobia/siku, 0
 bucket/mineways.json, chawyehsu/dorado, 0
 bucket/mingit-busybox.json, ScoopInstaller/Main, 1
@@ -7791,7 +7795,7 @@ bucket/mozbackup.json, ScoopInstaller/Extras, 0
 bucket/mozillacacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/mozillahistoryview.json, ScoopInstaller/Nirsoft, 0
 bucket/mozjpeg.json, ScoopInstaller/Main, 1
-bucket/mozlz4.json, brian6932/dank-scoop, 1
+bucket/mozlz4.json, ScoopInstaller/Extras, 1
 bucket/mozregression-gui.json, ScoopInstaller/Extras, 1
 bucket/mp3directcut.json, ScoopInstaller/Extras, 0
 bucket/mp3tag.json, ScoopInstaller/Extras, 0
@@ -8836,7 +8840,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9456,7 +9460,7 @@ bucket/pkg2zip.json, Deide/deide-bucket, 1
 bucket/pkgx.json, hoilc/scoop-lemon, 1
 bucket/pkhex.json, Calinou/scoop-games, 0
 bucket/pkl-cli.json, ScoopInstaller/Main, 1
-bucket/plain-craft-launcher.json, amorphobia/siku, 1
+bucket/plain-craft-launcher.json, chawyehsu/dorado, 0
 bucket/plakar.json, ScoopInstaller/Extras, 1
 bucket/plantuml.json, ScoopInstaller/Extras, 1
 bucket/platformsh-cli.json, hoilc/scoop-lemon, 1
@@ -13278,6 +13282,7 @@ bucket/yandex-cloud-cli.json, hoilc/scoop-lemon, 0
 bucket/yandex.json, naderi/scoop-bucket, 0
 bucket/yanhuo.json, hoilc/scoop-lemon, 1
 bucket/yank-note.json, hoilc/scoop-lemon, 1
+bucket/yanu.json, Calinou/scoop-games, 1
 bucket/yapa.json, ScoopInstaller/Extras, 1
 bucket/yapa2.json, ScoopInstaller/Extras, 1
 bucket/yapf-py.json, TheRandomLabs/Scoop-Python, 1
