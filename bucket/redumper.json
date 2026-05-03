@@ -1,23 +1,23 @@
 {
-  "version": "718",
+  "version": "720",
   "description": "A low level CD dumper utility.",
   "homepage": "https://github.com/superg/redumper",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b718/redumper-b718-windows-x64.zip",
-      "extract_dir": "redumper-b718-windows-x64\\bin",
-      "hash": "89f7b7a179ccf01d785b016d1ebba0d326a46eeaceea05bdbaad0821246bc7e8"
+      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b720/redumper-b720-windows-x64.zip",
+      "extract_dir": "redumper-b720-windows-x64\\bin",
+      "hash": "536cb204e37af059213ec7723c103e9e33d23fa0477a165c772c083255089e1b"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b718/redumper-b718-windows-x86.zip",
-      "extract_dir": "redumper-b718-windows-x86\\bin",
-      "hash": "954be8ce7508d989c08788d6dbe39eb23f72ac3b409dbc814e049fe1281872ce"
+      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b720/redumper-b720-windows-x86.zip",
+      "extract_dir": "redumper-b720-windows-x86\\bin",
+      "hash": "d3bb111f1ea1319ccdd256bbded67e514fbfd66c5c6eab6ff2d68c4b497f9704"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b718/redumper-b718-windows-arm64.zip",
-      "extract_dir": "redumper-b718-windows-arm64\\bin",
-      "hash": "b50f8136cf30a87965f1e42c83db90f24bfa6696a845a71fe6fdc9415688fb70"
+      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b720/redumper-b720-windows-arm64.zip",
+      "extract_dir": "redumper-b720-windows-arm64\\bin",
+      "hash": "7efaf0b53c0a5bf127e6d39a2d1992054e6fa2dcfa2405efb8805b68084ef458"
     }
   },
   "bin": "redumper.exe",
