@@ -1,16 +1,16 @@
 {
-  "version": "0.80.0",
+  "version": "0.81.1",
   "description": "Prometheus rule linter",
   "homepage": "https://github.com/cloudflare/pint",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/cloudflare/pint/releases/download/v0.80.0/pint-0.80.0-windows-amd64.tar.gz",
-      "hash": "b1bcf15b3039c2b3e475237ce1b136fde0eda45b4704ba210cc454edb3f54ba5"
+      "url": "https://ghproxy.085404.xyz/https://github.com/cloudflare/pint/releases/download/v0.81.1/pint-0.81.1-windows-amd64.tar.gz",
+      "hash": "4349fd99abbcc8a74d445251f65d93d08898ecc66dc604394378c8390f3a666b"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/cloudflare/pint/releases/download/v0.80.0/pint-0.80.0-windows-386.tar.gz",
-      "hash": "7e9fa92baee84351aa556d5d342619fbcb019a7394e05691a0ac4e9851b2f5bf"
+      "url": "https://ghproxy.085404.xyz/https://github.com/cloudflare/pint/releases/download/v0.81.1/pint-0.81.1-windows-386.tar.gz",
+      "hash": "b0846bf8ff67acf2b02a045b3d6cc0c807fe3b861453948c383de7c13f8f02c1"
     }
   },
   "pre_install": "Get-ChildItem \"$dir\" 'pint-windows-*.exe' | Select-Object -First 1 | Rename-Item -NewName 'pint.exe'",
