@@ -20,7 +20,7 @@
     "dotnet-runtime": "windowsdesktop-runtime"
   },
   "checkver": {
-    "url": "https://ghproxy.085404.xyz/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/index.md",
+    "url": "https://ghproxy.085404.xyz/https://raw.githubusercontent.com/EricZimmerman/ericzimmerman.github.io/master/docs/index.md",
     "regex": "EZViewer.*?\\[([\\d.]+)\\]\\([^()]*\\/net9\\/[^()]*\\)"
   },
   "autoupdate": {
