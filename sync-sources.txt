@@ -695,6 +695,7 @@ bucket/HitomiDownloader.json, dodorz/scoop, 1
 bucket/HoeKey.json, dodorz/scoop, 0
 bucket/HostsMan-Portable.json, ACooper81/scoop-apps, 1
 bucket/HostsMgrCLI-Portable.json, ACooper81/scoop-apps, 1
+bucket/HotkeyDetective.json, dodorz/scoop, 1
 bucket/HueSync-ManualInstall.json, ACooper81/scoop-apps, 0
 bucket/HueSync-Portable.json, ACooper81/scoop-apps, 0
 bucket/I-Ming.json, matthewjberger/scoop-nerd-fonts, 1
@@ -922,7 +923,6 @@ bucket/MarkEditor.json, dodorz/scoop, 0
 bucket/MarkdownPad.json, dodorz/scoop, 0
 bucket/MarkdownViewer.json, dodorz/scoop, 1
 bucket/Marker.json, dodorz/scoop, 1
-bucket/Markpad.json, dodorz/scoop, 1
 bucket/Marp-deprecated.json, dodorz/scoop, 1
 bucket/Martian-Mono-otf.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Martian-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -2171,6 +2171,7 @@ bucket/anonymouspro.json, KnotUntied/scoop-fonts, 0
 bucket/another-redis-desktop-manager.json, ScoopInstaller/Extras, 1
 bucket/ansel.json, hoilc/scoop-lemon, 1
 bucket/ansicon.json, ScoopInstaller/Main, 1
+bucket/ant-browser.json, hoilc/scoop-lemon, 1
 bucket/ant-renamer.json, naderi/scoop-bucket, 0
 bucket/ant.json, ScoopInstaller/Main, 0
 bucket/ant19.json, ScoopInstaller/Versions, 0
@@ -3776,7 +3777,7 @@ bucket/dbmate.json, ScoopInstaller/Main, 1
 bucket/dbmigration.net.json, hoilc/scoop-lemon, 0
 bucket/dbtpl.json, hoilc/scoop-lemon, 1
 bucket/dbvis.json, ScoopInstaller/Extras, 0
-bucket/dbx.json, ViCrack/scoop-bucket, 1
+bucket/dbx.json, hoilc/scoop-lemon, 1
 bucket/dbxcli.json, ScoopInstaller/Extras, 1
 bucket/dcmtk.json, ScoopInstaller/Main, 0
 bucket/dcv.json, aliesbelik/poldi, 1
@@ -4742,6 +4743,7 @@ bucket/findlinks.json, niheaven/scoop-sysinternals, 1
 bucket/findstr-eng.json, hoilc/scoop-lemon, 0
 bucket/findstr.json, hoilc/scoop-lemon, 0
 bucket/findutils.json, ScoopInstaller/Main, 0
+bucket/fingerprint-chromium.json, hoilc/scoop-lemon, 1
 bucket/fio.json, ScoopInstaller/Main, 1
 bucket/firacode-variable.json, KnotUntied/scoop-fonts, 1
 bucket/firealpaca.json, hoilc/scoop-lemon, 0
@@ -7364,6 +7366,7 @@ bucket/markdownify.json, MCOfficer/scoop-bucket, 1
 bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
+bucket/markpad.json, hoilc/scoop-lemon, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
 bucket/marktext.json, ScoopInstaller/Extras, 1
@@ -7640,7 +7643,7 @@ bucket/mindustry-server.json, Calinou/scoop-games, 1
 bucket/mindustry.json, Calinou/scoop-games, 1
 bucket/mine-imator.json, chawyehsu/dorado, 0
 bucket/minecraft.json, Calinou/scoop-games, 0
-bucket/mineru.json, hoilc/scoop-lemon, 0
+bucket/mineru.json, dodorz/scoop, 0
 bucket/minesweeper-arbiter.json, amorphobia/siku, 0
 bucket/mineways.json, chawyehsu/dorado, 0
 bucket/mingit-busybox.json, ScoopInstaller/Main, 1
@@ -7702,6 +7705,7 @@ bucket/miru.json, ScoopInstaller/Extras, 1
 bucket/misaka-translator.json, seumsc/scoop-seu, 1
 bucket/misakatranslator.json, ivaquero/scoopet, 1
 bucket/misc.json, brian6932/dank-scoop, 1
+bucket/mise-gui.json, hoilc/scoop-lemon, 1
 bucket/mise.json, ScoopInstaller/Main, 1
 bucket/mission-planner.json, ScoopInstaller/Extras, 1
 bucket/mist.json, ScoopInstaller/Extras, 1
@@ -9644,7 +9648,7 @@ bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqrs.json, hoilc/scoop-lemon, 1
 bucket/praat.json, ScoopInstaller/Extras, 1
@@ -11368,7 +11372,7 @@ bucket/steam-art-manager.json, Calinou/scoop-games, 1
 bucket/steam-authenticator.json, HUMORCE/nuke, 1
 bucket/steam-cloud-file-manager.json, hoilc/scoop-lemon, 1
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
-bucket/steam-game-idler.json, Calinou/scoop-games, 1
+bucket/steam-game-idler.json, starise/Scoop-Gaming, 1
 bucket/steam-lancache-prefill.json, hoilc/scoop-lemon, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0

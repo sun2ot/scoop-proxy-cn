@@ -1,32 +1,37 @@
 {
-  "version": "0.14.0",
-  "description": "一款将PDF转化为机器可读格式（如markdown、json）的文档提取全功能客户端",
-  "homepage": "https://mineru.net",
-  "license": "Proprietary",
-  "url": "https://webpub.shlab.tech/MinerU/latest/win/MinerU-0.14.0-setup.exe#/dl.7z",
-  "hash": "340e3fe1ded7b00da6700e6025497290aeecc3a120b352caacc554ad375a979d",
+  "version": "0.13.2",
+  "description": "Document Extraction/Conversion Tool for the AI Era",
+  "homepage": "https://mineru.net/",
+  "license": "unknown",
+  "url": "https://webpub.shlab.tech/MinerU/latest/win/MinerU-0.13.2-setup.exe?t=1#dl.7z",
+  "hash": "951b89413eb7b82ecf85646305d058a6bc556ab777e067e89c99d94553d0f4a3",
   "architecture": {
     "64bit": {
-      "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
+      "installer": {
+        "script": [
+          "$file = (Get-ChildItem \"$dir\" 'MinerU*.exe' | Select-Object -First 1).FullName",
+          "Expand-7ZipArchive \"$file\" \"$dir\" -Removal",
+          "Expand-7ZipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",
+          "Remove-Item \"$dir\\`$PLUGINSDIR\",\"$dir\\`$R0\"  -Force -Recurse"
+        ]
+      }
     },
     "32bit": {
-      "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\""
+      "installer": {
+        "script": [
+          "$file = (Get-ChildItem \"$dir\" 'minerU*.exe' | Select-Object -First 1).FullName",
+          "Expand-7ZipArchive \"$file\" \"$dir\" -Removal",
+          "Expand-7ZipArchive \"$dir\\`$PLUGINSDIR\\app-32.7z\" \"$dir\" -Removal",
+          "Remove-Item \"$dir\\`$PLUGINSDIR\",\"$dir\\`$R0\"  -Force -Recurse"
+        ]
+      }
     }
   },
-  "post_install": "Remove-Item \"$dir\\`$*\", \"$dir\\resources\\app-update.yml\" -Force -Recurse -ErrorAction SilentlyContinue",
+  "bin": "MinerU.exe",
   "shortcuts": [
     [
       "MinerU.exe",
-      "MinerU",
-      "--user-data-dir=\"User Data\""
+      "MinerU"
     ]
-  ],
-  "persist": "User Data",
-  "checkver": {
-    "url": "https://webpub.shlab.tech/MinerU/latest/win/latest.yml?a=1",
-    "regex": "version: ([\\d.]+)"
-  },
-  "autoupdate": {
-    "url": "https://webpub.shlab.tech/MinerU/latest/win/MinerU-$version-setup.exe#/dl.7z"
-  }
+  ]
 }
