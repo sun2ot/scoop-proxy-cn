@@ -348,7 +348,7 @@ bucket/CompareAdvance.json, dodorz/scoop, 0
 bucket/CompileAHK.json, kkzzhizhou/scoop-zapps, 1
 bucket/ComputerManagementDsc-PSModule.json, ACooper81/scoop-apps, 1
 bucket/ContextMenuManager-Portable.json, ACooper81/scoop-apps, 1
-bucket/ContextMenuManager.json, kkzzhizhou/scoop-zapps, 1
+bucket/ContextMenuManager.json, hoilc/scoop-lemon, 1
 bucket/ContextMenuMgr.json, zhoujin7/tomato, 0
 bucket/ControlUWP-Portable.json, ACooper81/scoop-apps, 1
 bucket/ConvertFrom-SourceTable.json, brian6932/dank-scoop, 1
@@ -1114,6 +1114,7 @@ bucket/OandOAppBuster-Portable.json, ACooper81/scoop-apps, 0
 bucket/OandORegEditor-Portable.json, ACooper81/scoop-apps, 0
 bucket/OandOShutUp10-Portable.json, ACooper81/scoop-apps, 0
 bucket/Oasis-Portable.json, ACooper81/scoop-apps, 1
+bucket/Oatmeal.json, dodorz/scoop, 1
 bucket/Ocenaudio-Portable.json, ACooper81/scoop-apps, 0
 bucket/Oculante-Portable.json, ACooper81/scoop-apps, 1
 bucket/Office-Code-Pro.json, matthewjberger/scoop-nerd-fonts, 1
@@ -1582,6 +1583,7 @@ bucket/Telegram-Portable.json, ACooper81/scoop-apps, 0
 bucket/TencentQQNT.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/TeraCopy-Install.json, ACooper81/scoop-apps, 0
 bucket/TeraCopy-Portable.json, ACooper81/scoop-apps, 0
+bucket/Terax.json, dodorz/scoop, 1
 bucket/TerminalGPT-Portable.json, ACooper81/scoop-apps, 1
 bucket/Terminus-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/Terminus-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
@@ -4042,7 +4044,7 @@ bucket/doh.json, aliesbelik/poldi, 1
 bucket/dokany-np.json, ScoopInstaller/Nonportable, 1
 bucket/dokka.json, ScoopInstaller/Main, 0
 bucket/dolphin-beta.json, hermanjustnu/scoop-emulators, 0
-bucket/dolphin-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/dolphin-dev.json, Calinou/scoop-games, 0
 bucket/dolphin-nightly.json, ScoopInstaller/Versions, 0
 bucket/dolphin.json, ScoopInstaller/Extras, 0
 bucket/dolt.json, ScoopInstaller/Main, 1
@@ -5835,6 +5837,7 @@ bucket/hkbtest.json, HUMORCE/nuke, 1
 bucket/hl.json, aliesbelik/poldi, 1
 bucket/hlae.json, Calinou/scoop-games, 1
 bucket/hledger.json, ScoopInstaller/Main, 1
+bucket/hloader.json, aliesbelik/poldi, 1
 bucket/hlsw-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/hmcl-dev.json, seumsc/scoop-seu, 1
 bucket/hmcl.json, Calinou/scoop-games, 1
@@ -10065,7 +10068,7 @@ bucket/r2modman.json, Calinou/scoop-games, 1
 bucket/r36.json, ScoopInstaller/Versions, 0
 bucket/r3dfox.json, ScoopInstaller/Extras, 1
 bucket/r3nzskin.json, DoveBoy/Apps, 1
-bucket/r3playx.json, hoilc/scoop-lemon, 1
+bucket/r3playx.json, DoveBoy/Apps, 1
 bucket/r41.json, ScoopInstaller/Versions, 0
 bucket/r42.json, ScoopInstaller/Versions, 0
 bucket/r43.json, ScoopInstaller/Versions, 0
@@ -11372,7 +11375,7 @@ bucket/steam-art-manager.json, Calinou/scoop-games, 1
 bucket/steam-authenticator.json, HUMORCE/nuke, 1
 bucket/steam-cloud-file-manager.json, hoilc/scoop-lemon, 1
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
-bucket/steam-game-idler.json, starise/Scoop-Gaming, 1
+bucket/steam-game-idler.json, Calinou/scoop-games, 1
 bucket/steam-lancache-prefill.json, hoilc/scoop-lemon, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
@@ -12040,7 +12043,7 @@ bucket/tracker.json, ScoopInstaller/Extras, 1
 bucket/trackselect.json, brian6932/dank-scoop, 1
 bucket/tracy.json, ScoopInstaller/Extras, 1
 bucket/tradingview.json, chawyehsu/dorado, 0
-bucket/trae-cn.json, chawyehsu/dorado, 0
+bucket/trae-cn.json, akirco/aki-apps, 1
 bucket/trae.json, ScoopInstaller/Extras, 0
 bucket/traefik-certs-dumper.json, hoilc/scoop-lemon, 1
 bucket/traefik.json, ScoopInstaller/Main, 1
