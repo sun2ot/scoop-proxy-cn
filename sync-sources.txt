@@ -2000,7 +2000,7 @@ bucket/adobephotoshopcclite.json, SayCV/scoop-cvp, 1
 bucket/adom.json, Calinou/scoop-games, 0
 bucket/adpcm-xq.json, hoilc/scoop-lemon, 1
 bucket/adrestore.json, niheaven/scoop-sysinternals, 1
-bucket/adrive.json, ivaquero/scoopet, 0
+bucket/adrive.json, amorphobia/siku, 0
 bucket/adsmanager.json, hoilc/scoop-lemon, 0
 bucket/adspower.json, Weidows-projects/scoop-3rd, 0
 bucket/advanced-combat-tracker.json, Calinou/scoop-games, 1
@@ -3224,7 +3224,7 @@ bucket/clash.net.json, Weidows-projects/scoop-3rd, 1
 bucket/clash2singbox.json, hoilc/scoop-lemon, 1
 bucket/clashcross.json, DoveBoy/Apps, 1
 bucket/clashmi-portable.json, DoveBoy/Apps, 1
-bucket/clashmi.json, hoilc/scoop-lemon, 1
+bucket/clashmi.json, DoveBoy/Apps, 1
 bucket/clashn.json, hoilc/scoop-lemon, 1
 bucket/clashrauto.json, akirco/aki-apps, 1
 bucket/clashrs.json, DoveBoy/Apps, 1
@@ -7527,7 +7527,7 @@ bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
 bucket/mftecmd.json, hoilc/scoop-lemon, 1
 bucket/mftexplorer.json, hoilc/scoop-lemon, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mglahk.json, hoilc/scoop-lemon, 0
 bucket/mgtv.json, DoveBoy/Apps, 0
@@ -13483,6 +13483,8 @@ bucket/zellij.json, ScoopInstaller/Main, 1
 bucket/zen-browser.json, ScoopInstaller/Extras, 1
 bucket/zenhan.json, ScoopInstaller/Main, 1
 bucket/zenta.json, hoilc/scoop-lemon, 1
+bucket/zephyr-portable.json, DoveBoy/Apps, 1
+bucket/zephyr.json, DoveBoy/Apps, 1
 bucket/zeplin.json, ScoopInstaller/Extras, 0
 bucket/zeppelin.json, ScoopInstaller/Extras, 0
 bucket/zer0.json, brian6932/dank-scoop, 1
