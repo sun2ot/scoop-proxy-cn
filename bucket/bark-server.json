@@ -1,29 +1,31 @@
 {
-  "version": "2.3.4",
-  "description": "Backend of Bark",
-  "homepage": "https://bark.day.app/",
+  "version": "2.3.5",
+  "description": "Backend of Bark, an iOS App which allows you to push customed notifications to your iPhone.",
+  "homepage": "https://github.com/Finb/bark-server",
   "license": "MIT",
   "architecture": {
-    "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Finb/bark-server/releases/download/v2.3.4/bark-server_windows_386.exe#/bark-server.exe",
-      "hash": "fe8afe4a9afe98bfd9a3a688dfe6f33ad17a083dec1332ce10fdeab5ba85c06e"
-    },
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Finb/bark-server/releases/download/v2.3.4/bark-server_windows_amd64.exe#/bark-server.exe",
-      "hash": "91dd523b851df78d1abdb9c642b4f057e6059adb7a505c94910196ec5cdc898c"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Finb/bark-server/releases/download/v2.3.5/bark-server_windows_amd64.exe#/bark-server.exe",
+      "hash": "760c967a70a1ce601b7d672b96092e65be290c28c6cb6534e8c379cd6f78c07d"
+    },
+    "32bit": {
+      "url": "https://ghproxy.085404.xyz/https://github.com/Finb/bark-server/releases/download/v2.3.5/bark-server_windows_386.exe#/bark-server.exe",
+      "hash": "03ecb68a5c8357f6997173aa406b43b2eb08feb5da6d43b81d9d3a1d35f0a0fd"
     }
   },
   "bin": "bark-server.exe",
-  "checkver": {
-    "github": "https://github.com/Finb/bark-server"
+  "persist": "data",
+  "env_set": {
+    "BARK_SERVER_DATA_DIR": "$dir\\data"
   },
+  "checkver": "github",
   "autoupdate": {
     "architecture": {
-      "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Finb/bark-server/releases/download/v$version/bark-server_windows_386.exe#/bark-server.exe"
-      },
       "64bit": {
         "url": "https://ghproxy.085404.xyz/https://github.com/Finb/bark-server/releases/download/v$version/bark-server_windows_amd64.exe#/bark-server.exe"
+      },
+      "32bit": {
+        "url": "https://ghproxy.085404.xyz/https://github.com/Finb/bark-server/releases/download/v$version/bark-server_windows_386.exe#/bark-server.exe"
       }
     }
   }
