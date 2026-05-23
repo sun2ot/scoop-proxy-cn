@@ -1264,7 +1264,8 @@ bucket/QR-Desktop.json, dodorz/scoop, 1
 bucket/QTranslate.json, dodorz/scoop, 0
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QianWen.json, dodorz/scoop, 0
-bucket/Qoder.json, dodorz/scoop, 0
+bucket/Qoder.json, akirco/aki-apps, 0
+bucket/QoderCN.json, dodorz/scoop, 0
 bucket/QoderWork.json, dodorz/scoop, 0
 bucket/QtDesigner.json, zhoujin7/tomato, 1
 bucket/QuickBMS.json, dodorz/scoop, 0
@@ -3595,11 +3596,11 @@ bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/cryptsync.json, hoilc/scoop-lemon, 1
 bucket/crystal.json, ScoopInstaller/Main, 1
 bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-aoi.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-kureikei.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-shizuku.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskmark-aoi.json, aoisummer/scoop-bucket, 0
@@ -5587,13 +5588,9 @@ bucket/gpupad.json, hoilc/scoop-lemon, 1
 bucket/gpx-animator.json, hoilc/scoop-lemon, 1
 bucket/gpxsee.json, ScoopInstaller/Extras, 0
 bucket/gql.json, brian6932/dank-scoop, 1
-bucket/graaljs-community-jvm.json, hoilc/scoop-lemon, 1
 bucket/graaljs-community.json, hoilc/scoop-lemon, 1
-bucket/graaljs-jvm.json, hoilc/scoop-lemon, 1
 bucket/graaljs.json, hoilc/scoop-lemon, 1
-bucket/graalpy-community-jvm.json, hoilc/scoop-lemon, 1
 bucket/graalpy-community.json, hoilc/scoop-lemon, 1
-bucket/graalpy-jvm.json, hoilc/scoop-lemon, 1
 bucket/graalpy.json, hoilc/scoop-lemon, 1
 bucket/graalvm-ce-17jdk.json, ScoopInstaller/Java, 1
 bucket/graalvm-jdk11.json, ScoopInstaller/Java, 1
@@ -7150,7 +7147,7 @@ bucket/lmgrep.json, littleli/scoop-clojure, 1
 bucket/lmms-nightly.json, hoilc/scoop-lemon, 0
 bucket/lmms.json, ScoopInstaller/Extras, 1
 bucket/lms.json, hoilc/scoop-lemon, 1
-bucket/lmstudio.json, dodorz/scoop, 0
+bucket/lmstudio.json, ScoopInstaller/Extras, 0
 bucket/ln.json, ScoopInstaller/Main, 1
 bucket/lnCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/lnav.json, ScoopInstaller/Main, 1
@@ -10079,7 +10076,7 @@ bucket/r2modman.json, Calinou/scoop-games, 1
 bucket/r36.json, ScoopInstaller/Versions, 0
 bucket/r3dfox.json, ScoopInstaller/Extras, 1
 bucket/r3nzskin.json, DoveBoy/Apps, 1
-bucket/r3playx.json, DoveBoy/Apps, 1
+bucket/r3playx.json, hoilc/scoop-lemon, 1
 bucket/r41.json, ScoopInstaller/Versions, 0
 bucket/r42.json, ScoopInstaller/Versions, 0
 bucket/r43.json, ScoopInstaller/Versions, 0
@@ -11594,6 +11591,8 @@ bucket/synctrayzor1.json, ScoopInstaller/Versions, 1
 bucket/syndicationd.json, hoilc/scoop-lemon, 1
 bucket/synfig-studio.json, ScoopInstaller/Extras, 1
 bucket/synology-cloud-sync-decryption-tool.json, hoilc/scoop-lemon, 0
+bucket/synology-hyper-backup-explorer.json, hoilc/scoop-lemon, 0
+bucket/synology-surveillance-station-client.json, hoilc/scoop-lemon, 0
 bucket/synology-surveillance-station.json, ScoopInstaller/Extras, 0
 bucket/synopsys-installer35-wsl.json, SayCV/scoop-cvp, 1
 bucket/synopsys-installer50-wsl.json, SayCV/scoop-cvp, 1
@@ -13129,6 +13128,7 @@ bucket/writage.json, SayCV/scoop-cvp, 0
 bucket/write.json, ScoopInstaller/Extras, 1
 bucket/writemonkey.json, dodorz/scoop, 0
 bucket/writer.json, KnotUntied/scoop-fonts, 0
+bucket/wrkflw.json, aliesbelik/poldi, 1
 bucket/wrtag.json, hoilc/scoop-lemon, 1
 bucket/wsa-pacman.json, ScoopInstaller/Extras, 1
 bucket/wsa-toolbox.json, SayCV/scoop-cvp, 0
