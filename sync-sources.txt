@@ -1124,6 +1124,7 @@ bucket/OfficeCLI.json, dodorz/scoop, 1
 bucket/OfficeToolPlus-Portable.json, ACooper81/scoop-apps, 1
 bucket/OfflineInsiderEnroll-Portable.json, ACooper81/scoop-apps, 1
 bucket/Oggenc.json, dodorz/scoop, 0
+bucket/OhMyPPT.json, dodorz/scoop, 1
 bucket/Open-Sans.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/OpenBoard-Portable.json, ACooper81/scoop-apps, 1
 bucket/OpenCC.json, SayCV/scoop-cvp, 0
@@ -3664,6 +3665,7 @@ bucket/cuda12.9.json, ScoopInstaller/Versions, 0
 bucket/cuda13.0.json, ScoopInstaller/Versions, 0
 bucket/cuda13.1.json, ScoopInstaller/Versions, 0
 bucket/cuda13.2.json, ScoopInstaller/Versions, 0
+bucket/cuda13.3.json, ScoopInstaller/Versions, 0
 bucket/cuda6.0.json, ScoopInstaller/Versions, 0
 bucket/cuda6.5.json, ScoopInstaller/Versions, 0
 bucket/cuda6.json, ScoopInstaller/Versions, 0

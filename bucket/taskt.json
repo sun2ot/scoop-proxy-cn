@@ -23,7 +23,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/saucepleez/taskt/releases/download/v$version/taskt.$version.zip"
+        "url": "https://ghproxy.085404.xyz/https://github.com/saucepleez/taskt/releases/download/v$version/taskt.v$version.zip"
       }
     }
   }
