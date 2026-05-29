@@ -3258,7 +3258,7 @@ bucket/claws.json, aliesbelik/poldi, 1
 bucket/clcl.json, naderi/scoop-bucket, 0
 bucket/cleanafterme.json, ScoopInstaller/Nirsoft, 0
 bucket/cleanmgrplus.json, naderi/scoop-bucket, 1
-bucket/cleanmywechat.json, amorphobia/siku, 1
+bucket/cleanmywechat.json, hoilc/scoop-lemon, 1
 bucket/cleanwechatx.json, hoilc/scoop-lemon, 0
 bucket/cleed.json, aliesbelik/poldi, 1
 bucket/clementine.json, ScoopInstaller/Extras, 1
@@ -5942,6 +5942,7 @@ bucket/hunterpie.json, Deide/deide-bucket, 1
 bucket/hunterpie2.json, Deide/deide-bucket, 1
 bucket/huorong-popblock.json, amorphobia/siku, 0
 bucket/hurl.json, ScoopInstaller/Main, 1
+bucket/husi.json, hoilc/scoop-lemon, 0
 bucket/hwameictl.json, hoilc/scoop-lemon, 1
 bucket/hwatch.json, hoilc/scoop-lemon, 1
 bucket/hwinfo.json, ScoopInstaller/Extras, 0
