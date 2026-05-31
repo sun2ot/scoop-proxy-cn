@@ -2149,6 +2149,7 @@ bucket/android-backup-extractor.json, hoilc/scoop-lemon, 1
 bucket/android-clt.json, ScoopInstaller/Main, 0
 bucket/android-line-transfer.json, ScoopInstaller/Extras, 0
 bucket/android-messages.json, ScoopInstaller/Extras, 1
+bucket/android-ndk.json, hoilc/scoop-lemon, 0
 bucket/android-payload-dumper.json, ScoopInstaller/Main, 1
 bucket/android-sdk.json, akirco/aki-apps, 0
 bucket/android-sms-backup-and-restore.json, ScoopInstaller/Extras, 0
@@ -3235,7 +3236,7 @@ bucket/clash.net.json, Weidows-projects/scoop-3rd, 1
 bucket/clash2singbox.json, hoilc/scoop-lemon, 1
 bucket/clashcross.json, DoveBoy/Apps, 1
 bucket/clashmi-portable.json, DoveBoy/Apps, 1
-bucket/clashmi.json, DoveBoy/Apps, 1
+bucket/clashmi.json, hoilc/scoop-lemon, 1
 bucket/clashn.json, hoilc/scoop-lemon, 1
 bucket/clashrauto.json, akirco/aki-apps, 1
 bucket/clashrs.json, DoveBoy/Apps, 1
@@ -10160,6 +10161,7 @@ bucket/rascal.json, seumsc/scoop-seu, 1
 bucket/raspberry-pi-imager.json, ScoopInstaller/Extras, 1
 bucket/rathole.json, ScoopInstaller/Main, 1
 bucket/ratiomaster.json, ScoopInstaller/Extras, 1
+bucket/ratty.json, ScoopInstaller/Extras, 1
 bucket/rav1e-gui.json, hoilc/scoop-lemon, 1
 bucket/rav1e.json, hoilc/scoop-lemon, 1
 bucket/raven-reader.json, ScoopInstaller/Extras, 1
