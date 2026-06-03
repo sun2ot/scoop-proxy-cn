@@ -1264,7 +1264,7 @@ bucket/QR-Desktop.json, dodorz/scoop, 1
 bucket/QTranslate.json, dodorz/scoop, 0
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QianWen.json, dodorz/scoop, 0
-bucket/Qoder.json, akirco/aki-apps, 0
+bucket/Qoder.json, dodorz/scoop, 0
 bucket/QoderCN.json, dodorz/scoop, 0
 bucket/QoderWork.json, dodorz/scoop, 0
 bucket/QtDesigner.json, zhoujin7/tomato, 1
@@ -2876,6 +2876,7 @@ bucket/btop.json, ScoopInstaller/Main, 1
 bucket/btrace.json, hoilc/scoop-lemon, 1
 bucket/btyacc.json, ScoopInstaller/Main, 0
 bucket/buck.json, ScoopInstaller/Main, 0
+bucket/buck2-pre.json, ScoopInstaller/Versions, 1
 bucket/buck2.json, hoilc/scoop-lemon, 1
 bucket/buckets.json, ScoopInstaller/Extras, 1
 bucket/buf.json, ScoopInstaller/Main, 1
@@ -3428,7 +3429,7 @@ bucket/completionpredictor.json, ScoopInstaller/Extras, 0
 bucket/component-detection.json, hoilc/scoop-lemon, 1
 bucket/composer.json, ScoopInstaller/Main, 0
 bucket/composer1.json, ScoopInstaller/Versions, 0
-bucket/compresso.json, naderi/scoop-bucket, 1
+bucket/compresso.json, hoilc/scoop-lemon, 1
 bucket/computerlock.json, DoveBoy/Apps, 1
 bucket/comrak.json, ScoopInstaller/Main, 1
 bucket/con-terminal-beta.json, ScoopInstaller/Versions, 1
@@ -3981,6 +3982,7 @@ bucket/diskusage.json, aliesbelik/poldi, 1
 bucket/diskview.json, niheaven/scoop-sysinternals, 1
 bucket/dismplusplus.json, ScoopInstaller/Extras, 1
 bucket/dismpp.json, echoiron/echo-scoop, 1
+bucket/dismtools.json, hoilc/scoop-lemon, 1
 bucket/dispatch-proxy.json, hoilc/scoop-lemon, 1
 bucket/dispatch.json, brian6932/dank-scoop, 1
 bucket/display-changer-ii.json, rasa/scoops, 0
@@ -12421,6 +12423,7 @@ bucket/uup-download-wizard-converter.json, hu3rror/scoop-muggle, 1
 bucket/uupmediacreator.json, hoilc/scoop-lemon, 1
 bucket/uutils-coreutils-lean.json, ScoopInstaller/Main, 1
 bucket/uutils-coreutils.json, ScoopInstaller/Main, 1
+bucket/uutils-diffutils.json, kiennq/scoop-misc, 1
 bucket/uutils-findutils.json, ScoopInstaller/Main, 1
 bucket/uuu.json, hoilc/scoop-lemon, 1
 bucket/uv-portable-cn.json, Weidows-projects/scoop-3rd, 1
