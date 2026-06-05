@@ -823,6 +823,7 @@ bucket/KillCopy.json, dodorz/scoop, 0
 bucket/KillEmAll.json, dodorz/scoop, 0
 bucket/KillEmAllMini.json, dodorz/scoop, 0
 bucket/Kimi.json, dodorz/scoop, 0
+bucket/KimiCode.json, dodorz/scoop, 0
 bucket/KindleMate.json, dodorz/scoop, 0
 bucket/KindleSend.json, kkzzhizhou/scoop-zapps, 1
 bucket/KindleUnpack.json, kkzzhizhou/scoop-zapps, 1
@@ -1264,7 +1265,7 @@ bucket/QR-Desktop.json, dodorz/scoop, 1
 bucket/QTranslate.json, dodorz/scoop, 0
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QianWen.json, dodorz/scoop, 0
-bucket/Qoder.json, akirco/aki-apps, 0
+bucket/Qoder.json, dodorz/scoop, 0
 bucket/QoderCN.json, dodorz/scoop, 0
 bucket/QoderWork.json, dodorz/scoop, 0
 bucket/QtDesigner.json, zhoujin7/tomato, 1
@@ -3299,6 +3300,7 @@ bucket/clipboard.json, ScoopInstaller/Main, 1
 bucket/clipboardfusion.json, hoilc/scoop-lemon, 0
 bucket/clipboardic.json, ScoopInstaller/Nirsoft, 0
 bucket/clipgrab.json, starise/Scoop-Confetti, 0
+bucket/cliproxyapi.json, ScoopInstaller/Main, 1
 bucket/clips.json, hoilc/scoop-lemon, 0
 bucket/clipx.json, naderi/scoop-bucket, 0
 bucket/clj-deps.json, littleli/scoop-clojure, 1
@@ -6061,6 +6063,7 @@ bucket/ignoreit.json, ScoopInstaller/Extras, 1
 bucket/igrep.json, ScoopInstaller/Main, 1
 bucket/igv.json, hoilc/scoop-lemon, 0
 bucket/ihateborders.json, starise/Scoop-Gaming, 1
+bucket/iii.json, ScoopInstaller/Main, 1
 bucket/iiscrypto.json, hoilc/scoop-lemon, 0
 bucket/ijhttp.json, ScoopInstaller/Main, 0
 bucket/ik-llama-cpp-cpu.json, hoilc/scoop-lemon, 1
@@ -8052,6 +8055,7 @@ bucket/muxun-accelerator.json, Weidows-projects/scoop-3rd, 0
 bucket/mvmc.json, rasa/scoops, 0
 bucket/mvndaemon.json, ScoopInstaller/Main, 0
 bucket/mweather.json, ScoopInstaller/Nirsoft, 0
+bucket/mxc.json, hoilc/scoop-lemon, 1
 bucket/mycelium.json, hoilc/scoop-lemon, 1
 bucket/mycomputermanager.json, hoilc/scoop-lemon, 1
 bucket/mycrypto.json, chawyehsu/dorado, 1
@@ -8265,6 +8269,7 @@ bucket/nimbletext.json, ScoopInstaller/Extras, 0
 bucket/ninja-kitware.json, ScoopInstaller/Main, 1
 bucket/ninja.json, ScoopInstaller/Main, 1
 bucket/nip2.json, hoilc/scoop-lemon, 1
+bucket/nip4.json, ScoopInstaller/Extras, 1
 bucket/nipaplay.json, hoilc/scoop-lemon, 1
 bucket/nircmd.json, ScoopInstaller/Main, 0
 bucket/nirext.json, ScoopInstaller/Nirsoft, 0
@@ -8889,6 +8894,7 @@ bucket/parsec.json, ScoopInstaller/Extras, 0
 bucket/parsify-desktop.json, amorphobia/siku, 1
 bucket/parsify.json, ChungZH/peach, 1
 bucket/partition-assistant.json, ivaquero/scoopet, 0
+bucket/paseo.json, ygguorun/scoop-bucket, 1
 bucket/pasfmt.json, hoilc/scoop-lemon, 1
 bucket/pass-winmenu-nogpg.json, ScoopInstaller/Extras, 1
 bucket/passbolt-cli.json, ScoopInstaller/Main, 1
@@ -9742,7 +9748,7 @@ bucket/processactivityview.json, ScoopInstaller/Nirsoft, 0
 bucket/processdump.json, hoilc/scoop-lemon, 0
 bucket/processing.json, ScoopInstaller/Extras, 1
 bucket/processing4.json, ScoopInstaller/Extras, 1
-bucket/processko.json, naderi/scoop-bucket, 0
+bucket/processko.json, hoilc/scoop-lemon, 0
 bucket/processtcpsummary.json, ScoopInstaller/Nirsoft, 0
 bucket/processthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/procexp.json, scoopcn/scoopcn, 0
@@ -10237,6 +10243,7 @@ bucket/recmono-casual.json, KnotUntied/scoop-fonts, 0
 bucket/recmono-duotone.json, KnotUntied/scoop-fonts, 0
 bucket/recmono-linear.json, KnotUntied/scoop-fonts, 0
 bucket/recmono-semicasual.json, KnotUntied/scoop-fonts, 0
+bucket/recordly.json, hoilc/scoop-lemon, 1
 bucket/recover_mp4.json, hoilc/scoop-lemon, 0
 bucket/rectanglewin.json, ScoopInstaller/Extras, 1
 bucket/recursive-all.json, KnotUntied/scoop-fonts, 1
@@ -11064,7 +11071,7 @@ bucket/simsu.json, hoilc/scoop-lemon, 0
 bucket/simulationcraft.json, Calinou/scoop-games, 0
 bucket/simulide.json, hoilc/scoop-lemon, 0
 bucket/simutrans.json, Calinou/scoop-games, 0
-bucket/sing-box-beta.json, hoilc/scoop-lemon, 1
+bucket/sing-box-beta.json, DoveBoy/Apps, 1
 bucket/sing-box-pre.json, hu3rror/scoop-muggle, 1
 bucket/sing-box.json, ScoopInstaller/Main, 1
 bucket/sing-geoip-rule-set.json, hoilc/scoop-lemon, 1
