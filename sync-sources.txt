@@ -4378,6 +4378,7 @@ bucket/electrum.json, ScoopInstaller/Extras, 1
 bucket/element-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/element.json, ScoopInstaller/Extras, 0
 bucket/elevate.json, dodorz/scoop, 0
+bucket/elinks.json, ScoopInstaller/Main, 1
 bucket/elisa.json, ScoopInstaller/Extras, 0
 bucket/elite-log-agent.json, Deide/deide-bucket, 1
 bucket/elixir-ls.json, ScoopInstaller/Main, 1
@@ -5406,6 +5407,7 @@ bucket/gluon-openjfx-sdk.json, ScoopInstaller/Java, 0
 bucket/gluttonyFLIF.json, ygguorun/scoop-bucket, 0
 bucket/gluttonyPNG.json, ygguorun/scoop-bucket, 0
 bucket/gmcurl.json, hoilc/scoop-lemon, 0
+bucket/gmic-cli.json, ScoopInstaller/Main, 0
 bucket/gmix.json, hoilc/scoop-lemon, 1
 bucket/gmkvextractgui.json, ScoopInstaller/Extras, 0
 bucket/gmsh.json, chawyehsu/dorado, 0
@@ -7586,6 +7588,8 @@ bucket/micromamba.json, chawyehsu/dorado, 1
 bucket/micronaut.json, ScoopInstaller/Main, 1
 bucket/microsip.json, ScoopInstaller/Extras, 0
 bucket/microsoft-activation-scripts.json, DoveBoy/Apps, 0
+bucket/microsoft-coreutils-lean.json, ScoopInstaller/Main, 1
+bucket/microsoft-coreutils.json, ScoopInstaller/Main, 1
 bucket/microsoft-edge-beta-np.json, ScoopInstaller/Nonportable, 0
 bucket/microsoft-edge-canary-np.json, ScoopInstaller/Nonportable, 0
 bucket/microsoft-edge-dev-np.json, ScoopInstaller/Nonportable, 0
@@ -7657,10 +7661,12 @@ bucket/migrated/tcping.json, aliesbelik/poldi, 0
 bucket/migrated/termscp.json, aliesbelik/poldi, 1
 bucket/migrated/tf-summarize.json, aliesbelik/poldi, 1
 bucket/migrated/tlrc.json, aliesbelik/poldi, 1
+bucket/migrated/trdsql.json, aliesbelik/poldi, 1
 bucket/migrated/ttdl.json, aliesbelik/poldi, 1
 bucket/migrated/vegeta.json, aliesbelik/poldi, 1
 bucket/migrated/wait4x.json, aliesbelik/poldi, 1
 bucket/migrated/walk.json, aliesbelik/poldi, 1
+bucket/migrated/websocat.json, aliesbelik/poldi, 1
 bucket/migrated/yamlfmt.json, aliesbelik/poldi, 1
 bucket/mihome-token.json, amorphobia/siku, 1
 bucket/mihomo-compatible.json, DoveBoy/Apps, 1
@@ -11672,6 +11678,10 @@ bucket/systeminformer-nightly.json, ScoopInstaller/Versions, 1
 bucket/systeminformer.json, ScoopInstaller/Extras, 1
 bucket/systools.json, ScoopInstaller/Nirsoft, 0
 bucket/t-clock.json, ScoopInstaller/Extras, 1
+bucket/t-req.json, aliesbelik/poldi, 1
+bucket/tabby-agent-cuda.json, ScoopInstaller/Versions, 1
+bucket/tabby-agent-vulkan.json, ScoopInstaller/Versions, 1
+bucket/tabby-agent.json, ScoopInstaller/Main, 1
 bucket/tabby-ai-cuda.json, hoilc/scoop-lemon, 1
 bucket/tabby-ai-vulkan.json, hoilc/scoop-lemon, 1
 bucket/tabby-ai.json, hoilc/scoop-lemon, 1
@@ -12137,7 +12147,7 @@ bucket/trayweather.json, ScoopInstaller/Extras, 1
 bucket/trayy.json, hoilc/scoop-lemon, 1
 bucket/trdl.json, hoilc/scoop-lemon, 0
 bucket/trdlCLI-Portable.json, ACooper81/scoop-apps, 0
-bucket/trdsql.json, hoilc/scoop-lemon, 1
+bucket/trdsql.json, ScoopInstaller/Main, 1
 bucket/trdsqlCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/tre-command.json, ScoopInstaller/Main, 1
 bucket/tre.json, MCOfficer/scoop-bucket, 1
@@ -12685,6 +12695,7 @@ bucket/vscode.json, ScoopInstaller/Extras, 1
 bucket/vscodium-it.json, starise/Scoop-Confetti, 1
 bucket/vscodium-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/vscodium.json, ScoopInstaller/Extras, 1
+bucket/vsd.json, ScoopInstaller/Main, 1
 bucket/vsts-sync-migrator.json, hoilc/scoop-lemon, 1
 bucket/vswhere.json, ScoopInstaller/Main, 0
 bucket/vt-cli.json, ScoopInstaller/Main, 1
@@ -12803,7 +12814,7 @@ bucket/webpicmd.json, ScoopInstaller/Extras, 0
 bucket/webshell_generate.json, ViCrack/scoop-bucket, 1
 bucket/websitesniffer.json, ScoopInstaller/Nirsoft, 0
 bucket/websocat-v4.json, hoilc/scoop-lemon, 1
-bucket/websocat.json, hoilc/scoop-lemon, 1
+bucket/websocat.json, ScoopInstaller/Main, 1
 bucket/webstorm-eap.json, ScoopInstaller/Versions, 1
 bucket/webstorm.json, ScoopInstaller/Extras, 1
 bucket/webtorrent.json, ScoopInstaller/Extras, 1
@@ -13146,6 +13157,7 @@ bucket/wombat.json, aliesbelik/poldi, 1
 bucket/wonderpen.json, ScoopInstaller/Extras, 0
 bucket/woodpecker.json, ViCrack/scoop-bucket, 1
 bucket/woof.json, Calinou/scoop-games, 1
+bucket/word-formatter-pro.json, hoilc/scoop-lemon, 1
 bucket/word-regex-tool.json, ygguorun/scoop-bucket, 0
 bucket/wordle.json, brian6932/dank-scoop, 1
 bucket/wordmark.json, ScoopInstaller/Extras, 1
@@ -13610,6 +13622,7 @@ bucket/zoomit.json, niheaven/scoop-sysinternals, 1
 bucket/zopfli.json, seumsc/scoop-seu, 0
 bucket/zorba.json, hoilc/scoop-lemon, 1
 bucket/zoro.json, hoilc/scoop-lemon, 1
+bucket/zot.json, dodorz/scoop, 1
 bucket/zotero-beta.json, hoilc/scoop-lemon, 0
 bucket/zotero.json, ScoopInstaller/Extras, 1
 bucket/zotero6.json, ScoopInstaller/Versions, 1
