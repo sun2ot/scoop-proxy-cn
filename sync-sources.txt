@@ -2577,7 +2577,6 @@ bucket/bazel.json, ScoopInstaller/Main, 1
 bucket/bazelisk.json, ScoopInstaller/Main, 1
 bucket/bb-http-server.json, littleli/scoop-clojure, 1
 bucket/bb-web.json, littleli/scoop-clojure, 1
-bucket/bbdown-nightly.json, hoilc/scoop-lemon, 0
 bucket/bbdown.json, ScoopInstaller/Main, 1
 bucket/bbin.json, littleli/scoop-clojure, 1
 bucket/bbk-cli.json, ScoopInstaller/Main, 0
