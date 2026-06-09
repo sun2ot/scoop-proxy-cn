@@ -536,7 +536,6 @@ bucket/FastCSViewer.json, dodorz/scoop, 0
 bucket/FastCopy-M.json, Paxxs/Cluttered-bucket, 1
 bucket/Feep.json, dodorz/scoop, 1
 bucket/FerdiumNightly-Portable.json, ACooper81/scoop-apps, 1
-bucket/Ferrite.json, dodorz/scoop, 1
 bucket/Fido-PSScript.json, ACooper81/scoop-apps, 1
 bucket/FileLocatorPro.json, kkzzhizhou/scoop-zapps, 1
 bucket/FileMany.json, dodorz/scoop, 0
@@ -1265,7 +1264,7 @@ bucket/QR-Desktop.json, dodorz/scoop, 1
 bucket/QTranslate.json, dodorz/scoop, 0
 bucket/QiDian.json, kkzzhizhou/scoop-zapps, 0
 bucket/QianWen.json, dodorz/scoop, 0
-bucket/Qoder.json, dodorz/scoop, 0
+bucket/Qoder.json, akirco/aki-apps, 0
 bucket/QoderCN.json, dodorz/scoop, 0
 bucket/QoderWork.json, dodorz/scoop, 0
 bucket/QtDesigner.json, zhoujin7/tomato, 1
@@ -3215,7 +3214,6 @@ bucket/clamav.json, ScoopInstaller/Extras, 1
 bucket/clangd.json, ScoopInstaller/Main, 1
 bucket/clarinet.json, hoilc/scoop-lemon, 1
 bucket/clash-dashboard.json, everyx/scoop-bucket, 1
-bucket/clash-for-flutter.json, DoveBoy/Apps, 1
 bucket/clash-for-windows.json, amorphobia/siku, 0
 bucket/clash-mi.json, ivaquero/scoopet, 1
 bucket/clash-mini.json, DoveBoy/Apps, 1
@@ -3324,7 +3322,7 @@ bucket/cloud-provider-kind.json, hoilc/scoop-lemon, 1
 bucket/cloud-sql-proxy.json, ScoopInstaller/Main, 0
 bucket/cloudcompare-alpha.json, ScoopInstaller/Versions, 0
 bucket/cloudcompare.json, ScoopInstaller/Extras, 0
-bucket/cloudflare-speedtest.json, seumsc/scoop-seu, 1
+bucket/cloudflare-speedtest.json, chawyehsu/dorado, 1
 bucket/cloudflared.json, ScoopInstaller/Main, 1
 bucket/cloudflarespeedtest.json, hoilc/scoop-lemon, 1
 bucket/cloudfoundry-cli.json, ScoopInstaller/Extras, 0
@@ -4315,6 +4313,7 @@ bucket/ecspresso.json, hoilc/scoop-lemon, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
+bucket/eden-nightly.json, Calinou/scoop-games, 0
 bucket/eden.json, Calinou/scoop-games, 0
 bucket/edex-ui.json, ScoopInstaller/Extras, 1
 bucket/edge-TTS-record.json, dodorz/scoop, 0
@@ -4489,7 +4488,7 @@ bucket/ethr.json, ScoopInstaller/Main, 1
 bucket/etl2pcapng.json, ScoopInstaller/Main, 1
 bucket/etlas.json, ScoopInstaller/Extras, 0
 bucket/etterna.json, Calinou/scoop-games, 1
-bucket/eudic.json, naderi/scoop-bucket, 0
+bucket/eudic.json, ivaquero/scoopet, 0
 bucket/euler.json, ScoopInstaller/Extras, 0
 bucket/eva.json, ScoopInstaller/Main, 1
 bucket/evans.json, ScoopInstaller/Main, 1
@@ -4688,6 +4687,7 @@ bucket/fermion.json, NyaMisty/scoop_bucket_misty, 1
 bucket/fermyon-spin.json, hoilc/scoop-lemon, 1
 bucket/feroxbuster.json, ScoopInstaller/Main, 1
 bucket/ferret.json, hoilc/scoop-lemon, 1
+bucket/ferrite.json, ScoopInstaller/Extras, 1
 bucket/fetch-github-hosts.json, DoveBoy/Apps, 1
 bucket/feyngame.json, hoilc/scoop-lemon, 0
 bucket/ff-logs-uploader.json, Calinou/scoop-games, 1
@@ -7536,6 +7536,7 @@ bucket/memory-checker.json, brian6932/dank-scoop, 1
 bucket/memreduct.json, ScoopInstaller/Extras, 1
 bucket/memshellparty.json, ViCrack/scoop-bucket, 1
 bucket/memtest-vulkan.json, starise/Scoop-Confetti, 1
+bucket/memtui.json, aliesbelik/poldi, 1
 bucket/memurai.json, hoilc/scoop-lemon, 0
 bucket/mendeley.json, ScoopInstaller/Extras, 0
 bucket/meow.json, ScoopInstaller/Extras, 1
@@ -9465,6 +9466,7 @@ bucket/php83-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php83.json, ScoopInstaller/Versions, 0
 bucket/php84-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php84.json, ScoopInstaller/Versions, 0
+bucket/php85-xdebug.json, ScoopInstaller/Versions, 0
 bucket/php85.json, ScoopInstaller/Versions, 0
 bucket/phpmyadmin.json, wzv5/ScoopBucket, 0
 bucket/phpstorm-eap.json, ScoopInstaller/Versions, 1
@@ -9707,7 +9709,7 @@ bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqrs.json, hoilc/scoop-lemon, 1
 bucket/praat.json, ScoopInstaller/Extras, 1
@@ -11077,13 +11079,14 @@ bucket/simsu.json, hoilc/scoop-lemon, 0
 bucket/simulationcraft.json, Calinou/scoop-games, 0
 bucket/simulide.json, hoilc/scoop-lemon, 0
 bucket/simutrans.json, Calinou/scoop-games, 0
-bucket/sing-box-beta.json, DoveBoy/Apps, 1
+bucket/sing-box-beta.json, hoilc/scoop-lemon, 1
 bucket/sing-box-pre.json, hu3rror/scoop-muggle, 1
 bucket/sing-box.json, ScoopInstaller/Main, 1
 bucket/sing-geoip-rule-set.json, hoilc/scoop-lemon, 1
 bucket/sing-geoip.json, hoilc/scoop-lemon, 1
 bucket/sing-geosite-rule-set.json, hoilc/scoop-lemon, 1
 bucket/sing-geosite.json, hoilc/scoop-lemon, 1
+bucket/singcast.json, DoveBoy/Apps, 1
 bucket/single-file-cli.json, ScoopInstaller/Extras, 1
 bucket/single-file.json, dodorz/scoop, 1
 bucket/sioyek-preview.json, brian6932/dank-scoop, 1
