@@ -1640,6 +1640,7 @@ bucket/TotalRegistry-Portable.json, ACooper81/scoop-apps, 1
 bucket/TotalUninstallPro.json, kkzzhizhou/scoop-zapps, 1
 bucket/TouchpadBlocker.json, dodorz/scoop, 0
 bucket/TraeCN.json, dodorz/scoop, 0
+bucket/TraeWork.json, dodorz/scoop, 0
 bucket/Transfersh.json, dodorz/scoop, 1
 bucket/TranslucentTB-Install.json, ACooper81/scoop-apps, 1
 bucket/Transmission-Portable.json, ACooper81/scoop-apps, 1
@@ -1976,6 +1977,7 @@ bucket/activexhelper.json, kodybrown/scoop-nirsoft, 0
 bucket/activitywatch.json, ScoopInstaller/Extras, 1
 bucket/actools.json, Calinou/scoop-games, 1
 bucket/acttools.json, hu3rror/scoop-muggle, 1
+bucket/actus-auto-clicker.json, hoilc/scoop-lemon, 0
 bucket/adapterwatch.json, kodybrown/scoop-nirsoft, 0
 bucket/adata-ssdtoolbox.json, SayCV/scoop-cvp, 1
 bucket/adb.json, ScoopInstaller/Main, 0
@@ -3298,6 +3300,7 @@ bucket/clipboard-online.json, hu3rror/scoop-muggle, 1
 bucket/clipboard.json, ScoopInstaller/Main, 1
 bucket/clipboardfusion.json, hoilc/scoop-lemon, 0
 bucket/clipboardic.json, ScoopInstaller/Nirsoft, 0
+bucket/clipboardx.json, hoilc/scoop-lemon, 1
 bucket/clipgrab.json, starise/Scoop-Confetti, 0
 bucket/cliproxyapi.json, ScoopInstaller/Main, 1
 bucket/clips.json, hoilc/scoop-lemon, 0
@@ -3310,6 +3313,7 @@ bucket/cljstyle.json, hoilc/scoop-lemon, 1
 bucket/clnch.json, jfut/scoop-jfut, 0
 bucket/cloak-proxy.json, hoilc/scoop-lemon, 1
 bucket/cloak.json, ScoopInstaller/Main, 1
+bucket/cloakbrowser.json, hoilc/scoop-lemon, 1
 bucket/clobbr-cli.json, aliesbelik/poldi, 1
 bucket/cloc.json, ScoopInstaller/Main, 1
 bucket/clockpod.json, hoilc/scoop-lemon, 0
@@ -4042,6 +4046,7 @@ bucket/dnsx.json, hoilc/scoop-lemon, 1
 bucket/doc-downloader.json, DoveBoy/Apps, 1
 bucket/doc2go.json, hoilc/scoop-lemon, 1
 bucket/docear.json, ScoopInstaller/Extras, 0
+bucket/docformat-gui.json, hoilc/scoop-lemon, 1
 bucket/docfx.json, ScoopInstaller/Main, 1
 bucket/docker-buildx.json, ScoopInstaller/Main, 1
 bucket/docker-cli.json, iquiw/scoop-bucket, 1
@@ -4838,7 +4843,6 @@ bucket/fixcue.json, hoilc/scoop-lemon, 1
 bucket/fixes-wsl-mac-dynaddr.json, SayCV/scoop-cvp, 1
 bucket/fixwin-10.json, naderi/scoop-bucket, 0
 bucket/fixwin-11.json, naderi/scoop-bucket, 0
-bucket/fl-studio-patcher.json, DoveBoy/Apps, 1
 bucket/flac.json, ScoopInstaller/Main, 1
 bucket/flacout.json, hoilc/scoop-lemon, 0
 bucket/fladder.json, ScoopInstaller/Extras, 1
@@ -5238,6 +5242,7 @@ bucket/gh.json, ScoopInstaller/Main, 1
 bucket/ghc96.json, iquiw/scoop-bucket, 0
 bucket/ghcup.json, ScoopInstaller/Main, 1
 bucket/ghdl.json, ScoopInstaller/Main, 1
+bucket/ghgrab.json, aliesbelik/poldi, 1
 bucket/ghidra-beta.json, NyaMisty/scoop_bucket_misty, 1
 bucket/ghidra-nightly.json, NyaMisty/scoop_bucket_misty, 1
 bucket/ghidra.json, ScoopInstaller/Extras, 1
@@ -8527,7 +8532,7 @@ bucket/officeins.json, ScoopInstaller/Nirsoft, 0
 bucket/officetool-dotnet.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetool.json, kkzzhizhou/scoop-zapps, 0
 bucket/officetoolplus-with-runtime.json, DoveBoy/Apps, 1
-bucket/officetoolplus.json, naderi/scoop-bucket, 1
+bucket/officetoolplus.json, akirco/aki-apps, 1
 bucket/offlineinsiderenroll.json, ScoopInstaller/Main, 1
 bucket/offlineregistryfinder.json, ScoopInstaller/Nirsoft, 0
 bucket/offlineregistryview.json, ScoopInstaller/Nirsoft, 0
@@ -9715,7 +9720,7 @@ bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqrs.json, hoilc/scoop-lemon, 1
 bucket/praat.json, ScoopInstaller/Extras, 1
@@ -12003,6 +12008,7 @@ bucket/tidy-viewer.json, brian6932/dank-scoop, 1
 bucket/tidy.json, ScoopInstaller/Main, 1
 bucket/tidyos.json, DoveBoy/Apps, 1
 bucket/tiejili.json, hoilc/scoop-lemon, 1
+bucket/tiez-clipboard.json, hoilc/scoop-lemon, 1
 bucket/tigervnc-client.json, jfut/scoop-jfut, 0
 bucket/tigervnc.json, jingyu9575/scoop-jingyu9575, 0
 bucket/tightvnc.json, ScoopInstaller/Extras, 0
@@ -13067,6 +13073,7 @@ bucket/winobj.json, niheaven/scoop-sysinternals, 1
 bucket/winobjex64.json, hoilc/scoop-lemon, 1
 bucket/winosinfo.json, hoilc/scoop-lemon, 0
 bucket/winpaletter.json, naderi/scoop-bucket, 1
+bucket/winpaste.json, hoilc/scoop-lemon, 1
 bucket/winpkfilter.json, seumsc/scoop-seu, 1
 bucket/winprefetchview.json, ScoopInstaller/Nirsoft, 0
 bucket/winpty-cygwin.json, dodorz/scoop, 1
