@@ -1,18 +1,18 @@
 {
-  "version": "1.1.38",
+  "version": "1.1.40",
   "description": "A beautiful, feature-rich SSH workspace built with Electron, React, and xterm.js.",
   "homepage": "https://netcatty.app/",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/binaricat/Netcatty/releases/download/v1.1.38/Netcatty-1.1.38-win-x64.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/binaricat/Netcatty/releases/download/v1.1.40/Netcatty-1.1.40-win-x64.exe#/dl.7z",
       "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
-      "hash": "45ce44e1231ff806f567ca788f73313f7320a2a2a4f656bbd1a71afcf0483530"
+      "hash": "fa5ed2d8405f391213deb09d7059ad841b0f302f1d7e8700d64dd4c05284af9c"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/binaricat/Netcatty/releases/download/v1.1.38/Netcatty-1.1.38-win-arm64.exe#/dl.7z",
+      "url": "https://ghproxy.085404.xyz/https://github.com/binaricat/Netcatty/releases/download/v1.1.40/Netcatty-1.1.40-win-arm64.exe#/dl.7z",
       "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
-      "hash": "bc6a6f2a929a12f7f5d7bfccd8b02ab79374a3cf77835a883388b76f68ee1a2a"
+      "hash": "f2abede2f40168df13211a3f822fc0dc8f830947e1cf457d61216f324e619d61"
     }
   },
   "shortcuts": [
