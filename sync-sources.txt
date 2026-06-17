@@ -2170,6 +2170,7 @@ bucket/angband.json, Calinou/scoop-games, 1
 bucket/angle-grinder.json, hoilc/scoop-lemon, 1
 bucket/angr-management.json, ScoopInstaller/Extras, 1
 bucket/ani-cli.json, ScoopInstaller/Extras, 1
+bucket/anibaka.json, DoveBoy/Apps, 1
 bucket/anich.json, hoilc/scoop-lemon, 1
 bucket/animation-garden-desktop.json, Weidows-projects/scoop-3rd, 1
 bucket/anime4k-glsl-high.json, Weidows-projects/scoop-3rd, 1
@@ -2350,6 +2351,8 @@ bucket/assaultcube.json, Calinou/scoop-games, 1
 bucket/asset-ripper.json, Calinou/scoop-games, 1
 bucket/assetripper.json, hoilc/scoop-lemon, 1
 bucket/assetstudio.json, Calinou/scoop-games, 1
+bucket/assetstudiomod-cli.json, hoilc/scoop-lemon, 1
+bucket/assetstudiomod-gui.json, hoilc/scoop-lemon, 1
 bucket/assh.json, aliesbelik/poldi, 1
 bucket/assimp3.json, ScoopInstaller/Versions, 1
 bucket/assume-role.json, ScoopInstaller/Extras, 1
@@ -7330,6 +7333,7 @@ bucket/lxi-tools.json, hoilc/scoop-lemon, 1
 bucket/lxmusic.json, chawyehsu/dorado, 1
 bucket/lxrunoffline.json, ScoopInstaller/Extras, 1
 bucket/lychee.json, ScoopInstaller/Main, 1
+bucket/lynmusic.json, DoveBoy/Apps, 1
 bucket/lynx.json, ScoopInstaller/Main, 1
 bucket/lynx283.json, ScoopInstaller/Versions, 1
 bucket/lyricify.json, hoilc/scoop-lemon, 1
@@ -7573,6 +7577,7 @@ bucket/mendeley.json, ScoopInstaller/Extras, 0
 bucket/meow.json, ScoopInstaller/Extras, 1
 bucket/mercurial.json, ScoopInstaller/Main, 0
 bucket/mercury.json, brian6932/dank-scoop, 1
+bucket/mergify-cli.json, hoilc/scoop-lemon, 1
 bucket/mergiraf.json, ScoopInstaller/Main, 0
 bucket/mery.json, SayCV/scoop-cvp, 0
 bucket/mesa3d-mingw.json, Calinou/scoop-games, 1
@@ -9745,7 +9750,7 @@ bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqrs.json, hoilc/scoop-lemon, 1
 bucket/praat.json, ScoopInstaller/Extras, 1
