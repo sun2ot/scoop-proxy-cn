@@ -1,12 +1,12 @@
 {
-  "version": "0.40.2",
+  "version": "0.42.0",
   "description": "An interactive client for PostgreSQL, MySQL and SQLite3.",
   "homepage": "https://github.com/danvergara/dblab",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/danvergara/dblab/releases/download/v0.40.2/dblab_0.40.2_windows_amd64.tar.gz",
-      "hash": "b5ef29730fdd360c892dcb13ac523149a37c739efdb88f0dca7706256baf1532"
+      "url": "https://ghproxy.085404.xyz/https://github.com/danvergara/dblab/releases/download/v0.42.0/dblab_0.42.0_windows_amd64.tar.gz",
+      "hash": "095a4390145e05cc53b1b847e7ddce736965d482324da6063ad5c32497964a9d"
     }
   },
   "bin": "dblab.exe",

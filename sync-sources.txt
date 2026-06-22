@@ -4242,7 +4242,7 @@ bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
 bucket/duckling.json, hoilc/scoop-lemon, 1
 bucket/duckscript.json, hoilc/scoop-lemon, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -4537,7 +4537,7 @@ bucket/everyone-can-use-english.json, Weidows-projects/scoop-3rd, 1
 bucket/everything-alpha.json, ScoopInstaller/Versions, 1
 bucket/everything-beta-np.json, ScoopInstaller/Nonportable, 0
 bucket/everything-beta.json, ScoopInstaller/Versions, 1
-bucket/everything-cli.json, ScoopInstaller/Main, 0
+bucket/everything-cli.json, ScoopInstaller/Main, 1
 bucket/everything-lite.json, ScoopInstaller/Extras, 1
 bucket/everything-np.json, ScoopInstaller/Nonportable, 0
 bucket/everything-powertoys.json, ScoopInstaller/Extras, 1
@@ -5357,6 +5357,7 @@ bucket/git.json, ScoopInstaller/Main, 1
 bucket/git19.json, ScoopInstaller/Versions, 1
 bucket/gitahead.json, ScoopInstaller/Extras, 1
 bucket/gitalias.json, DoveBoy/Apps, 0
+bucket/gitas.json, ScoopInstaller/Extras, 1
 bucket/gitbutler-nightly.json, ScoopInstaller/Versions, 0
 bucket/gitbutler.json, ScoopInstaller/Extras, 0
 bucket/gitcs.json, hoilc/scoop-lemon, 1
@@ -6129,7 +6130,7 @@ bucket/imdone.json, ScoopInstaller/Extras, 0
 bucket/imessage-exporter.json, hoilc/scoop-lemon, 1
 bucket/imewlconverter.json, hu3rror/scoop-muggle, 1
 bucket/imfile-portable.json, DoveBoy/Apps, 1
-bucket/imfile.json, DoveBoy/Apps, 1
+bucket/imfile.json, naderi/scoop-bucket, 1
 bucket/img-convert.json, hoilc/scoop-lemon, 0
 bucket/imgbrd-grabber.json, cc713/ownscoop, 1
 bucket/imgburn.ja.json, jfut/scoop-jfut, 0
@@ -6579,6 +6580,8 @@ bucket/kalc.json, hoilc/scoop-lemon, 1
 bucket/kalk.json, ScoopInstaller/Main, 1
 bucket/kalker.json, ScoopInstaller/Main, 1
 bucket/kaminari.json, hoilc/scoop-lemon, 1
+bucket/kamusic-portable.json, DoveBoy/Apps, 1
+bucket/kamusic.json, DoveBoy/Apps, 1
 bucket/kanata-cmd.json, ScoopInstaller/Extras, 1
 bucket/kanata.json, ScoopInstaller/Extras, 1
 bucket/kando-portable.json, DoveBoy/Apps, 1
@@ -7735,7 +7738,7 @@ bucket/mindustry-server.json, Calinou/scoop-games, 1
 bucket/mindustry.json, Calinou/scoop-games, 1
 bucket/mine-imator.json, chawyehsu/dorado, 0
 bucket/minecraft.json, Calinou/scoop-games, 0
-bucket/mineru.json, hoilc/scoop-lemon, 0
+bucket/mineru.json, dodorz/scoop, 0
 bucket/minesweeper-arbiter.json, amorphobia/siku, 0
 bucket/mineways.json, chawyehsu/dorado, 0
 bucket/mingit-busybox.json, ScoopInstaller/Main, 1
@@ -8765,7 +8768,7 @@ bucket/openshift-origin-client.json, ScoopInstaller/Main, 1
 bucket/openshot.json, ScoopInstaller/Extras, 1
 bucket/opensoldat.json, Deide/deide-bucket, 1
 bucket/openspades.json, Calinou/scoop-games, 1
-bucket/openspeedy.json, hoilc/scoop-lemon, 1
+bucket/openspeedy.json, DoveBoy/Apps, 1
 bucket/openssh.json, ScoopInstaller/Main, 1
 bucket/openssl-light.json, ScoopInstaller/Main, 1
 bucket/openssl-lts-light.json, ScoopInstaller/Main, 1
@@ -9606,7 +9609,7 @@ bucket/pixieditor.json, ScoopInstaller/Extras, 1
 bucket/pixitracker-1bit.json, ScoopInstaller/Extras, 0
 bucket/pixitracker.json, ScoopInstaller/Extras, 0
 bucket/pixiv-omina.json, batkiz/backit, 1
-bucket/pixivbiu.json, hu3rror/scoop-muggle, 1
+bucket/pixivbiu.json, DoveBoy/Apps, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
 bucket/pixpin-beta.json, hoilc/scoop-lemon, 0
 bucket/pixpin.json, chawyehsu/dorado, 0
@@ -10882,7 +10885,7 @@ bucket/screen-plus.json, ChinLong/scoop-customize, 0
 bucket/screen-saver-control.json, ScoopInstaller/Extras, 0
 bucket/screenbroadcaster-net481.json, DoveBoy/Apps, 1
 bucket/screenbroadcaster-net8.json, DoveBoy/Apps, 1
-bucket/screencapture.json, hoilc/scoop-lemon, 1
+bucket/screencapture.json, DoveBoy/Apps, 1
 bucket/screenoff.json, ScoopInstaller/Extras, 0
 bucket/screenshot-captor.json, naderi/scoop-bucket, 0
 bucket/screentogif.json, ScoopInstaller/Extras, 1
@@ -12294,6 +12297,7 @@ bucket/turtl.json, ScoopInstaller/Extras, 1
 bucket/tusk.json, ScoopInstaller/Extras, 1
 bucket/tutanota.json, ScoopInstaller/Extras, 1
 bucket/tutuicmptunnel.json, hoilc/scoop-lemon, 1
+bucket/tuxedo.json, ScoopInstaller/Main, 1
 bucket/tuxguitar.json, ScoopInstaller/Extras, 0
 bucket/tuya.json, akirco/aki-apps, 0
 bucket/tweakpdf.json, hoilc/scoop-lemon, 0
@@ -13112,6 +13116,7 @@ bucket/winmailpassrec.json, ScoopInstaller/Nirsoft, 0
 bucket/winmemorycleaner.json, ScoopInstaller/Extras, 1
 bucket/winmerge.json, ScoopInstaller/Extras, 1
 bucket/winmerge2011.json, ScoopInstaller/Extras, 1
+bucket/winmole.json, DoveBoy/Apps, 1
 bucket/winmouse.json, hoilc/scoop-lemon, 0
 bucket/winmtr-live.json, ScoopInstaller/Extras, 1
 bucket/winmtr.json, ScoopInstaller/Extras, 0
