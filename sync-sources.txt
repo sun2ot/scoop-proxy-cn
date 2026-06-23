@@ -124,7 +124,7 @@ bucket/AiPy.json, dodorz/scoop, 0
 bucket/Aida64-Bu.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-En.json, Paxxs/Cluttered-bucket, 1
 bucket/Aida64-Ex.json, Paxxs/Cluttered-bucket, 1
-bucket/AionUi.json, renxia/scoop-bucket, 1
+bucket/AionUi.json, dodorz/scoop, 1
 bucket/AliIM.json, kkzzhizhou/scoop-zapps, 0
 bucket/AliWangWang.json, SayCV/scoop-cvp, 1
 bucket/Allavsoft-Install.json, ACooper81/scoop-apps, 0
@@ -1311,7 +1311,6 @@ bucket/Regina.json, dodorz/scoop, 0
 bucket/RegistryWorkshop-zh-cn.json, dodorz/scoop, 0
 bucket/RegistryWorkshop.json, zhoujin7/tomato, 0
 bucket/Regshot-Portable.json, ACooper81/scoop-apps, 0
-bucket/Regshot.json, dodorz/scoop, 0
 bucket/Rem-Empty-Dir.json, dodorz/scoop, 0
 bucket/RemNote-Portable.json, ACooper81/scoop-apps, 0
 bucket/Remix-desktop.json, Weidows-projects/scoop-3rd, 1
@@ -3251,7 +3250,7 @@ bucket/clash.net.json, Weidows-projects/scoop-3rd, 1
 bucket/clash2singbox.json, hoilc/scoop-lemon, 1
 bucket/clashcross.json, DoveBoy/Apps, 1
 bucket/clashmi-portable.json, DoveBoy/Apps, 1
-bucket/clashmi.json, DoveBoy/Apps, 1
+bucket/clashmi.json, hoilc/scoop-lemon, 1
 bucket/clashn.json, hoilc/scoop-lemon, 1
 bucket/clashrauto.json, akirco/aki-apps, 1
 bucket/clashrs.json, DoveBoy/Apps, 1
@@ -7080,7 +7079,6 @@ bucket/libimobiledevice-nightly.json, NyaMisty/scoop_bucket_misty, 1
 bucket/libimobiledevice.json, TheCjw/scoop-retools, 1
 bucket/libjpeg-turbo.json, ScoopInstaller/Main, 1
 bucket/libjxl.json, ScoopInstaller/Main, 1
-bucket/libportable-iceweasel-zh-cn.json, hoilc/scoop-lemon, 0
 bucket/libportable-iceweasel.json, hoilc/scoop-lemon, 0
 bucket/libportable.json, hoilc/scoop-lemon, 0
 bucket/library.net-standard.json, hoilc/scoop-lemon, 0
@@ -7263,6 +7261,8 @@ bucket/lolcat.json, dodorz/scoop, 1
 bucket/loophole-cli.json, hoilc/scoop-lemon, 1
 bucket/loophole-desktop.json, hoilc/scoop-lemon, 1
 bucket/loot.json, Calinou/scoop-games, 1
+bucket/lore.json, ScoopInstaller/Main, 1
+bucket/loreserver.json, ScoopInstaller/Main, 1
 bucket/lorien.json, ScoopInstaller/Extras, 1
 bucket/lossless-audio-checker.json, starise/Scoop-Confetti, 0
 bucket/losslesscut.json, ScoopInstaller/Extras, 1
@@ -7466,6 +7466,7 @@ bucket/materialgram.json, ScoopInstaller/Extras, 1
 bucket/materialize.json, ScoopInstaller/Extras, 0
 bucket/mathpix.json, ScoopInstaller/Extras, 0
 bucket/matlab-mcp-core-server.json, ScoopInstaller/Main, 1
+bucket/matlab-mcp-server.json, ScoopInstaller/Main, 1
 bucket/matlab-package-manager.json, ScoopInstaller/Main, 0
 bucket/matterbridge.json, ScoopInstaller/Extras, 1
 bucket/matterircd.json, ScoopInstaller/Extras, 1
@@ -8994,7 +8995,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -10377,6 +10378,7 @@ bucket/registryexplorer.json, hoilc/scoop-lemon, 1
 bucket/regjump.json, niheaven/scoop-sysinternals, 1
 bucket/regscanner.json, ScoopInstaller/Nirsoft, 0
 bucket/regseeker.json, naderi/scoop-bucket, 0
+bucket/regshot.json, hoilc/scoop-lemon, 0
 bucket/regtools.json, ScoopInstaller/Nirsoft, 0
 bucket/regula.json, ScoopInstaller/Main, 1
 bucket/rehash.json, rasa/scoops, 0
