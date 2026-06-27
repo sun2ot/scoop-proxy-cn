@@ -2284,6 +2284,8 @@ bucket/aqua.json, ScoopInstaller/Main, 1
 bucket/aquasnap.json, starise/Scoop-Confetti, 0
 bucket/arc.json, ScoopInstaller/Main, 1
 bucket/arc_unpacker.json, hoilc/scoop-lemon, 1
+bucket/arcade-manager-console.json, Calinou/scoop-games, 1
+bucket/arcade-manager.json, Calinou/scoop-games, 1
 bucket/arcadedb.json, ScoopInstaller/Extras, 1
 bucket/archi.json, ScoopInstaller/Extras, 1
 bucket/archisteamfarm-generic.json, seumsc/scoop-seu, 1
@@ -2772,6 +2774,7 @@ bucket/blisk-portable.json, naderi/scoop-bucket, 0
 bucket/blisk.json, ScoopInstaller/Extras, 0
 bucket/blitz.json, Calinou/scoop-games, 0
 bucket/blitzmax.json, hoilc/scoop-lemon, 1
+bucket/bloatynosy.json, ScoopInstaller/Extras, 1
 bucket/blobsaver.json, ScoopInstaller/Extras, 1
 bucket/blockbench.json, Calinou/scoop-games, 1
 bucket/blockthespot.json, DoveBoy/Apps, 1
@@ -2953,7 +2956,7 @@ bucket/caffeinated.json, naderi/scoop-bucket, 0
 bucket/caffeine.json, ScoopInstaller/Extras, 0
 bucket/cairo-desktop.json, ScoopInstaller/Extras, 1
 bucket/caitouyun.json, hoilc/scoop-lemon, 0
-bucket/cajviewer.json, ivaquero/scoopet, 0
+bucket/cajviewer.json, dodorz/scoop, 0
 bucket/cake-wallet.json, ScoopInstaller/Extras, 1
 bucket/cake.json, ScoopInstaller/Main, 1
 bucket/calctus.json, hoilc/scoop-lemon, 1
@@ -5926,6 +5929,7 @@ bucket/hootvoice.json, jfut/scoop-jfut, 1
 bucket/hop-cli.json, hoilc/scoop-lemon, 1
 bucket/hopp-cli.json, ScoopInstaller/Main, 1
 bucket/hoppscotch.json, ScoopInstaller/Extras, 1
+bucket/hoptodesk.json, hoilc/scoop-lemon, 1
 bucket/horcrux.json, ScoopInstaller/Extras, 1
 bucket/horizon-eda.json, ScoopInstaller/Extras, 1
 bucket/host-editor.json, ScoopInstaller/Extras, 0
@@ -6105,7 +6109,7 @@ bucket/igdm.json, ScoopInstaller/Extras, 1
 bucket/iggy-cli.json, hoilc/scoop-lemon, 1
 bucket/ignoreit.json, ScoopInstaller/Extras, 1
 bucket/igrep.json, ScoopInstaller/Main, 1
-bucket/igv.json, hoilc/scoop-lemon, 0
+bucket/igv.json, ScoopInstaller/Extras, 0
 bucket/ihateborders.json, starise/Scoop-Gaming, 1
 bucket/iii.json, ScoopInstaller/Main, 1
 bucket/iiscrypto.json, hoilc/scoop-lemon, 0
@@ -6458,6 +6462,7 @@ bucket/jmeter-pm.json, ScoopInstaller/Extras, 0
 bucket/jmeter.json, ScoopInstaller/Extras, 0
 bucket/jmkvpropedit.json, ScoopInstaller/Extras, 1
 bucket/jmol.json, hoilc/scoop-lemon, 0
+bucket/jmstoolbox.json, ScoopInstaller/Extras, 1
 bucket/jmx_exporter.json, hoilc/scoop-lemon, 1
 bucket/jmxterm.json, ScoopInstaller/Main, 1
 bucket/jndinjector.json, ViCrack/scoop-bucket, 1
@@ -7754,7 +7759,7 @@ bucket/mindustry-server.json, Calinou/scoop-games, 1
 bucket/mindustry.json, Calinou/scoop-games, 1
 bucket/mine-imator.json, chawyehsu/dorado, 0
 bucket/minecraft.json, Calinou/scoop-games, 0
-bucket/mineru.json, hoilc/scoop-lemon, 0
+bucket/mineru.json, dodorz/scoop, 0
 bucket/minesweeper-arbiter.json, amorphobia/siku, 0
 bucket/mineways.json, chawyehsu/dorado, 0
 bucket/mingit-busybox.json, ScoopInstaller/Main, 1
