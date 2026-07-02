@@ -1,10 +1,10 @@
 {
-  "version": "2.4.9",
+  "version": "2.4.12",
   "description": "A feature-rich screenshot program.",
   "homepage": "https://github.com/xland/ScreenCapture",
   "license": "LGPL-3.0-only",
-  "url": "https://ghproxy.085404.xyz/https://github.com/xland/ScreenCapture/releases/download/2.4.9/ScreenCapture.exe",
-  "hash": "c772b5c64dd58e88192a080f258d4ce4f943b21e21d558eebded7d2797d3f45c",
+  "url": "https://ghproxy.085404.xyz/https://github.com/xland/ScreenCapture/releases/download/2.4.12/ScreenCapture.exe",
+  "hash": "a643d5b92f704800c1fa0ed05a6a319abdaae547dcff98aa0c8f2b2822660451",
   "bin": "ScreenCapture.exe",
   "shortcuts": [
     [
