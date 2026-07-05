@@ -27,7 +27,7 @@
   "persist": "memreduct.ini",
   "checkver": {
     "github": "https://github.com/henrypp/memreduct",
-    "regex": "tag/v\\.([\\d.]+)"
+    "regex": "^v\\.([\\d.]+)$"
   },
   "autoupdate": {
     "url": "https://ghproxy.085404.xyz/https://github.com/henrypp/memreduct/releases/download/v.$version/memreduct-$version-bin.7z",

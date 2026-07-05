@@ -1959,6 +1959,7 @@ bucket/abs-lang.json, hoilc/scoop-lemon, 1
 bucket/absolutetouch.json, beerpiss/scoop-bucket, 1
 bucket/absolutetouchex.json, beerpiss/scoop-bucket, 1
 bucket/abstreet.json, hoilc/scoop-lemon, 1
+bucket/abtop.json, dodorz/scoop, 1
 bucket/accentcolorizer.json, brian6932/dank-scoop, 1
 bucket/access.json, hoilc/scoop-lemon, 1
 bucket/accesschk.json, niheaven/scoop-sysinternals, 1
@@ -2166,6 +2167,7 @@ bucket/android-line-transfer.json, ScoopInstaller/Extras, 0
 bucket/android-messages.json, ScoopInstaller/Extras, 1
 bucket/android-ndk.json, hoilc/scoop-lemon, 0
 bucket/android-payload-dumper.json, ScoopInstaller/Main, 1
+bucket/android-performance-analyzer.json, ScoopInstaller/Extras, 0
 bucket/android-sdk.json, akirco/aki-apps, 0
 bucket/android-sms-backup-and-restore.json, ScoopInstaller/Extras, 0
 bucket/android-studio-beta.json, ScoopInstaller/Versions, 0
@@ -2370,7 +2372,7 @@ bucket/assimp3.json, ScoopInstaller/Versions, 1
 bucket/assume-role.json, ScoopInstaller/Extras, 1
 bucket/ast-grep.json, ScoopInstaller/Main, 1
 bucket/astro-cli.json, hoilc/scoop-lemon, 1
-bucket/astrogrep.json, ScoopInstaller/Extras, 0
+bucket/astrogrep.json, ScoopInstaller/Extras, 1
 bucket/astyle.json, ScoopInstaller/Main, 0
 bucket/asuite.json, ScoopInstaller/Extras, 0
 bucket/atac.json, ScoopInstaller/Main, 1
@@ -3245,7 +3247,7 @@ bucket/clash-dashboard.json, everyx/scoop-bucket, 1
 bucket/clash-for-windows.json, amorphobia/siku, 0
 bucket/clash-mi.json, ivaquero/scoopet, 1
 bucket/clash-mini.json, DoveBoy/Apps, 1
-bucket/clash-nyanpasu-nightly.json, hu3rror/scoop-muggle, 1
+bucket/clash-nyanpasu-nightly.json, hoilc/scoop-lemon, 1
 bucket/clash-nyanpasu-portable.json, DoveBoy/Apps, 1
 bucket/clash-nyanpasu.json, ScoopInstaller/Extras, 1
 bucket/clash-party-portable.json, DoveBoy/Apps, 1
@@ -3266,7 +3268,7 @@ bucket/clash.net.json, Weidows-projects/scoop-3rd, 1
 bucket/clash2singbox.json, hoilc/scoop-lemon, 1
 bucket/clashcross.json, DoveBoy/Apps, 1
 bucket/clashmi-portable.json, DoveBoy/Apps, 1
-bucket/clashmi.json, DoveBoy/Apps, 1
+bucket/clashmi.json, hoilc/scoop-lemon, 1
 bucket/clashn.json, hoilc/scoop-lemon, 1
 bucket/clashrauto.json, akirco/aki-apps, 1
 bucket/clashrs.json, DoveBoy/Apps, 1
@@ -3838,7 +3840,7 @@ bucket/dbmate.json, ScoopInstaller/Main, 1
 bucket/dbmigration.net.json, hoilc/scoop-lemon, 0
 bucket/dbtpl.json, hoilc/scoop-lemon, 1
 bucket/dbvis.json, ScoopInstaller/Extras, 0
-bucket/dbx.json, hoilc/scoop-lemon, 1
+bucket/dbx.json, ScoopInstaller/Extras, 1
 bucket/dbxcli.json, ScoopInstaller/Extras, 1
 bucket/dcmtk.json, ScoopInstaller/Main, 0
 bucket/dcv.json, aliesbelik/poldi, 1
@@ -4183,7 +4185,7 @@ bucket/dovi-tool.json, ScoopInstaller/Extras, 1
 bucket/downkyi.json, chawyehsu/dorado, 1
 bucket/downkyicore.json, hoilc/scoop-lemon, 1
 bucket/downtester.json, ScoopInstaller/Nirsoft, 0
-bucket/doxx.json, DoveBoy/Apps, 1
+bucket/doxx.json, dodorz/scoop, 1
 bucket/doxygen.json, ScoopInstaller/Main, 0
 bucket/dpeaklim.json, seumsc/scoop-seu, 0
 bucket/dpkgen.json, hoilc/scoop-lemon, 0
@@ -4259,7 +4261,7 @@ bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
 bucket/duckling.json, hoilc/scoop-lemon, 1
 bucket/duckscript.json, hoilc/scoop-lemon, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -5667,30 +5669,31 @@ bucket/graaljs-community.json, hoilc/scoop-lemon, 1
 bucket/graaljs.json, hoilc/scoop-lemon, 1
 bucket/graalpy-community.json, hoilc/scoop-lemon, 1
 bucket/graalpy.json, hoilc/scoop-lemon, 1
-bucket/graalvm-ce-17jdk.json, ScoopInstaller/Java, 1
-bucket/graalvm-jdk11.json, ScoopInstaller/Java, 1
-bucket/graalvm-jdk17.json, ScoopInstaller/Java, 1
-bucket/graalvm-nightly-jdk11.json, ScoopInstaller/Java, 1
-bucket/graalvm-nightly-jdk17.json, ScoopInstaller/Java, 1
-bucket/graalvm-nightly.json, ScoopInstaller/Java, 1
+bucket/graalvm-jdk-dev.json, ScoopInstaller/Java, 1
+bucket/graalvm-jdk.json, ScoopInstaller/Java, 1
 bucket/graalvm-oracle-17jdk.json, ScoopInstaller/Java, 0
+bucket/graalvm-oracle-20jdk.json, ScoopInstaller/Java, 0
 bucket/graalvm-oracle-21jdk.json, ScoopInstaller/Java, 0
+bucket/graalvm-oracle-22jdk.json, ScoopInstaller/Java, 0
+bucket/graalvm-oracle-23jdk.json, ScoopInstaller/Java, 0
+bucket/graalvm-oracle-24jdk.json, ScoopInstaller/Java, 0
+bucket/graalvm-oracle-jdk-ea.json, ScoopInstaller/Java, 1
 bucket/graalvm-oracle-jdk.json, ScoopInstaller/Java, 0
-bucket/graalvm.json, ScoopInstaller/Java, 1
+bucket/graalvm17-jdk.json, ScoopInstaller/Java, 1
 bucket/graalvm19-jdk11.json, ScoopInstaller/Java, 1
 bucket/graalvm19-jdk8.json, ScoopInstaller/Java, 1
-bucket/graalvm19.json, ScoopInstaller/Java, 1
+bucket/graalvm20-jdk.json, ScoopInstaller/Java, 1
 bucket/graalvm20-jdk11.json, ScoopInstaller/Java, 1
 bucket/graalvm20-jdk8.json, ScoopInstaller/Java, 1
-bucket/graalvm20.json, ScoopInstaller/Java, 1
+bucket/graalvm21-jdk.json, ScoopInstaller/Java, 1
 bucket/graalvm21-jdk11.json, ScoopInstaller/Java, 1
 bucket/graalvm21-jdk17.json, ScoopInstaller/Java, 1
-bucket/graalvm21-jdk21.json, ScoopInstaller/Java, 1
-bucket/graalvm21.json, ScoopInstaller/Java, 1
+bucket/graalvm22-jdk.json, ScoopInstaller/Java, 1
 bucket/graalvm22-jdk11.json, ScoopInstaller/Java, 1
 bucket/graalvm22-jdk17.json, ScoopInstaller/Java, 1
-bucket/graalvm22.json, ScoopInstaller/Java, 1
-bucket/graalvm25.json, ScoopInstaller/Java, 1
+bucket/graalvm23-jdk.json, ScoopInstaller/Java, 1
+bucket/graalvm24-jdk.json, ScoopInstaller/Java, 1
+bucket/graalvm25-jdk.json, ScoopInstaller/Java, 1
 bucket/graboid.json, beerpiss/scoop-bucket, 1
 bucket/gradle-bin.json, ScoopInstaller/Main, 0
 bucket/gradle-dependency-tree-diff.json, hoilc/scoop-lemon, 1
@@ -6238,6 +6241,7 @@ bucket/installedappview.json, ScoopInstaller/Nirsoft, 0
 bucket/installedcodec.json, ScoopInstaller/Nirsoft, 0
 bucket/installeddriverslist.json, ScoopInstaller/Nirsoft, 0
 bucket/installedpackagesview.json, ScoopInstaller/Nirsoft, 0
+bucket/installerclean.json, ScoopInstaller/Extras, 1
 bucket/instaloader.json, akirco/aki-apps, 1
 bucket/instant-eyedropper.json, ScoopInstaller/Extras, 0
 bucket/integer-scaler.json, hoilc/scoop-lemon, 0
@@ -6819,6 +6823,7 @@ bucket/kotatogram.json, ScoopInstaller/Extras, 1
 bucket/kotlin-interactive-shell.json, ScoopInstaller/Extras, 1
 bucket/kotlin-native.json, ScoopInstaller/Main, 1
 bucket/kotlin.json, ScoopInstaller/Main, 1
+bucket/kova.json, ScoopInstaller/Extras, 1
 bucket/koyeb-cli.json, hoilc/scoop-lemon, 1
 bucket/kp-diff.json, hoilc/scoop-lemon, 1
 bucket/kpcli.json, rasa/scoops, 0
@@ -7435,6 +7440,7 @@ bucket/mailsend-go.json, ScoopInstaller/Main, 1
 bucket/mailsend.json, ScoopInstaller/Main, 1
 bucket/mailspring.json, ScoopInstaller/Extras, 1
 bucket/majdata.json, beerpiss/scoop-bucket, 1
+bucket/make-look-scanned.json, hoilc/scoop-lemon, 1
 bucket/make.json, ScoopInstaller/Main, 0
 bucket/makehuman.json, ScoopInstaller/Extras, 0
 bucket/makelnk.json, naderi/scoop-bucket, 1
@@ -7817,6 +7823,7 @@ bucket/minify.json, ScoopInstaller/Main, 1
 bucket/minihex.json, hoilc/scoop-lemon, 0
 bucket/minijinja-cli.json, hoilc/scoop-lemon, 1
 bucket/minikube.json, ScoopInstaller/Main, 0
+bucket/minilpa.json, ScoopInstaller/Extras, 1
 bucket/minimal-ereader.json, hoilc/scoop-lemon, 1
 bucket/minimal-firewall.json, hoilc/scoop-lemon, 1
 bucket/minimal-image-viewer.json, hoilc/scoop-lemon, 1
@@ -7874,6 +7881,7 @@ bucket/mmcompview.json, kodybrown/scoop-nirsoft, 0
 bucket/mmcsnapinsview.json, ScoopInstaller/Nirsoft, 0
 bucket/mmdbctl.json, hoilc/scoop-lemon, 1
 bucket/mmdbinspect.json, hoilc/scoop-lemon, 1
+bucket/mmdr.json, ScoopInstaller/Main, 1
 bucket/mmview.json, ScoopInstaller/Nirsoft, 0
 bucket/mo.json, iquiw/scoop-bucket, 1
 bucket/mo2.json, Calinou/scoop-games, 1
@@ -8015,7 +8023,7 @@ bucket/mpv-sponsorblock-chapterized.json, brian6932/dank-scoop, 0
 bucket/mpv-sponsorblock-minimal.json, brian6932/dank-scoop, 0
 bucket/mpv-sub-select.json, brian6932/dank-scoop, 0
 bucket/mpv-user-input.json, brian6932/dank-scoop, 0
-bucket/mpv.json, ScoopInstaller/Extras, 0
+bucket/mpv.json, ScoopInstaller/Extras, 1
 bucket/mpv.net-DW.json, cc713/ownscoop, 1
 bucket/mpv.net-beta.json, ScoopInstaller/Versions, 1
 bucket/mpv.net-cm.json, ivaquero/scoopet, 1
@@ -8981,7 +8989,7 @@ bucket/papercut.json, ScoopInstaller/Extras, 1
 bucket/paperlib.json, hoilc/scoop-lemon, 1
 bucket/par2.json, hoilc/scoop-lemon, 1
 bucket/par2cmdline.json, ScoopInstaller/Main, 1
-bucket/parabolic.json, hoilc/scoop-lemon, 1
+bucket/parabolic.json, ScoopInstaller/Extras, 1
 bucket/parallel-disk-usage.json, hoilc/scoop-lemon, 1
 bucket/parallels-client.json, amorphobia/siku, 0
 bucket/paralus-cli.json, hoilc/scoop-lemon, 1
@@ -9627,6 +9635,7 @@ bucket/pingo.json, hoilc/scoop-lemon, 0
 bucket/pingtunnel.json, hoilc/scoop-lemon, 1
 bucket/pingu.json, hoilc/scoop-lemon, 1
 bucket/pingy.json, aliesbelik/poldi, 1
+bucket/pinkbin.json, ScoopInstaller/Extras, 1
 bucket/pinniped-cli.json, hoilc/scoop-lemon, 1
 bucket/pinnynotes.json, hoilc/scoop-lemon, 1
 bucket/pint.json, hoilc/scoop-lemon, 1
@@ -11621,6 +11630,7 @@ bucket/stretchly.json, ScoopInstaller/Extras, 1
 bucket/strings.json, niheaven/scoop-sysinternals, 1
 bucket/strings2.json, hoilc/scoop-lemon, 0
 bucket/stripe-cli.json, ScoopInstaller/Main, 1
+bucket/strix.json, ScoopInstaller/Main, 1
 bucket/strokes-plus.json, naderi/scoop-bucket, 0
 bucket/strokesplus.json, ScoopInstaller/Extras, 0
 bucket/strokesplus.net.json, ScoopInstaller/Extras, 0
@@ -13217,6 +13227,7 @@ bucket/winsnap.json, kkzzhizhou/scoop-zapps, 0
 bucket/winsockservicesview.json, ScoopInstaller/Nirsoft, 0
 bucket/winspy.json, ScoopInstaller/Extras, 0
 bucket/winsshterm.json, ScoopInstaller/Extras, 1
+bucket/winsw-mihomo-service.json, hu3rror/scoop-muggle, 1
 bucket/winsw-pre.json, ScoopInstaller/Versions, 1
 bucket/winsw.json, ScoopInstaller/Main, 1
 bucket/wintogo.json, kkzzhizhou/scoop-zapps, 1
@@ -13863,6 +13874,8 @@ scripts/alacritty/install-context.reg, ScoopInstaller/Extras, 0
 scripts/alacritty/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/anlogic-td/install-context.reg.tpl, SayCV/scoop-cvp, 0
 scripts/anlogic-td/uninstall-context.reg.tpl, SayCV/scoop-cvp, 0
+scripts/astrogrep/install-context.reg, ScoopInstaller/Extras, 0
+scripts/astrogrep/uninstall-context.reg, ScoopInstaller/Extras, 0
 scripts/bee/beesvc.cmd, chawyehsu/dorado, 0
 scripts/beyondcompare4/install-context-32bit.reg, ScoopInstaller/Versions, 0
 scripts/beyondcompare4/install-context-64bit.reg, ScoopInstaller/Versions, 0
