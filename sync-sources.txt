@@ -351,6 +351,7 @@ bucket/ContextMenuManager-Portable.json, ACooper81/scoop-apps, 1
 bucket/ContextMenuManager.json, hoilc/scoop-lemon, 1
 bucket/ContextMenuMgr.json, zhoujin7/tomato, 0
 bucket/ControlUWP-Portable.json, ACooper81/scoop-apps, 1
+bucket/ControllerMeta.json, hu3rror/scoop-muggle, 1
 bucket/ConvertFrom-SourceTable.json, brian6932/dank-scoop, 1
 bucket/Coodesker-Portable.json, ACooper81/scoop-apps, 0
 bucket/CoolPDFReader.json, dodorz/scoop, 0
@@ -1445,6 +1446,7 @@ bucket/SmallBASIC.json, dodorz/scoop, 1
 bucket/SmartSystemMenu-Portable.json, ACooper81/scoop-apps, 1
 bucket/SmartTaskbar-Portable.json, ACooper81/scoop-apps, 1
 bucket/Snap.Hutao.json, Weidows-projects/scoop-3rd, 1
+bucket/SnapPaddleOCR.json, dodorz/scoop, 1
 bucket/SnappyDriverInstallerOrigin-Portable.json, ACooper81/scoop-apps, 0
 bucket/Snaptext.json, dodorz/scoop, 0
 bucket/Snipaste-Portable.json, ACooper81/scoop-apps, 0
@@ -2744,7 +2746,7 @@ bucket/bit.json, ScoopInstaller/Main, 1
 bucket/bita.json, ScoopInstaller/Extras, 1
 bucket/bitcoincore.json, chawyehsu/dorado, 1
 bucket/bitcoinknots.json, chawyehsu/dorado, 1
-bucket/bitcomet.json, batkiz/backit, 0
+bucket/bitcomet.json, naderi/scoop-bucket, 0
 bucket/bitmagnet.json, ScoopInstaller/Main, 1
 bucket/bitmessage.json, ScoopInstaller/Extras, 1
 bucket/bitrock-unpacker.json, hoilc/scoop-lemon, 1
@@ -4018,7 +4020,7 @@ bucket/diskgeniusCN.json, cc713/ownscoop, 0
 bucket/diskmon.json, niheaven/scoop-sysinternals, 1
 bucket/disksmartview.json, ScoopInstaller/Nirsoft, 0
 bucket/diskspd.json, ScoopInstaller/Extras, 1
-bucket/diskus.json, hoilc/scoop-lemon, 1
+bucket/diskus.json, ScoopInstaller/Extras, 1
 bucket/diskusage.json, aliesbelik/poldi, 1
 bucket/diskview.json, niheaven/scoop-sysinternals, 1
 bucket/dismplusplus.json, ScoopInstaller/Extras, 1
@@ -4184,7 +4186,7 @@ bucket/douyin.json, hoilc/scoop-lemon, 0
 bucket/douyu.json, DoveBoy/Apps, 0
 bucket/dovi-tool.json, ScoopInstaller/Extras, 1
 bucket/downkyi.json, chawyehsu/dorado, 1
-bucket/downkyicore.json, hoilc/scoop-lemon, 1
+bucket/downkyicore.json, batkiz/backit, 1
 bucket/downtester.json, ScoopInstaller/Nirsoft, 0
 bucket/doxx.json, dodorz/scoop, 1
 bucket/doxygen.json, ScoopInstaller/Main, 0
@@ -4262,7 +4264,7 @@ bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
 bucket/duckling.json, hoilc/scoop-lemon, 1
 bucket/duckscript.json, hoilc/scoop-lemon, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -4279,7 +4281,7 @@ bucket/dungeonrush.json, hoilc/scoop-lemon, 1
 bucket/dungeonsupdater.json, Calinou/scoop-games, 1
 bucket/dupeguru.json, ScoopInstaller/Extras, 1
 bucket/duplicacy.json, ScoopInstaller/Main, 1
-bucket/duplicate-searcher.json, ygguorun/scoop-bucket, 0
+bucket/duplicate-searcher.json, hoilc/scoop-lemon, 0
 bucket/duplicati-canary.json, ScoopInstaller/Versions, 1
 bucket/duplicati.json, ScoopInstaller/Extras, 1
 bucket/dust.json, ScoopInstaller/Main, 1
@@ -4466,7 +4468,7 @@ bucket/encodegui-np.json, ScoopInstaller/Nonportable, 0
 bucket/encore.json, Weidows-projects/scoop-3rd, 0
 bucket/encrypted-dns-server.json, hoilc/scoop-lemon, 1
 bucket/encryptedregview.json, ScoopInstaller/Nirsoft, 0
-bucket/encrypto.json, dodorz/scoop, 0
+bucket/encrypto.json, naderi/scoop-bucket, 0
 bucket/encryptpad.json, ScoopInstaller/Extras, 1
 bucket/endless-sky.json, Calinou/scoop-games, 1
 bucket/energystarx.json, DoveBoy/Apps, 1
@@ -4720,7 +4722,7 @@ bucket/feeluown.json, ivaquero/scoopet, 1
 bucket/feem.json, ScoopInstaller/Extras, 0
 bucket/feiq.json, dodorz/scoop, 0
 bucket/feishin.json, ScoopInstaller/Extras, 1
-bucket/feishu.json, akirco/aki-apps, 0
+bucket/feishu.json, scoopcn/scoopcn, 0
 bucket/feishurevokemsgpatcher.json, ViCrack/scoop-bucket, 1
 bucket/feluda.json, hoilc/scoop-lemon, 1
 bucket/fend.json, ScoopInstaller/Main, 1
@@ -6162,7 +6164,7 @@ bucket/imdone.json, ScoopInstaller/Extras, 0
 bucket/imessage-exporter.json, hoilc/scoop-lemon, 1
 bucket/imewlconverter.json, hu3rror/scoop-muggle, 1
 bucket/imfile-portable.json, DoveBoy/Apps, 1
-bucket/imfile.json, DoveBoy/Apps, 1
+bucket/imfile.json, naderi/scoop-bucket, 1
 bucket/img-convert.json, hoilc/scoop-lemon, 0
 bucket/imgbrd-grabber.json, cc713/ownscoop, 1
 bucket/imgburn.ja.json, jfut/scoop-jfut, 0
@@ -6850,6 +6852,7 @@ bucket/ktlint.json, ScoopInstaller/Main, 1
 bucket/ktor-cli.json, hoilc/scoop-lemon, 1
 bucket/ktunnel.json, ScoopInstaller/Main, 1
 bucket/ktx-software.json, ScoopInstaller/Main, 1
+bucket/ku.json, aliesbelik/poldi, 1
 bucket/kube-burner.json, hoilc/scoop-lemon, 1
 bucket/kube-capacity.json, hoilc/scoop-lemon, 1
 bucket/kube-linter.json, ScoopInstaller/Main, 1
@@ -10358,7 +10361,7 @@ bucket/reaper.json, ScoopInstaller/Extras, 0
 bucket/reasonix-desktop.json, ScoopInstaller/Extras, 1
 bucket/reasonix.json, ScoopInstaller/Main, 1
 bucket/rebar3.json, ScoopInstaller/Main, 1
-bucket/rebased.json, hoilc/scoop-lemon, 1
+bucket/rebased.json, ScoopInstaller/Extras, 1
 bucket/rebuild-shell-icon-cache.json, ViCrack/scoop-bucket, 0
 bucket/recaf.json, TheCjw/scoop-retools, 1
 bucket/recaps.json, ScoopInstaller/Extras, 1
@@ -11403,6 +11406,7 @@ bucket/speakeasy.json, hoilc/scoop-lemon, 1
 bucket/spearmint.json, Calinou/scoop-games, 1
 bucket/speccy.json, ScoopInstaller/Extras, 0
 bucket/special-k-np.json, brian6932/dank-scoop, 0
+bucket/special-k.json, ScoopInstaller/Extras, 0
 bucket/specialfoldersview.json, ScoopInstaller/Nirsoft, 0
 bucket/speed-dreams.json, Calinou/scoop-games, 0
 bucket/speedbump.json, aliesbelik/poldi, 1
@@ -13340,7 +13344,7 @@ bucket/wsa-pacman.json, ScoopInstaller/Extras, 1
 bucket/wsa-toolbox.json, SayCV/scoop-cvp, 0
 bucket/wsc.json, akirco/aki-apps, 1
 bucket/wsl-centos9.json, KNOXDEV/wsl, 1
-bucket/wsl-dashboard.json, hoilc/scoop-lemon, 1
+bucket/wsl-dashboard.json, ScoopInstaller/Extras, 1
 bucket/wsl-debian.json, KNOXDEV/wsl, 0
 bucket/wsl-distrod.json, ScoopInstaller/Extras, 1
 bucket/wsl-fedora-arm.json, KNOXDEV/wsl, 1
@@ -13357,6 +13361,7 @@ bucket/wsl-ubuntu1804-arm.json, KNOXDEV/wsl, 0
 bucket/wsl-ubuntu1804.json, KNOXDEV/wsl, 0
 bucket/wsl-ubuntu2004.json, KNOXDEV/wsl, 0
 bucket/wsl-ubuntu2204.json, KNOXDEV/wsl, 0
+bucket/wsl-ui.json, ScoopInstaller/Extras, 1
 bucket/wsl2-distro-manager.json, ScoopInstaller/Extras, 1
 bucket/wsl2-ssh-pageant.json, AkinoKaede/maple, 1
 bucket/wslgit.json, ScoopInstaller/Extras, 1
