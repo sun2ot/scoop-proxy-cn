@@ -1,61 +1,43 @@
 {
-  "version": "2.0.0-alpha+4a2ed39",
-  "description": "Clash Nyanpasu! (∠・ω< )⌒☆ An opinionated Clash GUI based on Tauri.",
-  "homepage": "https://github.com/libnyanpasu/clash-nyanpasu",
+  "version": "2.0.0-alpha+97e10c2",
+  "description": "An opinionated Clash GUI based on Tauri.",
+  "homepage": "https://nyanpasu.elaina.moe/",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/pre-release/Clash.Nyanpasu_2.0.0-alpha+4a2ed39_x86_64_portable.zip",
-      "hash": "7421633be9bc26c675a5b2260592e10bccb71dd4c3fcf6a4b4e114c1085034ca"
+      "url": "https://ghproxy.085404.xyz/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/pre-release/Clash.Nyanpasu_2.0.0-alpha+97e10c2_x86_64_portable.zip",
+      "hash": "c8fa4a9c9c4674bd48605e9770405514401dca6becdf3d0f0de060581e41621f"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/pre-release/Clash.Nyanpasu_2.0.0-alpha+4a2ed39_i686_portable.zip",
-      "hash": "9998ab4c39cafd199aa1f775fd45e9e061117cbaab1f6b379c3b24187a1e67af"
+      "url": "https://ghproxy.085404.xyz/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/pre-release/Clash.Nyanpasu_2.0.0-alpha+97e10c2_i686_portable.zip",
+      "hash": "c0d874005356e068cbadacc81664158613ab03d2997e761972e7d9dc33ce3165"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/pre-release/Clash.Nyanpasu_2.0.0-alpha+4a2ed39_aarch64_portable.zip",
-      "hash": "214d0d0e613980887916504361f3c8941a4e7522915afd473645ff287ad1c7a5"
+      "url": "https://ghproxy.085404.xyz/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/pre-release/Clash.Nyanpasu_2.0.0-alpha+97e10c2_aarch64_portable.zip",
+      "hash": "37e2a3dc4bae477c92b487622b93e366dcc2bb6c7eef6ceb6442e028d5cbdc87"
     }
   },
   "shortcuts": [
     [
       "Clash Nyanpasu.exe",
-      "Clash Nyanpasu Nightly"
+      "Clash Nyanpasu"
     ]
   ],
   "persist": ".config",
-  "post_install": [
-    "if (!(Test-Path \"$persist_dir\\.config\\PORTABLE\")) {",
-    "    New-Item -Path \"$persist_dir\\.config\\PORTABLE\" -ItemType file | Out-Null",
-    "}"
-  ],
   "checkver": {
-    "url": "https://api.github.com/repos/libnyanpasu/clash-nyanpasu/releases/tags/pre-release",
-    "jsonpath": "$.assets[*].name",
-    "regex": "Clash\\.Nyanpasu_(?<version>[^\",]+?)_x86_64_portable\\.zip"
+    "url": "https://github.com/libnyanpasu/clash-nyanpasu/releases/expanded_assets/pre-release",
+    "regex": "Clash.Nyanpasu_(.*?)_x86_64_portable"
   },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/pre-release/Clash.Nyanpasu_$version_x86_64_portable.zip",
-        "hash": {
-          "url": "https://api.github.com/repos/libnyanpasu/clash-nyanpasu/releases/tags/pre-release",
-          "jsonpath": "$.assets[?(@.name=='Clash.Nyanpasu_$version_x86_64_portable.zip')].digest"
-        }
+        "url": "https://ghproxy.085404.xyz/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/pre-release/Clash.Nyanpasu_$version_x86_64_portable.zip"
       },
       "32bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/pre-release/Clash.Nyanpasu_$version_i686_portable.zip",
-        "hash": {
-          "url": "https://api.github.com/repos/libnyanpasu/clash-nyanpasu/releases/tags/pre-release",
-          "jsonpath": "$.assets[?(@.name=='Clash.Nyanpasu_$version_i686_portable.zip')].digest"
-        }
+        "url": "https://ghproxy.085404.xyz/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/pre-release/Clash.Nyanpasu_$version_i686_portable.zip"
       },
       "arm64": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/pre-release/Clash.Nyanpasu_$version_aarch64_portable.zip",
-        "hash": {
-          "url": "https://api.github.com/repos/libnyanpasu/clash-nyanpasu/releases/tags/pre-release",
-          "jsonpath": "$.assets[?(@.name=='Clash.Nyanpasu_$version_aarch64_portable.zip')].digest"
-        }
+        "url": "https://ghproxy.085404.xyz/https://github.com/libnyanpasu/clash-nyanpasu/releases/download/pre-release/Clash.Nyanpasu_$version_aarch64_portable.zip"
       }
     }
   }
