@@ -3312,6 +3312,7 @@ bucket/clickrun.json, DoveBoy/Apps, 1
 bucket/clickshow.json, hoilc/scoop-lemon, 1
 bucket/cliflux.json, hoilc/scoop-lemon, 1
 bucket/clima.json, brian6932/dank-scoop, 0
+bucket/climp.json, aliesbelik/poldi, 1
 bucket/clingo.json, ScoopInstaller/Extras, 1
 bucket/clink-completions.json, ScoopInstaller/Main, 1
 bucket/clink-cvp.json, SayCV/scoop-cvp, 1
@@ -4921,6 +4922,7 @@ bucket/flexible-renamer.json, mo-san/scoop-bucket, 0
 bucket/flexihub.json, SayCV/scoop-cvp, 0
 bucket/flips.json, Deide/deide-bucket, 1
 bucket/flix.json, hoilc/scoop-lemon, 0
+bucket/floci.json, hoilc/scoop-lemon, 1
 bucket/flog.json, aliesbelik/poldi, 1
 bucket/floorp.json, ScoopInstaller/Extras, 1
 bucket/floral-notepaper.json, hoilc/scoop-lemon, 1
@@ -6171,7 +6173,7 @@ bucket/imdone.json, ScoopInstaller/Extras, 0
 bucket/imessage-exporter.json, hoilc/scoop-lemon, 1
 bucket/imewlconverter.json, hu3rror/scoop-muggle, 1
 bucket/imfile-portable.json, DoveBoy/Apps, 1
-bucket/imfile.json, DoveBoy/Apps, 1
+bucket/imfile.json, naderi/scoop-bucket, 1
 bucket/img-convert.json, hoilc/scoop-lemon, 0
 bucket/imgbrd-grabber.json, cc713/ownscoop, 1
 bucket/imgburn.ja.json, jfut/scoop-jfut, 0
@@ -7777,6 +7779,7 @@ bucket/migrated/websocat.json, aliesbelik/poldi, 1
 bucket/migrated/yamlfmt.json, aliesbelik/poldi, 1
 bucket/mihome-token.json, amorphobia/siku, 1
 bucket/mihomo-compatible.json, DoveBoy/Apps, 1
+bucket/mihomo-shawl-service.json, hu3rror/scoop-muggle, 1
 bucket/mihomo-v1.json, amorphobia/siku, 1
 bucket/mihomo-v2.json, amorphobia/siku, 1
 bucket/mihomo-v3.json, amorphobia/siku, 1
@@ -7802,7 +7805,7 @@ bucket/mindustry-server.json, Calinou/scoop-games, 1
 bucket/mindustry.json, Calinou/scoop-games, 1
 bucket/mine-imator.json, chawyehsu/dorado, 0
 bucket/minecraft.json, Calinou/scoop-games, 0
-bucket/mineru.json, hoilc/scoop-lemon, 0
+bucket/mineru.json, dodorz/scoop, 0
 bucket/minesweeper-arbiter.json, amorphobia/siku, 0
 bucket/mineways.json, chawyehsu/dorado, 0
 bucket/mingit-busybox.json, ScoopInstaller/Main, 1
@@ -8865,6 +8868,7 @@ bucket/openvpn-win10-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/openvpn-win7-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/openvpn.json, ScoopInstaller/Extras, 0
 bucket/openwebstart.json, naderi/scoop-bucket, 1
+bucket/openwhispr.json, ScoopInstaller/Extras, 1
 bucket/openwithplusplus.json, ScoopInstaller/Extras, 1
 bucket/openwithview.json, ScoopInstaller/Nirsoft, 0
 bucket/openwork.json, ScoopInstaller/Extras, 1
@@ -9069,7 +9073,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, borger/scoop-emulators, 1
+bucket/pcsx2-dev.json, Calinou/scoop-games, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9902,7 +9906,7 @@ bucket/progtools.json, ScoopInstaller/Nirsoft, 0
 bucket/proguard.json, ViCrack/scoop-bucket, 1
 bucket/projclean.json, hoilc/scoop-lemon, 1
 bucket/project-graph.json, ScoopInstaller/Extras, 1
-bucket/project64-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/project64-dev.json, Calinou/scoop-games, 0
 bucket/project64.json, Deide/deide-bucket, 0
 bucket/projectdiscovery-notify.json, hoilc/scoop-lemon, 1
 bucket/projector-client.json, hoilc/scoop-lemon, 1
@@ -12359,6 +12363,7 @@ bucket/ttplayer.json, chawyehsu/dorado, 0
 bucket/tts-voice-wizard.json, ScoopInstaller/Extras, 1
 bucket/tts-vue-next.json, ivaquero/scoopet, 1
 bucket/tts-vue.json, hoilc/scoop-lemon, 1
+bucket/tty7.json, hoilc/scoop-lemon, 1
 bucket/ttyd.json, ScoopInstaller/Main, 1
 bucket/ttyper.json, ScoopInstaller/Main, 1
 bucket/tuba-tool.json, ChinLong/scoop-customize, 0
@@ -13252,7 +13257,6 @@ bucket/winsnap.json, kkzzhizhou/scoop-zapps, 0
 bucket/winsockservicesview.json, ScoopInstaller/Nirsoft, 0
 bucket/winspy.json, ScoopInstaller/Extras, 0
 bucket/winsshterm.json, ScoopInstaller/Extras, 1
-bucket/winsw-mihomo-service.json, hu3rror/scoop-muggle, 1
 bucket/winsw-pre.json, ScoopInstaller/Versions, 1
 bucket/winsw.json, ScoopInstaller/Main, 1
 bucket/wintogo.json, kkzzhizhou/scoop-zapps, 1
@@ -13764,6 +13768,7 @@ bucket/zip-password-finder.json, hoilc/scoop-lemon, 1
 bucket/zip.json, ScoopInstaller/Main, 1
 bucket/zip2dir-eng.json, hoilc/scoop-lemon, 0
 bucket/zip2dir.json, hoilc/scoop-lemon, 0
+bucket/zipdetails-pl.json, brian6932/dank-scoop, 1
 bucket/zipideo.json, DoveBoy/Apps, 1
 bucket/zipinst.json, ScoopInstaller/Nirsoft, 0
 bucket/zipinstaller.json, kodybrown/scoop-nirsoft, 0
