@@ -4950,6 +4950,7 @@ bucket/flutter.json, ScoopInstaller/Extras, 0
 bucket/flux-operator-mcp.json, hoilc/scoop-lemon, 1
 bucket/flux.json, ScoopInstaller/Main, 1
 bucket/fluxctl.json, ScoopInstaller/Versions, 1
+bucket/fluxdown.json, DoveBoy/Apps, 1
 bucket/flvextract.json, chawyehsu/dorado, 0
 bucket/flybird-downloader.json, DoveBoy/Apps, 1
 bucket/flyby11-Portable.json, ACooper81/scoop-apps, 1
@@ -9013,6 +9014,7 @@ bucket/paperang.json, AkinoKaede/maple, 0
 bucket/paperbak.json, hoilc/scoop-lemon, 0
 bucket/papercut.json, ScoopInstaller/Extras, 1
 bucket/paperlib.json, hoilc/scoop-lemon, 1
+bucket/papr.json, hoilc/scoop-lemon, 1
 bucket/par2.json, hoilc/scoop-lemon, 1
 bucket/par2cmdline.json, ScoopInstaller/Main, 1
 bucket/parabolic.json, ScoopInstaller/Extras, 1
@@ -11699,6 +11701,7 @@ bucket/sumatrapdf-installer.json, ScoopInstaller/Versions, 0
 bucket/sumatrapdf-plus.json, hoilc/scoop-lemon, 1
 bucket/sumatrapdf-pre.json, ScoopInstaller/Versions, 0
 bucket/sumatrapdf.json, ScoopInstaller/Extras, 0
+bucket/sumatrapdfplus.json, DoveBoy/Apps, 1
 bucket/sumecmd.json, hoilc/scoop-lemon, 1
 bucket/summon.json, hoilc/scoop-lemon, 1
 bucket/sunlogin.json, scoopcn/scoopcn, 0
