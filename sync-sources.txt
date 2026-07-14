@@ -3406,7 +3406,7 @@ bucket/cnquery.json, hoilc/scoop-lemon, 1
 bucket/cnspec.json, hoilc/scoop-lemon, 1
 bucket/cobalt.json, ScoopInstaller/Main, 1
 bucket/coca.json, seumsc/scoop-seu, 0
-bucket/cockpit-tools.json, ivaquero/scoopet, 1
+bucket/cockpit-tools.json, ScoopInstaller/Extras, 1
 bucket/cockroachdb.json, ScoopInstaller/Main, 0
 bucket/coco.json, DoveBoy/Apps, 1
 bucket/cocogitto.json, ScoopInstaller/Main, 1
@@ -3879,7 +3879,7 @@ bucket/deck.json, hoilc/scoop-lemon, 1
 bucket/decrypttools.json, ViCrack/scoop-bucket, 1
 bucket/deemix-portable.json, hu3rror/scoop-muggle, 0
 bucket/deep-explorer.json, amorphobia/siku, 0
-bucket/deepchat.json, hoilc/scoop-lemon, 0
+bucket/deepchat.json, hoilc/scoop-lemon, 1
 bucket/deepgit.json, ScoopInstaller/Extras, 0
 bucket/deepgit402.json, ScoopInstaller/Versions, 0
 bucket/deepl.json, naderi/scoop-bucket, 0
@@ -5435,7 +5435,7 @@ bucket/gitu.json, ScoopInstaller/Extras, 1
 bucket/gitui.json, ScoopInstaller/Main, 1
 bucket/gitup-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/gitversion-beta.json, ScoopInstaller/Versions, 0
-bucket/gitversion.json, ScoopInstaller/Main, 0
+bucket/gitversion.json, ScoopInstaller/Main, 1
 bucket/gk.json, ScoopInstaller/Main, 1
 bucket/gke-policy.json, hoilc/scoop-lemon, 1
 bucket/glab.json, ScoopInstaller/Main, 0
@@ -7811,7 +7811,7 @@ bucket/mindustry-server.json, Calinou/scoop-games, 1
 bucket/mindustry.json, Calinou/scoop-games, 1
 bucket/mine-imator.json, chawyehsu/dorado, 0
 bucket/minecraft.json, Calinou/scoop-games, 0
-bucket/mineru.json, dodorz/scoop, 0
+bucket/mineru.json, hoilc/scoop-lemon, 0
 bucket/minesweeper-arbiter.json, amorphobia/siku, 0
 bucket/mineways.json, chawyehsu/dorado, 0
 bucket/mingit-busybox.json, ScoopInstaller/Main, 1
@@ -9080,7 +9080,7 @@ bucket/pcregrep.json, ScoopInstaller/Main, 0
 bucket/pcstory.json, Weidows-projects/scoop-3rd, 0
 bucket/pcsx2-avx2-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-avx2-vxwidgets.json, hermanjustnu/scoop-emulators, 1
-bucket/pcsx2-dev.json, Calinou/scoop-games, 1
+bucket/pcsx2-dev.json, borger/scoop-emulators, 1
 bucket/pcsx2-sse4-qt.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2-sse4-vxwidgets.json, hermanjustnu/scoop-emulators, 1
 bucket/pcsx2.json, Deide/deide-bucket, 1
@@ -9700,7 +9700,7 @@ bucket/pixiv-omina.json, batkiz/backit, 1
 bucket/pixivbiu.json, DoveBoy/Apps, 1
 bucket/pixivutil2.json, DoveBoy/Apps, 1
 bucket/pixpin-beta.json, hoilc/scoop-lemon, 0
-bucket/pixpin.json, chawyehsu/dorado, 0
+bucket/pixpin.json, hoilc/scoop-lemon, 0
 bucket/pixzip-lite.json, hoilc/scoop-lemon, 1
 bucket/pkg-config-lite.json, ScoopInstaller/Extras, 0
 bucket/pkg-config.json, ScoopInstaller/Main, 0
@@ -13893,8 +13893,9 @@ scripts/AppsUtils.psm1, ivaquero/scoopet, 0
 scripts/BaiduNetdisk/update-firewall-rules.ps1, AkariiinMKII/Scoop4kariiin, 0
 scripts/ClashforWindows/update-firewall-rules.ps1, AkariiinMKII/Scoop4kariiin, 0
 scripts/DisplayCal-SchTasks.ps1, starise/Scoop-Confetti, 0
+scripts/DoradoHelper.ps1, hu3rror/scoop-muggle, 0
+scripts/DoradoRemount.ps1, hu3rror/scoop-muggle, 0
 scripts/DoradoUtils.psm1, chawyehsu/dorado, 0
-scripts/Get-LatestGitHubActionLog.ps1, hu3rror/scoop-muggle, 0
 scripts/Install-Font.ps1, batkiz/backit, 0
 scripts/InstallAllInstallApps.ps1, ACooper81/scoop-apps, 0
 scripts/InstallAllPortableApps.ps1, ACooper81/scoop-apps, 0

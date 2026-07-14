@@ -45,13 +45,11 @@
     "if (!$helper) { throw 'mihomo-shawl-setup.ps1 not found in bucket/scripts!' }",
     "& \"$helper\" -Phase post_install -Dir \"$dir\" -OriginalDir \"$original_dir\""
   ],
-  "uninstaller": {
-    "script": [
-      "$helper = (Resolve-Path \"$bucketsdir\\*\\scripts\\mihomo-shawl-setup.ps1\" -ErrorAction SilentlyContinue | Select-Object -First 1).Path",
-      "if (!$helper) { throw 'mihomo-shawl-setup.ps1 not found in bucket/scripts!' }",
-      "& \"$helper\" -Phase uninstall"
-    ]
-  },
+  "pre_uninstall": [
+    "$helper = (Resolve-Path \"$bucketsdir\\*\\scripts\\mihomo-shawl-setup.ps1\" -ErrorAction SilentlyContinue | Select-Object -First 1).Path",
+    "if (!$helper) { throw 'mihomo-shawl-setup.ps1 not found in bucket/scripts!' }",
+    "& \"$helper\" -Phase uninstall -Dir \"$dir\" -PersistDir \"$persist_dir\""
+  ],
   "persist": [
     "config.yaml",
     "ui",
@@ -60,12 +58,16 @@
     "cache.db",
     "logs"
   ],
-  "notes": "config.yaml should be placed in the root folder, WebUI should be placed in the 'ui' folder, and proxy providers and rule providers should be placed in the 'proxies' and 'rules' folders respectively.\n\n=== SERVICE CONTROL COMMANDS ===\n\nStart Service:\nsudo sc.exe start mihomo-shawl\n\nStop Service:\nsudo sc.exe stop mihomo-shawl\n\nEnable Auto-Start (on boot):\nsudo sc.exe config mihomo-shawl start= auto\n\nDisable Auto-Start (manual start):\nsudo sc.exe config mihomo-shawl start= demand",
+  "notes": "config.yaml should be placed in the root folder, WebUI should be placed in the 'ui' folder, and proxy providers and rule providers should be placed in the 'proxies' and 'rules' folders respectively.\n\n=== SERVICE CONTROL COMMANDS ===\n\nStart Service:\nmihomo-helper start\n\nStop Service:\nmihomo-helper stop\n\nEnable Auto-Start (on boot):\nmihomo-helper enable\n\nDisable Auto-Start (manual start):\nmihomo-helper disable",
   "bin": [
     "mihomo.exe",
     [
       "mihomo.exe",
       "clash"
+    ],
+    [
+      "mihomo-helper.ps1",
+      "mihomo-helper"
     ]
   ],
   "checkver": "github",
