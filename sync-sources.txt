@@ -1925,7 +1925,7 @@ bucket/ZGrapher.json, dodorz/scoop, 0
 bucket/ZMeter-Portable.json, ACooper81/scoop-apps, 0
 bucket/ZQFS.json, dodorz/scoop, 1
 bucket/ZY-Player.json, kkzzhizhou/scoop-zapps, 1
-bucket/ZYPlayer.json, DoveBoy/Apps, 1
+bucket/ZYPlayer.json, dodorz/scoop, 1
 bucket/Zback.json, dodorz/scoop, 0
 bucket/ZeQLplus.json, dodorz/scoop, 1
 bucket/ZedMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
@@ -4055,7 +4055,7 @@ bucket/dllexp.json, ScoopInstaller/Nirsoft, 0
 bucket/dllexportviewer.json, kodybrown/scoop-nirsoft, 0
 bucket/dlm.json, aliesbelik/poldi, 1
 bucket/dlss-swapper.json, Calinou/scoop-games, 1
-bucket/dlss-updater.json, Calinou/scoop-games, 1
+bucket/dlss-updater.json, hoilc/scoop-lemon, 1
 bucket/dm2.json, naderi/scoop-bucket, 1
 bucket/dmd.json, ScoopInstaller/Main, 0
 bucket/dmde.json, ScoopInstaller/Extras, 0
@@ -5266,7 +5266,6 @@ bucket/gekiore-regedit.json, mo-san/scoop-bucket, 0
 bucket/gel-cli.json, hoilc/scoop-lemon, 0
 bucket/gemget.json, littleli/Scoop-littleli, 1
 bucket/geminaut.json, hoilc/scoop-lemon, 0
-bucket/gemini-cli.json, naderi/scoop-bucket, 1
 bucket/geminicommit-cli.json, hu3rror/scoop-muggle, 1
 bucket/geminicommit.json, hoilc/scoop-lemon, 1
 bucket/genact.json, ScoopInstaller/Main, 1
@@ -7676,7 +7675,7 @@ bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
 bucket/mftecmd.json, hoilc/scoop-lemon, 1
 bucket/mftexplorer.json, hoilc/scoop-lemon, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mglahk.json, hoilc/scoop-lemon, 0
 bucket/mgtv.json, DoveBoy/Apps, 0
@@ -7805,7 +7804,7 @@ bucket/mindustry-server.json, Calinou/scoop-games, 1
 bucket/mindustry.json, Calinou/scoop-games, 1
 bucket/mine-imator.json, chawyehsu/dorado, 0
 bucket/minecraft.json, Calinou/scoop-games, 0
-bucket/mineru.json, hoilc/scoop-lemon, 0
+bucket/mineru.json, dodorz/scoop, 0
 bucket/minesweeper-arbiter.json, amorphobia/siku, 0
 bucket/mineways.json, chawyehsu/dorado, 0
 bucket/mingit-busybox.json, ScoopInstaller/Main, 1
@@ -9129,6 +9128,7 @@ bucket/pear-desktop.json, ScoopInstaller/Extras, 1
 bucket/peazip.json, ScoopInstaller/Extras, 1
 bucket/pecmd.json, hoilc/scoop-lemon, 1
 bucket/peco.json, ScoopInstaller/Main, 1
+bucket/peekdesktop.json, hoilc/scoop-lemon, 1
 bucket/peerbanhelper.json, ScoopInstaller/Extras, 1
 bucket/peerblock.json, ScoopInstaller/Extras, 0
 bucket/peerguard.json, hoilc/scoop-lemon, 1
@@ -12007,7 +12007,7 @@ bucket/tencentmeeting.json, echoiron/echo-scoop, 0
 bucket/tenderly-cli.json, chawyehsu/dorado, 1
 bucket/tenv.json, ScoopInstaller/Main, 1
 bucket/tera-cli.json, hoilc/scoop-lemon, 1
-bucket/teracopy-np.json, ScoopInstaller/Nonportable, 0
+bucket/teracopy-np.json, ScoopInstaller/Nonportable, 1
 bucket/teracopy.json, naderi/scoop-bucket, 0
 bucket/teraterm.json, ScoopInstaller/Extras, 1
 bucket/tere.json, ScoopInstaller/Main, 1
