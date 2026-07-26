@@ -1,16 +1,16 @@
 {
-  "version": "2.17.0",
+  "version": "2.19.0",
   "description": "A devilishly good process manager for developers.",
   "homepage": "https://pitchfork.jdx.dev/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/jdx/pitchfork/releases/download/v2.17.0/pitchfork-x86_64-pc-windows-msvc.zip",
-      "hash": "e064d642e85234a62d36cd0b5ebf4f62a0b1c7141432d74ae81cf34212c7862b"
+      "url": "https://ghproxy.085404.xyz/https://github.com/jdx/pitchfork/releases/download/v2.19.0/pitchfork-x86_64-pc-windows-msvc.zip",
+      "hash": "bfa8bb66f787f44873b4cfa02847f43529746a437d3bb4c4c84dbf1501340167"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/jdx/pitchfork/releases/download/v2.17.0/pitchfork-aarch64-pc-windows-msvc.zip",
-      "hash": "1e780cae6013ee801eedc6f00b2601f93a2c8f198d63d7a26e46b4a979330e0c"
+      "url": "https://ghproxy.085404.xyz/https://github.com/jdx/pitchfork/releases/download/v2.19.0/pitchfork-aarch64-pc-windows-msvc.zip",
+      "hash": "55dbc2f64f2a4d5399c5662bb5eeebb7ed22c1d89576a2c31aec8eb1af24bcc3"
     }
   },
   "bin": "pitchfork.exe",
