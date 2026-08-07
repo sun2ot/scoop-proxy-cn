@@ -3322,7 +3322,7 @@ bucket/clash.net.json, Weidows-projects/scoop-3rd, 1
 bucket/clash2singbox.json, hoilc/scoop-lemon, 1
 bucket/clashcross.json, DoveBoy/Apps, 1
 bucket/clashmi-portable.json, DoveBoy/Apps, 1
-bucket/clashmi.json, DoveBoy/Apps, 1
+bucket/clashmi.json, hoilc/scoop-lemon, 1
 bucket/clashn.json, hoilc/scoop-lemon, 1
 bucket/clashrauto.json, akirco/aki-apps, 1
 bucket/clashrs.json, DoveBoy/Apps, 1
@@ -6028,6 +6028,7 @@ bucket/helmify.json, hoilc/scoop-lemon, 1
 bucket/helmsman.json, chawyehsu/dorado, 1
 bucket/hemmelig.json, ScoopInstaller/Extras, 1
 bucket/hercules.json, littleli/Scoop-littleli, 1
+bucket/herdr-preview.json, ScoopInstaller/Versions, 1
 bucket/hermes-desktop-portable.json, Weidows-projects/scoop-3rd, 1
 bucket/heroic-games-launcher.json, Calinou/scoop-games, 1
 bucket/heroic.json, hoilc/scoop-lemon, 1
@@ -8088,6 +8089,7 @@ bucket/mkcert.json, ScoopInstaller/Extras, 1
 bucket/mkcl.json, hoilc/scoop-lemon, 0
 bucket/mklittlefs.json, hoilc/scoop-lemon, 1
 bucket/mklnk.json, rasa/scoops, 1
+bucket/mkv-muxing-batch-gui.json, ScoopInstaller/Extras, 1
 bucket/mkvmergebatcher.json, ScoopInstaller/Extras, 1
 bucket/mkvtoolnix.json, ScoopInstaller/Extras, 0
 bucket/mlc.json, hoilc/scoop-lemon, 1
@@ -9182,7 +9184,7 @@ bucket/ovhcloud-cli.json, cderv/r-bucket, 1
 bucket/owlplug.json, hoilc/scoop-lemon, 1
 bucket/owncloud.json, ScoopInstaller/Extras, 0
 bucket/oxen.json, hoilc/scoop-lemon, 1
-bucket/oxideterm.json, hoilc/scoop-lemon, 1
+bucket/oxideterm.json, ScoopInstaller/Extras, 1
 bucket/oxipng.json, ScoopInstaller/Main, 1
 bucket/oxker.json, hoilc/scoop-lemon, 1
 bucket/oxlint.json, ScoopInstaller/Main, 1
@@ -11877,7 +11879,7 @@ bucket/steam-art-manager.json, Calinou/scoop-games, 1
 bucket/steam-authenticator.json, HUMORCE/nuke, 1
 bucket/steam-cloud-file-manager.json, hoilc/scoop-lemon, 1
 bucket/steam-desktop-authenticator.json, ScoopInstaller/Extras, 1
-bucket/steam-game-idler.json, starise/Scoop-Gaming, 1
+bucket/steam-game-idler.json, Calinou/scoop-games, 1
 bucket/steam-lancache-prefill.json, hoilc/scoop-lemon, 1
 bucket/steam-library-manager.json, ScoopInstaller/Extras, 1
 bucket/steam-mover.json, ScoopInstaller/Versions, 0
@@ -12915,6 +12917,7 @@ bucket/utorrent-portable.json, SayCV/scoop-cvp, 0
 bucket/utorrent.json, kkzzhizhou/scoop-zapps, 0
 bucket/utpm.json, ScoopInstaller/Extras, 1
 bucket/utvideo.json, couleur-tweak-tips/utils, 1
+bucket/uu-remote.json, ygguorun/scoop-bucket, 0
 bucket/uup-download-wizard-converter.json, hu3rror/scoop-muggle, 1
 bucket/uupmediacreator.json, hoilc/scoop-lemon, 1
 bucket/uutils-coreutils-lean.json, ScoopInstaller/Main, 1
