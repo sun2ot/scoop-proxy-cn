@@ -3812,6 +3812,7 @@ bucket/curlie.json, ScoopInstaller/Main, 1
 bucket/currports.json, kodybrown/scoop-nirsoft, 0
 bucket/currprocess.json, kodybrown/scoop-nirsoft, 0
 bucket/cursor-TinyHand.json, Weidows-projects/scoop-3rd, 1
+bucket/cursor-byok.json, ViCrack/scoop-bucket, 1
 bucket/cursor-latest.json, ScoopInstaller/Versions, 0
 bucket/cursor.json, ScoopInstaller/Extras, 0
 bucket/custom-resolution-utility.json, TheRandomLabs/Scoop-Bucket, 0
@@ -4792,7 +4793,7 @@ bucket/favirecon.json, hoilc/scoop-lemon, 1
 bucket/favoritesview.json, kodybrown/scoop-nirsoft, 0
 bucket/fbcacheview.json, ScoopInstaller/Nirsoft, 0
 bucket/fbflipper.json, ScoopInstaller/Extras, 1
-bucket/fbide.json, ScoopInstaller/Extras, 0
+bucket/fbide.json, ScoopInstaller/Extras, 1
 bucket/fblog.json, hoilc/scoop-lemon, 1
 bucket/fbneo-nightly.json, Calinou/scoop-games, 1
 bucket/fbneo.json, Calinou/scoop-games, 1
@@ -5551,6 +5552,7 @@ bucket/gitui.json, ScoopInstaller/Main, 1
 bucket/gitup-py.json, TheRandomLabs/Scoop-Python, 1
 bucket/gitversion-beta.json, ScoopInstaller/Versions, 0
 bucket/gitversion.json, ScoopInstaller/Main, 1
+bucket/gitwig.json, aliesbelik/poldi, 1
 bucket/gk.json, ScoopInstaller/Main, 1
 bucket/gke-policy.json, hoilc/scoop-lemon, 1
 bucket/glab.json, ScoopInstaller/Main, 0
@@ -6250,6 +6252,7 @@ bucket/ida-free.json, ScoopInstaller/Extras, 0
 bucket/ida64pro.json, SayCV/scoop-cvp, 1
 bucket/idcard-generator.json, DoveBoy/Apps, 1
 bucket/iddsampledriver-ge9-np.json, ScoopInstaller/Nonportable, 1
+bucket/idea-community.json, ScoopInstaller/Extras, 1
 bucket/idea-eap.json, ScoopInstaller/Versions, 1
 bucket/idea-rc.json, ScoopInstaller/Versions, 1
 bucket/idea-ultimate-eap.json, ScoopInstaller/Versions, 1
@@ -6376,7 +6379,7 @@ bucket/inngest-cli.json, hoilc/scoop-lemon, 1
 bucket/inno-script-studio.json, ScoopInstaller/Extras, 0
 bucket/inno-setup.json, ScoopInstaller/Extras, 1
 bucket/innoextract.json, ScoopInstaller/Main, 0
-bucket/innosetup-np.json, ScoopInstaller/Nonportable, 0
+bucket/innosetup-np.json, ScoopInstaller/Nonportable, 1
 bucket/innosetup-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/innounp-unicode.json, ScoopInstaller/Versions, 1
 bucket/innounp.json, ScoopInstaller/Main, 1
@@ -7692,7 +7695,7 @@ bucket/markflowy.json, naderi/scoop-bucket, 1
 bucket/markless.json, hoilc/scoop-lemon, 1
 bucket/markn.json, ScoopInstaller/Extras, 1
 bucket/marknote-nightly.json, ScoopInstaller/Versions, 0
-bucket/markpad.json, hoilc/scoop-lemon, 1
+bucket/markpad.json, dodorz/scoop, 1
 bucket/markra.json, hoilc/scoop-lemon, 1
 bucket/markright.json, MCOfficer/scoop-bucket, 1
 bucket/marksman.json, ScoopInstaller/Main, 1
@@ -7747,7 +7750,7 @@ bucket/mcomix.json, ScoopInstaller/Extras, 0
 bucket/mcp-gitee.json, hoilc/scoop-lemon, 0
 bucket/mcp-grafana.json, hoilc/scoop-lemon, 1
 bucket/mcp-k8s-go.json, hoilc/scoop-lemon, 1
-bucket/mcp-toolbox.json, hoilc/scoop-lemon, 0
+bucket/mcp-toolbox.json, ScoopInstaller/Main, 0
 bucket/mcp-victorialogs.json, hoilc/scoop-lemon, 1
 bucket/mcp-victoriametrics.json, hoilc/scoop-lemon, 1
 bucket/mcp-victoriatraces.json, hoilc/scoop-lemon, 1
@@ -10080,7 +10083,7 @@ bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqcscan.json, hoilc/scoop-lemon, 1
 bucket/pqrs.json, hoilc/scoop-lemon, 1
@@ -12832,6 +12835,7 @@ bucket/uninstalr.json, ScoopInstaller/Extras, 0
 bucket/unison-lang.json, hoilc/scoop-lemon, 1
 bucket/unison.json, ScoopInstaller/Main, 1
 bucket/units.json, ScoopInstaller/Main, 0
+bucket/unity-cli-beta.json, ScoopInstaller/Versions, 0
 bucket/unity-hub-np.json, ScoopInstaller/Nonportable, 0
 bucket/unity3d.json, scoopcn/scoopcn, 0
 bucket/unityhub.json, chawyehsu/dorado, 0
