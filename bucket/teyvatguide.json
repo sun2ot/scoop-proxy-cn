@@ -1,12 +1,12 @@
 {
-  "version": "0.11.2",
+  "version": "0.11.4",
   "description": "A game tool for Genshin Impact players.",
   "homepage": "https://github.com/BTMuli/TeyvatGuide",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/BTMuli/TeyvatGuide/releases/download/v0.11.2/TeyvatGuide_0.11.2_x64_zh-CN.msi",
-      "hash": "bc116af195d2ca2b279dfc13f3b26697b36adc328f01d89302eff95010d724be"
+      "url": "https://ghproxy.085404.xyz/https://github.com/BTMuli/TeyvatGuide/releases/download/v0.11.4/TeyvatGuide_0.11.4_x64_zh-CN.msi",
+      "hash": "1f5a844a2e889c50fe62384a461e95e6133674d180661dcda6d920ebbb085923"
     }
   },
   "extract_dir": "PFiles\\TeyvatGuide",
