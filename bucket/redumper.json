@@ -1,23 +1,23 @@
 {
-  "version": "742",
+  "version": "744",
   "description": "A low level CD dumper utility.",
   "homepage": "https://github.com/superg/redumper",
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b742/redumper-b742-windows-x64.zip",
-      "extract_dir": "redumper-b742-windows-x64\\bin",
-      "hash": "86f0a3d71793f4eb977133e635858b79badc7d6007c1554214cc74ac65d53847"
+      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b744/redumper-b744-windows-x64.zip",
+      "extract_dir": "redumper-b744-windows-x64\\bin",
+      "hash": "2468d0aeb6ef52e546923acb27d248fca3d7898f38d3fb31a1780f94f59786ef"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b742/redumper-b742-windows-x86.zip",
-      "extract_dir": "redumper-b742-windows-x86\\bin",
-      "hash": "b60ce3569562b15916e1cb55b258d681cd7bac97107db8bf7b82314a4e4dcbe6"
+      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b744/redumper-b744-windows-x86.zip",
+      "extract_dir": "redumper-b744-windows-x86\\bin",
+      "hash": "d3bb6f7537abf7f6d09f0b90e30d4e8f3ae09d24b9bc30815842a272129a1e1c"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b742/redumper-b742-windows-arm64.zip",
-      "extract_dir": "redumper-b742-windows-arm64\\bin",
-      "hash": "b259e6e5db9a0c4de8166c11b2f1c671316a1f68bf0341807b2199f570b97295"
+      "url": "https://ghproxy.085404.xyz/https://github.com/superg/redumper/releases/download/b744/redumper-b744-windows-arm64.zip",
+      "extract_dir": "redumper-b744-windows-arm64\\bin",
+      "hash": "52bb6b43e2a49c40744ba96874b38a688e9a62c56f984e519e24fe604c2567bf"
     }
   },
   "bin": "redumper.exe",
