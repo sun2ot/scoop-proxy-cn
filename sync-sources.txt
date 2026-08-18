@@ -228,6 +228,7 @@ bucket/BitTorrent-Portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/BitstreamVeraSansMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BitstreamVeraSansMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/BitstreamVeraSansMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
+bucket/BitviseClient.json, dodorz/scoop, 0
 bucket/Bitwarden-Portable.json, ACooper81/scoop-apps, 1
 bucket/Biu.json, DoveBoy/Apps, 1
 bucket/BlackBird-Player.json, kkzzhizhou/scoop-zapps, 1
@@ -397,6 +398,7 @@ bucket/DaddyTimeMono-NF-Mono.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/DaddyTimeMono-NF-Propo.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/DaddyTimeMono-NF.json, matthewjberger/scoop-nerd-fonts, 1
 bucket/DadroitJsonViewer-Portable.json, ACooper81/scoop-apps, 0
+bucket/DainoNotes.json, dodorz/scoop, 1
 bucket/DarkRoom.json, dodorz/scoop, 0
 bucket/Darker-Portable.json, ACooper81/scoop-apps, 1
 bucket/Database.NET-Portable.json, ACooper81/scoop-apps, 0
@@ -544,11 +546,13 @@ bucket/FastRawViewer.json, dodorz/scoop, 0
 bucket/Feep.json, dodorz/scoop, 1
 bucket/FerdiumNightly-Portable.json, ACooper81/scoop-apps, 1
 bucket/Fido-PSScript.json, ACooper81/scoop-apps, 1
+bucket/FileLocatorLite.json, dodorz/scoop, 0
 bucket/FileLocatorPro.json, kkzzhizhou/scoop-zapps, 1
 bucket/FileMany.json, dodorz/scoop, 0
 bucket/FileMenuTools-Portable.json, ACooper81/scoop-apps, 0
 bucket/FileMenuTools.json, ViCrack/scoop-bucket, 0
 bucket/FileMonitor.json, ygguorun/scoop-bucket, 0
+bucket/FilePilot.json, dodorz/scoop, 0
 bucket/FileTime.json, dodorz/scoop, 0
 bucket/FileTypesMan_Chinese.json, Weidows-projects/scoop-3rd, 1
 bucket/Files-Install.json, ACooper81/scoop-apps, 0
@@ -911,6 +915,7 @@ bucket/MADPlay.json, dodorz/scoop, 0
 bucket/MAS-Portable.json, ACooper81/scoop-apps, 1
 bucket/MBoxViewer-Portable.json, ACooper81/scoop-apps, 1
 bucket/MCI-Browser.json, dodorz/scoop, 0
+bucket/MDViewer.json, dodorz/scoop, 1
 bucket/MP4DownloaderPro-Install.json, ACooper81/scoop-apps, 0
 bucket/MP4Tools.json, dodorz/scoop, 0
 bucket/MPC-BE-Install.json, ACooper81/scoop-apps, 0
@@ -1819,6 +1824,7 @@ bucket/WarpTerminal.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/WasFile.json, dodorz/scoop, 0
 bucket/Waterfox-Portable.json, ACooper81/scoop-apps, 0
 bucket/Waveloom.json, dodorz/scoop, 1
+bucket/Waydir.json, dodorz/scoop, 1
 bucket/WazuhAgent-Install.json, ACooper81/scoop-apps, 0
 bucket/WeChat-Portable.json, Paxxs/Cluttered-bucket, 0
 bucket/WebCatalog-Portable.json, ACooper81/scoop-apps, 0
@@ -4942,7 +4948,6 @@ bucket/filelight.json, ScoopInstaller/Extras, 0
 bucket/filelist.json, starise/Scoop-Confetti, 0
 bucket/filen-cli.json, hoilc/scoop-lemon, 1
 bucket/fileoptimizer.json, ScoopInstaller/Extras, 0
-bucket/filepilot.json, brian6932/dank-scoop, 0
 bucket/files-cli.json, hoilc/scoop-lemon, 1
 bucket/files-np.json, ScoopInstaller/Nonportable, 1
 bucket/files-preview-np.json, ScoopInstaller/Nonportable, 1
@@ -7199,7 +7204,8 @@ bucket/ldc.json, ScoopInstaller/Main, 1
 bucket/lddc.json, hoilc/scoop-lemon, 1
 bucket/ldmdump.json, niheaven/scoop-sysinternals, 1
 bucket/ldplayer.json, ScoopInstaller/Extras, 0
-bucket/ldplayer9.json, cc713/ownscoop, 1
+bucket/ldplayer5.json, ScoopInstaller/Versions, 0
+bucket/ldplayer9.json, ScoopInstaller/Versions, 0
 bucket/ldtk.json, hoilc/scoop-lemon, 1
 bucket/leaf-markdown-viewer.json, ScoopInstaller/Main, 1
 bucket/leaf.json, ScoopInstaller/Main, 1
@@ -7626,7 +7632,7 @@ bucket/lynx283.json, ScoopInstaller/Versions, 1
 bucket/lyricify.json, hoilc/scoop-lemon, 1
 bucket/lyricsmaster.json, jfut/scoop-jfut, 1
 bucket/lyx-cn.json, ivaquero/scoopet, 0
-bucket/lyx.json, chawyehsu/dorado, 0
+bucket/lyx.json, dodorz/scoop, 0
 bucket/lz4.json, ScoopInstaller/Main, 1
 bucket/lzdoom.json, Calinou/scoop-games, 1
 bucket/lzip.json, ScoopInstaller/Main, 0
@@ -8229,7 +8235,7 @@ bucket/mosdns.json, chawyehsu/dorado, 1
 bucket/mosh-client.json, ScoopInstaller/Main, 1
 bucket/mosquitto.json, ScoopInstaller/Main, 0
 bucket/motrix-next.json, ScoopInstaller/Extras, 1
-bucket/motrix-pre.json, DoveBoy/Apps, 1
+bucket/motrix-pre.json, ScoopInstaller/Versions, 1
 bucket/motrix.json, ScoopInstaller/Extras, 1
 bucket/motrixnext.json, DoveBoy/Apps, 1
 bucket/moul.json, chawyehsu/dorado, 1
@@ -10134,7 +10140,7 @@ bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, Calinou/scoop-games, 0
+bucket/ppsspp-dev.json, borger/scoop-emulators, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqcscan.json, hoilc/scoop-lemon, 1
 bucket/pqrs.json, hoilc/scoop-lemon, 1
@@ -12738,6 +12744,7 @@ bucket/ttplayer.json, chawyehsu/dorado, 0
 bucket/tts-voice-wizard.json, ScoopInstaller/Extras, 1
 bucket/tts-vue-next.json, ivaquero/scoopet, 1
 bucket/tts-vue.json, hoilc/scoop-lemon, 1
+bucket/ttt.json, dodorz/scoop, 1
 bucket/tty7.json, hoilc/scoop-lemon, 1
 bucket/ttyd.json, ScoopInstaller/Main, 1
 bucket/ttyper.json, ScoopInstaller/Main, 1
