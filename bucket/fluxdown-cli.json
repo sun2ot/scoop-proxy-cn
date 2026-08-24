@@ -1,18 +1,18 @@
 {
-  "version": "0.4.8-rc.3",
+  "version": "0.4.8-rc.5",
   "description": "An aria2c-style command-line client for FluxDown. | aria2c 风格的 FluxDown 命令行客户端",
   "homepage": "https://fluxdown.zerx.dev/docs/en/api/cli/",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/zerx-lab/FluxDown/releases/download/cli-v0.4.8-rc.3/FluxDown-CLI-0.4.8-rc.3-windows-x64.zip",
-      "extract_dir": "fluxdown-cli-0.4.8-rc.3-windows-x64",
-      "hash": "d9136e288590ecd5886e7e0492a0ab9de689fe9aa71cdb8713088ddd2dee9b19"
+      "url": "https://ghproxy.085404.xyz/https://github.com/zerx-lab/FluxDown/releases/download/cli-v0.4.8-rc.5/FluxDown-CLI-0.4.8-rc.5-windows-x64.zip",
+      "extract_dir": "fluxdown-cli-0.4.8-rc.5-windows-x64",
+      "hash": "8c192f106ef66b431c7de96e9a8687230faf17fb867f68cc28a92d3cf830c34c"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/zerx-lab/FluxDown/releases/download/cli-v0.4.8-rc.3/FluxDown-CLI-0.4.8-rc.3-windows-arm64.zip",
-      "extract_dir": "fluxdown-cli-0.4.8-rc.3-windows-arm64",
-      "hash": "4eb77ae04e8398b5dfcd74333743b32f4edc0ce57b8b9feb3d0623caf7b6f78c"
+      "url": "https://ghproxy.085404.xyz/https://github.com/zerx-lab/FluxDown/releases/download/cli-v0.4.8-rc.5/FluxDown-CLI-0.4.8-rc.5-windows-arm64.zip",
+      "extract_dir": "fluxdown-cli-0.4.8-rc.5-windows-arm64",
+      "hash": "2873f133bbab73ce9563d64001545d3549d2edd7d2fbe48c183d77e407693ee3"
     }
   },
   "bin": "fluxdown.exe",
