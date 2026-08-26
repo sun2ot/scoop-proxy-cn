@@ -1,28 +1,30 @@
 {
-  "version": "b5322",
+  "version": "b5333-20260825-83ab4e2",
   "description": "(Nightly Build) A customisable music player.",
   "homepage": "https://github.com/fooyin/fooyin",
-  "license": "GPL-3.0-only",
+  "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://nightly.link/fooyin/fooyin/actions/runs/32672348299/windows-portable-amd64.zip",
-      "hash": "a9df6fc40e1cb261709ed501385b07612592cb46e0438b1a27bfc539b9773894"
+      "url": "https://nightly.link/fooyin/fooyin/actions/runs/32908430247/windows-portable-amd64.zip",
+      "hash": "999948d5ae5288ca4dbe8253dfd53a38b44857a0b1eab56f5bd000b5892f82a8"
     },
     "arm64": {
-      "url": "https://nightly.link/fooyin/fooyin/actions/runs/32672348299/windows-portable-arm64.zip",
-      "hash": "1ea2440db00783a8bd93887d0c9dd4a53969b17460b8fd0b66794f63e3319b1d"
+      "url": "https://nightly.link/fooyin/fooyin/actions/runs/32908430247/windows-portable-arm64.zip",
+      "hash": "1ced1111284a529dadc5ec5640ca021f931f0e5af710df006351fb402446be3e"
     }
   },
-  "pre_install": [
-    "Remove-Item \"$dir\\fooyin-*.exe\" -ErrorAction SilentlyContinue",
-    "$zipfile = Get-ChildItem \"$dir\" 'fooyin-*.zip' | Select-Object -First 1",
-    "if (!$zipfile) { error 'Failed to find portable package file.' ; exit }",
-    "Expand-7zipArchive -Path $zipfile.FullName -Destination \"$dir\" -Removal -ExtractDir $zipfile.BaseName"
-  ],
+  "installer": {
+    "script": [
+      "Remove-Item \"$dir\\fooyin-*.exe\" -ErrorAction SilentlyContinue",
+      "$zipfile = Get-ChildItem \"$dir\" 'fooyin-*.zip' | Select-Object -First 1",
+      "if (!$zipfile) { error 'Failed to find portable package file.' ; exit }",
+      "Expand-7zipArchive -Path $zipfile.FullName -Destination \"$dir\" -Removal -ExtractDir $zipfile.BaseName"
+    ]
+  },
   "shortcuts": [
     [
       "fooyin.exe",
-      "fooyin"
+      "fooyin (Nightly)"
     ]
   ],
   "persist": [
@@ -32,8 +34,8 @@
   ],
   "checkver": {
     "url": "https://github.com/fooyin/fooyin/actions/workflows/build.yml?query=event%3Apush+is%3Asuccess+branch%3Amaster",
-    "regex": "(?sm)/actions/runs/(?<run>\\d+)\".*?#(?<build>\\d+):",
-    "replace": "b${build}"
+    "regex": "(?sm)/actions/runs/(?<run>\\d+)\".+?#(?<build>\\d+):.+?/commit/(?<commit>[0-9a-f]{7})[0-9a-f]{33}\".+?datetime=\"(?<year>\\d{4})-(?<month>\\d{2})-(?<day>\\d{2})",
+    "replace": "b${build}-${year}${month}${day}-${commit}"
   },
   "autoupdate": {
     "architecture": {
@@ -43,10 +45,6 @@
       "arm64": {
         "url": "https://nightly.link/fooyin/fooyin/actions/runs/$matchRun/windows-portable-arm64.zip"
       }
-    },
-    "hash": {
-      "url": "https://api.github.com/repos/fooyin/fooyin/actions/runs/$matchRun/artifacts",
-      "regex": "(?sm)$basenameNoExt.*?sha256:$sha256"
     }
   }
 }

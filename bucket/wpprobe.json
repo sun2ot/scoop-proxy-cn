@@ -1,20 +1,20 @@
 {
-  "version": "0.12.9",
+  "version": "0.12.11",
   "description": "A fast WordPress plugin enumeration tool.",
   "homepage": "https://github.com/Chocapikk/wpprobe",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Chocapikk/wpprobe/releases/download/v0.12.9/wpprobe_v0.12.9_windows_amd64.exe#/wpprobe.exe",
-      "hash": "60075d8ad2b63ec02edebf498d62ff921b78f2362e3c832f7eb687eed4aaa004"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Chocapikk/wpprobe/releases/download/v0.12.11/wpprobe_v0.12.11_windows_amd64.exe#/wpprobe.exe",
+      "hash": "59a27e03968cab202d2050b8c95a677cf494add3d4c9befe897ebaa5bdcfa75e"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Chocapikk/wpprobe/releases/download/v0.12.9/wpprobe_v0.12.9_windows_386.exe#/wpprobe.exe",
-      "hash": "88a2bb596ac21451d1e4243170c18e6a46462826332d1f27115289517b711e23"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Chocapikk/wpprobe/releases/download/v0.12.11/wpprobe_v0.12.11_windows_386.exe#/wpprobe.exe",
+      "hash": "22bd96248e0b928d44cc1d9e5630aea0ba16e8592d036b1fbde7e7793e48ba89"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Chocapikk/wpprobe/releases/download/v0.12.9/wpprobe_v0.12.9_windows_arm64.exe#/wpprobe.exe",
-      "hash": "123f250629883de5777271c0a85379596ed7532892933821cc7fc0d16208fafa"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Chocapikk/wpprobe/releases/download/v0.12.11/wpprobe_v0.12.11_windows_arm64.exe#/wpprobe.exe",
+      "hash": "cfbb1a3610c29bb0c4e99920808ccada8dda0368e7ff79c42895b8b75b08b990"
     }
   },
   "bin": "wpprobe.exe",
