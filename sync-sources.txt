@@ -4425,6 +4425,7 @@ bucket/duplicati.json, ScoopInstaller/Extras, 1
 bucket/dusklight.json, hoilc/scoop-lemon, 1
 bucket/dust.json, ScoopInstaller/Main, 1
 bucket/dvc.json, ScoopInstaller/Main, 0
+bucket/dvdisaster.json, hoilc/scoop-lemon, 1
 bucket/dvm.json, amorphobia/siku, 1
 bucket/dwarf-fortress-lnp.json, Calinou/scoop-games, 0
 bucket/dwarf-fortress.json, Calinou/scoop-games, 0
@@ -4877,7 +4878,7 @@ bucket/feeluown.json, ivaquero/scoopet, 1
 bucket/feem.json, ScoopInstaller/Extras, 0
 bucket/feiq.json, dodorz/scoop, 0
 bucket/feishin.json, ScoopInstaller/Extras, 1
-bucket/feishu.json, scoopcn/scoopcn, 0
+bucket/feishu.json, akirco/aki-apps, 0
 bucket/feishu2md.json, hoilc/scoop-lemon, 1
 bucket/feishurevokemsgpatcher.json, ViCrack/scoop-bucket, 1
 bucket/feluda.json, hoilc/scoop-lemon, 1
@@ -5131,7 +5132,7 @@ bucket/fmedia.json, dodorz/scoop, 1
 bucket/fmedia16.json, ScoopInstaller/Versions, 0
 bucket/fmodel.json, Calinou/scoop-games, 1
 bucket/fnm.json, ScoopInstaller/Main, 1
-bucket/fnox.json, hoilc/scoop-lemon, 1
+bucket/fnox.json, ScoopInstaller/Main, 1
 bucket/fnproject.json, ScoopInstaller/Main, 1
 bucket/fnr.json, ScoopInstaller/Extras, 0
 bucket/focus-editor.json, ScoopInstaller/Extras, 1
@@ -5907,6 +5908,7 @@ bucket/grafanactl.json, hoilc/scoop-lemon, 1
 bucket/grafbase-cli.json, hoilc/scoop-lemon, 1
 bucket/grails.json, ScoopInstaller/Main, 1
 bucket/grain.json, ScoopInstaller/Extras, 1
+bucket/gram.json, ScoopInstaller/Extras, 0
 bucket/grammarly-np.json, ScoopInstaller/Nonportable, 0
 bucket/gramps.json, ScoopInstaller/Extras, 1
 bucket/granted.json, ScoopInstaller/Main, 1
@@ -6594,7 +6596,7 @@ bucket/jabref.json, ScoopInstaller/Extras, 1
 bucket/jackett.json, ScoopInstaller/Extras, 1
 bucket/jadx.json, ScoopInstaller/Extras, 1
 bucket/jaeger-v1.json, hoilc/scoop-lemon, 0
-bucket/jaeger.json, hoilc/scoop-lemon, 0
+bucket/jaeger.json, ScoopInstaller/Main, 1
 bucket/jaguar.json, hoilc/scoop-lemon, 1
 bucket/jameica.json, ScoopInstaller/Extras, 0
 bucket/jami.json, ScoopInstaller/Extras, 0
@@ -7538,6 +7540,7 @@ bucket/loadmedia.json, rasa/scoops, 0
 bucket/loadorder.json, niheaven/scoop-sysinternals, 1
 bucket/lobster.json, ScoopInstaller/Main, 1
 bucket/local-browser.json, ScoopInstaller/Extras, 1
+bucket/local-mini-drama.json, ivaquero/scoopet, 1
 bucket/local-wp.json, naderi/scoop-bucket, 0
 bucket/locale-emulator.json, ScoopInstaller/Extras, 1
 bucket/locale-remulator.json, ScoopInstaller/Extras, 1
@@ -7947,7 +7950,7 @@ bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
 bucket/mftecmd.json, hoilc/scoop-lemon, 1
 bucket/mftexplorer.json, hoilc/scoop-lemon, 1
-bucket/mgba-dev.json, Calinou/scoop-games, 0
+bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mglahk.json, hoilc/scoop-lemon, 0
 bucket/mgtv.json, DoveBoy/Apps, 0
@@ -8231,6 +8234,7 @@ bucket/monaspaceradon.json, KnotUntied/scoop-fonts, 0
 bucket/monaspacexenon.json, KnotUntied/scoop-fonts, 0
 bucket/monero-cli.json, ScoopInstaller/Main, 0
 bucket/monero.json, ScoopInstaller/Extras, 0
+bucket/money-printer-turbo.json, ivaquero/scoopet, 1
 bucket/moneymanagerex.json, ScoopInstaller/Extras, 1
 bucket/mongodb-atlas-cli.json, ScoopInstaller/Main, 0
 bucket/mongodb-compass-isolated.json, hoilc/scoop-lemon, 0
@@ -10075,7 +10079,7 @@ bucket/pnggauntlet.json, hoilc/scoop-lemon, 0
 bucket/pngoptimizer.json, hoilc/scoop-lemon, 0
 bucket/pngout.json, hoilc/scoop-lemon, 0
 bucket/pngquant.json, ScoopInstaller/Main, 0
-bucket/pngyu.json, ScoopInstaller/Extras, 0
+bucket/pngyu.json, ScoopInstaller/Extras, 1
 bucket/pnpm-tab-completion.json, DoveBoy/Apps, 0
 bucket/pnpm.json, ScoopInstaller/Main, 1
 bucket/pocket-id.json, amorphobia/siku, 1
@@ -12551,6 +12555,7 @@ bucket/thunderbird-beta-fa.json, naderi/scoop-bucket, 0
 bucket/thunderbird-beta-zh-cn.json, chawyehsu/dorado, 0
 bucket/thunderbird-beta.json, naderi/scoop-bucket, 0
 bucket/thunderbird-de.json, naderi/scoop-bucket, 0
+bucket/thunderbird-esr-zh-cn.json, aoisummer/scoop-bucket, 0
 bucket/thunderbird-esr.json, ScoopInstaller/Extras, 0
 bucket/thunderbird-fa.json, naderi/scoop-bucket, 0
 bucket/thunderbird-zh-cn.json, chawyehsu/dorado, 0
@@ -12806,6 +12811,7 @@ bucket/ttplayer.json, chawyehsu/dorado, 0
 bucket/tts-voice-wizard.json, ScoopInstaller/Extras, 1
 bucket/tts-vue-next.json, ivaquero/scoopet, 1
 bucket/tts-vue.json, hoilc/scoop-lemon, 1
+bucket/ttskill.json, ygguorun/scoop-bucket, 0
 bucket/ttt.json, dodorz/scoop, 1
 bucket/tty7.json, hoilc/scoop-lemon, 1
 bucket/ttyd.json, ScoopInstaller/Main, 1
@@ -13951,7 +13957,7 @@ bucket/xdvdfs.json, hoilc/scoop-lemon, 1
 bucket/xebra.json, Calinou/scoop-games, 0
 bucket/xelfviewer.json, hoilc/scoop-lemon, 1
 bucket/xelitan-pdf-reader.json, hoilc/scoop-lemon, 0
-bucket/xemu-dev.json, Calinou/scoop-games, 1
+bucket/xemu-dev.json, borger/scoop-emulators, 1
 bucket/xemu.json, Calinou/scoop-games, 1
 bucket/xenia-canary.json, Calinou/scoop-games, 1
 bucket/xenia-edge.json, Calinou/scoop-games, 1
@@ -14672,6 +14678,8 @@ scripts/vim/install-context.reg, ScoopInstaller/Main, 0
 scripts/vim/uninstall-context.reg, ScoopInstaller/Main, 0
 scripts/visual-studio-code/vscode-install-context.reg, naderi/scoop-bucket, 0
 scripts/visual-studio-code/vscode-uninstall-context.reg, naderi/scoop-bucket, 0
+scripts/vlc-cn/install-associations.reg, ivaquero/scoopet, 0
+scripts/vlc-cn/uninstall-associations.reg, ivaquero/scoopet, 0
 scripts/vscode/install-associations.reg, ScoopInstaller/Extras, 0
 scripts/vscode/install-context-it.reg, starise/Scoop-Confetti, 0
 scripts/vscode/install-context.reg, ScoopInstaller/Extras, 0

@@ -12,7 +12,22 @@
       "hash": "bb1f318bf007a7b1602e61f940d8a3a04811d8d34092ad5ffaa83f8ea0b9071f"
     }
   },
-  "extract_dir": "PFiles64\\Keyguard",
+  "extract_dir": "Keyguard",
+  "installer": {
+    "script": [
+      "# handle runtime cache",
+      "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
+      "Mount-ExternalRuntimeData -Source \"$persist_dir\\appdata\" -Target \"$env:LOCALAPPDATA\\ArtemChepurnyi\"",
+      "Remove-Module -Name AppsUtils"
+    ]
+  },
+  "uninstaller": {
+    "script": [
+      "Import-Module $(Join-Path $(Find-BucketDirectory -Root -Name apps) scripts/AppsUtils.psm1)",
+      "Dismount-ExternalRuntimeData -Target \"$env:LOCALAPPDATA\\ArtemChepurnyi\"",
+      "Remove-Module -Name AppsUtils"
+    ]
+  },
   "bin": "Keyguard.exe",
   "shortcuts": [
     [
