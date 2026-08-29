@@ -1,20 +1,30 @@
 {
   "version": "2.6.0",
-  "description": "Python-free Rust inference server �� OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary.",
+  "description": "Lightweight 5MB Ollama alternative with native SafeTensors support.",
   "homepage": "https://github.com/Michael-A-Kuykendall/shimmy",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Michael-A-Kuykendall/shimmy/releases/download/v2.6.0/shimmy-windows-x86_64.exe#/shimmy.exe",
-      "hash": "88220ca70bc2ad67b367743c17ea3eeab0d38b2ae83e63e0d7be09146d9ef250"
+      "url": "https://ghproxy.085404.xyz/https://github.com/cargo-bins/cargo-quickinstall/releases/download/shimmy-2.6.0/shimmy-2.6.0-x86_64-pc-windows-msvc.tar.gz",
+      "hash": "9ba0c82bc87b375c92079832bd33a8f2fae2a88473ac1d3a3d667c6f474ec861"
+    },
+    "arm64": {
+      "url": "https://ghproxy.085404.xyz/https://github.com/cargo-bins/cargo-quickinstall/releases/download/shimmy-2.6.0/shimmy-2.6.0-aarch64-pc-windows-msvc.tar.gz",
+      "hash": "74c8b2bd2327580f80241f4cd3eb2a7928e18458a694d1fad3a8efdac0a636a0"
     }
   },
   "bin": "shimmy.exe",
-  "checkver": "github",
+  "checkver": {
+    "url": "https://crates.io/api/v1/crates/shimmy?include=default_version",
+    "jsonpath": "$.crate.default_version"
+  },
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/Michael-A-Kuykendall/shimmy/releases/download/v$version/shimmy-windows-x86_64.exe#/shimmy.exe"
+        "url": "https://ghproxy.085404.xyz/https://github.com/cargo-bins/cargo-quickinstall/releases/download/shimmy-$version/shimmy-$version-x86_64-pc-windows-msvc.tar.gz"
+      },
+      "arm64": {
+        "url": "https://ghproxy.085404.xyz/https://github.com/cargo-bins/cargo-quickinstall/releases/download/shimmy-$version/shimmy-$version-aarch64-pc-windows-msvc.tar.gz"
       }
     }
   }
