@@ -1,0 +1,21 @@
+{
+  "version": "1.4.7",
+  "description": "An Active Directory security-assessment toolkit in Rust with PingCastle-class audit and authorized red-team validation.",
+  "homepage": "https://github.com/icedracon/adhammer",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://ghproxy.085404.xyz/https://github.com/icedracon/adhammer/releases/download/v1.4.7/adhammer-x86_64-pc-windows-msvc.exe#/adhammer.exe",
+      "hash": "9ce3535b7adc815916856af74e9a169251a963e3bce5a2618d52ca8e2973fdda"
+    }
+  },
+  "bin": "adhammer.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://ghproxy.085404.xyz/https://github.com/icedracon/adhammer/releases/download/v$version/adhammer-x86_64-pc-windows-msvc.exe#/adhammer.exe"
+      }
+    }
+  }
+}
