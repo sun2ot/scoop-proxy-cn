@@ -1,17 +1,17 @@
 {
-  "version": "0.9.10",
+  "version": "0.9.12",
   "description": "A native keyboard-driven mouse control tool.",
   "homepage": "https://dccif.github.io/KeySteer/",
   "license": "GPL-3.0-or-later",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/dccif/KeySteer/releases/download/v0.9.10/KeySteer-v0.9.10-x86_64-pc-windows-msvc.zip",
-      "hash": "af67ca81540f59b9c62b943833f05a6a2c08018cd6f35ca24f9bb13e445d771c",
+      "url": "https://ghproxy.085404.xyz/https://github.com/dccif/KeySteer/releases/download/v0.9.12/KeySteer-v0.9.12-x86_64-pc-windows-msvc.zip",
+      "hash": "8fd21551afc38ad5c85ef9f9733e4b723cedf9366573569624f51f6d5e4a2724",
       "extract_dir": "KeySteer"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/dccif/KeySteer/releases/download/v0.9.10/KeySteer-v0.9.10-aarch64-pc-windows-msvc.zip",
-      "hash": "b96d27e9e4440dbac2ae099e101660231c96bfdbca4f2f05449fd14bdec69e61",
+      "url": "https://ghproxy.085404.xyz/https://github.com/dccif/KeySteer/releases/download/v0.9.12/KeySteer-v0.9.12-aarch64-pc-windows-msvc.zip",
+      "hash": "27b213c2a644f3c4e69c0c3f39de68b1977fdf47c6252673661bf652be300e3c",
       "extract_dir": "KeySteer"
     }
   },

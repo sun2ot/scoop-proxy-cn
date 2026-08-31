@@ -2399,7 +2399,7 @@ bucket/arthas.json, ScoopInstaller/Main, 1
 bucket/artichoke.json, hoilc/scoop-lemon, 1
 bucket/artroom-stable-diffusion.json, brian6932/dank-scoop, 1
 bucket/arturo-nightly.json, amorphobia/siku, 1
-bucket/arturo.json, dodorz/scoop, 1
+bucket/arturo.json, amorphobia/siku, 1
 bucket/artweaver-free.json, hoilc/scoop-lemon, 0
 bucket/as-ssd.json, ScoopInstaller/Extras, 0
 bucket/asar7z.json, ScoopInstaller/Extras, 0
@@ -2667,7 +2667,6 @@ bucket/bbin.json, littleli/scoop-clojure, 1
 bucket/bbk-cli.json, ScoopInstaller/Main, 0
 bucket/bc.json, ScoopInstaller/Main, 0
 bucket/bcd.json, brian6932/dank-scoop, 0
-bucket/bcdown.json, amorphobia/siku, 1
 bucket/bcdstore.json, brian6932/dank-scoop, 0
 bucket/bcm.json, hoilc/scoop-lemon, 0
 bucket/bctextencoder.json, hoilc/scoop-lemon, 0
@@ -4179,7 +4178,7 @@ bucket/dllexportviewer.json, kodybrown/scoop-nirsoft, 0
 bucket/dlm.json, aliesbelik/poldi, 1
 bucket/dlsite-manager.json, hoilc/scoop-lemon, 1
 bucket/dlss-swapper.json, Calinou/scoop-games, 1
-bucket/dlss-updater.json, hoilc/scoop-lemon, 1
+bucket/dlss-updater.json, Calinou/scoop-games, 1
 bucket/dm2.json, naderi/scoop-bucket, 1
 bucket/dmd.json, ScoopInstaller/Main, 0
 bucket/dmde.json, ScoopInstaller/Extras, 0
@@ -4379,7 +4378,7 @@ bucket/druk.json, ScoopInstaller/Main, 1
 bucket/dry.json, aliesbelik/poldi, 1
 bucket/ds4windows-circumspector-pre.json, ScoopInstaller/Versions, 1
 bucket/ds4windows.json, ScoopInstaller/Extras, 1
-bucket/dsc.json, hoilc/scoop-lemon, 1
+bucket/dsc.json, ScoopInstaller/Main, 1
 bucket/dsda-doom.json, Calinou/scoop-games, 1
 bucket/dshidmini-np.json, ScoopInstaller/Nonportable, 1
 bucket/dskwipe.json, rasa/scoops, 1
@@ -4503,7 +4502,7 @@ bucket/ecspresso.json, hoilc/scoop-lemon, 1
 bucket/ect.json, ScoopInstaller/Main, 1
 bucket/ecwolf.json, Calinou/scoop-games, 0
 bucket/ed-market-connector.json, mo-san/scoop-bucket, 1
-bucket/eden-nightly.json, Calinou/scoop-games, 0
+bucket/eden-nightly.json, borger/scoop-emulators, 0
 bucket/eden.json, Calinou/scoop-games, 0
 bucket/edex-ui.json, ScoopInstaller/Extras, 1
 bucket/edge-TTS-record.json, dodorz/scoop, 0
@@ -4750,7 +4749,7 @@ bucket/exiftool-pl.json, brian6932/dank-scoop, 0
 bucket/exiftool.json, ScoopInstaller/Main, 0
 bucket/exiftoolgui.json, hoilc/scoop-lemon, 0
 bucket/exiled-exchange-2.json, Calinou/scoop-games, 1
-bucket/exiv2.json, naderi/scoop-bucket, 0
+bucket/exiv2.json, dodorz/scoop, 0
 bucket/experienceindexok.json, hoilc/scoop-lemon, 0
 bucket/experimental-clash.json, DoveBoy/Apps, 1
 bucket/expert-lsp.json, hoilc/scoop-lemon, 1
@@ -5287,7 +5286,7 @@ bucket/froststrap.json, Calinou/scoop-games, 1
 bucket/frostwire.json, ScoopInstaller/Extras, 0
 bucket/frp.json, ScoopInstaller/Main, 1
 bucket/frpc-desktop.json, akirco/aki-apps, 1
-bucket/frpmgr.json, hoilc/scoop-lemon, 1
+bucket/frpmgr.json, chawyehsu/dorado, 1
 bucket/fs-uae.json, hoilc/scoop-lemon, 1
 bucket/fscan.json, hoilc/scoop-lemon, 1
 bucket/fscapture.json, ScoopInstaller/Extras, 0
@@ -9398,7 +9397,7 @@ bucket/pcem.json, ScoopInstaller/Extras, 0
 bucket/pcgen-nightly.json, hoilc/scoop-lemon, 1
 bucket/pci-z.json, ScoopInstaller/Extras, 0
 bucket/pciutils.json, ScoopInstaller/Main, 0
-bucket/pcl2-ce.json, amorphobia/siku, 1
+bucket/pcl-ce.json, amorphobia/siku, 1
 bucket/pcmeter.json, ScoopInstaller/Extras, 0
 bucket/pcre2grep.json, ScoopInstaller/Main, 0
 bucket/pcregrep.json, ScoopInstaller/Main, 0
@@ -9958,6 +9957,8 @@ bucket/picard-portable.json, naderi/scoop-bucket, 0
 bucket/picard.json, ScoopInstaller/Extras, 0
 bucket/picgo.json, ScoopInstaller/Extras, 1
 bucket/pickle-prick-ink.json, hoilc/scoop-lemon, 1
+bucket/picktv-portable.json, DoveBoy/Apps, 1
+bucket/picktv.json, DoveBoy/Apps, 1
 bucket/piclist.json, hoilc/scoop-lemon, 0
 bucket/pico.json, mo-san/scoop-bucket, 0
 bucket/picoclaw.json, hoilc/scoop-lemon, 1
@@ -10100,7 +10101,7 @@ bucket/poedit-oss-unofficial.json, jingyu9575/scoop-jingyu9575, 1
 bucket/poedit.json, ScoopInstaller/Extras, 0
 bucket/poetry.json, ScoopInstaller/Main, 0
 bucket/poi-np.json, Darkatse/Scoop-KanColle, 1
-bucket/poi.json, Darkatse/Scoop-KanColle, 1
+bucket/poi.json, aoisummer/scoop-bucket, 1
 bucket/pointerstick.json, hoilc/scoop-lemon, 0
 bucket/pointofix-lang.json, SayCV/scoop-cvp, 0
 bucket/pointofix.json, hoilc/scoop-lemon, 0
@@ -10195,7 +10196,7 @@ bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqcscan.json, hoilc/scoop-lemon, 1
 bucket/pqrs.json, hoilc/scoop-lemon, 1
@@ -10305,7 +10306,7 @@ bucket/proxybridge.json, ScoopInstaller/Extras, 1
 bucket/proxychains.json, ScoopInstaller/Main, 1
 bucket/proxyfor.json, hoilc/scoop-lemon, 1
 bucket/proxypin.json, ScoopInstaller/Extras, 1
-bucket/proxytunnel.json, hoilc/scoop-lemon, 1
+bucket/proxytunnel.json, ScoopInstaller/Main, 1
 bucket/prqlc.json, ScoopInstaller/Main, 1
 bucket/prs.json, ScoopInstaller/Main, 1
 bucket/prtscr.json, hu3rror/scoop-muggle, 0
@@ -10872,6 +10873,7 @@ bucket/replibyte.json, ScoopInstaller/Main, 1
 bucket/reqable.json, ScoopInstaller/Extras, 1
 bucket/reqstress.json, ViCrack/scoop-bucket, 1
 bucket/rerun-cli.json, hoilc/scoop-lemon, 1
+bucket/res-downloader-pre.json, DoveBoy/Apps, 1
 bucket/res-downloader.json, DoveBoy/Apps, 1
 bucket/res-set.json, rasa/scoops, 1
 bucket/resamplescope.json, hoilc/scoop-lemon, 0
@@ -11020,7 +11022,7 @@ bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
 bucket/roxctl.json, hoilc/scoop-lemon, 0
 bucket/royalts.json, hoilc/scoop-lemon, 0
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rpg-cli.json, hoilc/scoop-lemon, 1
 bucket/rpgmakerdecrypter.json, hoilc/scoop-lemon, 1
 bucket/rpk.json, hoilc/scoop-lemon, 1
@@ -11571,7 +11573,7 @@ bucket/sidebar-diagnostics.json, ScoopInstaller/Extras, 1
 bucket/sidekick-browser.json, ScoopInstaller/Extras, 0
 bucket/sidekick.json, hoilc/scoop-lemon, 1
 bucket/sideslide.json, hoilc/scoop-lemon, 0
-bucket/sift.json, ScoopInstaller/Main, 0
+bucket/sift.json, ScoopInstaller/Main, 1
 bucket/sig.json, ScoopInstaller/Main, 1
 bucket/sigcheck.json, niheaven/scoop-sysinternals, 1
 bucket/sigi.json, hoilc/scoop-lemon, 1
@@ -11626,7 +11628,7 @@ bucket/simsu.json, hoilc/scoop-lemon, 0
 bucket/simulationcraft.json, Calinou/scoop-games, 0
 bucket/simulide.json, hoilc/scoop-lemon, 0
 bucket/simutrans.json, Calinou/scoop-games, 0
-bucket/sing-box-beta.json, hoilc/scoop-lemon, 1
+bucket/sing-box-beta.json, DoveBoy/Apps, 1
 bucket/sing-box-pre.json, hu3rror/scoop-muggle, 1
 bucket/sing-box.json, ScoopInstaller/Main, 1
 bucket/sing-geoip-rule-set.json, hoilc/scoop-lemon, 1
@@ -11658,6 +11660,7 @@ bucket/skiff.json, DoveBoy/Apps, 1
 bucket/skim.json, ScoopInstaller/Main, 1
 bucket/skm.json, MCOfficer/scoop-bucket, 1
 bucket/skupper-cli.json, hoilc/scoop-lemon, 1
+bucket/sky-tv.json, DoveBoy/Apps, 1
 bucket/skyemu.json, Calinou/scoop-games, 1
 bucket/skylark.json, ScoopInstaller/Extras, 1
 bucket/skype-portapps.json, Velgus/Scoop-Portapps, 1
@@ -13035,7 +13038,7 @@ bucket/upscaler.json, akirco/aki-apps, 1
 bucket/upscayl.json, ScoopInstaller/Extras, 1
 bucket/upsource.json, ScoopInstaller/Extras, 0
 bucket/upsun-cli.json, hoilc/scoop-lemon, 1
-bucket/upterm.json, ViCrack/scoop-bucket, 1
+bucket/upterm.json, hoilc/scoop-lemon, 1
 bucket/uptoc.json, hoilc/scoop-lemon, 1
 bucket/upx.json, ScoopInstaller/Main, 1
 bucket/urbanist-variable.json, KnotUntied/scoop-fonts, 0
@@ -14644,6 +14647,7 @@ scripts/sunloginclient/install-eval.reg.templ, SayCV/scoop-cvp, 0
 scripts/sunloginclient/uninstall-eval.reg, SayCV/scoop-cvp, 0
 scripts/suwayomi-server/suwayomi.ps1, ScoopInstaller/Extras, 0
 scripts/svut/svutrun.cmd, SayCV/scoop-cvp, 0
+scripts/sync-schema.ps1, hu3rror/scoop-muggle, 1
 scripts/synopsys-vcs201712-wsl/.synopsys-vcs201712.bashrc, SayCV/scoop-cvp, 0
 scripts/synopsys-vcs201712-wsl/install.cmd, SayCV/scoop-cvp, 0
 scripts/synopsys-vcs201712-wsl/patch-bashrc.cmd, SayCV/scoop-cvp, 0
