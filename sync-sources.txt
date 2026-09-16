@@ -210,6 +210,7 @@ bucket/AxGlyph.json, ygguorun/scoop-bucket, 0
 bucket/AxMath.json, ygguorun/scoop-bucket, 0
 bucket/B23Downloader.json, dodorz/scoop, 1
 bucket/BASIC256.json, dodorz/scoop, 0
+bucket/BaGeShuo.json, dodorz/scoop, 0
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/BaiduCDP.json, dodorz/scoop, 1
 bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
@@ -3359,7 +3360,7 @@ bucket/clash-dashboard.json, everyx/scoop-bucket, 1
 bucket/clash-for-windows.json, amorphobia/siku, 0
 bucket/clash-mi.json, ivaquero/scoopet, 1
 bucket/clash-mini.json, DoveBoy/Apps, 1
-bucket/clash-nyanpasu-nightly.json, hoilc/scoop-lemon, 1
+bucket/clash-nyanpasu-nightly.json, hu3rror/scoop-muggle, 1
 bucket/clash-nyanpasu-portable.json, DoveBoy/Apps, 1
 bucket/clash-nyanpasu.json, ScoopInstaller/Extras, 1
 bucket/clash-party-portable.json, DoveBoy/Apps, 1
@@ -4430,7 +4431,7 @@ bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
 bucket/duckling.json, hoilc/scoop-lemon, 1
 bucket/duckscript.json, hoilc/scoop-lemon, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -8008,7 +8009,7 @@ bucket/metrogit.json, ScoopInstaller/Extras, 1
 bucket/mfgtools.json, ScoopInstaller/Main, 1
 bucket/mftecmd.json, hoilc/scoop-lemon, 1
 bucket/mftexplorer.json, hoilc/scoop-lemon, 1
-bucket/mgba-dev.json, hermanjustnu/scoop-emulators, 0
+bucket/mgba-dev.json, Calinou/scoop-games, 0
 bucket/mgba.json, Calinou/scoop-games, 1
 bucket/mglahk.json, hoilc/scoop-lemon, 0
 bucket/mgtv.json, DoveBoy/Apps, 0
@@ -8142,6 +8143,7 @@ bucket/minder.json, hoilc/scoop-lemon, 1
 bucket/mindforger.json, ScoopInstaller/Extras, 1
 bucket/mindustry-server.json, Calinou/scoop-games, 1
 bucket/mindustry.json, Calinou/scoop-games, 1
+bucket/mindwtr.json, ScoopInstaller/Extras, 1
 bucket/mine-imator.json, chawyehsu/dorado, 0
 bucket/minecraft.json, Calinou/scoop-games, 0
 bucket/mineru.json, hoilc/scoop-lemon, 0
@@ -8765,6 +8767,7 @@ bucket/nircmd.json, ScoopInstaller/Main, 0
 bucket/nirext.json, ScoopInstaller/Nirsoft, 0
 bucket/nirlauncher.json, ScoopInstaller/Extras, 0
 bucket/nitroshare.json, hoilc/scoop-lemon, 0
+bucket/niubash.json, dodorz/scoop, 1
 bucket/nixpacks.json, ScoopInstaller/Main, 1
 bucket/nk2edit.json, ScoopInstaller/Nirsoft, 0
 bucket/nk2view.json, ScoopInstaller/Nirsoft, 0
@@ -12967,6 +12970,7 @@ bucket/txedu.json, hoilc/scoop-lemon, 0
 bucket/txikijs.json, ScoopInstaller/Main, 1
 bucket/txr.json, hoilc/scoop-lemon, 0
 bucket/txsso.json, SayCV/scoop-cvp, 0
+bucket/txt.json, dodorz/scoop, 1
 bucket/ty.json, ScoopInstaller/Main, 1
 bucket/tylax.json, hoilc/scoop-lemon, 1
 bucket/typedb-studio.json, hoilc/scoop-lemon, 0
@@ -13388,6 +13392,7 @@ bucket/vmutils.json, hoilc/scoop-lemon, 1
 bucket/vmware-autounlocker.json, naderi/scoop-bucket, 1
 bucket/vmware-horizon-client-np.json, TheRandomLabs/scoop-nonportable, 0
 bucket/vmware-workstation-player-np.json, ScoopInstaller/Nonportable, 0
+bucket/vmware-workstation-pro.json, ivaquero/scoopet, 1
 bucket/vmware-ws-pro.json, SayCV/scoop-cvp, 0
 bucket/vncpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/vncviewer.json, ScoopInstaller/Extras, 0
@@ -13837,7 +13842,7 @@ bucket/winscp-full.json, jingyu9575/scoop-jingyu9575, 0
 bucket/winscp.json, ScoopInstaller/Extras, 0
 bucket/winscppwd.json, ygguorun/scoop-bucket, 1
 bucket/winscript-portable.json, DoveBoy/Apps, 1
-bucket/winscript.json, DoveBoy/Apps, 1
+bucket/winscript.json, naderi/scoop-bucket, 1
 bucket/winsetupfromusb.json, ScoopInstaller/Extras, 0
 bucket/winsetview.json, naderi/scoop-bucket, 1
 bucket/winshell.json, naderi/scoop-bucket, 0
@@ -14283,7 +14288,7 @@ bucket/ytsage.json, DoveBoy/Apps, 1
 bucket/ytsub.json, hoilc/scoop-lemon, 1
 bucket/ytsubconverter.json, ScoopInstaller/Extras, 1
 bucket/ytt.json, ScoopInstaller/Main, 1
-bucket/yuanbao.json, dodorz/scoop, 0
+bucket/yuanbao.json, akirco/aki-apps, 1
 bucket/yubico-piv-tool.json, ScoopInstaller/Main, 0
 bucket/yubikey-manager-cli.json, ScoopInstaller/Main, 1
 bucket/yubikey-manager-qt.json, ScoopInstaller/Extras, 0
