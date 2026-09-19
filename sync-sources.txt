@@ -2223,7 +2223,7 @@ bucket/andika-compact.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/andika-new-basic.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/andika.json, matthewjberger/scoop-nerd-fonts, 0
 bucket/android-backup-extractor.json, hoilc/scoop-lemon, 1
-bucket/android-cli.json, hoilc/scoop-lemon, 0
+bucket/android-cli.json, ScoopInstaller/Main, 0
 bucket/android-clt.json, ScoopInstaller/Main, 0
 bucket/android-dex.json, DoveBoy/Apps, 1
 bucket/android-line-transfer.json, ScoopInstaller/Extras, 0
@@ -3364,7 +3364,7 @@ bucket/clash-dashboard.json, everyx/scoop-bucket, 1
 bucket/clash-for-windows.json, amorphobia/siku, 0
 bucket/clash-mi.json, ivaquero/scoopet, 1
 bucket/clash-mini.json, DoveBoy/Apps, 1
-bucket/clash-nyanpasu-nightly.json, hu3rror/scoop-muggle, 1
+bucket/clash-nyanpasu-nightly.json, hoilc/scoop-lemon, 1
 bucket/clash-nyanpasu-portable.json, DoveBoy/Apps, 1
 bucket/clash-nyanpasu.json, ScoopInstaller/Extras, 1
 bucket/clash-party-portable.json, DoveBoy/Apps, 1
@@ -7715,8 +7715,8 @@ bucket/luyten.json, TheCjw/scoop-retools, 1
 bucket/lwc.json, ScoopInstaller/Main, 1
 bucket/lwp.json, ScoopInstaller/Extras, 1
 bucket/lx-music-desktop-win7.json, DoveBoy/Apps, 1
-bucket/lx-music-desktop.json, wzv5/ScoopBucket, 1
-bucket/lx-music.json, ivaquero/scoopet, 1
+bucket/lx-music-desktop.json, ygguorun/scoop-bucket, 1
+bucket/lx-music.json, ZvonimirSun/scoop-iszy, 1
 bucket/lxc.json, ScoopInstaller/Main, 0
 bucket/lxi-tools.json, hoilc/scoop-lemon, 1
 bucket/lxmusic.json, chawyehsu/dorado, 1
@@ -7728,7 +7728,7 @@ bucket/lynx283.json, ScoopInstaller/Versions, 1
 bucket/lyricify.json, hoilc/scoop-lemon, 1
 bucket/lyricsmaster.json, jfut/scoop-jfut, 1
 bucket/lyx-cn.json, ivaquero/scoopet, 0
-bucket/lyx.json, dodorz/scoop, 0
+bucket/lyx.json, chawyehsu/dorado, 0
 bucket/lz4.json, ScoopInstaller/Main, 1
 bucket/lzdoom.json, Calinou/scoop-games, 1
 bucket/lzip.json, ScoopInstaller/Main, 0
@@ -10278,7 +10278,7 @@ bucket/ppee.json, hoilc/scoop-lemon, 0
 bucket/ppftpd.json, hoilc/scoop-lemon, 0
 bucket/pping.json, wzv5/ScoopBucket, 1
 bucket/ppink.json, ScoopInstaller/Extras, 1
-bucket/ppsspp-dev.json, borger/scoop-emulators, 0
+bucket/ppsspp-dev.json, Calinou/scoop-games, 0
 bucket/ppsspp.json, Calinou/scoop-games, 0
 bucket/pqcscan.json, hoilc/scoop-lemon, 1
 bucket/pqrs.json, hoilc/scoop-lemon, 1
@@ -11690,6 +11690,7 @@ bucket/similarimagefinder.json, naderi/scoop-bucket, 0
 bucket/simple-assembly-explorer.json, ScoopInstaller/Extras, 1
 bucket/simple-dnscrypt.json, ScoopInstaller/Extras, 1
 bucket/simple-firefox-backup.json, hoilc/scoop-lemon, 0
+bucket/simple-fts.json, iquiw/scoop-bucket, 1
 bucket/simple-http-server.json, ScoopInstaller/Main, 1
 bucket/simple-image-compare.json, brian6932/dank-scoop, 1
 bucket/simple-live-app.json, hoilc/scoop-lemon, 1
@@ -13309,6 +13310,7 @@ bucket/vice-gtk3-snapshot.json, hermanjustnu/scoop-emulators, 1
 bucket/vice-gtk3.json, hermanjustnu/scoop-emulators, 0
 bucket/vice-sdl2-snapshot.json, hermanjustnu/scoop-emulators, 1
 bucket/vice-sdl2.json, hermanjustnu/scoop-emulators, 0
+bucket/vicinae.json, ScoopInstaller/Extras, 1
 bucket/victoria-logs.json, hoilc/scoop-lemon, 1
 bucket/victoria-metrics-cluster.json, hoilc/scoop-lemon, 1
 bucket/victoria-metrics.json, hoilc/scoop-lemon, 1
@@ -14301,7 +14303,7 @@ bucket/ytsage.json, DoveBoy/Apps, 1
 bucket/ytsub.json, hoilc/scoop-lemon, 1
 bucket/ytsubconverter.json, ScoopInstaller/Extras, 1
 bucket/ytt.json, ScoopInstaller/Main, 1
-bucket/yuanbao.json, dodorz/scoop, 0
+bucket/yuanbao.json, akirco/aki-apps, 1
 bucket/yubico-piv-tool.json, ScoopInstaller/Main, 0
 bucket/yubikey-manager-cli.json, ScoopInstaller/Main, 1
 bucket/yubikey-manager-qt.json, ScoopInstaller/Extras, 0
