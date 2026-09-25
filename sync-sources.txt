@@ -2181,7 +2181,7 @@ bucket/alloy.json, hoilc/scoop-lemon, 1
 bucket/alloydb-auth-proxy.json, hoilc/scoop-lemon, 0
 bucket/allthreadsview.json, ScoopInstaller/Nirsoft, 0
 bucket/allure.json, ScoopInstaller/Main, 1
-bucket/alma.json, chawyehsu/dorado, 1
+bucket/alma.json, dodorz/scoop, 1
 bucket/alpaca.json, hoilc/scoop-lemon, 1
 bucket/alphagomoku.json, hoilc/scoop-lemon, 1
 bucket/alpinewsl.json, ScoopInstaller/Extras, 1
@@ -3373,7 +3373,7 @@ bucket/clash-dashboard.json, everyx/scoop-bucket, 1
 bucket/clash-for-windows.json, amorphobia/siku, 0
 bucket/clash-mi.json, ivaquero/scoopet, 1
 bucket/clash-mini.json, DoveBoy/Apps, 1
-bucket/clash-nyanpasu-nightly.json, hu3rror/scoop-muggle, 1
+bucket/clash-nyanpasu-nightly.json, hoilc/scoop-lemon, 1
 bucket/clash-nyanpasu-portable.json, DoveBoy/Apps, 1
 bucket/clash-nyanpasu.json, ScoopInstaller/Extras, 1
 bucket/clash-party-portable.json, DoveBoy/Apps, 1
@@ -3535,7 +3535,7 @@ bucket/codanna.json, hoilc/scoop-lemon, 1
 bucket/code-minimap.json, ScoopInstaller/Extras, 1
 bucket/code-radio-cli.json, hoilc/scoop-lemon, 1
 bucket/code2prompt.json, hoilc/scoop-lemon, 1
-bucket/codebase-memory-mcp.json, hoilc/scoop-lemon, 1
+bucket/codebase-memory-mcp.json, ScoopInstaller/Main, 1
 bucket/codeberg-cli.json, hoilc/scoop-lemon, 1
 bucket/codeblocks-mingw.json, ScoopInstaller/Extras, 0
 bucket/codeblocks-portable.json, naderi/scoop-bucket, 0
@@ -4446,7 +4446,7 @@ bucket/duckdb.json, ScoopInstaller/Main, 1
 bucket/duckdns.json, ScoopInstaller/Extras, 1
 bucket/duckling.json, hoilc/scoop-lemon, 1
 bucket/duckscript.json, hoilc/scoop-lemon, 1
-bucket/duckstation-preview.json, borger/scoop-emulators, 1
+bucket/duckstation-preview.json, Calinou/scoop-games, 1
 bucket/duckstation.json, Calinou/scoop-games, 1
 bucket/dudesuite.json, ViCrack/scoop-bucket, 1
 bucket/duelyst.json, Calinou/scoop-games, 1
@@ -4733,7 +4733,7 @@ bucket/ethr.json, ScoopInstaller/Main, 1
 bucket/etl2pcapng.json, ScoopInstaller/Main, 1
 bucket/etlas.json, ScoopInstaller/Extras, 0
 bucket/etterna.json, Calinou/scoop-games, 1
-bucket/eudic.json, ivaquero/scoopet, 0
+bucket/eudic.json, naderi/scoop-bucket, 0
 bucket/euler.json, ScoopInstaller/Extras, 0
 bucket/eva-agent.json, hoilc/scoop-lemon, 1
 bucket/eva.json, ScoopInstaller/Main, 1
@@ -5935,6 +5935,7 @@ bucket/graalvm-oracle-21jdk.json, ScoopInstaller/Java, 0
 bucket/graalvm-oracle-22jdk.json, ScoopInstaller/Java, 0
 bucket/graalvm-oracle-23jdk.json, ScoopInstaller/Java, 0
 bucket/graalvm-oracle-24jdk.json, ScoopInstaller/Java, 0
+bucket/graalvm-oracle-25jdk.json, ScoopInstaller/Java, 0
 bucket/graalvm-oracle-jdk-ea.json, ScoopInstaller/Java, 1
 bucket/graalvm-oracle-jdk.json, ScoopInstaller/Java, 0
 bucket/graalvm17-jdk.json, ScoopInstaller/Java, 1
@@ -6553,7 +6554,7 @@ bucket/intellij-jbr25-sdk-jcef.json, ScoopInstaller/Java, 0
 bucket/intellij-jbr25-sdk.json, ScoopInstaller/Java, 0
 bucket/intellij-jbr25.json, ScoopInstaller/Java, 0
 bucket/intelonemono.json, KnotUntied/scoop-fonts, 1
-bucket/interactsh.json, hoilc/scoop-lemon, 1
+bucket/interactsh.json, ViCrack/scoop-bucket, 1
 bucket/interlink.json, ScoopInstaller/Extras, 0
 bucket/intermodal.json, ScoopInstaller/Main, 1
 bucket/invisiwind.json, hoilc/scoop-lemon, 1
@@ -7105,7 +7106,7 @@ bucket/komac.json, ScoopInstaller/Extras, 1
 bucket/komelia.json, aoisummer/scoop-bucket, 1
 bucket/komf.json, ScoopInstaller/Extras, 1
 bucket/komga.json, ScoopInstaller/Extras, 1
-bucket/komi-store.json, DoveBoy/Apps, 1
+bucket/komi-store.json, cc713/ownscoop, 1
 bucket/komokana.json, ScoopInstaller/Extras, 1
 bucket/komorebi-nightly.json, ScoopInstaller/Versions, 1
 bucket/komorebi-tray.json, starise/Scoop-Confetti, 1
@@ -7221,7 +7222,7 @@ bucket/kuma-cli.json, hoilc/scoop-lemon, 1
 bucket/kumono.json, hoilc/scoop-lemon, 1
 bucket/kure.json, aliesbelik/poldi, 1
 bucket/kurrentdb-lts.json, hoilc/scoop-lemon, 0
-bucket/kurrentdb.json, hoilc/scoop-lemon, 0
+bucket/kurrentdb.json, ScoopInstaller/Main, 1
 bucket/kusion.json, ScoopInstaller/Main, 1
 bucket/kusionup.json, hoilc/scoop-lemon, 1
 bucket/kustomize.json, ScoopInstaller/Main, 1
@@ -7643,6 +7644,7 @@ bucket/logitech-gaming-software-np.json, ScoopInstaller/Nonportable, 0
 bucket/logitech-omm.json, ScoopInstaller/Extras, 0
 bucket/logonsessions.json, niheaven/scoop-sysinternals, 1
 bucket/logseq-nightly.json, ScoopInstaller/Versions, 1
+bucket/logseq-og.json, ScoopInstaller/Extras, 1
 bucket/logseq.json, ScoopInstaller/Extras, 1
 bucket/logstalgia.json, ScoopInstaller/Extras, 1
 bucket/logstash.json, ScoopInstaller/Extras, 0
@@ -8233,6 +8235,7 @@ bucket/minutes-desktop.json, hoilc/scoop-lemon, 1
 bucket/minutor.json, Calinou/scoop-games, 1
 bucket/mirc-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/miro-pdf.json, ScoopInstaller/Extras, 1
+bucket/mirthsync.json, ScoopInstaller/Extras, 1
 bucket/miru-portable.json, DoveBoy/Apps, 1
 bucket/miru.json, beerpiss/scoop-bucket, 1
 bucket/misaka-translator.json, seumsc/scoop-seu, 1
@@ -8445,7 +8448,7 @@ bucket/mq-lsp.json, cderv/r-bucket, 1
 bucket/mq-mcp.json, cderv/r-bucket, 1
 bucket/mq-tui.json, cderv/r-bucket, 1
 bucket/mq-view.json, cderv/r-bucket, 1
-bucket/mq.json, hoilc/scoop-lemon, 1
+bucket/mq.json, cderv/r-bucket, 1
 bucket/mqcr.json, cderv/r-bucket, 1
 bucket/mql.json, hoilc/scoop-lemon, 1
 bucket/mqtt-cli.json, ScoopInstaller/Extras, 1
@@ -9219,6 +9222,7 @@ bucket/openjdk23.json, ScoopInstaller/Java, 0
 bucket/openjdk24.json, ScoopInstaller/Java, 0
 bucket/openjdk25.json, ScoopInstaller/Java, 0
 bucket/openjdk26.json, ScoopInstaller/Java, 0
+bucket/openjdk27.json, ScoopInstaller/Java, 0
 bucket/openjdk7-unofficial.json, ScoopInstaller/Java, 0
 bucket/openjdk8-redhat-jre.json, ScoopInstaller/Java, 1
 bucket/openjdk8-redhat.json, ScoopInstaller/Java, 1
@@ -10718,7 +10722,6 @@ bucket/quicreach-nightly.json, hoilc/scoop-lemon, 0
 bucket/quien.json, ScoopInstaller/Main, 1
 bucket/quincy.json, hoilc/scoop-lemon, 1
 bucket/quiterss.json, ScoopInstaller/Extras, 0
-bucket/qunwen.json, ivaquero/scoopet, 0
 bucket/quodlibet.json, ScoopInstaller/Extras, 1
 bucket/qutebrowser.json, ScoopInstaller/Extras, 1
 bucket/qv.json, aliesbelik/poldi, 1
@@ -11138,7 +11141,7 @@ bucket/routerpassview.json, ScoopInstaller/Nirsoft, 0
 bucket/rovr.json, aliesbelik/poldi, 1
 bucket/roxctl.json, hoilc/scoop-lemon, 0
 bucket/royalts.json, hoilc/scoop-lemon, 0
-bucket/rpcs3.json, Calinou/scoop-games, 1
+bucket/rpcs3.json, borger/scoop-emulators, 1
 bucket/rpg-cli.json, hoilc/scoop-lemon, 1
 bucket/rpgmakerdecrypter.json, hoilc/scoop-lemon, 1
 bucket/rpk.json, hoilc/scoop-lemon, 1
