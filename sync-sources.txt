@@ -1250,7 +1250,7 @@ bucket/PingFangTC.json, ygguorun/scoop-bucket, 0
 bucket/Pinokio-Portable.json, ACooper81/scoop-apps, 1
 bucket/PixBuilder.json, zhoujin7/tomato, 0
 bucket/Pixel-Code.json, matthewjberger/scoop-nerd-fonts, 1
-bucket/Pixeval.json, cc713/ownscoop, 1
+bucket/Pixeval.json, DoveBoy/Apps, 1
 bucket/Playnite-Portable.json, ACooper81/scoop-apps, 1
 bucket/PlexForWindows-Portable.json, ACooper81/scoop-apps, 0
 bucket/PlexMediaPlayer-Portable.json, ACooper81/scoop-apps, 0
@@ -1303,6 +1303,7 @@ bucket/PyBingWallpaper.json, dodorz/scoop, 1
 bucket/PyCmd.json, dodorz/scoop, 1
 bucket/PyDebloatX-Portable.json, ACooper81/scoop-apps, 1
 bucket/PyGPT.json, dodorz/scoop, 0
+bucket/PyMacroRecord.json, cc713/ownscoop, 1
 bucket/PyScripter.json, dodorz/scoop, 0
 bucket/Python-embed.json, dodorz/scoop, 0
 bucket/PythonStudio.json, dodorz/scoop, 0
@@ -2394,7 +2395,7 @@ bucket/argocd.json, ScoopInstaller/Main, 1
 bucket/argyllcms.json, ScoopInstaller/Extras, 0
 bucket/aria-ng-gui.json, ScoopInstaller/Extras, 1
 bucket/aria2-134.json, ScoopInstaller/Versions, 1
-bucket/aria2-next.json, DoveBoy/Apps, 1
+bucket/aria2-next.json, hoilc/scoop-lemon, 1
 bucket/aria2.json, ScoopInstaller/Main, 1
 bucket/aria2manager.json, hoilc/scoop-lemon, 1
 bucket/ariang-native.json, ScoopInstaller/Extras, 1
@@ -2661,7 +2662,7 @@ bucket/baretail.json, ScoopInstaller/Extras, 0
 bucket/bark-server-v2.json, amorphobia/siku, 1
 bucket/bark-server-v3.json, amorphobia/siku, 1
 bucket/bark-server-v4.json, amorphobia/siku, 1
-bucket/bark-server.json, amorphobia/siku, 1
+bucket/bark-server.json, hoilc/scoop-lemon, 1
 bucket/barrier-np.json, ScoopInstaller/Nonportable, 1
 bucket/barrier.json, ScoopInstaller/Extras, 1
 bucket/bart.json, hoilc/scoop-lemon, 0
@@ -3372,7 +3373,7 @@ bucket/clash-dashboard.json, everyx/scoop-bucket, 1
 bucket/clash-for-windows.json, amorphobia/siku, 0
 bucket/clash-mi.json, ivaquero/scoopet, 1
 bucket/clash-mini.json, DoveBoy/Apps, 1
-bucket/clash-nyanpasu-nightly.json, hoilc/scoop-lemon, 1
+bucket/clash-nyanpasu-nightly.json, hu3rror/scoop-muggle, 1
 bucket/clash-nyanpasu-portable.json, DoveBoy/Apps, 1
 bucket/clash-nyanpasu.json, ScoopInstaller/Extras, 1
 bucket/clash-party-portable.json, DoveBoy/Apps, 1
@@ -4648,7 +4649,6 @@ bucket/emitter.json, ScoopInstaller/Main, 1
 bucket/emmylua_check.json, hoilc/scoop-lemon, 1
 bucket/emmylua_doc_cli.json, hoilc/scoop-lemon, 1
 bucket/emmylua_ls.json, hoilc/scoop-lemon, 1
-bucket/emplace.json, ScoopInstaller/Main, 1
 bucket/empty-recycle-bin.json, ScoopInstaller/Main, 1
 bucket/emscripten.json, ScoopInstaller/Main, 1
 bucket/emt4j.json, hoilc/scoop-lemon, 1
@@ -10513,6 +10513,7 @@ bucket/purelive.json, DoveBoy/Apps, 1
 bucket/purescript.json, ScoopInstaller/Main, 1
 bucket/purewriter.json, DoveBoy/Apps, 1
 bucket/pushbullet.json, naderi/scoop-bucket, 0
+bucket/pushin-cli.json, hoilc/scoop-lemon, 0
 bucket/puttie.json, ScoopInstaller/Extras, 1
 bucket/putty-cac.json, ScoopInstaller/Versions, 0
 bucket/putty-gdi-pfwd.json, jfut/scoop-jfut, 0
@@ -13899,7 +13900,7 @@ bucket/winscp-full.json, jingyu9575/scoop-jingyu9575, 0
 bucket/winscp.json, ScoopInstaller/Extras, 0
 bucket/winscppwd.json, ygguorun/scoop-bucket, 1
 bucket/winscript-portable.json, DoveBoy/Apps, 1
-bucket/winscript.json, naderi/scoop-bucket, 1
+bucket/winscript.json, DoveBoy/Apps, 1
 bucket/winsetupfromusb.json, ScoopInstaller/Extras, 0
 bucket/winsetview.json, naderi/scoop-bucket, 1
 bucket/winshell.json, naderi/scoop-bucket, 0
