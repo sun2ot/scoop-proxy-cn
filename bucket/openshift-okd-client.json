@@ -20,9 +20,8 @@
       "64bit": {
         "url": "https://ghproxy.085404.xyz/https://github.com/okd-project/okd/releases/download/$version/openshift-client-windows-$version.zip",
         "hash": {
-          "mode": "extract",
           "url": "https://ghproxy.085404.xyz/https://github.com/okd-project/okd/releases/download/$version/sha256sum.txt",
-          "find": "([a-fA-F0-9]{64})\\s+\\./openshift-client-windows-$version.zip"
+          "regex": "([a-fA-F0-9]{64})\\s+\\./openshift-client-windows-$version.zip"
         }
       }
     }

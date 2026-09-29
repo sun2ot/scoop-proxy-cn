@@ -1,16 +1,16 @@
 {
-  "version": "2.5.0",
+  "version": "2.6.0",
   "description": "A fast Node.js package manager.",
   "homepage": "https://aube.jdx.dev/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/jdx/aube/releases/download/v2.5.0/aube-v2.5.0-x86_64-pc-windows-msvc.zip",
-      "hash": "4d39e74cc45bf418f9cdf0bd81ac846aefc8b7045077afe8cf3226366dc091fe"
+      "url": "https://ghproxy.085404.xyz/https://github.com/jdx/aube/releases/download/v2.6.0/aube-v2.6.0-x86_64-pc-windows-msvc.zip",
+      "hash": "bf34d4e318054b56286b5fc424a8361122c4516d848f4f31c7ffb06ac469c540"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/jdx/aube/releases/download/v2.5.0/aube-v2.5.0-aarch64-pc-windows-msvc.zip",
-      "hash": "ed6d1b1d1878170f213b7880e9300b923ad6fa13920e2dc7730ab4a43accf681"
+      "url": "https://ghproxy.085404.xyz/https://github.com/jdx/aube/releases/download/v2.6.0/aube-v2.6.0-aarch64-pc-windows-msvc.zip",
+      "hash": "982d579642aa8d1e0c781d7155825694e82506688151a6af4697ab1f809bfb72"
     }
   },
   "bin": [
