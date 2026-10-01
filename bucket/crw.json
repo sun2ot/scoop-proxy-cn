@@ -1,31 +1,31 @@
 {
-  "version": "0.36.0",
+  "version": "0.37.2",
   "description": "fastCRW is a fast, lightweight Firecrawl/Tavily alternative in Rust: web scraper, crawler and search API with an MCP server for AI agents.",
   "homepage": "https://fastcrw.com",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/us/crw/releases/download/v0.36.0/crw-win32-x64.zip",
-        "https://ghproxy.085404.xyz/https://github.com/us/crw/releases/download/v0.36.0/crw-mcp-win32-x64.zip",
-        "https://ghproxy.085404.xyz/https://github.com/us/crw/releases/download/v0.36.0/crw-server-win32-x64.zip"
+        "https://ghproxy.085404.xyz/https://github.com/us/crw/releases/download/v0.37.2/crw-win32-x64.zip",
+        "https://ghproxy.085404.xyz/https://github.com/us/crw/releases/download/v0.37.2/crw-mcp-win32-x64.zip",
+        "https://ghproxy.085404.xyz/https://github.com/us/crw/releases/download/v0.37.2/crw-server-win32-x64.zip"
       ],
       "hash": [
-        "71341f0f2419a02a7887e78d0a35383f70364dc8ede27c1d86f9605658c17236",
-        "8d0c284c9b30eae4a9b6e4eaee34a7fcd16446a0b59101d543a6c1d71a28715b",
-        "f1ea614880eac7c4b51ebdb97e9b87896e5bd1191303e4aceb023c84e8557a57"
+        "8f568bcebf48d2e67ad3af2389008450f12184a0c3a68f1c86253310322f2bf7",
+        "54bd8364db432ec9be5501ff1020d6855adb1d57e202de84bced9239b09589e4",
+        "df8918a8525891f20c989fe4a6a465d6a18b9e8d8cbd555b48fc26b52860e029"
       ]
     },
     "arm64": {
       "url": [
-        "https://ghproxy.085404.xyz/https://github.com/us/crw/releases/download/v0.36.0/crw-win32-arm64.zip",
-        "https://ghproxy.085404.xyz/https://github.com/us/crw/releases/download/v0.36.0/crw-mcp-win32-arm64.zip",
-        "https://ghproxy.085404.xyz/https://github.com/us/crw/releases/download/v0.36.0/crw-server-win32-arm64.zip"
+        "https://ghproxy.085404.xyz/https://github.com/us/crw/releases/download/v0.37.2/crw-win32-arm64.zip",
+        "https://ghproxy.085404.xyz/https://github.com/us/crw/releases/download/v0.37.2/crw-mcp-win32-arm64.zip",
+        "https://ghproxy.085404.xyz/https://github.com/us/crw/releases/download/v0.37.2/crw-server-win32-arm64.zip"
       ],
       "hash": [
-        "ed71fabfb026e4c825120d286a27b9e3766fa69173f31e99355540b76b07c8d4",
-        "72de8163851311008d623be8e622188657b0dfbe87e92695e87e25830e67439c",
-        "dee7e5b48b5a88a1d0234fcf97a1f74c7eaa63d7e5e14d21d31fd31470579b3b"
+        "01107ccc81fd723f42e92bb6e0a3b7c96b59392c3079662e56bd98fdfffb21aa",
+        "159bf975ffb06389000616695e62046c6ab1a33acf831b28e8a18e6fc67c0b74",
+        "9d8c700df0643142a58f4de5992373035f9bc406e3cbbb2fe6abbddc93677003"
       ]
     }
   },
