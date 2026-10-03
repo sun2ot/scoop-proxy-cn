@@ -29,7 +29,7 @@
       }
     },
     "hash": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/mozilla-ai/cq/releases/download/cli/v$version/checksums.txt"
+      "url": "$baseurl/checksums.txt"
     }
   }
 }

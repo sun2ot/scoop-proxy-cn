@@ -14,11 +14,11 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/bitnami/sealed-secrets/releases/download/v$version/kubeseal-$version-windows-amd64.tar.gz",
-        "hash": {
-          "url": "$baseurl/sealed-secrets_$version_checksums.txt"
-        }
+        "url": "https://ghproxy.085404.xyz/https://github.com/bitnami/sealed-secrets/releases/download/v$version/kubeseal-$version-windows-amd64.tar.gz"
       }
+    },
+    "hash": {
+      "url": "$baseurl/sealed-secrets_$version_checksums.txt"
     }
   }
 }

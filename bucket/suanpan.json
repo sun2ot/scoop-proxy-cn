@@ -22,7 +22,7 @@
       }
     },
     "hash": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/TLCFEM/suanPan/releases/download/suanPan-v$version/suanPan-win-mkl-vtk.sha256"
+      "url": "$urlNoExt.sha256"
     }
   }
 }

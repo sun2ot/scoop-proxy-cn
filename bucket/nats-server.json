@@ -38,7 +38,7 @@
       }
     },
     "hash": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/nats-io/nats-server/releases/download/v$version/SHA256SUMS"
+      "url": "$baseurl/SHA256SUMS"
     }
   }
 }

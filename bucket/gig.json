@@ -33,7 +33,7 @@
       }
     },
     "hash": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/shihanng/gig/releases/download/v$version/checksums.txt"
+      "url": "$baseurl/checksums.txt"
     }
   }
 }
