@@ -3177,6 +3177,7 @@ bucket/cbxconverter.json, starise/Scoop-Confetti, 0
 bucket/cc-clean-launcher.json, brian6932/dank-scoop, 1
 bucket/cc-connect.json, ScoopInstaller/Main, 1
 bucket/cc-switch-cli.json, hoilc/scoop-lemon, 1
+bucket/cc-switch-pre.json, ScoopInstaller/Versions, 1
 bucket/cc-switch.json, ScoopInstaller/Extras, 1
 bucket/cc65.json, ScoopInstaller/Main, 0
 bucket/ccache.json, ScoopInstaller/Main, 1
@@ -3375,7 +3376,7 @@ bucket/clash-dashboard.json, everyx/scoop-bucket, 1
 bucket/clash-for-windows.json, amorphobia/siku, 0
 bucket/clash-mi.json, ivaquero/scoopet, 1
 bucket/clash-mini.json, DoveBoy/Apps, 1
-bucket/clash-nyanpasu-nightly.json, hoilc/scoop-lemon, 1
+bucket/clash-nyanpasu-nightly.json, hu3rror/scoop-muggle, 1
 bucket/clash-nyanpasu-portable.json, DoveBoy/Apps, 1
 bucket/clash-nyanpasu.json, ScoopInstaller/Extras, 1
 bucket/clash-party-portable.json, DoveBoy/Apps, 1
@@ -3396,7 +3397,7 @@ bucket/clash.net.json, Weidows-projects/scoop-3rd, 1
 bucket/clash2singbox.json, hoilc/scoop-lemon, 1
 bucket/clashcross.json, DoveBoy/Apps, 1
 bucket/clashmi-portable.json, DoveBoy/Apps, 1
-bucket/clashmi.json, hoilc/scoop-lemon, 1
+bucket/clashmi.json, DoveBoy/Apps, 1
 bucket/clashn.json, hoilc/scoop-lemon, 1
 bucket/clashrauto.json, akirco/aki-apps, 1
 bucket/clashrs.json, DoveBoy/Apps, 1
@@ -8953,7 +8954,7 @@ bucket/nullclaw.json, hoilc/scoop-lemon, 1
 bucket/numa.json, ScoopInstaller/Main, 1
 bucket/numbat.json, ScoopInstaller/Main, 1
 bucket/nuncabola.json, Calinou/scoop-games, 0
-bucket/nunit-console.json, ScoopInstaller/Main, 0
+bucket/nunit-console.json, ScoopInstaller/Main, 1
 bucket/nunit-extension-nunit-project-loader.json, ScoopInstaller/Main, 0
 bucket/nunit-extension-nunit-v2-driver.json, ScoopInstaller/Main, 0
 bucket/nunit-extension-nunit-v2-result-writer.json, ScoopInstaller/Main, 0
@@ -9635,7 +9636,7 @@ bucket/phira.json, hoilc/scoop-lemon, 1
 bucket/pho.json, dodorz/scoop, 0
 bucket/phoenix-protector.json, ScoopInstaller/Extras, 1
 bucket/photodemon.json, ScoopInstaller/Extras, 1
-bucket/photoflare.json, ScoopInstaller/Extras, 0
+bucket/photoflare.json, ScoopInstaller/Extras, 1
 bucket/php-nts-xdebug.json, ScoopInstaller/Extras, 0
 bucket/php-nts.json, ScoopInstaller/Main, 0
 bucket/php-xdebug.json, ScoopInstaller/Extras, 0
@@ -10821,6 +10822,7 @@ bucket/rancher-desktop.json, ScoopInstaller/Extras, 1
 bucket/randpass.json, starise/Scoop-Confetti, 0
 bucket/rapidcrc.json, ScoopInstaller/Extras, 0
 bucket/rapidee.json, ScoopInstaller/Extras, 0
+bucket/rapidee9.json, ScoopInstaller/Versions, 0
 bucket/rapidraw.json, hoilc/scoop-lemon, 1
 bucket/rare-regex.json, hoilc/scoop-lemon, 1
 bucket/rare.json, Calinou/scoop-games, 1
@@ -11271,6 +11273,7 @@ bucket/ruplacer.json, hoilc/scoop-lemon, 1
 bucket/ruqola-nightly.json, hoilc/scoop-lemon, 0
 bucket/ruqola.json, hoilc/scoop-lemon, 0
 bucket/rust-analyzer.json, ScoopInstaller/Main, 1
+bucket/rust-glancer.json, ScoopInstaller/Main, 1
 bucket/rust-gnu.json, ScoopInstaller/Main, 0
 bucket/rust-msvc-nightly.json, ScoopInstaller/Versions, 0
 bucket/rust-msvc.json, ScoopInstaller/Main, 0
@@ -11905,6 +11908,7 @@ bucket/snoretoast.json, ScoopInstaller/Extras, 0
 bucket/snova-asio.json, hoilc/scoop-lemon, 1
 bucket/snova-asioCLI-Portable.json, ACooper81/scoop-apps, 1
 bucket/snow-shot.json, hoilc/scoop-lemon, 0
+bucket/snowshot.json, ScoopInstaller/Extras, 1
 bucket/so-novel-beta.json, DoveBoy/Apps, 1
 bucket/so-novel.json, DoveBoy/Apps, 1
 bucket/so.json, ScoopInstaller/Extras, 1
@@ -12373,7 +12377,7 @@ bucket/symlinker.json, ScoopInstaller/Extras, 1
 bucket/symphytum.json, ScoopInstaller/Extras, 1
 bucket/sync-dis-boi.json, brian6932/dank-scoop, 1
 bucket/sync.json, niheaven/scoop-sysinternals, 1
-bucket/syncany-cli.json, ScoopInstaller/Main, 0
+bucket/syncany-cli.json, ScoopInstaller/Main, 1
 bucket/syncback.json, ScoopInstaller/Extras, 0
 bucket/syncbackpro.json, ScoopInstaller/Extras, 0
 bucket/syncclipboard-beta.json, DoveBoy/Apps, 1
@@ -13437,7 +13441,7 @@ bucket/visualboyadvance-m.json, borger/scoop-emulators, 1
 bucket/visualc.json, ScoopInstaller/Extras, 0
 bucket/visualgdb.json, SayCV/scoop-cvp, 0
 bucket/visualvm.json, ScoopInstaller/Java, 1
-bucket/vita3k.json, Calinou/scoop-games, 1
+bucket/vita3k.json, borger/scoop-emulators, 1
 bucket/vitality-wallpaper.json, hoilc/scoop-lemon, 0
 bucket/vitomu.json, ScoopInstaller/Extras, 1
 bucket/vitrite.json, ScoopInstaller/Extras, 0
@@ -14461,6 +14465,7 @@ bucket/zig-zlint.json, hoilc/scoop-lemon, 1
 bucket/zig.json, ScoopInstaller/Main, 0
 bucket/zigmod.json, hoilc/scoop-lemon, 1
 bucket/zigup.json, ScoopInstaller/Main, 1
+bucket/zim-tools.json, cc713/ownscoop, 0
 bucket/zim.json, ScoopInstaller/Extras, 0
 bucket/zincsearch.json, hoilc/scoop-lemon, 1
 bucket/zine.json, ScoopInstaller/Main, 1
