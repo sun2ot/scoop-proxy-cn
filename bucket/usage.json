@@ -1,16 +1,16 @@
 {
-  "version": "6.12.1",
+  "version": "7.0.1",
   "description": "A specification for CLIs.",
   "homepage": "https://usage.jdx.dev/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/jdx/usage/releases/download/v6.12.1/usage-x86_64-pc-windows-msvc.zip",
-      "hash": "b5f1e3faa5dea4fff179bdef2e9ac737d2d416496fb9332e0d686e9a4a7b6d2c"
+      "url": "https://ghproxy.085404.xyz/https://github.com/jdx/usage/releases/download/v7.0.1/usage-x86_64-pc-windows-msvc.zip",
+      "hash": "9518804218a48901ac82228618ca58503d7d79166e61df6c04fa8e6a07ef7666"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/jdx/usage/releases/download/v6.12.1/usage-aarch64-pc-windows-msvc.zip",
-      "hash": "98bedac7b5177483b817a52afc8d7a63a8107013f41119bf2c5d2220d436d094"
+      "url": "https://ghproxy.085404.xyz/https://github.com/jdx/usage/releases/download/v7.0.1/usage-aarch64-pc-windows-msvc.zip",
+      "hash": "b3789e6d5585dfb62af8046734d3edb962e01243d9516d169af8321aac800a6d"
     }
   },
   "bin": "usage.exe",
