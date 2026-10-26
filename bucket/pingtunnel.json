@@ -1,20 +1,20 @@
 {
-  "version": "2.10",
+  "version": "3.1",
   "description": "A tool that send TCP/UDP traffic over ICMP.",
   "homepage": "https://github.com/esrrhs/pingtunnel",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/esrrhs/pingtunnel/releases/download/2.10/pingtunnel_windows_amd64.zip",
-      "hash": "dc7e04a8cb28cd9fa2ea645e0073d0d6a21e580432ae18de334ae6ad64199ee0"
+      "url": "https://ghproxy.085404.xyz/https://github.com/esrrhs/pingtunnel/releases/download/3.1/pingtunnel_windows_amd64.zip",
+      "hash": "5ae3e4f617bae9ab349774f8e45f4a055f6e5480d113946d1bcfe7f38b4c2d0a"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/esrrhs/pingtunnel/releases/download/2.10/pingtunnel_windows_386.zip",
-      "hash": "884218e0076898f10e6374bfae25b102fb8ea87eaf6546eaf7e2e9f72d71aaa8"
+      "url": "https://ghproxy.085404.xyz/https://github.com/esrrhs/pingtunnel/releases/download/3.1/pingtunnel_windows_386.zip",
+      "hash": "5050520fffe8394a908016843c8c07cfa39520aca82f2b8393bbc4bea64c3fd1"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/esrrhs/pingtunnel/releases/download/2.10/pingtunnel_windows_arm64.zip",
-      "hash": "f49af2342769122d801709a4c940a6c51692cbd781bb33f4426233ea5fcb8cb2"
+      "url": "https://ghproxy.085404.xyz/https://github.com/esrrhs/pingtunnel/releases/download/3.1/pingtunnel_windows_arm64.zip",
+      "hash": "7fd47574a563f6af596c8ac0ecb1bd6e93b1ff4e930d87e8d2bcf2cffb93ec02"
     }
   },
   "bin": "pingtunnel.exe",
