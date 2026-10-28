@@ -1,20 +1,20 @@
 {
-  "version": "2.31.0",
+  "version": "2.33.0",
   "description": "The official command-line interface for Render cloud hosting platform",
   "homepage": "https://render.com/docs/cli",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/render-oss/cli/releases/download/v2.31.0/cli_2.31.0_windows_amd64.zip",
-      "hash": "372202426445520ba26c6ca50683dc1c6b171ff76ae9906d1f517dfd521740a0"
+      "url": "https://ghproxy.085404.xyz/https://github.com/render-oss/cli/releases/download/v2.33.0/cli_2.33.0_windows_amd64.zip",
+      "hash": "7a16d74c9f18ac9a1383d9a3a43c3c07b4374dbddb183f49a05810c130b5ca16"
     },
     "32bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/render-oss/cli/releases/download/v2.31.0/cli_2.31.0_windows_386.zip",
-      "hash": "b37e97dbf539cbfde34608fcece28043059bea0d9030f6775e83d5bc5a1593b5"
+      "url": "https://ghproxy.085404.xyz/https://github.com/render-oss/cli/releases/download/v2.33.0/cli_2.33.0_windows_386.zip",
+      "hash": "0be010a7432d45dfd6e0fd03de96e6a822fc2189acbec49fbf93fcf3ce361282"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/render-oss/cli/releases/download/v2.31.0/cli_2.31.0_windows_arm64.zip",
-      "hash": "4381a31ac1dc547b85b5e8edeb43a793441d4043dab09c8d316187dd4c9464b9"
+      "url": "https://ghproxy.085404.xyz/https://github.com/render-oss/cli/releases/download/v2.33.0/cli_2.33.0_windows_arm64.zip",
+      "hash": "857f154dda12c3eb1cc7366c65d38475a6e91af51ee59593ef98fce69f494ac7"
     }
   },
   "pre_install": "Get-ChildItem \"$dir\" 'cli?*.exe' | Select-Object -First 1 | Rename-Item -NewName 'render.exe'",
