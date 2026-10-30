@@ -1,16 +1,16 @@
 {
-  "version": "2.15.589",
+  "version": "2.15.591",
   "description": "The commandline app for Files.com.",
   "homepage": "https://developers.files.com/cli/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Files-com/files-cli/releases/download/v2.15.589/files-cli_windows_64bit.zip",
-      "hash": "15e019b85d4c85c70369f968cdea526fa253b56f86e0696b600f496b36b1f13b"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Files-com/files-cli/releases/download/v2.15.591/files-cli_windows_64bit.zip",
+      "hash": "0759a31418497388b9d7ba2517a9fda5e3e9f528c13d7d2d09ce11adbfb3cd9f"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Files-com/files-cli/releases/download/v2.15.589/files-cli_windows_arm64.zip",
-      "hash": "c1684b7fcfdfe3d2584b2e677bc8c94a38d5ef5ebf75e0223428be1379455eaf"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Files-com/files-cli/releases/download/v2.15.591/files-cli_windows_arm64.zip",
+      "hash": "88ec20aa51b920da2871f838d986d55b75326203eabe168b4fc2ea6f4095394d"
     }
   },
   "bin": "files-cli.exe",
