@@ -1,28 +1,33 @@
 {
-  "version": "3.7.0",
-  "description": "字幕文件(srt)翻译工具",
+  "version": "3.7.0+1",
+  "description": "字幕文件(srt)翻译工具，Windows专用",
   "homepage": "https://github.com/speauty/anto",
-  "license": "MIT",
-  "architecture": {
-    "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/speauty/anto/releases/download/v3.7.0/anto-v3.7.0-windows.exe#/anto.exe",
-      "hash": "d7eeaa770ee3f2998df226aaec60bd29686117ede50063831f54a660a073d963"
-    }
+  "license": {
+    "identifier": "MIT license",
+    "url": "https://github.com/speauty/anto#MIT-1-ov-file"
   },
-  "shortcuts": [
+  "url": "https://ghproxy.085404.xyz/https://github.com/speauty/anto/releases/download/V3.7.0%2B1/anto-v3.7.0+1-windows-x64.zip",
+  "hash": "1d41d148bcc36112e4a8fe35cc33c0adb8c1baa66dc2b0cc99d56963a235cf10",
+  "extract_dir": "anto-v3.7.0+1-windows-x64",
+  "bin": [
     [
-      "anto.exe",
+      "anto-ui.exe",
       "anto"
     ]
   ],
-  "pre_install": "if (!(Test-Path \"$persist_dir\\cfg.yml\")) { Set-Content -Encoding ASCII -Path \"$dir\\cfg.yml\" -Value $null }",
-  "persist": "cfg.yml",
-  "checkver": "github",
+  "shortcuts": [
+    [
+      "anto-ui.exe",
+      "anto"
+    ]
+  ],
+  "checkver": {
+    "github": "https://api.github.com/repos/speauty/anto/releases",
+    "jsonpath": "$..['tag_name', 'browser_download_url']",
+    "regex": "([\\d.]+(?:\\+\\d+)?).*?releases/download/(?<tag>[^/]+)/"
+  },
   "autoupdate": {
-    "architecture": {
-      "64bit": {
-        "url": "https://ghproxy.085404.xyz/https://github.com/speauty/anto/releases/download/v$version/anto-v$version-windows.exe#/anto.exe"
-      }
-    }
+    "url": "https://ghproxy.085404.xyz/https://github.com/speauty/anto/releases/download/$matchTag/anto-v$version-windows-x64.zip",
+    "extract_dir": "anto-v$version-windows-x64"
   }
 }
