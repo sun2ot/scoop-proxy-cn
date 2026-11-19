@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "description": "A C/C++, Objective-C and CUDA language server built on Clang.",
+  "description": "A C/C++ language server and command-line tool built on Clang",
   "homepage": "https://docs.clice.io/clice/",
   "license": "Apache-2.0",
   "architecture": {
