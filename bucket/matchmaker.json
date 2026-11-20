@@ -1,16 +1,16 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.9",
   "description": "A fast, configurable and intuitive fuzzy searcher.",
   "homepage": "https://github.com/Squirreljetpack/matchmaker",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Squirreljetpack/matchmaker/releases/download/v0.1.7/matchmaker-cli-x86_64-pc-windows-msvc.zip",
-      "hash": "0f07be9008ea655fff349b98769605f2b8e469ea7695182ccc3a930095cc02a7"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Squirreljetpack/matchmaker/releases/download/v0.1.9/matchmaker-cli-x86_64-pc-windows-msvc.zip",
+      "hash": "64a1fed3f649b083e51101cdb7f1e21b07a31f4a30000254ece54e33d8c466f2"
     },
     "arm64": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Squirreljetpack/matchmaker/releases/download/v0.1.7/matchmaker-cli-aarch64-pc-windows-msvc.zip",
-      "hash": "80f4792b77e73e6fc612bfa453c400e5520bc7c3194cba8538e444766eb4a7fe"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Squirreljetpack/matchmaker/releases/download/v0.1.9/matchmaker-cli-aarch64-pc-windows-msvc.zip",
+      "hash": "680b8de7febcdaf123806263717a523e335d1598ba75d396d832f93a02b16917"
     }
   },
   "bin": "mm.exe",
