@@ -1,12 +1,12 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "An Iwara batch downloader featuring a modern Fluent-style UI. | 图形化 Iwara 视频下载器",
   "homepage": "https://github.com/Moeary/IwaraTool",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghproxy.085404.xyz/https://github.com/Moeary/IwaraTool/releases/download/v1.2.0/IwaraTool-Windows-AMD64-v1.2.0.exe#/IwaraTool.exe",
-      "hash": "8dad7be8c939aca6db5059b464820278622438b790d52da32dd6c54f30be4dbe"
+      "url": "https://ghproxy.085404.xyz/https://github.com/Moeary/IwaraTool/releases/download/v1.2.2/IwaraTool-Windows-AMD64-v1.2.2.exe#/IwaraTool.exe",
+      "hash": "b2b13e77f65c488f73d97db62f27bfae5ea34812f72893f945f64966b257a32f"
     }
   },
   "shortcuts": [
