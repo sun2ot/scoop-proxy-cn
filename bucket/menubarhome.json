@@ -27,5 +27,5 @@
       }
     }
   },
-  "notes": "The project was renamed from MenuBarMijia to MenuBarHome. Requires Windows 11 and Microsoft Edge WebView2 Runtime. Use Scoop to update this app."
+  "notes": "The project was renamed from MenuBarMijia to MenuBarHome. Requires Windows 11 and Microsoft Edge WebView2 Runtime."
 }
